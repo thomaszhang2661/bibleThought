@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb7eb692613def8",
+        "id": "c6681f8365deb79e",
         "type": "tabs",
         "children": [
           {
-            "id": "85191f7c13f35f8f",
+            "id": "d2af21ffab1cee42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,10 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85191f7c13f35f8f",
+  "active": "d2af21ffab1cee42",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "index- generator.md",
+    "Welcome.md",
+    "index.md",
+    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "README.md",
@@ -214,7 +216,6 @@
     "教义",
     "1. 创世记/创28.md",
     "地名/伯特利.md",
-    "index.md",
     "地名",
     "2. 出埃及记"
   ]
