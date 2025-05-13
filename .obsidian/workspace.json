@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 创世记/亚伯拉罕和近东神明职责.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "亚伯拉罕和近东神明职责"
+              "title": "index"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 创世记/亚伯拉罕和近东神明职责.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 亚伯拉罕和近东神明职责"
+              "title": "Outline of index"
             }
           }
         ],
@@ -182,12 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59e7fc984273fd37",
+  "active": "cdbb2be07099097a",
   "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "1. 创世记/亚伯拉罕和近东神明职责.md",
     "Untitled 2.md",
     "index.html",
-    "1. 创世记/亚伯拉罕和近东神明职责.md",
-    "README.md",
     "1. 创世记/创17/全能神和完全人.md",
     "1. 创世记/Untitled.md",
     "1. 创世记/创17/撒拉和撒莱，改名字.md",
