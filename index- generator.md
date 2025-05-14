@@ -9,7 +9,18 @@ FROM "/"
 WHERE file.name != this.file.name
     AND file.name != "index"
     AND !contains(file.path, "_attachments")
-SORT number(split(file.folder, ". ")[0]) ASC, file.path ASC
+
+FLATTEN choice(
+    contains(file.folder, ". "), 
+    number(split(file.folder, ". ")[0]), 
+    null
+) AS folderOrder
+FLATTEN choice(
+    folderOrder != null, 
+    folderOrder, 
+    number(split(file.name, ". ")[0])
+) AS orderKey
+SORT orderKey ASC, file.path ASC
 ```
 
 ## 目录2

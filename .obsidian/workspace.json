@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "index- generator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index- generator"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "index- generator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of index- generator"
             }
           }
         ],
@@ -179,12 +179,12 @@
   },
   "active": "5f8ad78af2146301",
   "lastOpenFiles": [
+    "index.md",
     "index- generator.md",
     "0. README.md",
     "32. 约拿记.md",
     "100. 术语/异象.md",
     "Welcome.md",
-    "index.md",
     "Untitled 1.canvas",
     "100. 地名/伯特利.md",
     "19. 诗篇/诗篇2.md",
