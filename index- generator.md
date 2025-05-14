@@ -9,7 +9,7 @@ FROM "/"
 WHERE file.name != this.file.name
     AND file.name != "index"
     AND !contains(file.path, "_attachments")
-SORT file.path ASC
+SORT number(split(file.folder, ". ")[0]) ASC, file.path ASC
 ```
 
 ## 目录2
