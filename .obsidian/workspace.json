@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "43. 约翰福音/约翰福音1/人子为梯.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人子为梯"
+              "title": "index"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "43. 约翰福音/约翰福音1/人子为梯.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 人子为梯"
+              "title": "Outline of index"
             }
           }
         ],
@@ -180,8 +180,10 @@
   },
   "active": "1638a32a1f2f2adb",
   "lastOpenFiles": [
-    "1. 创世记/创28/雅各的天梯与ziggurat.md",
+    "index- generator.md",
     "43. 约翰福音/约翰福音1/人子为梯.md",
+    "1. 创世记/创28.md",
+    "1. 创世记/创28/雅各的天梯与ziggurat.md",
     "1. 创世记/创27/25-27的主题.md",
     "1. 创世记/创32/创世记三位族长的人物象征与关键事件.md",
     "1. 创世记/创32",
@@ -192,7 +194,6 @@
     "43. 约翰福音",
     "1. 创世记/创",
     "index.md",
-    "index- generator.md",
     "100. 术语/全能神和完全人.md",
     "1. 创世记/亚伯拉罕和近东神明职责.md",
     "102. 灵修",
@@ -216,7 +217,6 @@
     "101. 教义/拣选.md",
     "0. README.md",
     "1. 创世记/创26/戏玩、以撒、笑.md",
-    "1. 创世记/创26/创世记族长叙事的三重转折结构分析.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
