@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "102. 灵修/家庭习惯的力量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "家庭习惯的力量"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "102. 灵修/家庭习惯的力量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 家庭习惯的力量"
             }
           }
         ],
@@ -178,14 +178,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c3fcdcd29890d8a",
+  "active": "cdbb2be07099097a",
   "lastOpenFiles": [
-    "index- generator.md",
+    "102. 灵修/与神同行-雅各/3 and 4.md",
+    "102. 灵修/与神同行-雅各/1 and 2.md",
+    "102. 灵修/与神同行-雅各/Untitled.md",
+    "1. 创世记/创32/如何理解以色列这个名字.md",
+    "102. 灵修/与神同行-雅各",
+    "Untitled",
+    "1. 创世记/创32/创世记三位族长的人物象征与关键事件.md",
     "index.md",
+    "assets/js/script.js.md",
+    "assets/js",
+    "assets",
+    "合同.md",
+    "index- generator.md",
+    "Pasted image 20250621221159.png",
     "1..md",
     "0. README.md",
     "0..md",
-    "合同.md",
     "Welcome.md",
     "Pasted image 20250627110312.png",
     "Pasted image 20250627111705.png",
@@ -200,9 +211,7 @@
     "1. 创世记/创28.md",
     "1. 创世记/创28/雅各的天梯与ziggurat.md",
     "1. 创世记/创27/25-27的主题.md",
-    "1. 创世记/创32/创世记三位族长的人物象征与关键事件.md",
     "1. 创世记/创32",
-    "Pasted image 20250621221159.png",
     "1. 创世记/创28",
     "102. 灵修/家庭习惯的力量.md",
     "43. 约翰福音/约翰福音1",
@@ -210,18 +219,9 @@
     "1. 创世记/创",
     "100. 术语/全能神和完全人.md",
     "1. 创世记/亚伯拉罕和近东神明职责.md",
-    "102. 灵修",
     "1. 创世记/创27/以撒两个儿子的对比.md",
     "1. 创世记/创27/罗马书9保罗的引用.md",
     "1. 创世记/创27/旧约中关于肉体欲望问题.md",
-    "1. 创世记/创27/叙事中的有意模糊.md",
-    "1. 创世记/创25/旧约中关于肉体欲望问题.md",
-    "1. 创世记/创8/创8大洪水的结尾.md",
-    "1. 创世记/创27",
-    "1. 创世记/创9/创9.md",
-    "1. 创世记/创11/创11.md",
-    "1. 创世记/创11",
-    "1. 创世记/创9",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
