@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "102. 灵修/家庭习惯的力量.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "家庭习惯的力量"
+              "title": "index"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "102. 灵修/家庭习惯的力量.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 家庭习惯的力量"
+              "title": "Outline of index"
             }
           }
         ],
@@ -178,8 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdbb2be07099097a",
+  "active": "8c3fcdcd29890d8a",
   "lastOpenFiles": [
+    "index- generator.md",
+    "102. 灵修/家庭习惯的力量.md",
     "102. 灵修/与神同行-雅各/3 and 4.md",
     "102. 灵修/与神同行-雅各/1 and 2.md",
     "102. 灵修/与神同行-雅各/Untitled.md",
@@ -192,7 +194,6 @@
     "assets/js",
     "assets",
     "合同.md",
-    "index- generator.md",
     "Pasted image 20250621221159.png",
     "1..md",
     "0. README.md",
@@ -213,7 +214,6 @@
     "1. 创世记/创27/25-27的主题.md",
     "1. 创世记/创32",
     "1. 创世记/创28",
-    "102. 灵修/家庭习惯的力量.md",
     "43. 约翰福音/约翰福音1",
     "43. 约翰福音",
     "1. 创世记/创",
