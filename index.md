@@ -1,4 +1,9 @@
-
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
 章节64
 
 - [/合同](app://obsidian.md/%E5%90%88%E5%90%8C.md)
