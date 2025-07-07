@@ -1,19 +1,24 @@
 <style>
 body {
-  font-size: 18px;
+  font-size: 24px;
   font-family: "Helvetica Neue", sans-serif;
-  line-height: 1.6;
-  padding: 20px;
+  line-height: 1.8;
+  padding: 40px;
+  background-color: #f9f9f9;
+  color: #222;
 }
+
 a {
-  font-size: 16px;
-  color: #0077cc;
+  font-size: 20px;
+  color: #007acc;
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
 }
 </style>
+
 章节64
 
 - [/合同](app://obsidian.md/%E5%90%88%E5%90%8C.md)
