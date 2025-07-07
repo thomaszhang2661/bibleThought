@@ -1,6 +1,19 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
+<style>
+body {
+  font-size: 18px;
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+a {
+  font-size: 16px;
+  color: #0077cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+</style>
 <head>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
