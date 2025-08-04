@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "99. 讲道/敬虔加上知足就是最大的富足.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "敬虔加上知足就是最大的富足"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "99. 讲道/敬虔加上知足就是最大的富足.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 敬虔加上知足就是最大的富足"
             }
           }
         ],
@@ -180,9 +180,13 @@
   },
   "active": "8c3fcdcd29890d8a",
   "lastOpenFiles": [
+    "99. 讲道/一直在寻找的女人.md",
+    "1. 创世记/创34/多余的故事？底拿受辱.md",
+    "index.md",
+    "1. 创世记/创34",
+    "Untitled",
     "index- generator.md",
     "102. 阅读/危险的呼召.md",
-    "index.md",
     "99. 讲道/敬虔加上知足就是最大的富足.md",
     "102. 阅读/功绩主义的暴政.md",
     "102. 阅读/成圣基督在行动.md",
@@ -190,7 +194,6 @@
     "1. 创世记/世界起源-创1-11",
     "99. 讲道/我们为何感到空虚？——从伊甸园和巴别塔看生命的意义.md",
     "99. 讲道/从巴别塔到五旬节：两种\"通天塔\"的故事 精简版.md",
-    "99. 讲道/一直在寻找的女人.md",
     "99. 讲道/生命中的那口井：寻找内心真正的满足.md",
     "99. 讲道/我是大医生.md",
     "103. 视频脚本/从巴别塔到五旬节：两种\"通天塔\"的故事.md",
@@ -210,7 +213,6 @@
     "102. 阅读/家庭习惯的力量.md",
     "styles.css.md",
     "102. 灵修/与神同行-雅各/1 and 2.md",
-    "102. 灵修/与神同行-雅各/3 and 4.md",
     "102. 灵修/与神同行-雅各",
     "103. 视频脚本",
     "assets/js",
@@ -219,9 +221,7 @@
     "Pasted image 20250627111705.png",
     "Pasted image 20250627111436.png",
     "Pasted image 20250627110938.png",
-    "1. 创世记/创30",
     "Pasted image 20250627111648.png",
-    "1. 创世记/创32",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
