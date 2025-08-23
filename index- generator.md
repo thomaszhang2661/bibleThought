@@ -21,34 +21,3 @@ FLATTEN choice(
 ) AS orderKey
 SORT orderKey ASC, file.path ASC
 ```
-
-## 目录2
-
-
-
-
-```dataview
-TABLE WITHOUT ID
-    "- [" + file.name + "](" + file.path + ")" AS "章节"
-FROM "/"
-WHERE file.name != this.file.name
-      AND file.name != "index"
-      AND !contains(file.path, "_attachments")
-SORT file.name ASC
-```
-
-
-
-
-
-
-```dataview
-TABLE WITHOUT ID
-    "- [" + file.name + "](" + file.folder + "/" + file.name + ".md)" AS "章节"
-FROM "/"
-WHERE file.name != this.file.name
-    AND file.name != "index"
-    AND !contains(file.path, "_attachments")
-SORT file.path ASC
-
-```
