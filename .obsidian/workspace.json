@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "99. 讲道/偶像指示器：时间和金钱 英文版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "偶像指示器：时间和金钱 英文版"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "99. 讲道/偶像指示器：时间和金钱 英文版.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 偶像指示器：时间和金钱 英文版"
             }
           }
         ],
@@ -181,8 +181,8 @@
   },
   "active": "5be9f3e7b0bd4a4a",
   "lastOpenFiles": [
-    "index- generator.md",
     "index.md",
+    "index- generator.md",
     "99. 讲道/偶像指示器：时间和金钱 英文版.md",
     "99. 讲道/偶像指示器：时间和金钱.md",
     "99. 讲道/Untitled.md",
