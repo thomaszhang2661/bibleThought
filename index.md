@@ -19,7 +19,7 @@ a:hover {
 }
 </style>
 
-章节117
+章节118
 
 - [/Welcome](app://obsidian.md/Welcome.md)
 
@@ -194,6 +194,8 @@ a:hover {
 - [101. 教义/显而未见：路德对于呼召的教义](101. 教义/显而未见：路德对于呼召的教义.md)
 
 - [102. 阅读/365 Through Faith Alone/从扫罗学到什么？存谦卑的心，与你的神同行](102. 阅读/365 Through Faith Alone/从扫罗学到什么？存谦卑的心，与你的神同行.md)
+
+- [102. 阅读/365 Through Faith Alone/花时间祷告](102. 阅读/365 Through Faith Alone/花时间祷告.md)
 
 - [102. 阅读/365 Through Faith Alone/基督来为要拯救世界](102. 阅读/365 Through Faith Alone/基督来为要拯救世界.md)
 
