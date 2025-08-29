@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db6b686d4464b0f9",
+        "id": "8eac6a96683fba4e",
         "type": "tabs",
         "children": [
           {
-            "id": "5be9f3e7b0bd4a4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "231d510ca1ebf598",
+            "id": "4904d9e79f3d5ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,54 +179,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "231d510ca1ebf598",
+  "active": "4904d9e79f3d5ddd",
   "lastOpenFiles": [
     "index- generator.md",
-    "102. 阅读/365 Through Faith Alone/花时间祷告.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "images/sheep3.png",
+    "images/pigon1 1.jpeg",
+    "images/pigon2 1.jpeg",
+    "Pasted image 20250824210735.png",
+    "Pasted image 20250621221159.png",
+    "pigon2 1.jpeg",
+    "pigon1 1.jpeg",
+    "104. 写作/信仰的暗号.md",
+    "images/heart_jesus.jpeg",
+    "images/rose_luther.jpeg",
+    "images/pigon1.jpeg",
+    "32. 约拿记.md",
+    "index.md",
+    "Untitled",
+    "104. 写作/怎样祷告才能合神心意.md",
+    "105. 诗篇默想/耶和华是我的牧者，我必不至缺乏.md",
     "105. 诗篇默想/诗篇第一篇灵修默想：两条道路的选择.md",
+    "102. 阅读/365 Through Faith Alone/花时间祷告.md",
     "102. 阅读/律法与福音---华达笔记.md",
     "104. 写作/从郁金香五条看理性的牢笼.md",
     "99. 讲道/敬虔加上知足就是真正的富足--优化版.md",
     "99. 讲道/敬虔加上知足就是真正的富足.md",
     "99. 讲道/路加福音13_22-30讲道.md",
-    "index.md",
     "99. 讲道/偶像指示器：时间和金钱 英文版.md",
     "99. 讲道/偶像指示器：时间和金钱.md",
-    "105. 诗篇默想/耶和华是我的牧者，我必不至缺乏.md",
-    "Pasted image 20250621221159.png",
     "104. 写作/根本性的区别来自耶稣.md",
     "105. 诗篇默想/诗篇第一篇（第一人称）.md",
     "104. 写作/诗篇第一篇灵修默想：两条道路的选择.md",
     "105. 诗篇默想/诗篇第二篇灵修默想：万国的骚动与神的笑声.md",
     "104. 写作/无法自圆其说的上帝.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "images/tiger.jpeg",
     "104. 写作/两种读经视角：为什么我们应该专注于神的作为.md",
-    "images/reading_bible.jpeg",
     "106. 律法与福音/圣经看起来充满矛盾？其实是缺少了这把钥匙.md",
     "106. 律法与福音/律法与福音：理解圣经真理的双重维度.md",
     "102. 阅读/365 Through Faith Alone/基督来为要拯救世界.md",
-    "images/meter.jpeg",
-    "images/myprecious.jpeg",
     "images",
     "Untitled.md",
-    "Pasted image 20250824210735.png",
-    "99. 讲道/法利赛人和税吏的祷告.md",
-    "99. 讲道/像一棵树栽在溪水旁---诗篇一（第一人称版）.md",
-    "99. 讲道/你与我一同欢喜吧.md",
-    "101. 教义/显而未见：路德对于呼召的教义.md",
     "1. 创世记/创37",
     "106. 律法与福音",
     "105. 诗篇默想",
     "1. 创世记/创38",
     "1. 创世记/创",
     "102. 阅读/365 Through Faith Alone",
-    "200. 乱七八糟",
-    "Pasted image 20250627110312.png",
-    "Pasted image 20250627111705.png",
-    "Pasted image 20250627111436.png",
-    "Pasted image 20250627110938.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
