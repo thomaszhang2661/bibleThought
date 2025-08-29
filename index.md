@@ -21,8 +21,6 @@ a:hover {
 
 章节123
 
-- [/index- generator](index- generator.md)
-
 - [/Welcome](app://obsidian.md/Welcome.md)
 
 - [1. 创世记/创11/创11](1. 创世记/创11/创11.md)
@@ -196,6 +194,8 @@ a:hover {
 - [101. 教义/显而未见：路德对于呼召的教义](101. 教义/显而未见：路德对于呼召的教义.md)
 
 - [102. 阅读/365 Through Faith Alone/从扫罗学到什么？存谦卑的心，与你的神同行](102. 阅读/365 Through Faith Alone/从扫罗学到什么？存谦卑的心，与你的神同行.md)
+
+- [102. 阅读/365 Through Faith Alone/非凡的果子](102. 阅读/365 Through Faith Alone/非凡的果子.md)
 
 - [102. 阅读/365 Through Faith Alone/归向神](102. 阅读/365 Through Faith Alone/归向神.md)
 
