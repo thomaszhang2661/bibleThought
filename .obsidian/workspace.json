@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "102. 阅读/365 Through Faith Alone/归向神.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "归向神"
+              "title": "index"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "偶像",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "102. 阅读/365 Through Faith Alone/归向神.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 归向神"
+              "title": "Outline of index"
             }
           }
         ],
@@ -180,13 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44d703ee28eb9d8b",
+  "active": "4904d9e79f3d5ddd",
   "lastOpenFiles": [
-    "105. 诗篇默想/诗篇121（第一人称）.md",
+    "index- generator.md",
     "102. 阅读/365 Through Faith Alone/归向神.md",
+    "105. 诗篇默想/诗篇121（第一人称）.md",
     "104. 写作/两种安稳：从《静心赋》到诗篇23的对话.md",
     "index.md",
-    "index- generator.md",
     "Untitled 1.base",
     "Untitled.base",
     "images/sheep3.png",
