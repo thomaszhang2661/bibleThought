@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "104. 写作/简易祷告法.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简易祷告法"
+              "title": "index"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "104. 写作/简易祷告法.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 简易祷告法"
+              "title": "Outline of index"
             }
           }
         ],
@@ -181,9 +181,9 @@
   },
   "active": "4904d9e79f3d5ddd",
   "lastOpenFiles": [
-    "index.md",
-    "104. 写作/简易祷告法.md",
     "index- generator.md",
+    "104. 写作/简易祷告法.md",
+    "index.md",
     "99. 讲道/撒玛利亚妇人：她在寻找什么？.md",
     "102. 阅读/365 Through Faith Alone/非凡的果子.md",
     "102. 阅读/365 Through Faith Alone/归向神.md",
