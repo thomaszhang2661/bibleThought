@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "104. 写作/从郁金香五条看理性的牢笼（英文）.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "从郁金香五条看理性的牢笼（英文）"
+              "title": "index"
             }
           }
         ],
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "104. 写作/从郁金香五条看理性的牢笼（英文）.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 从郁金香五条看理性的牢笼（英文）"
+              "title": "Outline of index"
             }
           }
         ],
@@ -196,8 +196,9 @@
   },
   "active": "0ebd096621857e27",
   "lastOpenFiles": [
-    "104. 写作/从郁金香五条看理性的牢笼.md",
+    "index- generator.md",
     "104. 写作/从郁金香五条看理性的牢笼（英文）.md",
+    "104. 写作/从郁金香五条看理性的牢笼.md",
     "42. 路加福音/路2 耶稣12岁在盛典.md",
     "40. 马太福音/太2 博士朝拜.md",
     "42. 路加福音/路2耶稣的奉献礼.md",
@@ -217,7 +218,6 @@
     "102. 阅读/律法与福音---华达笔记.md",
     "99. 讲道/我来要把火丢在地上.md",
     "index.md",
-    "index- generator.md",
     "images/fire-on-earth.jpeg",
     "32. 约拿记.md",
     "104. 写作/简易祷告法.md",
