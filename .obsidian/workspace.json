@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "102. 阅读/一瘸一拐的旅程——与神同行.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一瘸一拐的旅程——与神同行"
+              "title": "index"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "102. 阅读/一瘸一拐的旅程——与神同行.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 一瘸一拐的旅程——与神同行"
+              "title": "Outline of index"
             }
           }
         ],
@@ -179,13 +179,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4904d9e79f3d5ddd",
+  "active": "cdbb2be07099097a",
   "lastOpenFiles": [
-    "index.md",
     "index- generator.md",
-    "Untitled 1.base",
-    "Untitled.base",
+    "关于Charlie Kirk.md",
+    "43. 约翰福音/约翰福音4/井边的撒马利亚妇人.md",
     "102. 阅读/一瘸一拐的旅程——与神同行.md",
+    "43. 约翰福音/约翰福音4/Untitled",
+    "43. 约翰福音/约翰福音4",
+    "99. 讲道/路加福音15 Josh.md",
+    "Untitled.base",
+    "index.md",
+    "Untitled 1.base",
     "102. 阅读/危险的呼召.md",
     "40. 马太福音/太2 博士朝拜.md",
     "40. 马太福音/太 2 耶稣逃亡.md",
@@ -209,8 +214,6 @@
     "99. 讲道/我来要把火丢在地上.md",
     "images/fire-on-earth.jpeg",
     "32. 约拿记.md",
-    "104. 写作/简易祷告法.md",
-    "99. 讲道/撒玛利亚妇人：她在寻找什么？.md",
     "images/sheep3.png",
     "images/pigon1 1.jpeg",
     "images/pigon2 1.jpeg",
@@ -224,8 +227,6 @@
     "1. 创世记/创37",
     "106. 律法与福音",
     "105. 诗篇默想",
-    "1. 创世记/创38",
-    "1. 创世记/创",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
