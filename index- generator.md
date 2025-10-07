@@ -1,4 +1,4 @@
-# 创世记研究笔记
+
 
 ## 目录1
 ```dataview
@@ -21,3 +21,4 @@ FLATTEN choice(
 ) AS orderKey
 SORT orderKey ASC, file.path ASC
 ```
+
