@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "102. 阅读/平凡日子的礼仪.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "平凡日子的礼仪"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "102. 阅读/平凡日子的礼仪.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 平凡日子的礼仪"
             }
           }
         ],
@@ -180,9 +180,9 @@
   },
   "active": "4904d9e79f3d5ddd",
   "lastOpenFiles": [
+    "index.md",
     "index- generator.md",
     "102. 阅读/平凡日子的礼仪.md",
-    "index.md",
     "Untitled.base",
     "Pasted image 20251004230932.png",
     "2. 出埃及记/查经1.md",
