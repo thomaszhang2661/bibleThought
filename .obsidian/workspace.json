@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8eac6a96683fba4e",
+        "id": "47d92c3975cfb695",
         "type": "tabs",
         "children": [
           {
-            "id": "4904d9e79f3d5ddd",
+            "id": "92bf5c65e5f0bc31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5d96197a7d2c7292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "102. 阅读/平凡日子的礼仪.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "平凡日子的礼仪"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 368.5
   },
   "right": {
     "id": "3fd0e0e99cdcb781",
@@ -151,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "102. 阅读/平凡日子的礼仪.md",
+                "file": "images/五经_cross.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 平凡日子的礼仪"
+              "title": "Outline of 五经_cross"
             }
           }
         ],
@@ -165,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,43 +190,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4904d9e79f3d5ddd",
+  "active": "5d96197a7d2c7292",
   "lastOpenFiles": [
+    "101. 教义/当改变别人成为我们的目标：我们还在爱这个人吗？.md",
+    "101. 教义/专注于改变的危险----爱的本质是关系还是功能？.md",
     "index.md",
     "index- generator.md",
-    "102. 阅读/平凡日子的礼仪.md",
-    "Untitled.base",
-    "Pasted image 20251004230932.png",
-    "2. 出埃及记/查经1.md",
-    "99. 讲道/路加福音17_1-10 信心成就不可能的饶恕.md",
-    "2. 出埃及记/前言/大众圣经读本出埃及记前言.md",
-    "2. 出埃及记/出埃及记1/大众圣经读本出埃及记1.md",
+    "CoverLetter.md",
+    "Untitled 2.base",
+    "2. 出埃及记/出埃及记查经5.md",
+    "2. 出埃及记/出埃及记与近东神明.md",
+    "2. 出埃及记/出埃及记查经4 第五章.md",
+    "2. 出埃及记/出埃及记6/大众圣经读本出埃及记6.md",
+    "2. 出埃及记/出埃及记5/大众圣经读本出埃及记5.md",
+    "2. 出埃及记/出埃及记4/大众圣经读本出埃及记4.md",
+    "2. 出埃及记/出埃及记3/大众圣经读本出埃及记3.md",
     "2. 出埃及记/出埃及记2/大众圣经读本出埃及记2.md",
+    "2. 出埃及记/出埃及记1/大众圣经读本出埃及记1.md",
+    "2. 出埃及记/出埃及记6",
+    "2. 出埃及记/出埃及记5",
+    "2. 出埃及记/出埃及记查经3 -第三章第二次学习.md",
+    "2. 出埃及记/出埃及记查经2-问题回应.md",
+    "2. 出埃及记/出埃及记查经2.md",
+    "images/五经_cross.jpg",
+    "images/8gon2.jpeg",
+    "Pasted image 20251004230932.png",
+    "Untitled 1.base",
+    "协同书-教会总结.md",
+    "104. 写作/皮衣系列.md",
+    "99. 讲道/The Man Who Defeated God.md",
+    "2. 出埃及记/出埃及记查经1.md",
+    "99. 讲道/以色列名字的含义20251019.md",
+    "99. 讲道/以色列这个名字的含义.md",
+    "104. 写作/贯穿的象征.md",
+    "Untitled.base",
+    "1. 创世记/创32/再谈以色列的名字：摔跤、约瑟和耶稣。.md",
+    "1. 创世记/创32/如何理解以色列这个名字.md",
+    "2. 出埃及记/出埃及记4",
+    "2. 出埃及记/出埃及记3",
     "2. 出埃及记/出埃及记2",
     "2. 出埃及记/出埃及记1",
-    "2. 出埃及记/路德说洗礼是\"每日的溺死老我\"——如何理解？.md",
-    "2. 出埃及记/出埃及记与近东神明.md",
-    "99. 讲道/路加福音10_1-7--主啊，这太难了！\"——当耶稣的要求让门徒崩溃.md",
     "2. 出埃及记/前言",
-    "99. 讲道/像一棵树栽在溪水旁---诗篇一（第一人称版）.md",
-    "19. 诗篇/诗篇2.md",
-    "19. 诗篇/诗篇23.md",
-    "2. 出埃及记/查经0-简介.md",
-    "2. 出埃及记/查经0-简介_副本.md",
-    "99..md",
-    "99. 讲道/撒但被打败了！.md",
-    "102. 阅读/一瘸一拐的旅程——与神同行.md",
-    "关于Charlie Kirk.md",
-    "42. 路加福音/路2 耶稣12岁在圣殿.md",
-    "43. 约翰福音/约翰福音4/井边的撒马利亚妇人英文版.md",
-    "43. 约翰福音/约翰福音4/井边的撒马利亚妇人.md",
-    "43. 约翰福音/约翰福音4/Untitled",
-    "43. 约翰福音/约翰福音4",
-    "99. 讲道/路加福音15 Josh.md",
-    "Untitled 1.base",
-    "102. 阅读/危险的呼召.md",
-    "41. 马可福音",
-    "40. 马太福音",
     "images/fire-on-earth.jpeg",
     "images/sheep3.png",
     "images/pigon1 1.jpeg",
@@ -222,9 +238,6 @@
     "Pasted image 20250824210735.png",
     "Pasted image 20250621221159.png",
     "pigon2 1.jpeg",
-    "pigon1 1.jpeg",
-    "images/heart_jesus.jpeg",
-    "images",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
