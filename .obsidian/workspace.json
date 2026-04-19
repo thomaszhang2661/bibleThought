@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0d9ebd5301eff0ab",
+        "id": "7d37e7492bbd428c",
         "type": "tabs",
         "children": [
           {
-            "id": "7677d516702aee55",
+            "id": "04a850d69c3f02d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "8. 路德记/特殊的护理---赦免和恩典的供应.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251004230932.png"
               },
-              "icon": "lucide-file",
-              "title": "特殊的护理---赦免和恩典的供应"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251004230932"
             }
           }
         ]
@@ -183,10 +181,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7677d516702aee55",
+  "active": "04a850d69c3f02d3",
   "lastOpenFiles": [
-    "8. 路德记/贪婪vs 安息在神的供应之下.md",
+    "index.md",
+    "index- generator.md",
+    "generate_index.py",
+    "Pasted image 20251004230932.png",
     "8. 路德记/特殊的护理---赦免和恩典的供应.md",
+    "8. 路德记/贪婪vs 安息在神的供应之下.md",
     "8. 路德记/路德记与护理神学.md",
     "8. 路德记/查经框架AI生成.md",
     "8. 路德记/神爱世人护理神学---上的的看顾保守.md",
