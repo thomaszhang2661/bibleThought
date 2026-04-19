@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "0612c1da7ea3f996",
+    "id": "4b1637b3cefa0e9a",
     "type": "split",
     "children": [
       {
-        "id": "47d92c3975cfb695",
+        "id": "0d9ebd5301eff0ab",
         "type": "tabs",
         "children": [
           {
-            "id": "92bf5c65e5f0bc31",
+            "id": "7677d516702aee55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "8. 路德记/查经框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "查经框架"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a89ecbd658efc81",
+    "id": "b838b33a31377a43",
     "type": "split",
     "children": [
       {
-        "id": "3f0fa64c50a3fcb5",
+        "id": "78bfbf82614819c8",
         "type": "tabs",
         "children": [
           {
-            "id": "cdbb2be07099097a",
+            "id": "b75c0c066c18aed1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
-            "id": "44d703ee28eb9d8b",
+            "id": "82db25f6ab04b82a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,50 +61,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
-            "id": "711d6af63ec7df2d",
+            "id": "6678e22265ad2436",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "66998a3cd747f3e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 300
   },
   "right": {
-    "id": "3fd0e0e99cdcb781",
+    "id": "0b1d00ccf4bbe534",
     "type": "split",
     "children": [
       {
-        "id": "1548e996c5af2921",
+        "id": "a1de40ba12bf6848",
         "type": "tabs",
         "children": [
           {
-            "id": "eac498fabba32c18",
+            "id": "691d8e414f7f0f24",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genesis/创14.md",
+                "file": "101. 教义/专注于改变的危险----爱的本质是关系还是功能？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 创14"
+              "title": "专注于改变的危险----爱的本质是关系还是功能？ 的反向链接列表"
             }
           },
           {
-            "id": "8a533a5ac7cc826c",
+            "id": "4f8f72664d2275e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "101. 教义/专注于改变的危险----爱的本质是关系还是功能？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "专注于改变的危险----爱的本质是关系还是功能？ 的出链列表"
             }
           },
           {
-            "id": "f302b47636961859",
+            "id": "b8e72341d51bdac8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,93 +133,76 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
-            "id": "62b039346c0aa99d",
+            "id": "e9d0644afe1438d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "013c1ac9894b376a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/五经_cross.jpg",
+                "file": "101. 教义/专注于改变的危险----爱的本质是关系还是功能？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 五经_cross"
+              "title": "专注于改变的危险----爱的本质是关系还是功能？ 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "92bf5c65e5f0bc31",
+  "active": "7677d516702aee55",
   "lastOpenFiles": [
+    "8. 路德记/灵恩派解经方式.md",
+    "8. 路德记/灵恩派解经方式.mdd",
+    "8. 路德记/历史文法解经法.md",
+    "8. 路德记/历史文法解经法",
+    "8. 路德记/Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt.md",
+    "8. 路德记/查经框架.md",
+    "8. 路德记/路德对拿俄米的诺言.md",
+    "8. 路德记/禾场上的问题.md",
+    "8. 路德记/波阿斯的名字.md",
+    "8. 路德记/作者和成书时间.md",
+    "8. 路德记/救赎的预表.md",
+    "8. 路德记/护理神学.md",
+    "8. 路德记/The Word become flesh.md",
+    "8. 路德记/第一个redeemer的算盘.md",
     "101. 教义/当改变成为我们的目标：我们还在爱这个人吗？.md",
-    "2..md",
-    "index.md",
+    "8. 路德记",
+    "101. 教义/关于祭祖.md",
     "101. 教义/专注于改变的危险----爱的本质是关系还是功能？.md",
-    "index- generator.md",
-    "CoverLetter.md",
-    "Untitled 2.base",
-    "2. 出埃及记/出埃及记查经5.md",
-    "2. 出埃及记/出埃及记与近东神明.md",
-    "2. 出埃及记/出埃及记查经4 第五章.md",
-    "2. 出埃及记/出埃及记6/大众圣经读本出埃及记6.md",
-    "2. 出埃及记/出埃及记5/大众圣经读本出埃及记5.md",
-    "2. 出埃及记/出埃及记4/大众圣经读本出埃及记4.md",
-    "2. 出埃及记/出埃及记3/大众圣经读本出埃及记3.md",
-    "2. 出埃及记/出埃及记2/大众圣经读本出埃及记2.md",
-    "2. 出埃及记/出埃及记1/大众圣经读本出埃及记1.md",
-    "2. 出埃及记/出埃及记6",
-    "2. 出埃及记/出埃及记5",
-    "2. 出埃及记/出埃及记查经3 -第三章第二次学习.md",
-    "2. 出埃及记/出埃及记查经2-问题回应.md",
-    "2. 出埃及记/出埃及记查经2.md",
-    "images/五经_cross.jpg",
-    "images/8gon2.jpeg",
-    "Pasted image 20251004230932.png",
-    "Untitled 1.base",
-    "协同书-教会总结.md",
-    "104. 写作/皮衣系列.md",
-    "99. 讲道/The Man Who Defeated God.md",
-    "2. 出埃及记/出埃及记查经1.md",
-    "99. 讲道/以色列名字的含义20251019.md",
-    "99. 讲道/以色列这个名字的含义.md",
-    "104. 写作/贯穿的象征.md",
-    "Untitled.base",
-    "1. 创世记/创32/再谈以色列的名字：摔跤、约瑟和耶稣。.md",
-    "2. 出埃及记/出埃及记4",
-    "2. 出埃及记/出埃及记3",
-    "2. 出埃及记/出埃及记2",
-    "2. 出埃及记/出埃及记1",
-    "2. 出埃及记/前言",
-    "images/fire-on-earth.jpeg",
-    "images/sheep3.png",
-    "images/pigon1 1.jpeg",
-    "images/pigon2 1.jpeg",
-    "Pasted image 20250824210735.png",
-    "Pasted image 20250621221159.png",
-    "pigon2 1.jpeg",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "101. 教义/十诫 第九、第十 贪恋、贪婪、渴望、缺乏、想要.md"
   ]
 }
