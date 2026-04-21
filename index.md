@@ -17,7 +17,7 @@ a {
 }
 a:hover { text-decoration: underline; }
 </style>
-共 190 篇文章
+共 191 篇文章
 
 - [Welcome](Welcome.md)
 - [关于Charlie Kirk](关于Charlie Kirk.md)
@@ -287,6 +287,7 @@ a:hover { text-decoration: underline; }
 
 - [“说教”是一个严重的问题吗？](101. 教义/信心和行为的关系/“说教”是一个严重的问题吗？.md)
 - [专注于改变的危险----爱的本质是关系还是功能？](101. 教义/信心和行为的关系/专注于改变的危险----爱的本质是关系还是功能？.md)
+- [律法主义是什么？有什么危害？](101. 教义/信心和行为的关系/律法主义是什么？有什么危害？.md)
 
 ### 拣选
 
