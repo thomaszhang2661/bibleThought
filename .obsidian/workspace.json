@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101. 教义/教会和事工/Claude 总结：教会事工学习笔记.md",
+                "file": "101. 教义/教会和事工/论基督徒会众或教会有权评判一切教义并有权呼召、任命及罢免教师——以圣经为据.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude 总结：教会事工学习笔记"
+              "title": "论基督徒会众或教会有权评判一切教义并有权呼召、任命及罢免教师——以圣经为据"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 414.5
   },
   "right": {
     "id": "0b1d00ccf4bbe534",
@@ -185,8 +185,10 @@
   },
   "active": "04a850d69c3f02d3",
   "lastOpenFiles": [
-    "101. 教义/教会和事工/神爱世人二十六章 教会圣工.md",
+    "101. 教义/教会和事工/协同书-教会总结.md",
+    "101. 教义/教会和事工/论基督徒会众或教会有权评判一切教义并有权呼召、任命及罢免教师——以圣经为据.md",
     "101. 教义/教会和事工/Claude 总结：教会事工学习笔记.md",
+    "101. 教义/教会和事工/神爱世人二十六章 教会圣工.md",
     "101. 教义/教会和事工/梅兰希顿《论教皇权与首位》（1537年）.md",
     "101. 教义/拣选/协同式十一.md",
     "101. 教义/教会和事工/WELS 我们所信 教会与事工.md",
@@ -215,9 +217,7 @@
     "8. 路德记/Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt.md",
     "Pasted image 20251004230932.png",
     "index.md",
-    "index- generator.md",
     "generate_index.py",
-    "8. 路德记/贪婪vs 安息在神的供应之下.md",
     "8. 路德记/神爱世人护理神学---上的的看顾保守",
     "8. 路德记/灵恩派解经方式.mdd",
     "8. 路德记/历史文法解经法",
