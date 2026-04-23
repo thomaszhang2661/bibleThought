@@ -17,7 +17,7 @@ a {
 }
 a:hover { text-decoration: underline; }
 </style>
-共 214 篇文章
+共 217 篇文章
 
 - [Welcome](Welcome.md)
 - [关于Charlie Kirk](关于Charlie Kirk.md)
@@ -196,6 +196,7 @@ a:hover { text-decoration: underline; }
 - [Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt](8. 路德记/Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt.md)
 - [The Word become flesh](8. 路德记/The Word become flesh.md)
 - [hesed 大能者对不配得之人所立的、必然付诸行动的忠信之爱](8. 路德记/hesed 大能者对不配得之人所立的、必然付诸行动的忠信之爱.md)
+- [旧约中与 hesed 相关的重要经文](8. 路德记/旧约中与 hesed 相关的重要经文.md)
 - [波阿斯的名字](8. 路德记/波阿斯的名字.md)
 - [禾场上的疑问](8. 路德记/禾场上的疑问.md)
 - [第一个redeemer的算盘](8. 路德记/第一个redeemer的算盘.md)
@@ -204,6 +205,7 @@ a:hover { text-decoration: underline; }
 - [贪婪vs 安息在神的供应之下](8. 路德记/贪婪vs 安息在神的供应之下.md)
 - [路得记4章11-12 的婚姻祝福](8. 路德记/路得记4章11-12 的婚姻祝福.md)
 - [路德对拿俄米的诺言](8. 路德记/路德对拿俄米的诺言.md)
+- [路德记的主题](8. 路德记/路德记的主题.md)
 
 ## 19. 诗篇
 
@@ -296,6 +298,7 @@ a:hover { text-decoration: underline; }
 - [3. 专注于改变的危险----爱的本质是关系还是功能？](101. 教义/信心和行为的关系/3. 专注于改变的危险----爱的本质是关系还是功能？.md)
 - [4. 当我放弃改造妻子之后](101. 教义/信心和行为的关系/4. 当我放弃改造妻子之后.md)
 - [5. 警惕爱的涮蓝](101. 教义/信心和行为的关系/5. 警惕爱的涮蓝.md)
+- [推荐参考书](101. 教义/信心和行为的关系/推荐参考书.md)
 
 ### 拣选
 
