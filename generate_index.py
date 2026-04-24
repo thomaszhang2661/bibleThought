@@ -19,7 +19,8 @@ body {
   color: #222;
 }
 h2 { margin-top: 2em; color: #333; }
-h3 { margin-top: 1em; color: #555; }
+h3 { margin-top: 1em; margin-left: 2em; color: #555; font-size: 1em; }
+h3 + ul { margin-left: 2em; }
 a {
   font-size: 18px;
   color: #007acc;
