@@ -18,7 +18,7 @@ a {
 }
 a:hover { text-decoration: underline; }
 </style>
-共 229 篇文章
+共 228 篇文章
 
 ## 1. 创世记
 
@@ -194,7 +194,6 @@ a:hover { text-decoration: underline; }
 - [Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt](8. 路德记/Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt.md)
 - [The Word become flesh](8. 路德记/The Word become flesh.md)
 - [hesed 大能者对不配得之人所立的、必然付诸行动的忠信之爱](8. 路德记/hesed 大能者对不配得之人所立的、必然付诸行动的忠信之爱.md)
-- [旧约中与 hesed 相关的重要经文](8. 路德记/旧约中与 hesed 相关的重要经文.md)
 - [波阿斯的名字](8. 路德记/波阿斯的名字.md)
 - [禾场上的疑问](8. 路德记/禾场上的疑问.md)
 - [第一个redeemer的算盘](8. 路德记/第一个redeemer的算盘.md)
@@ -325,7 +324,6 @@ a:hover { text-decoration: underline; }
 - [协同书-教会总结](101. 教义/教会和事工/协同书-教会总结.md)
 - [奥斯堡信条5、7、8、14、28](101. 教义/教会和事工/奥斯堡信条5、7、8、14、28.md)
 - [如何处理牧师的问题](101. 教义/教会和事工/如何处理牧师的问题.md)
-- [教会和事工的资料](101. 教义/教会和事工/教会和事工的资料.md)
 - [梅兰希顿《论教皇权与首位》（1537年）](101. 教义/教会和事工/梅兰希顿《论教皇权与首位》（1537年）.md)
 - [路德文集：论基督徒会众或教会有权评判一切教义并有权呼召、任命及罢免教师——以圣经为据](101. 教义/教会和事工/路德文集：论基督徒会众或教会有权评判一切教义并有权呼召、任命及罢免教师——以圣经为据.md)
 - [问题回答：巴兰为什么是假先知，如何避免？](101. 教义/教会和事工/问题回答：巴兰为什么是假先知，如何避免？.md)
@@ -342,6 +340,7 @@ a:hover { text-decoration: underline; }
 - [3. 如何理解三位一体](101. 教义/理性的牢笼/3. 如何理解三位一体.md)
 - [4. 人得救是谁的功劳，没得救是不是神的错](101. 教义/理性的牢笼/4. 人得救是谁的功劳，没得救是不是神的错.md)
 - [5. 一次得救永远得救](101. 教义/理性的牢笼/5. 一次得救永远得救.md)
+- [After Enlightenment The Post-Secular Vision of J. G. Hamann](101. 教义/理性的牢笼/After Enlightenment The Post-Secular Vision of J. G. Hamann.md)
 
 ### 祷告
 
