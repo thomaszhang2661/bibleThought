@@ -188,7 +188,8 @@ a:hover { text-decoration: underline; }
 - [2. 特殊的护理---赦免和恩典的供应](8. 路德记/2. 特殊的护理---赦免和恩典的供应.md)
 - [3. 查经框架AI生成](8. 路德记/3. 查经框架AI生成.md)
 - [4. 路德记与护理神学](8. 路德记/4. 路德记与护理神学.md)
-- [5. 稳如老狗：神的“失败”和人的“得胜”](8. 路德记/5. 稳如老狗：神的“失败”和人的“得胜”.md)
+- [5. 路德记的主题](8. 路德记/5. 路德记的主题.md)
+- [6. 稳如老狗：神的“失败”和人的“得胜”](8. 路德记/6. 稳如老狗：神的“失败”和人的“得胜”.md)
 - [Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt](8. 路德记/Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt.md)
 - [The Word become flesh](8. 路德记/The Word become flesh.md)
 - [至近的亲属(Go'el)一套以家族为基础的社会保障体系](8. 路德记/至近的亲属(Go'el)一套以家族为基础的社会保障体系.md)
@@ -212,7 +213,6 @@ a:hover { text-decoration: underline; }
 - [路德记4章9 波阿斯是从拿俄米手里买了什么？](8. 路德记/路德记4章9 波阿斯是从拿俄米手里买了什么？.md)
 - [路德记4章第一个亲属的算盘](8. 路德记/路德记4章第一个亲属的算盘.md)
 - [路德记关键字：hesed 大能者对不配得之人所立的、必然付诸行动的忠信之爱](8. 路德记/路德记关键字：hesed 大能者对不配得之人所立的、必然付诸行动的忠信之爱.md)
-- [路德记的主题](8. 路德记/路德记的主题.md)
 
 ## 19. 诗篇
 
