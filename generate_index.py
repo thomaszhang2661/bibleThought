@@ -34,9 +34,58 @@ def num_key(name):
     match = re.match(r'^(\d+)', name)
     return (int(match.group(1)), name) if match else (9999, name)
 
+def build_lookup():
+    """Build a map from filename (without .md) to relative path from ROOT."""
+    lookup = {}
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        dirnames[:] = [d for d in dirnames if d not in EXCLUDE_DIRS and not d.startswith('.')]
+        for fname in filenames:
+            if not fname.endswith('.md') or fname in EXCLUDE_FILES:
+                continue
+            rel = os.path.relpath(os.path.join(dirpath, fname), ROOT)
+            key = fname[:-3]
+            lookup[key] = rel
+    return lookup
+
+def convert_wikilinks(lookup):
+    """Convert [[WikiLink]] to [WikiLink](relative_path) in all .md files."""
+    converted_count = 0
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        dirnames[:] = [d for d in dirnames if d not in EXCLUDE_DIRS and not d.startswith('.')]
+        for fname in filenames:
+            if not fname.endswith('.md') or fname in EXCLUDE_FILES:
+                continue
+            path = os.path.join(dirpath, fname)
+            with open(path, encoding='utf-8') as f:
+                content = f.read()
+
+            if '[[' not in content:
+                continue
+
+            file_dir = os.path.dirname(path)
+
+            def replace_link(m):
+                target = m.group(1).strip()
+                # Skip image links
+                if any(target.endswith(ext) for ext in ('.png', '.jpg', '.jpeg', '.gif', '.svg')):
+                    return target
+                if target in lookup:
+                    abs_target = os.path.join(ROOT, lookup[target])
+                    rel = os.path.relpath(abs_target, file_dir).replace(os.sep, '/')
+                    return f'[{target}]({rel})'
+                # Unresolvable: show as plain text
+                return target
+
+            new_content = re.sub(r'\[\[([^\]]+)\]\]', replace_link, content)
+            if new_content != content:
+                with open(path, 'w', encoding='utf-8') as f:
+                    f.write(new_content)
+                converted_count += 1
+
+    if converted_count:
+        print(f"转换 wiki 链接：{converted_count} 个文件已更新")
+
 def collect():
-    # tree: { top_folder: { sub_folder: [(rel_path, title)] } }
-    # root-level files go under key ("", "")
     tree = defaultdict(lambda: defaultdict(list))
 
     for dirpath, dirnames, filenames in os.walk(ROOT):
@@ -57,38 +106,36 @@ def collect():
             elif len(parts) == 2:
                 tree[parts[0]][""].append((rel_path, title))
             else:
-                # everything deeper than 2 levels: group under top/sub
                 tree[parts[0]][parts[1]].append((rel_path, title))
 
     return tree
 
 def generate():
+    lookup = build_lookup()
+    convert_wikilinks(lookup)
+
     tree = collect()
     total = sum(len(files) for top in tree.values() for files in top.values())
     lines = [CSS, f"共 {total} 篇文章\n\n"]
 
-    # Root-level files first
     for rel_path, title in tree.get("", {}).get("", []):
         url = rel_path.replace(os.sep, '/')
         lines.append(f"- [{title}]({url})\n")
     if tree.get("", {}).get("", []):
         lines.append("\n")
 
-    # Numbered top-level folders
     for top in sorted(tree.keys(), key=num_key):
         if top == "":
             continue
         lines.append(f"## {top}\n\n")
         subs = tree[top]
 
-        # Files directly in top folder (no subfolder)
         for rel_path, title in subs.get("", []):
             url = rel_path.replace(os.sep, '/')
             lines.append(f"- [{title}]({url})\n")
         if subs.get(""):
             lines.append("\n")
 
-        # Subfolders
         for sub in sorted(subs.keys(), key=num_key):
             if sub == "":
                 continue
