@@ -47,40 +47,57 @@ def build_lookup():
             lookup[key] = rel
     return lookup
 
+def get_changed_files():
+    """Use git to find only new/modified .md files since last commit."""
+    import subprocess
+    result = subprocess.run(
+        ['git', 'status', '--porcelain'],
+        cwd=ROOT, capture_output=True, text=True
+    )
+    changed = set()
+    for line in result.stdout.splitlines():
+        status, path = line[:2].strip(), line[3:].strip()
+        # Handle renamed files: "R old -> new"
+        if ' -> ' in path:
+            path = path.split(' -> ')[-1]
+        if path.endswith('.md'):
+            changed.add(os.path.join(ROOT, path))
+    return changed
+
 def convert_wikilinks(lookup):
-    """Convert [[WikiLink]] to [WikiLink](relative_path) in all .md files."""
+    """Convert [[WikiLink]] to [WikiLink](relative_path) in changed .md files only."""
+    changed_files = get_changed_files()
+    if not changed_files:
+        return
     converted_count = 0
-    for dirpath, dirnames, filenames in os.walk(ROOT):
-        dirnames[:] = [d for d in dirnames if d not in EXCLUDE_DIRS and not d.startswith('.')]
-        for fname in filenames:
-            if not fname.endswith('.md') or fname in EXCLUDE_FILES:
-                continue
-            path = os.path.join(dirpath, fname)
-            with open(path, encoding='utf-8') as f:
-                content = f.read()
+    for path in changed_files:
+        fname = os.path.basename(path)
+        if fname in EXCLUDE_FILES or not os.path.exists(path):
+            continue
 
-            if '[[' not in content:
-                continue
+        with open(path, encoding='utf-8') as f:
+            content = f.read()
 
-            file_dir = os.path.dirname(path)
+        if '[[' not in content:
+            continue
 
-            def replace_link(m):
-                target = m.group(1).strip()
-                # Skip image links
-                if any(target.endswith(ext) for ext in ('.png', '.jpg', '.jpeg', '.gif', '.svg')):
-                    return target
-                if target in lookup:
-                    abs_target = os.path.join(ROOT, lookup[target])
-                    rel = os.path.relpath(abs_target, file_dir).replace(os.sep, '/')
-                    return f'[{target}]({rel})'
-                # Unresolvable: show as plain text
+        file_dir = os.path.dirname(path)
+
+        def replace_link(m):
+            target = m.group(1).strip()
+            if any(target.endswith(ext) for ext in ('.png', '.jpg', '.jpeg', '.gif', '.svg')):
                 return target
+            if target in lookup:
+                abs_target = os.path.join(ROOT, lookup[target])
+                rel = os.path.relpath(abs_target, file_dir).replace(os.sep, '/')
+                return f'[{target}]({rel})'
+            return target
 
-            new_content = re.sub(r'\[\[([^\]]+)\]\]', replace_link, content)
-            if new_content != content:
-                with open(path, 'w', encoding='utf-8') as f:
-                    f.write(new_content)
-                converted_count += 1
+        new_content = re.sub(r'\[\[([^\]]+)\]\]', replace_link, content)
+        if new_content != content:
+            with open(path, 'w', encoding='utf-8') as f:
+                f.write(new_content)
+            converted_count += 1
 
     if converted_count:
         print(f"转换 wiki 链接：{converted_count} 个文件已更新")
