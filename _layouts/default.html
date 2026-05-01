@@ -24,6 +24,28 @@
     h3 + ul { margin-left: 2em; }
     a { color: #007acc; text-decoration: none; }
     a:hover { text-decoration: underline; }
+    .anchor-link {
+      margin-left: 8px;
+      color: #bbb;
+      font-size: 0.8em;
+      text-decoration: none;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+    h2:hover .anchor-link,
+    h3:hover .anchor-link { opacity: 1; }
+    .copy-tip {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #333;
+      color: #fff;
+      padding: 6px 16px;
+      border-radius: 4px;
+      font-size: 14px;
+      display: none;
+    }
     p { margin: 0.8em 0; }
 
     #font-bar {
@@ -63,9 +85,32 @@
     <button onclick="setFont('large')"  id="btn-large">大</button>
   </div>
 
+  <div class="copy-tip" id="copy-tip">链接已复制</div>
+
   {{ content }}
 
   <script>
+    // Anchor links for headings
+    document.querySelectorAll('h2, h3').forEach(function(h) {
+      var id = h.id;
+      if (!id) return;
+      var a = document.createElement('a');
+      a.href = '#' + id;
+      a.className = 'anchor-link';
+      a.textContent = '#';
+      a.onclick = function(e) {
+        e.preventDefault();
+        var url = location.href.split('#')[0] + '#' + id;
+        navigator.clipboard.writeText(url).then(function() {
+          var tip = document.getElementById('copy-tip');
+          tip.style.display = 'block';
+          setTimeout(function() { tip.style.display = 'none'; }, 1500);
+        });
+        history.pushState(null, '', '#' + id);
+      };
+      h.appendChild(a);
+    });
+
     function setFont(size) {
       document.body.className = 'font-' + size;
       localStorage.setItem('fontSize', size);
