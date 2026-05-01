@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title | default: "BibleThought" }}</title>
+  <style>
+    body {
+      font-size: 20px;
+      font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+      line-height: 1.8;
+      padding: 40px;
+      max-width: 900px;
+      margin: 0 auto;
+      background-color: #f9f9f9;
+      color: #222;
+    }
+    h1 { color: #222; margin-top: 1.5em; }
+    h2 { color: #333; margin-top: 2em; }
+    h3 { color: #555; margin-top: 1em; margin-left: 2em; font-size: 1em; }
+    h3 + ul { margin-left: 2em; }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover { text-decoration: underline; }
+    p { margin: 0.8em 0; }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
