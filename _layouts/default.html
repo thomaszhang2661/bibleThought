@@ -129,32 +129,41 @@
 
     // TTS
     var ttsState = 'idle';
+    var ttsText = '';
+    var ttsOffset = 0;   // absolute char position of current utterance start
+    var ttsCharIdx = 0;  // last known absolute char position (updated by boundary event)
     var speedPresets = [0.6, 0.8, 1.0, 1.2, 1.5, 1.8, 2.0];
     var speedLabels  = ['0.6×','0.8×','1×','1.2×','1.5×','1.8×','2×'];
-    var speedIndex = 2; // default 1×
+    var speedIndex = 2;
 
-    function startTTS() {
+    function startTTS(fromChar) {
       var btn = document.getElementById('btn-tts');
+      if (!ttsText) ttsText = (document.getElementById('main-content') || document.body).innerText;
+      fromChar = fromChar || 0;
+      ttsOffset = fromChar;
       window.speechSynthesis.cancel();
-      var text = (document.getElementById('main-content') || document.body).innerText;
-      var utt = new SpeechSynthesisUtterance(text);
+      var utt = new SpeechSynthesisUtterance(ttsText.slice(fromChar));
       utt.lang = 'zh-CN';
       utt.rate = speedPresets[speedIndex];
-      utt.onend = utt.onerror = function() {
+      utt.onboundary = function(e) { ttsCharIdx = ttsOffset + e.charIndex; };
+      utt.onend = function() {
+        ttsState = 'idle'; ttsText = ''; ttsCharIdx = 0;
+        btn.textContent = '朗读'; btn.classList.remove('active');
+      };
+      utt.onerror = function() {
         ttsState = 'idle';
-        btn.textContent = '朗读';
-        btn.classList.remove('active');
+        btn.textContent = '朗读'; btn.classList.remove('active');
       };
       window.speechSynthesis.speak(utt);
       ttsState = 'playing';
-      btn.textContent = '暂停';
-      btn.classList.add('active');
+      btn.textContent = '暂停'; btn.classList.add('active');
     }
 
     function toggleTTS() {
       if (!('speechSynthesis' in window)) { alert('您的浏览器不支持语音朗读'); return; }
       if (ttsState === 'idle') {
-        startTTS();
+        ttsText = ''; ttsCharIdx = 0;
+        startTTS(0);
       } else if (ttsState === 'playing') {
         window.speechSynthesis.pause();
         ttsState = 'paused';
@@ -169,7 +178,7 @@
     function adjustSpeed(dir) {
       speedIndex = Math.max(0, Math.min(speedPresets.length - 1, speedIndex + dir));
       document.getElementById('tts-speed').textContent = speedLabels[speedIndex];
-      if (ttsState !== 'idle') startTTS(); // restart with new speed
+      if (ttsState !== 'idle') startTTS(ttsCharIdx); // resume from current position
     }
 
     window.addEventListener('beforeunload', function() { window.speechSynthesis.cancel(); });
