@@ -83,11 +83,14 @@
     <button onclick="setFont('small')"  id="btn-small">小</button>
     <button onclick="setFont('medium')" id="btn-medium">中</button>
     <button onclick="setFont('large')"  id="btn-large">大</button>
+    <button onclick="toggleTTS()" id="btn-tts">朗读</button>
   </div>
 
   <div class="copy-tip" id="copy-tip">链接已复制</div>
 
+  <div id="main-content">
   {{ content }}
+  </div>
 
   <script>
     // Anchor links for headings
@@ -120,6 +123,41 @@
     }
     var saved = localStorage.getItem('fontSize') || 'medium';
     setFont(saved);
+
+    // TTS
+    var ttsState = 'idle';
+    function toggleTTS() {
+      var btn = document.getElementById('btn-tts');
+      if (!('speechSynthesis' in window)) {
+        alert('您的浏览器不支持语音朗读');
+        return;
+      }
+      if (ttsState === 'idle') {
+        window.speechSynthesis.cancel();
+        var text = (document.getElementById('main-content') || document.body).innerText;
+        var utt = new SpeechSynthesisUtterance(text);
+        utt.lang = 'zh-CN';
+        utt.rate = 1.0;
+        utt.onend = utt.onerror = function() {
+          ttsState = 'idle';
+          btn.textContent = '朗读';
+          btn.classList.remove('active');
+        };
+        window.speechSynthesis.speak(utt);
+        ttsState = 'playing';
+        btn.textContent = '暂停';
+        btn.classList.add('active');
+      } else if (ttsState === 'playing') {
+        window.speechSynthesis.pause();
+        ttsState = 'paused';
+        btn.textContent = '继续';
+      } else {
+        window.speechSynthesis.resume();
+        ttsState = 'playing';
+        btn.textContent = '暂停';
+      }
+    }
+    window.addEventListener('beforeunload', function() { window.speechSynthesis.cancel(); });
   </script>
 </body>
 </html>
