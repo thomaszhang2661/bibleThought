@@ -6,28 +6,75 @@
   <title>{{ page.title | default: site.title | default: "BibleThought" }}</title>
   <style>
     body {
-      font-size: 20px;
       font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
-      line-height: 1.8;
+      font-size: 20px;
+      line-height: 1.9;
       padding: 40px;
       max-width: 900px;
       margin: 0 auto;
       background-color: #f9f9f9;
       color: #222;
     }
+    body.font-small  { font-size: 16px; }
+    body.font-medium { font-size: 20px; }
+    body.font-large  { font-size: 26px; }
     h1 { color: #222; margin-top: 1.5em; }
     h2 { color: #333; margin-top: 2em; }
     h3 { color: #555; margin-top: 1em; margin-left: 2em; font-size: 1em; }
     h3 + ul { margin-left: 2em; }
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
+    a { color: #007acc; text-decoration: none; }
     a:hover { text-decoration: underline; }
     p { margin: 0.8em 0; }
+
+    #font-bar {
+      position: fixed;
+      top: 12px;
+      right: 16px;
+      display: flex;
+      gap: 6px;
+      z-index: 999;
+    }
+    #font-bar button {
+      border: 1px solid #ccc;
+      background: #fff;
+      border-radius: 4px;
+      cursor: pointer;
+      padding: 2px 8px;
+      color: #555;
+      line-height: 1.4;
+    }
+    #font-bar button.active {
+      background: #007acc;
+      color: #fff;
+      border-color: #007acc;
+    }
+
+    @media (max-width: 600px) {
+      body { padding: 20px 16px; }
+      body.font-medium { font-size: 22px; }
+      body.font-large  { font-size: 28px; }
+    }
   </style>
 </head>
 <body>
+  <div id="font-bar">
+    <button onclick="setFont('small')"  id="btn-small">小</button>
+    <button onclick="setFont('medium')" id="btn-medium">中</button>
+    <button onclick="setFont('large')"  id="btn-large">大</button>
+  </div>
+
   {{ content }}
+
+  <script>
+    function setFont(size) {
+      document.body.className = 'font-' + size;
+      localStorage.setItem('fontSize', size);
+      ['small','medium','large'].forEach(function(s) {
+        document.getElementById('btn-' + s).classList.toggle('active', s === size);
+      });
+    }
+    var saved = localStorage.getItem('fontSize') || 'medium';
+    setFont(saved);
+  </script>
 </body>
 </html>
