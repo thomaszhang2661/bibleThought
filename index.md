@@ -11,9 +11,10 @@ body {
 h2 { margin-top: 2em; color: #333; }
 h3 { margin-top: 1em; margin-left: 2em; color: #555; font-size: 1em; }
 h3 + ul { margin-left: 2em; }
-li { line-height: 1.5; margin: 0.05em 0; }
+li { line-height: 1.4; margin: 0; padding: 0.15em 0; }
+li > p { margin: 0; }
+ul { margin: 0.2em 0 0.6em; }
 a {
-  font-size: 18px;
   color: #007acc;
   text-decoration: none;
 }
