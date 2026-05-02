@@ -98,7 +98,9 @@
   </style>
 </head>
 <body>
+  {% unless page.url == '/' or page.url == '/index.html' %}
   <a href="{{ '/' | relative_url }}" id="home-link">← 主页</a>
+  {% endunless %}
 
   <div id="font-bar">
     <button onclick="setFont('small')"  id="btn-small">小</button>
