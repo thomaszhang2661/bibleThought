@@ -65,20 +65,15 @@ def get_changed_files():
             changed.add(os.path.join(ROOT, path))
     return changed
 
-def all_md_files():
-    paths = []
-    for dirpath, dirnames, filenames in os.walk(ROOT):
-        dirnames[:] = [d for d in dirnames if d not in EXCLUDE_DIRS and not d.startswith('.')]
-        for fname in filenames:
-            if fname.endswith('.md') and fname not in EXCLUDE_FILES:
-                paths.append(os.path.join(dirpath, fname))
-    return paths
-
 def convert_wikilinks(lookup):
-    """Convert [[WikiLink]] to [WikiLink](relative_path) in all .md files."""
+    """Convert [[WikiLink]] to [WikiLink](relative_path) in changed .md files only."""
+    changed_files = get_changed_files()
+    if not changed_files:
+        return
     converted_count = 0
-    for path in all_md_files():
-        if not os.path.exists(path):
+    for path in changed_files:
+        fname = os.path.basename(path)
+        if fname in EXCLUDE_FILES or not os.path.exists(path):
             continue
 
         with open(path, encoding='utf-8') as f:
