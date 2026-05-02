@@ -56,6 +56,16 @@
       display: none;
     }
     p { margin: 0.8em 0; }
+    #home-link {
+      position: fixed;
+      top: 16px;
+      left: 16px;
+      font-size: 14px;
+      color: #888;
+      text-decoration: none;
+      z-index: 999;
+    }
+    #home-link:hover { color: #007acc; }
 
     #font-bar {
       position: fixed;
@@ -88,6 +98,8 @@
   </style>
 </head>
 <body>
+  <a href="{{ '/' | relative_url }}" id="home-link">← 主页</a>
+
   <div id="font-bar">
     <button onclick="setFont('small')"  id="btn-small">小</button>
     <button onclick="setFont('medium')" id="btn-medium">中</button>
