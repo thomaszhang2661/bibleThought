@@ -18,6 +18,12 @@
     body.font-small  { font-size: 18px; }
     body.font-medium { font-size: 22px; }
     body.font-large  { font-size: 28px; }
+    @media (min-width: 768px) {
+      body { font-size: 26px; }
+      body.font-small  { font-size: 20px; }
+      body.font-medium { font-size: 26px; }
+      body.font-large  { font-size: 32px; }
+    }
     h1 { color: #222; margin-top: 1.5em; }
     h2 { color: #333; margin-top: 2em; }
     h3 { color: #555; margin-top: 1em; margin-left: 2em; font-size: 1em; }
@@ -124,7 +130,8 @@
         document.getElementById('btn-' + s).classList.toggle('active', s === size);
       });
     }
-    var saved = localStorage.getItem('fontSize') || 'medium';
+    var defaultSize = window.innerWidth >= 768 ? 'large' : 'medium';
+    var saved = localStorage.getItem('fontSize') || defaultSize;
     setFont(saved);
 
     // TTS
