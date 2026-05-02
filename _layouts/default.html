@@ -102,6 +102,14 @@
   </div>
 
   <script>
+    // Convert .md links to .html for GitHub Pages
+    document.querySelectorAll('a[href]').forEach(function(a) {
+      var href = a.getAttribute('href');
+      if (href && href.endsWith('.md')) {
+        a.setAttribute('href', href.slice(0, -3) + '.html');
+      }
+    });
+
     // Anchor links for headings
     document.querySelectorAll('h2, h3').forEach(function(h) {
       var id = h.id;
