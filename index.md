@@ -11,6 +11,7 @@ body {
 h2 { margin-top: 2em; color: #333; }
 h3 { margin-top: 1em; margin-left: 2em; color: #555; font-size: 1em; }
 h3 + ul { margin-left: 2em; }
+li { line-height: 1.5; margin: 0.05em 0; }
 a {
   font-size: 18px;
   color: #007acc;
