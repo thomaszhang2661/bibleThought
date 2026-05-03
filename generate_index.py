@@ -8,7 +8,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 EXCLUDE_FILES = {"index.md", "index- generator.md", "generate_index.py", "2..md", "Untitled.md"}
 EXCLUDE_DIRS = {".obsidian", ".git", "_attachments"}
 
-INDEX_HEADER = '<div class="index-page">\n\n'
+INDEX_HEADER = '<div class="index-page" markdown="1">\n\n'
 INDEX_FOOTER = '\n</div>\n'
 
 def num_key(name):

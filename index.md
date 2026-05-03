@@ -1,4 +1,4 @@
-<div class="index-page">
+<div class="index-page" markdown="1">
 
 共 262 篇文章
 
