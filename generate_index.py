@@ -21,6 +21,8 @@ body {
 h2 { margin-top: 2em; color: #333; }
 h3 { margin-top: 1em; margin-left: 2em; color: #555; font-size: 1em; }
 h3 + ul { margin-left: 2em; }
+h4 { margin-top: 0.6em; margin-left: 4em; color: #888; font-size: 0.9em; font-weight: normal; }
+h4 + ul { margin-left: 4em; }
 li { line-height: 1.4; margin: 0; padding: 0.15em 0; }
 li > p { margin: 0; }
 ul { margin: 0.2em 0 0.6em; }
@@ -171,7 +173,7 @@ def generate():
                 lines.append("\n")
 
             for subsub in sorted([k for k in subsubs.keys() if k != ""], key=num_key):
-                lines.append(f"**{subsub}**\n\n")
+                lines.append(f"#### {subsub}\n\n")
                 for rel_path, title in subsubs[subsub]:
                     url = rel_path.replace(os.sep, '/')
                     lines.append(f"- [{title}]({url})\n")

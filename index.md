@@ -11,6 +11,8 @@ body {
 h2 { margin-top: 2em; color: #333; }
 h3 { margin-top: 1em; margin-left: 2em; color: #555; font-size: 1em; }
 h3 + ul { margin-left: 2em; }
+h4 { margin-top: 0.6em; margin-left: 4em; color: #888; font-size: 0.9em; font-weight: normal; }
+h4 + ul { margin-left: 4em; }
 li { line-height: 1.4; margin: 0; padding: 0.15em 0; }
 li > p { margin: 0; }
 ul { margin: 0.2em 0 0.6em; }
@@ -304,18 +306,18 @@ a:hover { text-decoration: underline; }
 
 ### 十诫
 
-**第七诫**
+#### 第七诫
 
 - [喜乐的奉献：韦思敬博士](101. 教义/十诫/第七诫/喜乐的奉献：韦思敬博士.md)
 - [大教理问答第七诫](101. 教义/十诫/第七诫/大教理问答第七诫.md)
 - [第七诫：不可偷盗](101. 教义/十诫/第七诫/第七诫：不可偷盗.md)
 
-**第九和第十**
+#### 第九和第十
 
 - [十诫 第九、第十 贪恋、贪婪、渴望、缺乏、想要](101. 教义/十诫/第九和第十/十诫 第九、第十 贪恋、贪婪、渴望、缺乏、想要.md)
 - [大教理问答 第九和第十](101. 教义/十诫/第九和第十/大教理问答 第九和第十.md)
 
-**第八诫**
+#### 第八诫
 
 - [大教理问答 第八诫](101. 教义/十诫/第八诫/大教理问答 第八诫.md)
 - [第八诫：好名声——上帝赐给邻人的礼物](101. 教义/十诫/第八诫/第八诫：好名声——上帝赐给邻人的礼物.md)
