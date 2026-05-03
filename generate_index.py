@@ -11,6 +11,13 @@ EXCLUDE_DIRS = {".obsidian", ".git", "_attachments"}
 INDEX_HEADER = '---\nbody_class: index-page\n---\n\n'
 INDEX_FOOTER = ''
 
+def make_id(text):
+    """Generate anchor id from heading text: keep Chinese chars, ASCII word chars, hyphens."""
+    result = text.replace(' ', '-')
+    result = re.sub(r'[^一-鿿㐀-䶿a-zA-Z0-9\-]', '', result)
+    result = re.sub(r'-+', '-', result).strip('-')
+    return result
+
 def num_key(name):
     match = re.match(r'^(\d+)', name)
     return (int(match.group(1)), name) if match else (9999, name)
@@ -128,7 +135,7 @@ def generate():
     for top in sorted(tree.keys(), key=num_key):
         if top == "":
             continue
-        lines.append(f"## {top}\n\n")
+        lines.append(f"## {top} {{#{make_id(top)}}}\n\n")
         subs = tree[top]
 
         for rel_path, title in subs.get("", {}).get("", []):
@@ -140,7 +147,7 @@ def generate():
         for sub in sorted(subs.keys(), key=num_key):
             if sub == "":
                 continue
-            lines.append(f"### {sub}\n\n")
+            lines.append(f"### {sub} {{#{make_id(sub)}}}\n\n")
             subsubs = subs[sub]
 
             for rel_path, title in subsubs.get("", []):
@@ -150,7 +157,7 @@ def generate():
                 lines.append("\n")
 
             for subsub in sorted([k for k in subsubs.keys() if k != ""], key=num_key):
-                lines.append(f"#### {subsub}\n\n")
+                lines.append(f"#### {subsub} {{#{make_id(subsub)}}}\n\n")
                 for rel_path, title in subsubs[subsub]:
                     url = rel_path.replace(os.sep, '/')
                     lines.append(f"- [{title}]({url})\n")
