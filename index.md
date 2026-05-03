@@ -1,27 +1,5 @@
-<style>
-body {
-  font-size: 20px;
-  font-family: "Helvetica Neue", sans-serif;
-  line-height: 1.8;
-  padding: 40px;
-  max-width: 900px;
-  background-color: #f9f9f9;
-  color: #222;
-}
-h2 { margin-top: 2em; color: #333; }
-h3 { margin-top: 1em; margin-left: 2em; color: #555; font-size: 1em; }
-h3 + ul { margin-left: 2em; }
-h4 { margin-top: 0.6em; margin-left: 4em; color: #888; font-size: 0.9em; font-weight: normal; }
-h4 + ul { margin-left: 4em; }
-li { line-height: 1.4; margin: 0; padding: 0.15em 0; }
-li > p { margin: 0; }
-ul { margin: 0.2em 0 0.6em; }
-a {
-  color: #007acc;
-  text-decoration: none;
-}
-a:hover { text-decoration: underline; }
-</style>
+<div class="index-page">
+
 共 262 篇文章
 
 - [推荐资源](推荐资源.md)
@@ -489,3 +467,5 @@ a:hover { text-decoration: underline; }
 
 - [关于Charlie Kirk](300. 一些评论/关于Charlie Kirk.md)
 
+
+</div>

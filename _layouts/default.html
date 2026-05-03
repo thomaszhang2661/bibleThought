@@ -4,98 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: site.title | default: "BibleThought" }}</title>
-  <style>
-    body {
-      font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
-      font-size: 22px;
-      line-height: 1.9;
-      padding: 40px;
-      max-width: 900px;
-      margin: 0 auto;
-      background-color: #f9f9f9;
-      color: #222;
-    }
-    body.font-small  { font-size: 18px; }
-    body.font-medium { font-size: 22px; }
-    body.font-large  { font-size: 28px; }
-    @media (min-width: 768px) {
-      body { font-size: 18px; max-width: 740px; padding: 48px 40px; }
-      body.font-small  { font-size: 15px; }
-      body.font-medium { font-size: 18px; }
-      body.font-large  { font-size: 22px; }
-      #font-bar { top: 16px; right: 20px; gap: 8px; }
-      #font-bar button { padding: 5px 14px; font-size: 15px; }
-      #tts-speed { font-size: 14px !important; }
-    }
-    h1 { color: #222; margin-top: 1.5em; }
-    h2 { color: #333; margin-top: 2em; }
-    h3 { color: #555; margin-top: 1em; }
-    h3 + ul { margin-left: 0; }
-    a { color: #007acc; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .anchor-link {
-      margin-left: 8px;
-      color: #bbb;
-      font-size: 0.8em;
-      text-decoration: none;
-      opacity: 0;
-      transition: opacity 0.2s;
-    }
-    h2:hover .anchor-link,
-    h3:hover .anchor-link { opacity: 1; }
-    .copy-tip {
-      position: fixed;
-      bottom: 20px;
-      left: 50%;
-      transform: translateX(-50%);
-      background: #333;
-      color: #fff;
-      padding: 6px 16px;
-      border-radius: 4px;
-      font-size: 14px;
-      display: none;
-    }
-    p { margin: 0.8em 0; }
-    #home-link {
-      position: fixed;
-      top: 16px;
-      left: 16px;
-      font-size: 14px;
-      color: #888;
-      text-decoration: none;
-      z-index: 999;
-    }
-    #home-link:hover { color: #007acc; }
-
-    #font-bar {
-      position: fixed;
-      top: 12px;
-      right: 16px;
-      display: flex;
-      gap: 6px;
-      z-index: 999;
-    }
-    #font-bar button {
-      border: 1px solid #ccc;
-      background: #fff;
-      border-radius: 4px;
-      cursor: pointer;
-      padding: 2px 8px;
-      color: #555;
-      line-height: 1.4;
-    }
-    #font-bar button.active {
-      background: #007acc;
-      color: #fff;
-      border-color: #007acc;
-    }
-
-    @media (max-width: 600px) {
-      body { padding: 20px 16px; }
-      body.font-medium { font-size: 22px; }
-      body.font-large  { font-size: 28px; }
-    }
-  </style>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
   {% unless page.url == '/' or page.url == '/index.html' %}
@@ -162,8 +71,8 @@
     // TTS
     var ttsState = 'idle';
     var ttsText = '';
-    var ttsOffset = 0;   // absolute char position of current utterance start
-    var ttsCharIdx = 0;  // last known absolute char position (updated by boundary event)
+    var ttsOffset = 0;
+    var ttsCharIdx = 0;
     var speedPresets = [0.6, 0.8, 1.0, 1.2, 1.5, 1.8, 2.0];
     var speedLabels  = ['0.6×','0.8×','1×','1.2×','1.5×','1.8×','2×'];
     var speedIndex = 2;
@@ -210,7 +119,7 @@
     function adjustSpeed(dir) {
       speedIndex = Math.max(0, Math.min(speedPresets.length - 1, speedIndex + dir));
       document.getElementById('tts-speed').textContent = speedLabels[speedIndex];
-      if (ttsState !== 'idle') startTTS(ttsCharIdx); // resume from current position
+      if (ttsState !== 'idle') startTTS(ttsCharIdx);
     }
 
     window.addEventListener('beforeunload', function() { window.speechSynthesis.cancel(); });

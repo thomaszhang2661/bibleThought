@@ -8,31 +8,8 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 EXCLUDE_FILES = {"index.md", "index- generator.md", "generate_index.py", "2..md", "Untitled.md"}
 EXCLUDE_DIRS = {".obsidian", ".git", "_attachments"}
 
-CSS = """<style>
-body {
-  font-size: 20px;
-  font-family: "Helvetica Neue", sans-serif;
-  line-height: 1.8;
-  padding: 40px;
-  max-width: 900px;
-  background-color: #f9f9f9;
-  color: #222;
-}
-h2 { margin-top: 2em; color: #333; }
-h3 { margin-top: 1em; margin-left: 2em; color: #555; font-size: 1em; }
-h3 + ul { margin-left: 2em; }
-h4 { margin-top: 0.6em; margin-left: 4em; color: #888; font-size: 0.9em; font-weight: normal; }
-h4 + ul { margin-left: 4em; }
-li { line-height: 1.4; margin: 0; padding: 0.15em 0; }
-li > p { margin: 0; }
-ul { margin: 0.2em 0 0.6em; }
-a {
-  color: #007acc;
-  text-decoration: none;
-}
-a:hover { text-decoration: underline; }
-</style>
-"""
+INDEX_HEADER = '<div class="index-page">\n\n'
+INDEX_FOOTER = '\n</div>\n'
 
 def num_key(name):
     match = re.match(r'^(\d+)', name)
@@ -140,7 +117,7 @@ def generate():
 
     tree = collect()
     total = sum(len(files) for top in tree.values() for sub in top.values() for files in sub.values())
-    lines = [CSS, f"共 {total} 篇文章\n\n"]
+    lines = [INDEX_HEADER, f"共 {total} 篇文章\n\n"]
 
     for rel_path, title in tree.get("", {}).get("", {}).get("", []):
         url = rel_path.replace(os.sep, '/')
@@ -179,6 +156,7 @@ def generate():
                     lines.append(f"- [{title}]({url})\n")
                 lines.append("\n")
 
+    lines.append(INDEX_FOOTER)
     output = os.path.join(ROOT, "index.md")
     with open(output, 'w', encoding='utf-8') as f:
         f.writelines(lines)
