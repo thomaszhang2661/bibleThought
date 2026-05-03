@@ -105,7 +105,8 @@ def convert_wikilinks(lookup):
         print(f"转换 wiki 链接：{converted_count} 个文件已更新")
 
 def collect():
-    tree = defaultdict(lambda: defaultdict(list))
+    # tree[top][sub][subsub] = [(rel_path, title)]
+    tree = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
 
     for dirpath, dirnames, filenames in os.walk(ROOT):
         dirnames[:] = sorted(
@@ -121,11 +122,13 @@ def collect():
             title = fname[:-3]
 
             if len(parts) == 1:
-                tree[""][""].append((rel_path, title))
+                tree[""][""][""].append((rel_path, title))
             elif len(parts) == 2:
-                tree[parts[0]][""].append((rel_path, title))
+                tree[parts[0]][""][""].append((rel_path, title))
+            elif len(parts) == 3:
+                tree[parts[0]][parts[1]][""].append((rel_path, title))
             else:
-                tree[parts[0]][parts[1]].append((rel_path, title))
+                tree[parts[0]][parts[1]][parts[2]].append((rel_path, title))
 
     return tree
 
@@ -134,13 +137,13 @@ def generate():
     convert_wikilinks(lookup)
 
     tree = collect()
-    total = sum(len(files) for top in tree.values() for files in top.values())
+    total = sum(len(files) for top in tree.values() for sub in top.values() for files in sub.values())
     lines = [CSS, f"共 {total} 篇文章\n\n"]
 
-    for rel_path, title in tree.get("", {}).get("", []):
+    for rel_path, title in tree.get("", {}).get("", {}).get("", []):
         url = rel_path.replace(os.sep, '/')
         lines.append(f"- [{title}]({url})\n")
-    if tree.get("", {}).get("", []):
+    if tree.get("", {}).get("", {}).get("", []):
         lines.append("\n")
 
     for top in sorted(tree.keys(), key=num_key):
@@ -149,20 +152,30 @@ def generate():
         lines.append(f"## {top}\n\n")
         subs = tree[top]
 
-        for rel_path, title in subs.get("", []):
+        for rel_path, title in subs.get("", {}).get("", []):
             url = rel_path.replace(os.sep, '/')
             lines.append(f"- [{title}]({url})\n")
-        if subs.get(""):
+        if subs.get("", {}).get(""):
             lines.append("\n")
 
         for sub in sorted(subs.keys(), key=num_key):
             if sub == "":
                 continue
             lines.append(f"### {sub}\n\n")
-            for rel_path, title in subs[sub]:
+            subsubs = subs[sub]
+
+            for rel_path, title in subsubs.get("", []):
                 url = rel_path.replace(os.sep, '/')
                 lines.append(f"- [{title}]({url})\n")
-            lines.append("\n")
+            if subsubs.get(""):
+                lines.append("\n")
+
+            for subsub in sorted([k for k in subsubs.keys() if k != ""], key=num_key):
+                lines.append(f"**{subsub}**\n\n")
+                for rel_path, title in subsubs[subsub]:
+                    url = rel_path.replace(os.sep, '/')
+                    lines.append(f"- [{title}]({url})\n")
+                lines.append("\n")
 
     output = os.path.join(ROOT, "index.md")
     with open(output, 'w', encoding='utf-8') as f:
