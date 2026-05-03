@@ -107,10 +107,10 @@ h2:hover .anchor-link,
 h3:hover .anchor-link { opacity: 1; }
 
 /* ── index 页专属 ── */
-.index-page h3 { margin-left: 2em; font-size: 1em; }
-.index-page h4 { margin-left: 4em; }
-.index-page h3 + ul { margin-left: 2em; }
-.index-page h4 + ul { margin-left: 4em; }
-.index-page li { line-height: 1.4; margin: 0; padding: 0.15em 0; }
-.index-page li > p { margin: 0; }
-.index-page ul { margin: 0.2em 0 0.6em; }
+#main-content.index-page h3 { margin-left: 2em; font-size: 1em; }
+#main-content.index-page h4 { margin-left: 4em; }
+#main-content.index-page h3 + ul { margin-left: 2em; }
+#main-content.index-page h4 + ul { margin-left: 4em; }
+#main-content.index-page li { line-height: 1.4; margin: 0; padding: 0.15em 0; }
+#main-content.index-page li > p { margin: 0; }
+#main-content.index-page ul { margin: 0.2em 0 0.6em; }

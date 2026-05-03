@@ -23,7 +23,7 @@
 
   <div class="copy-tip" id="copy-tip">链接已复制</div>
 
-  <div id="main-content">
+  <div id="main-content" {% if page.body_class %}class="{{ page.body_class }}"{% endif %}>
   {{ content }}
   </div>
 

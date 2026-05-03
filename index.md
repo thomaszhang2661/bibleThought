@@ -1,4 +1,6 @@
-<div class="index-page" markdown="1">
+---
+body_class: index-page
+---
 
 共 262 篇文章
 
@@ -467,5 +469,3 @@
 
 - [关于Charlie Kirk](300. 一些评论/关于Charlie Kirk.md)
 
-
-</div>
