@@ -16,6 +16,9 @@ def make_id(text):
     result = text.replace(' ', '-')
     result = re.sub(r'[^一-鿿㐀-䶿a-zA-Z0-9\-]', '', result)
     result = re.sub(r'-+', '-', result).strip('-')
+    # Strip leading digit-hyphen prefix so IDs don't start with digits
+    # (kramdown requires IDs to start with a letter)
+    result = re.sub(r'^\d[\d-]*-', '', result)
     return result
 
 def num_key(name):
