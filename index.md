@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 266 篇文章
+共 268 篇文章
 
 - [推荐资源](推荐资源.md)
 
@@ -205,6 +205,7 @@ body_class: index-page
 
 ## 19. 诗篇 {#诗篇}
 
+- [Hebrew poetry in the Bible A guide for u](19. 诗篇/Hebrew poetry in the Bible A guide for u.md)
 - [诗篇2](19. 诗篇/诗篇2.md)
 - [诗篇23](19. 诗篇/诗篇23.md)
 
@@ -388,6 +389,7 @@ body_class: index-page
 
 ## 102. 阅读 {#阅读}
 
+- [一个不太可能的归信者的内心独白](102. 阅读/一个不太可能的归信者的内心独白.md)
 - [一瘸一拐的旅程——与神同行](102. 阅读/一瘸一拐的旅程——与神同行.md)
 - [功绩主义的暴政](102. 阅读/功绩主义的暴政.md)
 - [危险的呼召](102. 阅读/危险的呼召.md)
