@@ -31,9 +31,7 @@
     <button onclick="setFont('medium')" id="btn-medium">中</button>
     <button onclick="setFont('large')"  id="btn-large">大</button>
     <button onclick="toggleTTS()" id="btn-tts">朗读</button>
-    <button onclick="adjustSpeed(-1)" id="btn-slower">慢</button>
-    <button onclick="adjustSpeed(1)"  id="btn-faster">快</button>
-    <span id="tts-speed" style="font-size:12px;color:#888;line-height:28px;padding:0 2px;">1×</span>
+    <span id="speed-bar"></span>
   </div>
 
   <div class="copy-tip" id="copy-tip">链接已复制</div>
@@ -88,20 +86,45 @@
     var ttsText = '';
     var ttsOffset = 0;
     var ttsCharIdx = 0;
-    var speedPresets = [0.6, 0.8, 1.0, 1.2, 1.5, 1.8, 2.0, 2.5, 3.0, 4.0];
-    var speedLabels  = ['0.6×','0.8×','1×','1.2×','1.5×','1.8×','2×','2.5×','3×','4×'];
+    var speedPresets = [0.6, 0.8, 1.0, 1.2, 1.5, 2.0, 2.5, 3.0, 4.0];
+    var speedLabels  = ['0.6×','0.8×','1×','1.5×','2×','2.5×','3×','4×'];
+    speedPresets     = [0.6, 0.8, 1.0, 1.5, 2.0, 2.5, 3.0, 4.0];
     var speedIndex = 2;
 
-    function startTTS(fromChar) {
+    // Build speed segmented buttons
+    (function() {
+      var bar = document.getElementById('speed-bar');
+      speedPresets.forEach(function(rate, i) {
+        var b = document.createElement('button');
+        b.textContent = speedLabels[i];
+        b.className = 'speed-btn' + (i === speedIndex ? ' active' : '');
+        b.onclick = function() { setSpeed(i); };
+        bar.appendChild(b);
+      });
+    })();
+
+    function setSpeed(i) {
+      speedIndex = i;
+      document.querySelectorAll('.speed-btn').forEach(function(b, j) {
+        b.classList.toggle('active', j === i);
+      });
+      if (ttsState !== 'idle') {
+        // Cancel then restart after brief delay (Chrome cancel() bug workaround)
+        var pos = ttsCharIdx;
+        window.speechSynthesis.cancel();
+        setTimeout(function() { doSpeak(pos); }, 150);
+      }
+    }
+
+    function doSpeak(fromChar) {
       var btn = document.getElementById('btn-tts');
       if (!ttsText) ttsText = (document.getElementById('main-content') || document.body).innerText;
       fromChar = fromChar || 0;
       ttsOffset = fromChar;
-      window.speechSynthesis.cancel();
       var utt = new SpeechSynthesisUtterance(ttsText.slice(fromChar));
       utt.lang = 'zh-CN';
       utt.rate = speedPresets[speedIndex];
-      utt.onboundary = function(e) { ttsCharIdx = ttsOffset + e.charIndex; };
+      utt.onboundary = function(e) { if (e.name === 'word') ttsCharIdx = ttsOffset + e.charIndex; };
       utt.onend = function() {
         ttsState = 'idle'; ttsText = ''; ttsCharIdx = 0;
         btn.textContent = '朗读'; btn.classList.remove('active');
@@ -119,7 +142,8 @@
       if (!('speechSynthesis' in window)) { alert('您的浏览器不支持语音朗读'); return; }
       if (ttsState === 'idle') {
         ttsText = ''; ttsCharIdx = 0;
-        startTTS(0);
+        window.speechSynthesis.cancel();
+        setTimeout(function() { doSpeak(0); }, 100);
       } else if (ttsState === 'playing') {
         window.speechSynthesis.pause();
         ttsState = 'paused';
@@ -129,12 +153,6 @@
         ttsState = 'playing';
         document.getElementById('btn-tts').textContent = '暂停';
       }
-    }
-
-    function adjustSpeed(dir) {
-      speedIndex = Math.max(0, Math.min(speedPresets.length - 1, speedIndex + dir));
-      document.getElementById('tts-speed').textContent = speedLabels[speedIndex];
-      if (ttsState !== 'idle') startTTS(ttsCharIdx);
     }
 
     window.addEventListener('beforeunload', function() { window.speechSynthesis.cancel(); });

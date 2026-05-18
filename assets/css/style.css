@@ -138,3 +138,20 @@ h3:hover .anchor-link { opacity: 1; }
 }
 .nav-btn:hover { background: #ddd; }
 .nav-disabled { background: transparent; }
+
+/* ── 速度分段按钮 ── */
+#speed-bar { display: inline-flex; gap: 2px; margin-left: 4px; }
+.speed-btn {
+  padding: 3px 7px;
+  font-size: 11px;
+  background: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #555;
+}
+.speed-btn.active {
+  background: #4a90d9;
+  color: #fff;
+  border-color: #4a90d9;
+}
