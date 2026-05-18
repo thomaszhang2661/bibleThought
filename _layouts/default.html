@@ -19,7 +19,9 @@
         <button onclick="setFont('medium')" id="btn-medium">中</button>
         <button onclick="setFont('large')"  id="btn-large">大</button>
         <button onclick="toggleTTS()" id="btn-tts">朗读</button>
-        <button onclick="cycleSpeed()" id="btn-speed">1×</button>
+        <button onclick="changeSpeed(-1)" id="btn-slow">慢</button>
+        <span id="btn-speed-label">1×</span>
+        <button onclick="changeSpeed(1)" id="btn-fast">快</button>
       </div>
     </div>
     {% unless page.url == '/' or page.url == '/index.html' %}
@@ -98,12 +100,14 @@
     var ttsText = '';
     var ttsOffset = 0;
     var ttsCharIdx = 0;
-    var speedPresets = [0.8, 1.0, 1.5, 2.0, 3.0, 3.5, 4.0];
-    var speedIndex = 1; // default 1.0×
+    var speedPresets = [0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.2, 1.5, 1.8, 2.0, 2.5, 3.0, 3.5, 4.0];
+    var speedIndex = 5; // default 1.0×
 
-    function cycleSpeed() {
-      speedIndex = (speedIndex + 1) % speedPresets.length;
-      document.getElementById('btn-speed').textContent = speedPresets[speedIndex] + '×';
+    function changeSpeed(dir) {
+      speedIndex = Math.max(0, Math.min(speedPresets.length - 1, speedIndex + dir));
+      document.getElementById('btn-speed-label').textContent = speedPresets[speedIndex] + '×';
+      document.getElementById('btn-slow').disabled = (speedIndex === 0);
+      document.getElementById('btn-fast').disabled = (speedIndex === speedPresets.length - 1);
       if (ttsState !== 'idle') {
         var pos = ttsCharIdx;
         window.speechSynthesis.cancel();
@@ -119,6 +123,7 @@
       var utt = new SpeechSynthesisUtterance(ttsText.slice(fromChar));
       utt.lang = 'zh-CN';
       utt.rate = speedPresets[speedIndex];
+      document.getElementById('btn-speed-label').textContent = speedPresets[speedIndex] + '×';
       utt.onboundary = function(e) { if (e.name === 'word') ttsCharIdx = ttsOffset + e.charIndex; };
       utt.onend = function() {
         ttsState = 'idle'; ttsText = ''; ttsCharIdx = 0;
