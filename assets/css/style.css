@@ -109,14 +109,11 @@ body.font-large  { font-size: 22px; }
 /* ── anchor 链接 ── */
 .anchor-link {
   margin-left: 8px;
-  color: #bbb;
-  font-size: 0.8em;
+  color: #ccc;
+  font-size: 0.75em;
   text-decoration: none;
-  opacity: 0;
-  transition: opacity 0.2s;
 }
-h2:hover .anchor-link,
-h3:hover .anchor-link { opacity: 1; }
+.anchor-link:hover { color: #007acc; }
 
 /* ── index 页专属 ── */
 #main-content.index-page h3 { margin-left: 2em; font-size: 1em; }
