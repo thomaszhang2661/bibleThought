@@ -3,7 +3,7 @@ body {
   font-family: "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 22px;
   line-height: 1.9;
-  padding: 40px;
+  padding: 60px 40px 40px;
   max-width: 740px;
   margin: 0 auto;
   background-color: #f9f9f9;
@@ -27,7 +27,7 @@ body.font-large  { font-size: 22px; }
   body {
     font-size: 18px;
     max-width: 740px;
-    padding: 48px 40px;
+    padding: 60px 40px 48px;
   }
   body.font-small  { font-size: 15px; }
   body.font-medium { font-size: 18px; }
@@ -36,26 +36,51 @@ body.font-large  { font-size: 22px; }
 
 /* ── 手机端 ── */
 @media (max-width: 600px) {
-  body { padding: 20px 16px; }
+  body { padding: 60px 16px 20px; }
 }
 
-/* ── 固定工具栏 ── */
-#font-bar {
+/* ── 固定顶部栏 ── */
+#top-bar {
   position: fixed;
-  top: 12px;
-  right: 16px;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(249, 249, 249, 0.97);
+  border-bottom: 1px solid #e0e0e0;
+  z-index: 999;
+  padding: 0 16px;
+}
+#top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 44px;
+  gap: 8px;
+}
+#home-link {
+  font-size: 14px;
+  color: #888;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+#home-link:hover { color: #007acc; }
+#font-bar {
   display: flex;
   gap: 6px;
-  z-index: 999;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
 }
 #font-bar button {
   border: 1px solid #ccc;
   background: #fff;
   border-radius: 4px;
   cursor: pointer;
-  padding: 2px 8px;
+  padding: 3px 10px;
   color: #555;
-  line-height: 1.4;
+  font-size: 14px;
+  line-height: 1.5;
 }
 #font-bar button.active {
   background: #007acc;
@@ -63,22 +88,9 @@ body.font-large  { font-size: 22px; }
   border-color: #007acc;
 }
 @media (min-width: 768px) {
-  #font-bar { top: 16px; right: 20px; gap: 8px; }
-  #font-bar button { padding: 5px 14px; font-size: 15px; }
-  #tts-speed { font-size: 14px !important; }
+  #top-bar { padding: 0 24px; }
+  #font-bar button { padding: 4px 12px; font-size: 15px; }
 }
-
-/* ── 主页链接 ── */
-#home-link {
-  position: fixed;
-  top: 16px;
-  left: 16px;
-  font-size: 14px;
-  color: #888;
-  text-decoration: none;
-  z-index: 999;
-}
-#home-link:hover { color: #007acc; }
 
 /* ── 复制提示 ── */
 .copy-tip {
@@ -120,38 +132,21 @@ h3:hover .anchor-link { opacity: 1; }
   display: flex;
   justify-content: space-between;
   gap: 8px;
-  margin: 12px 0 4px;
-  padding: 0 4px;
+  padding: 5px 0 7px;
+  border-top: 1px solid #eee;
 }
 .nav-btn {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 4px 10px;
   background: #f0f0f0;
   border-radius: 6px;
   text-decoration: none;
   color: #444;
-  font-size: 0.85em;
-  max-width: 45%;
+  font-size: 0.82em;
+  max-width: 48%;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 .nav-btn:hover { background: #ddd; }
 .nav-disabled { background: transparent; }
-
-/* ── 速度分段按钮 ── */
-#speed-bar { display: inline-flex; gap: 2px; margin-left: 4px; }
-.speed-btn {
-  padding: 3px 7px;
-  font-size: 11px;
-  background: #eee;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: pointer;
-  color: #555;
-}
-.speed-btn.active {
-  background: #4a90d9;
-  color: #fff;
-  border-color: #4a90d9;
-}

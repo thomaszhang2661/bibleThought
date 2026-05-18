@@ -7,32 +7,36 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  {% unless page.url == '/' or page.url == '/index.html' %}
-  <a href="{{ '/' | relative_url }}" id="home-link">← 主页</a>
-  {% endunless %}
-
-  {% unless page.url == '/' or page.url == '/index.html' %}
-  {% assign nav_entry = nil %}
-  {% for entry in site.data.nav %}
-    {% if entry.path == page.path %}
-      {% assign nav_entry = entry %}
+  <header id="top-bar">
+    <div id="top-row">
+      {% unless page.url == '/' or page.url == '/index.html' %}
+      <a href="{{ '/' | relative_url }}" id="home-link">← 主页</a>
+      {% else %}
+      <span></span>
+      {% endunless %}
+      <div id="font-bar">
+        <button onclick="setFont('small')"  id="btn-small">小</button>
+        <button onclick="setFont('medium')" id="btn-medium">中</button>
+        <button onclick="setFont('large')"  id="btn-large">大</button>
+        <button onclick="toggleTTS()" id="btn-tts">朗读</button>
+        <button onclick="cycleSpeed()" id="btn-speed">1×</button>
+      </div>
+    </div>
+    {% unless page.url == '/' or page.url == '/index.html' %}
+    {% assign nav_entry = nil %}
+    {% for entry in site.data.nav %}
+      {% if entry.path == page.path %}
+        {% assign nav_entry = entry %}
+      {% endif %}
+    {% endfor %}
+    {% if nav_entry %}
+    <nav id="page-nav">
+      {% if nav_entry.prev_url %}<a href="{{ nav_entry.prev_url | prepend: '/' | relative_url }}" class="nav-btn">← {{ nav_entry.prev_title }}</a>{% else %}<span class="nav-btn nav-disabled"></span>{% endif %}
+      {% if nav_entry.next_url %}<a href="{{ nav_entry.next_url | prepend: '/' | relative_url }}" class="nav-btn">{{ nav_entry.next_title }} →</a>{% else %}<span class="nav-btn nav-disabled"></span>{% endif %}
+    </nav>
     {% endif %}
-  {% endfor %}
-  {% if nav_entry %}
-  <nav id="page-nav">
-    {% if nav_entry.prev_url %}<a href="{{ nav_entry.prev_url | prepend: '/' | relative_url }}" class="nav-btn">← {{ nav_entry.prev_title }}</a>{% else %}<span class="nav-btn nav-disabled"></span>{% endif %}
-    {% if nav_entry.next_url %}<a href="{{ nav_entry.next_url | prepend: '/' | relative_url }}" class="nav-btn">{{ nav_entry.next_title }} →</a>{% else %}<span class="nav-btn nav-disabled"></span>{% endif %}
-  </nav>
-  {% endif %}
-  {% endunless %}
-
-  <div id="font-bar">
-    <button onclick="setFont('small')"  id="btn-small">小</button>
-    <button onclick="setFont('medium')" id="btn-medium">中</button>
-    <button onclick="setFont('large')"  id="btn-large">大</button>
-    <button onclick="toggleTTS()" id="btn-tts">朗读</button>
-    <span id="speed-bar"></span>
-  </div>
+    {% endunless %}
+  </header>
 
   <div class="copy-tip" id="copy-tip">链接已复制</div>
 
@@ -81,35 +85,26 @@
     var saved = localStorage.getItem('fontSize') || defaultSize;
     setFont(saved);
 
+    // Adjust body padding to clear fixed top-bar
+    function adjustPadding() {
+      var bar = document.getElementById('top-bar');
+      if (bar) document.body.style.paddingTop = (bar.offsetHeight + 8) + 'px';
+    }
+    adjustPadding();
+    window.addEventListener('resize', adjustPadding);
+
     // TTS
     var ttsState = 'idle';
     var ttsText = '';
     var ttsOffset = 0;
     var ttsCharIdx = 0;
-    var speedPresets = [0.6, 0.8, 1.0, 1.2, 1.5, 2.0, 2.5, 3.0, 4.0];
-    var speedLabels  = ['0.6×','0.8×','1×','1.5×','2×','2.5×','3×','4×'];
-    speedPresets     = [0.6, 0.8, 1.0, 1.5, 2.0, 2.5, 3.0, 4.0];
-    var speedIndex = 2;
+    var speedPresets = [0.8, 1.0, 1.5, 2.0, 3.0, 4.0];
+    var speedIndex = 1; // default 1.0×
 
-    // Build speed segmented buttons
-    (function() {
-      var bar = document.getElementById('speed-bar');
-      speedPresets.forEach(function(rate, i) {
-        var b = document.createElement('button');
-        b.textContent = speedLabels[i];
-        b.className = 'speed-btn' + (i === speedIndex ? ' active' : '');
-        b.onclick = function() { setSpeed(i); };
-        bar.appendChild(b);
-      });
-    })();
-
-    function setSpeed(i) {
-      speedIndex = i;
-      document.querySelectorAll('.speed-btn').forEach(function(b, j) {
-        b.classList.toggle('active', j === i);
-      });
+    function cycleSpeed() {
+      speedIndex = (speedIndex + 1) % speedPresets.length;
+      document.getElementById('btn-speed').textContent = speedPresets[speedIndex] + '×';
       if (ttsState !== 'idle') {
-        // Cancel then restart after brief delay (Chrome cancel() bug workaround)
         var pos = ttsCharIdx;
         window.speechSynthesis.cancel();
         setTimeout(function() { doSpeak(pos); }, 150);
