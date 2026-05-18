@@ -158,3 +158,10 @@ h3:hover .anchor-link { opacity: 1; }
   min-width: 2.4em;
   text-align: center;
 }
+
+/* ── 朗读高亮 ── */
+.tts-highlight {
+  background: #fff9c4;
+  border-radius: 3px;
+  transition: background 0.15s;
+}

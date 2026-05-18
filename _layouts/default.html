@@ -102,6 +102,40 @@
     var ttsCharIdx = 0;
     var speedPresets = [0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.2, 1.5, 1.8, 2.0, 2.5, 3.0, 3.5, 4.0];
     var speedIndex = 5; // default 1.0×
+    var paraMap = [];
+
+    function buildParaMap() {
+      paraMap = [];
+      var container = document.getElementById('main-content');
+      if (!container) return;
+      var fullText = container.innerText;
+      var elems = container.querySelectorAll('p, li, h1, h2, h3, h4');
+      var searchFrom = 0;
+      elems.forEach(function(el) {
+        var text = el.innerText.trim();
+        if (!text) return;
+        var idx = fullText.indexOf(text, searchFrom);
+        if (idx === -1) return;
+        paraMap.push({el: el, start: idx, end: idx + text.length});
+        searchFrom = idx + text.length;
+      });
+    }
+
+    function highlightPara(charIdx) {
+      var active = null;
+      for (var i = 0; i < paraMap.length; i++) {
+        if (charIdx >= paraMap[i].start && charIdx <= paraMap[i].end) {
+          active = paraMap[i].el; break;
+        }
+      }
+      paraMap.forEach(function(p) {
+        p.el.classList.toggle('tts-highlight', p.el === active);
+      });
+    }
+
+    function clearHighlight() {
+      paraMap.forEach(function(p) { p.el.classList.remove('tts-highlight'); });
+    }
 
     function changeSpeed(dir) {
       speedIndex = Math.max(0, Math.min(speedPresets.length - 1, speedIndex + dir));
@@ -117,21 +151,31 @@
 
     function doSpeak(fromChar) {
       var btn = document.getElementById('btn-tts');
-      if (!ttsText) ttsText = (document.getElementById('main-content') || document.body).innerText;
+      if (!ttsText) {
+        ttsText = (document.getElementById('main-content') || document.body).innerText;
+        buildParaMap();
+      }
       fromChar = fromChar || 0;
       ttsOffset = fromChar;
       var utt = new SpeechSynthesisUtterance(ttsText.slice(fromChar));
       utt.lang = 'zh-CN';
       utt.rate = speedPresets[speedIndex];
       document.getElementById('btn-speed-label').textContent = speedPresets[speedIndex] + '×';
-      utt.onboundary = function(e) { if (e.name === 'word') ttsCharIdx = ttsOffset + e.charIndex; };
+      utt.onboundary = function(e) {
+        if (e.name === 'word') {
+          ttsCharIdx = ttsOffset + e.charIndex;
+          highlightPara(ttsCharIdx);
+        }
+      };
       utt.onend = function() {
         ttsState = 'idle'; ttsText = ''; ttsCharIdx = 0;
         btn.textContent = '朗读'; btn.classList.remove('active');
+        clearHighlight();
       };
       utt.onerror = function() {
         ttsState = 'idle';
         btn.textContent = '朗读'; btn.classList.remove('active');
+        clearHighlight();
       };
       window.speechSynthesis.speak(utt);
       ttsState = 'playing';
