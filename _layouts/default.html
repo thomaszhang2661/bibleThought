@@ -11,6 +11,21 @@
   <a href="{{ '/' | relative_url }}" id="home-link">← 主页</a>
   {% endunless %}
 
+  {% unless page.url == '/' or page.url == '/index.html' %}
+  {% assign nav_entry = nil %}
+  {% for entry in site.data.nav %}
+    {% if entry.path == page.path %}
+      {% assign nav_entry = entry %}
+    {% endif %}
+  {% endfor %}
+  {% if nav_entry %}
+  <nav id="page-nav">
+    {% if nav_entry.prev_url %}<a href="{{ nav_entry.prev_url | prepend: '/' | relative_url }}" class="nav-btn">← {{ nav_entry.prev_title }}</a>{% else %}<span class="nav-btn nav-disabled"></span>{% endif %}
+    {% if nav_entry.next_url %}<a href="{{ nav_entry.next_url | prepend: '/' | relative_url }}" class="nav-btn">{{ nav_entry.next_title }} →</a>{% else %}<span class="nav-btn nav-disabled"></span>{% endif %}
+  </nav>
+  {% endif %}
+  {% endunless %}
+
   <div id="font-bar">
     <button onclick="setFont('small')"  id="btn-small">小</button>
     <button onclick="setFont('medium')" id="btn-medium">中</button>
@@ -73,8 +88,8 @@
     var ttsText = '';
     var ttsOffset = 0;
     var ttsCharIdx = 0;
-    var speedPresets = [0.6, 0.8, 1.0, 1.2, 1.5, 1.8, 2.0];
-    var speedLabels  = ['0.6×','0.8×','1×','1.2×','1.5×','1.8×','2×'];
+    var speedPresets = [0.6, 0.8, 1.0, 1.2, 1.5, 1.8, 2.0, 2.5, 3.0, 4.0];
+    var speedLabels  = ['0.6×','0.8×','1×','1.2×','1.5×','1.8×','2×','2.5×','3×','4×'];
     var speedIndex = 2;
 
     function startTTS(fromChar) {

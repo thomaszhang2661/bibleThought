@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import re
+import json
 from collections import defaultdict
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -178,7 +179,46 @@ def generate():
     output = os.path.join(ROOT, "index.md")
     with open(output, 'w', encoding='utf-8') as f:
         f.writelines(lines)
-    print(f"生成完成：{total} 篇文章 -> index.md")
+
+    # Build ordered flat page list for prev/next navigation
+    ordered = []
+    for rel_path, title in tree.get("", {}).get("", {}).get("", []):
+        ordered.append((rel_path, title))
+    for top in sorted(tree.keys(), key=num_key):
+        if top == "":
+            continue
+        for rel_path, title in tree[top].get("", {}).get("", []):
+            ordered.append((rel_path, title))
+        for sub in sorted(tree[top].keys(), key=num_key):
+            if sub == "":
+                continue
+            for rel_path, title in tree[top][sub].get("", []):
+                ordered.append((rel_path, title))
+            for subsub in sorted([k for k in tree[top][sub].keys() if k != ""], key=num_key):
+                for rel_path, title in tree[top][sub][subsub]:
+                    ordered.append((rel_path, title))
+
+    nav_data = []
+    for i, (rel_path, title) in enumerate(ordered):
+        entry = {
+            "path": rel_path.replace(os.sep, '/'),
+            "title": title,
+        }
+        if i > 0:
+            prev_path, prev_title = ordered[i - 1]
+            entry["prev_url"] = prev_path.replace(os.sep, '/')[:-3]
+            entry["prev_title"] = prev_title
+        if i < len(ordered) - 1:
+            next_path, next_title = ordered[i + 1]
+            entry["next_url"] = next_path.replace(os.sep, '/')[:-3]
+            entry["next_title"] = next_title
+        nav_data.append(entry)
+
+    nav_output = os.path.join(ROOT, "_data", "nav.json")
+    with open(nav_output, 'w', encoding='utf-8') as f:
+        json.dump(nav_data, f, ensure_ascii=False, indent=2)
+
+    print(f"生成完成：{total} 篇文章 -> index.md，{len(nav_data)} 条导航 -> _data/nav.json")
 
 if __name__ == '__main__':
     generate()
