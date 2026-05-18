@@ -1,6 +1,15 @@
 title: BibleThought
 markdown: kramdown
 
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  typographic_symbols:
+    mdash: "--"
+    ndash: "-"
+    hellip: "..."
+    laquo_space: "<< "
+    raquo_space: " >>"
+
 plugins:
   - jekyll-relative-links
 

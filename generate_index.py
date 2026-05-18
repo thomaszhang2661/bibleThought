@@ -129,8 +129,16 @@ def generate():
     total = sum(len(files) for top in tree.values() for sub in top.values() for files in sub.values())
     lines = [INDEX_HEADER, f"共 {total} 篇文章\n\n"]
 
-    for rel_path, title in tree.get("", {}).get("", {}).get("", []):
+    def make_url(rel_path):
+        # Strip .md so links point directly to Jekyll page URLs,
+        # bypassing jekyll-relative-links which drops underscores.
         url = rel_path.replace(os.sep, '/')
+        if url.endswith('.md'):
+            url = url[:-3]
+        return url
+
+    for rel_path, title in tree.get("", {}).get("", {}).get("", []):
+        url = make_url(rel_path)
         lines.append(f"- [{title}]({url})\n")
     if tree.get("", {}).get("", {}).get("", []):
         lines.append("\n")
@@ -142,7 +150,7 @@ def generate():
         subs = tree[top]
 
         for rel_path, title in subs.get("", {}).get("", []):
-            url = rel_path.replace(os.sep, '/')
+            url = make_url(rel_path)
             lines.append(f"- [{title}]({url})\n")
         if subs.get("", {}).get(""):
             lines.append("\n")
@@ -154,7 +162,7 @@ def generate():
             subsubs = subs[sub]
 
             for rel_path, title in subsubs.get("", []):
-                url = rel_path.replace(os.sep, '/')
+                url = make_url(rel_path)
                 lines.append(f"- [{title}]({url})\n")
             if subsubs.get(""):
                 lines.append("\n")
@@ -162,7 +170,7 @@ def generate():
             for subsub in sorted([k for k in subsubs.keys() if k != ""], key=num_key):
                 lines.append(f"#### {subsub} {{#{make_id(subsub)}}}\n\n")
                 for rel_path, title in subsubs[subsub]:
-                    url = rel_path.replace(os.sep, '/')
+                    url = make_url(rel_path)
                     lines.append(f"- [{title}]({url})\n")
                 lines.append("\n")
 
