@@ -1370,14 +1370,22 @@
     "title": "协同书中文",
     "prev_url": "101. 教义/十诫/第六诫/字幕翻译小教义问答第六诫-奸淫-完整版",
     "prev_title": "字幕翻译小教义问答第六诫-奸淫-完整版",
+    "next_url": "101. 教义/呼召/0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_",
+    "next_title": "0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_"
+  },
+  {
+    "path": "101. 教义/呼召/0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_.md",
+    "title": "0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_",
+    "prev_url": "101. 教义/协同书/协同书中文",
+    "prev_title": "协同书中文",
     "next_url": "101. 教义/呼召/发现我们的召命-路德改教对基督徒职业观的重新强调",
     "next_title": "发现我们的召命-路德改教对基督徒职业观的重新强调"
   },
   {
     "path": "101. 教义/呼召/发现我们的召命-路德改教对基督徒职业观的重新强调.md",
     "title": "发现我们的召命-路德改教对基督徒职业观的重新强调",
-    "prev_url": "101. 教义/协同书/协同书中文",
-    "prev_title": "协同书中文",
+    "prev_url": "101. 教义/呼召/0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_",
+    "prev_title": "0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_",
     "next_url": "101. 教义/呼召/显而未见-路德对于呼召的教义",
     "next_title": "显而未见-路德对于呼召的教义"
   },
@@ -1522,14 +1530,22 @@
     "title": "律法与福音-理解圣经真理的双重维度",
     "prev_url": "101. 教义/律法与福音-信心和行为/律法与福音--华达笔记",
     "prev_title": "律法与福音--华达笔记",
+    "next_url": "101. 教义/律法与福音-信心和行为/追求真理的阴暗面",
+    "next_title": "追求真理的阴暗面"
+  },
+  {
+    "path": "101. 教义/律法与福音-信心和行为/追求真理的阴暗面.md",
+    "title": "追求真理的阴暗面",
+    "prev_url": "101. 教义/律法与福音-信心和行为/律法与福音-理解圣经真理的双重维度",
+    "prev_title": "律法与福音-理解圣经真理的双重维度",
     "next_url": "101. 教义/护教学/十字架的护教学",
     "next_title": "十字架的护教学"
   },
   {
     "path": "101. 教义/护教学/十字架的护教学.md",
     "title": "十字架的护教学",
-    "prev_url": "101. 教义/律法与福音-信心和行为/律法与福音-理解圣经真理的双重维度",
-    "prev_title": "律法与福音-理解圣经真理的双重维度",
+    "prev_url": "101. 教义/律法与福音-信心和行为/追求真理的阴暗面",
+    "prev_title": "追求真理的阴暗面",
     "next_url": "101. 教义/护教学/理性的牢笼/1. 科学理性和信仰",
     "next_title": "1. 科学理性和信仰"
   },
