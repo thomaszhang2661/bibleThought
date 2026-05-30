@@ -1370,14 +1370,30 @@
     "title": "字幕翻译小教义问答第六诫-奸淫-完整版",
     "prev_url": "101. 教义/十诫/第六诫/大问答第六诫",
     "prev_title": "大问答第六诫",
+    "next_url": "101. 教义/十诫/第四诫命/大问答",
+    "next_title": "大问答"
+  },
+  {
+    "path": "101. 教义/十诫/第四诫命/大问答.md",
+    "title": "大问答",
+    "prev_url": "101. 教义/十诫/第六诫/字幕翻译小教义问答第六诫-奸淫-完整版",
+    "prev_title": "字幕翻译小教义问答第六诫-奸淫-完整版",
+    "next_url": "101. 教义/十诫/第四诫命/郑牧师",
+    "next_title": "郑牧师"
+  },
+  {
+    "path": "101. 教义/十诫/第四诫命/郑牧师.md",
+    "title": "郑牧师",
+    "prev_url": "101. 教义/十诫/第四诫命/大问答",
+    "prev_title": "大问答",
     "next_url": "101. 教义/协同书/协同书中文",
     "next_title": "协同书中文"
   },
   {
     "path": "101. 教义/协同书/协同书中文.md",
     "title": "协同书中文",
-    "prev_url": "101. 教义/十诫/第六诫/字幕翻译小教义问答第六诫-奸淫-完整版",
-    "prev_title": "字幕翻译小教义问答第六诫-奸淫-完整版",
+    "prev_url": "101. 教义/十诫/第四诫命/郑牧师",
+    "prev_title": "郑牧师",
     "next_url": "101. 教义/呼召/0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_",
     "next_title": "0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_"
   },
