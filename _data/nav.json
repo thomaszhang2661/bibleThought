@@ -970,14 +970,22 @@
     "title": "雅1",
     "prev_url": "46. 哥林多前书/林前13_1 鸣的锣响的钹",
     "prev_title": "林前13_1 鸣的锣响的钹",
+    "next_url": "98. 讲道框架/慈爱（hesed），而不是祭祀",
+    "next_title": "慈爱（hesed），而不是祭祀"
+  },
+  {
+    "path": "98. 讲道框架/慈爱（hesed），而不是祭祀.md",
+    "title": "慈爱（hesed），而不是祭祀",
+    "prev_url": "59. 雅各书/雅1",
+    "prev_title": "雅1",
     "next_url": "99. 讲道/The Man Who Defeated God",
     "next_title": "The Man Who Defeated God"
   },
   {
     "path": "99. 讲道/The Man Who Defeated God.md",
     "title": "The Man Who Defeated God",
-    "prev_url": "59. 雅各书/雅1",
-    "prev_title": "雅1",
+    "prev_url": "98. 讲道框架/慈爱（hesed），而不是祭祀",
+    "prev_title": "慈爱（hesed），而不是祭祀",
     "next_url": "99. 讲道/从巴别塔到五旬节-两种通天塔的故事 精简版",
     "next_title": "从巴别塔到五旬节-两种通天塔的故事 精简版"
   },
@@ -1074,14 +1082,22 @@
     "title": "我们为何感到空虚-从伊甸园和巴别塔看生命的意义",
     "prev_url": "99. 讲道/成圣-基督在行动",
     "prev_title": "成圣-基督在行动",
+    "next_url": "99. 讲道/我们小看了罪，也小看了赦免",
+    "next_title": "我们小看了罪，也小看了赦免"
+  },
+  {
+    "path": "99. 讲道/我们小看了罪，也小看了赦免.md",
+    "title": "我们小看了罪，也小看了赦免",
+    "prev_url": "99. 讲道/我们为何感到空虚-从伊甸园和巴别塔看生命的意义",
+    "prev_title": "我们为何感到空虚-从伊甸园和巴别塔看生命的意义",
     "next_url": "99. 讲道/我是大医生",
     "next_title": "我是大医生"
   },
   {
     "path": "99. 讲道/我是大医生.md",
     "title": "我是大医生",
-    "prev_url": "99. 讲道/我们为何感到空虚-从伊甸园和巴别塔看生命的意义",
-    "prev_title": "我们为何感到空虚-从伊甸园和巴别塔看生命的意义",
+    "prev_url": "99. 讲道/我们小看了罪，也小看了赦免",
+    "prev_title": "我们小看了罪，也小看了赦免",
     "next_url": "99. 讲道/我来要把火丢在地上",
     "next_title": "我来要把火丢在地上"
   },
