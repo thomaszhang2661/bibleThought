@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 346 篇文章
+共 347 篇文章
 
 - [推荐资源](推荐资源)
 
@@ -353,6 +353,7 @@ body_class: index-page
 ### 呼召 {#呼召}
 
 - [0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_](101. 教义/呼召/0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_)
+- [关于呼召的问题](101. 教义/呼召/关于呼召的问题)
 - [发现我们的召命-路德改教对基督徒职业观的重新强调](101. 教义/呼召/发现我们的召命-路德改教对基督徒职业观的重新强调)
 - [显而未见-路德对于呼召的教义](101. 教义/呼召/显而未见-路德对于呼召的教义)
 
