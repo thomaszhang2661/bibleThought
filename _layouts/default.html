@@ -185,16 +185,37 @@
       utt.onend = function() {
         ttsState = 'idle'; ttsText = ''; ttsCharIdx = 0;
         btn.textContent = '朗读'; btn.classList.remove('active');
-        clearHighlight();
+        stopKeepAlive(); clearHighlight();
       };
       utt.onerror = function() {
         ttsState = 'idle';
         btn.textContent = '朗读'; btn.classList.remove('active');
-        clearHighlight();
+        stopKeepAlive(); clearHighlight();
       };
       window.speechSynthesis.speak(utt);
+      // Chrome workaround: resume() after speak() in case browser auto-paused
+      setTimeout(function() { window.speechSynthesis.resume(); }, 50);
+      startKeepAlive();
       ttsState = 'playing';
       btn.textContent = '暂停'; btn.classList.add('active');
+    }
+
+    // Chrome workaround: keep speechSynthesis alive (Chrome pauses after ~15s)
+    var ttsKeepAlive = null;
+    function startKeepAlive() {
+      if (ttsKeepAlive) clearInterval(ttsKeepAlive);
+      ttsKeepAlive = setInterval(function() {
+        if (window.speechSynthesis.speaking) {
+          window.speechSynthesis.pause();
+          window.speechSynthesis.resume();
+        } else {
+          clearInterval(ttsKeepAlive);
+          ttsKeepAlive = null;
+        }
+      }, 10000);
+    }
+    function stopKeepAlive() {
+      if (ttsKeepAlive) { clearInterval(ttsKeepAlive); ttsKeepAlive = null; }
     }
 
     function toggleTTS() {
@@ -202,14 +223,17 @@
       if (ttsState === 'idle') {
         ttsText = ''; ttsCharIdx = 0;
         window.speechSynthesis.cancel();
-        setTimeout(function() { doSpeak(0); }, 100);
+        // Chrome needs longer delay after cancel()
+        setTimeout(function() { doSpeak(0); }, 250);
       } else if (ttsState === 'playing') {
         window.speechSynthesis.pause();
         ttsState = 'paused';
+        stopKeepAlive();
         document.getElementById('btn-tts').textContent = '继续';
       } else {
         window.speechSynthesis.resume();
         ttsState = 'playing';
+        startKeepAlive();
         document.getElementById('btn-tts').textContent = '暂停';
       }
     }
