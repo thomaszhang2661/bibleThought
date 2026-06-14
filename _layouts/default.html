@@ -149,11 +149,6 @@
       }
     }
 
-    function getZhVoice() {
-      var voices = window.speechSynthesis.getVoices();
-      return voices.find(function(v) { return /^zh/i.test(v.lang); }) || null;
-    }
-
     function doSpeak(fromChar) {
       var btn = document.getElementById('btn-tts');
       // Chrome: voices may not be loaded yet — wait and retry
@@ -172,8 +167,6 @@
       ttsOffset = fromChar;
       var utt = new SpeechSynthesisUtterance(ttsText.slice(fromChar));
       utt.lang = 'zh-CN';
-      var voice = getZhVoice();
-      if (voice) utt.voice = voice;
       utt.rate = speedPresets[speedIndex];
       document.getElementById('btn-speed-label').textContent = speedPresets[speedIndex] + '×';
       utt.onboundary = function(e) {
