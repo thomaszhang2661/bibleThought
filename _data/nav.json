@@ -1274,14 +1274,30 @@
     "title": "耶稣是谁？",
     "prev_url": "101. 教义/关于祭祖",
     "prev_title": "关于祭祖",
+    "next_url": "101. 教义/Francis Pieper/基督降在阴间",
+    "next_title": "基督降在阴间"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/基督降在阴间.md",
+    "title": "基督降在阴间",
+    "prev_url": "101. 教义/耶稣是谁？",
+    "prev_title": "耶稣是谁？",
+    "next_url": "101. 教义/Francis Pieper/论赦罪——施恩具之赦罪形式",
+    "next_title": "论赦罪——施恩具之赦罪形式"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/论赦罪——施恩具之赦罪形式.md",
+    "title": "论赦罪——施恩具之赦罪形式",
+    "prev_url": "101. 教义/Francis Pieper/基督降在阴间",
+    "prev_title": "基督降在阴间",
     "next_url": "101. 教义/使徒信经/圣徒相通/多马笔记-圣徒相通",
     "next_title": "多马笔记-圣徒相通"
   },
   {
     "path": "101. 教义/使徒信经/圣徒相通/多马笔记-圣徒相通.md",
     "title": "多马笔记-圣徒相通",
-    "prev_url": "101. 教义/耶稣是谁？",
-    "prev_title": "耶稣是谁？",
+    "prev_url": "101. 教义/Francis Pieper/论赦罪——施恩具之赦罪形式",
+    "prev_title": "论赦罪——施恩具之赦罪形式",
     "next_url": "101. 教义/使徒信经/降在阴间/Thomas's Note-- Mot Tamut and Against Docetism",
     "next_title": "Thomas's Note-- Mot Tamut and Against Docetism"
   },
@@ -1458,14 +1474,86 @@
     "title": "大教理问答 第九和第十",
     "prev_url": "101. 教义/十诫/09-第九和第十/十诫 第九-第十 贪恋-贪婪-渴望-缺乏-想要",
     "prev_title": "十诫 第九-第十 贪恋-贪婪-渴望-缺乏-想要",
+    "next_url": "101. 教义/协同书/00-编者序与协同书序文",
+    "next_title": "00-编者序与协同书序文"
+  },
+  {
+    "path": "101. 教义/协同书/00-编者序与协同书序文.md",
+    "title": "00-编者序与协同书序文",
+    "prev_url": "101. 教义/十诫/09-第九和第十/大教理问答 第九和第十",
+    "prev_title": "大教理问答 第九和第十",
+    "next_url": "101. 教义/协同书/01-三条首要信经",
+    "next_title": "01-三条首要信经"
+  },
+  {
+    "path": "101. 教义/协同书/01-三条首要信经.md",
+    "title": "01-三条首要信经",
+    "prev_url": "101. 教义/协同书/00-编者序与协同书序文",
+    "prev_title": "00-编者序与协同书序文",
+    "next_url": "101. 教义/协同书/02-奥斯堡信条",
+    "next_title": "02-奥斯堡信条"
+  },
+  {
+    "path": "101. 教义/协同书/02-奥斯堡信条.md",
+    "title": "02-奥斯堡信条",
+    "prev_url": "101. 教义/协同书/01-三条首要信经",
+    "prev_title": "01-三条首要信经",
+    "next_url": "101. 教义/协同书/03-奥斯堡信条辩护论",
+    "next_title": "03-奥斯堡信条辩护论"
+  },
+  {
+    "path": "101. 教义/协同书/03-奥斯堡信条辩护论.md",
+    "title": "03-奥斯堡信条辩护论",
+    "prev_url": "101. 教义/协同书/02-奥斯堡信条",
+    "prev_title": "02-奥斯堡信条",
+    "next_url": "101. 教义/协同书/04-施马加登条款",
+    "next_title": "04-施马加登条款"
+  },
+  {
+    "path": "101. 教义/协同书/04-施马加登条款.md",
+    "title": "04-施马加登条款",
+    "prev_url": "101. 教义/协同书/03-奥斯堡信条辩护论",
+    "prev_title": "03-奥斯堡信条辩护论",
+    "next_url": "101. 教义/协同书/05-论教皇权与首位",
+    "next_title": "05-论教皇权与首位"
+  },
+  {
+    "path": "101. 教义/协同书/05-论教皇权与首位.md",
+    "title": "05-论教皇权与首位",
+    "prev_url": "101. 教义/协同书/04-施马加登条款",
+    "prev_title": "04-施马加登条款",
+    "next_url": "101. 教义/协同书/06-路德小问答",
+    "next_title": "06-路德小问答"
+  },
+  {
+    "path": "101. 教义/协同书/06-路德小问答.md",
+    "title": "06-路德小问答",
+    "prev_url": "101. 教义/协同书/05-论教皇权与首位",
+    "prev_title": "05-论教皇权与首位",
+    "next_url": "101. 教义/协同书/07-路德大问答",
+    "next_title": "07-路德大问答"
+  },
+  {
+    "path": "101. 教义/协同书/07-路德大问答.md",
+    "title": "07-路德大问答",
+    "prev_url": "101. 教义/协同书/06-路德小问答",
+    "prev_title": "06-路德小问答",
+    "next_url": "101. 教义/协同书/08-协同式",
+    "next_title": "08-协同式"
+  },
+  {
+    "path": "101. 教义/协同书/08-协同式.md",
+    "title": "08-协同式",
+    "prev_url": "101. 教义/协同书/07-路德大问答",
+    "prev_title": "07-路德大问答",
     "next_url": "101. 教义/协同书/协同书中文",
     "next_title": "协同书中文"
   },
   {
     "path": "101. 教义/协同书/协同书中文.md",
     "title": "协同书中文",
-    "prev_url": "101. 教义/十诫/09-第九和第十/大教理问答 第九和第十",
-    "prev_title": "大教理问答 第九和第十",
+    "prev_url": "101. 教义/协同书/08-协同式",
+    "prev_title": "08-协同式",
     "next_url": "101. 教义/呼召/0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_",
     "next_title": "0145_What is a Call_ -- Or, When is a Call a Call, and Who Makes it Such_"
   },
