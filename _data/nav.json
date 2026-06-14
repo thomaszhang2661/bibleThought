@@ -1250,22 +1250,14 @@
     "title": "异象",
     "prev_url": "100. 术语/全能神和完全人",
     "prev_title": "全能神和完全人",
-    "next_url": "101. 教义/jiao zhang",
-    "next_title": "jiao zhang"
-  },
-  {
-    "path": "101. 教义/jiao zhang.md",
-    "title": "jiao zhang",
-    "prev_url": "100. 术语/异象",
-    "prev_title": "异象",
     "next_url": "101. 教义/交帐",
     "next_title": "交帐"
   },
   {
     "path": "101. 教义/交帐.md",
     "title": "交帐",
-    "prev_url": "101. 教义/jiao zhang",
-    "prev_title": "jiao zhang",
+    "prev_url": "100. 术语/异象",
+    "prev_title": "异象",
     "next_url": "101. 教义/关于祭祖",
     "next_title": "关于祭祖"
   },
