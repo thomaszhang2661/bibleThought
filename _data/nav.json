@@ -2570,14 +2570,110 @@
     "title": "08_附录二_我们共同的旅程——肯特·巴特菲尔德",
     "prev_url": "102. 阅读/一个不太可能的归信者的内心独白/07_附录三四_罗莎里亚的信与常见问题解答",
     "prev_title": "07_附录三四_罗莎里亚的信与常见问题解答",
+    "next_url": "102. 阅读/中心教会/00.Introduction.md",
+    "next_title": "00.Introduction.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/00.Introduction.md.md",
+    "title": "00.Introduction.md",
+    "prev_url": "102. 阅读/一个不太可能的归信者的内心独白/08_附录二_我们共同的旅程——肯特·巴特菲尔德",
+    "prev_title": "08_附录二_我们共同的旅程——肯特·巴特菲尔德",
+    "next_url": "102. 阅读/中心教会/01.Chapter_1.md",
+    "next_title": "01.Chapter_1.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/01.Chapter_1.md.md",
+    "title": "01.Chapter_1.md",
+    "prev_url": "102. 阅读/中心教会/00.Introduction.md",
+    "prev_title": "00.Introduction.md",
+    "next_url": "102. 阅读/中心教会/02.Chapter_2.md",
+    "next_title": "02.Chapter_2.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/02.Chapter_2.md.md",
+    "title": "02.Chapter_2.md",
+    "prev_url": "102. 阅读/中心教会/01.Chapter_1.md",
+    "prev_title": "01.Chapter_1.md",
+    "next_url": "102. 阅读/中心教会/03.Chapter_3.md",
+    "next_title": "03.Chapter_3.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/03.Chapter_3.md.md",
+    "title": "03.Chapter_3.md",
+    "prev_url": "102. 阅读/中心教会/02.Chapter_2.md",
+    "prev_title": "02.Chapter_2.md",
+    "next_url": "102. 阅读/中心教会/04.Chapter_4.md",
+    "next_title": "04.Chapter_4.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/04.Chapter_4.md.md",
+    "title": "04.Chapter_4.md",
+    "prev_url": "102. 阅读/中心教会/03.Chapter_3.md",
+    "prev_title": "03.Chapter_3.md",
+    "next_url": "102. 阅读/中心教会/05.Chapter_5.md",
+    "next_title": "05.Chapter_5.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/05.Chapter_5.md.md",
+    "title": "05.Chapter_5.md",
+    "prev_url": "102. 阅读/中心教会/04.Chapter_4.md",
+    "prev_title": "04.Chapter_4.md",
+    "next_url": "102. 阅读/中心教会/06.Chapter_6.md",
+    "next_title": "06.Chapter_6.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/06.Chapter_6.md.md",
+    "title": "06.Chapter_6.md",
+    "prev_url": "102. 阅读/中心教会/05.Chapter_5.md",
+    "prev_title": "05.Chapter_5.md",
+    "next_url": "102. 阅读/中心教会/07.Chapter_7.md",
+    "next_title": "07.Chapter_7.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/07.Chapter_7.md.md",
+    "title": "07.Chapter_7.md",
+    "prev_url": "102. 阅读/中心教会/06.Chapter_6.md",
+    "prev_title": "06.Chapter_6.md",
+    "next_url": "102. 阅读/中心教会/08.Chapter_8.md",
+    "next_title": "08.Chapter_8.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/08.Chapter_8.md.md",
+    "title": "08.Chapter_8.md",
+    "prev_url": "102. 阅读/中心教会/07.Chapter_7.md",
+    "prev_title": "07.Chapter_7.md",
+    "next_url": "102. 阅读/中心教会/09.Chapter_9.md",
+    "next_title": "09.Chapter_9.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/09.Chapter_9.md.md",
+    "title": "09.Chapter_9.md",
+    "prev_url": "102. 阅读/中心教会/08.Chapter_8.md",
+    "prev_title": "08.Chapter_8.md",
+    "next_url": "102. 阅读/中心教会/10.Chapter_10.md",
+    "next_title": "10.Chapter_10.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/10.Chapter_10.md.md",
+    "title": "10.Chapter_10.md",
+    "prev_url": "102. 阅读/中心教会/09.Chapter_9.md",
+    "prev_title": "09.Chapter_9.md",
+    "next_url": "102. 阅读/中心教会/11.Chapter_11.md",
+    "next_title": "11.Chapter_11.md"
+  },
+  {
+    "path": "102. 阅读/中心教会/11.Chapter_11.md.md",
+    "title": "11.Chapter_11.md",
+    "prev_url": "102. 阅读/中心教会/10.Chapter_10.md",
+    "prev_title": "10.Chapter_10.md",
     "next_url": "102. 阅读/恐惧-被鬼附和属灵战争/01-第一章-前言&我很害怕-将魔鬼请进家门",
     "next_title": "01-第一章-前言&我很害怕-将魔鬼请进家门"
   },
   {
     "path": "102. 阅读/恐惧-被鬼附和属灵战争/01-第一章-前言&我很害怕-将魔鬼请进家门.md",
     "title": "01-第一章-前言&我很害怕-将魔鬼请进家门",
-    "prev_url": "102. 阅读/一个不太可能的归信者的内心独白/08_附录二_我们共同的旅程——肯特·巴特菲尔德",
-    "prev_title": "08_附录二_我们共同的旅程——肯特·巴特菲尔德",
+    "prev_url": "102. 阅读/中心教会/11.Chapter_11.md",
+    "prev_title": "11.Chapter_11.md",
     "next_url": "102. 阅读/恐惧-被鬼附和属灵战争/02-第二章-伏都教与美国属灵主义",
     "next_title": "02-第二章-伏都教与美国属灵主义"
   },
@@ -3090,14 +3186,134 @@
     "title": "19_第十九章",
     "prev_url": "102. 阅读/有粘性的教会/18_第十八章",
     "prev_title": "18_第十八章",
+    "next_url": "102. 阅读/植堂工具箱/00.Introduction.md",
+    "next_title": "00.Introduction.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/00.Introduction.md.md",
+    "title": "00.Introduction.md",
+    "prev_url": "102. 阅读/有粘性的教会/19_第十九章",
+    "prev_title": "19_第十九章",
+    "next_url": "102. 阅读/植堂工具箱/01.Chapter_1.md",
+    "next_title": "01.Chapter_1.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/01.Chapter_1.md.md",
+    "title": "01.Chapter_1.md",
+    "prev_url": "102. 阅读/植堂工具箱/00.Introduction.md",
+    "prev_title": "00.Introduction.md",
+    "next_url": "102. 阅读/植堂工具箱/02.Chapter_2.md",
+    "next_title": "02.Chapter_2.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/02.Chapter_2.md.md",
+    "title": "02.Chapter_2.md",
+    "prev_url": "102. 阅读/植堂工具箱/01.Chapter_1.md",
+    "prev_title": "01.Chapter_1.md",
+    "next_url": "102. 阅读/植堂工具箱/03.Chapter_3.md",
+    "next_title": "03.Chapter_3.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/03.Chapter_3.md.md",
+    "title": "03.Chapter_3.md",
+    "prev_url": "102. 阅读/植堂工具箱/02.Chapter_2.md",
+    "prev_title": "02.Chapter_2.md",
+    "next_url": "102. 阅读/植堂工具箱/04.Chapter_4.md",
+    "next_title": "04.Chapter_4.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/04.Chapter_4.md.md",
+    "title": "04.Chapter_4.md",
+    "prev_url": "102. 阅读/植堂工具箱/03.Chapter_3.md",
+    "prev_title": "03.Chapter_3.md",
+    "next_url": "102. 阅读/植堂工具箱/05.Chapter_5.md",
+    "next_title": "05.Chapter_5.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/05.Chapter_5.md.md",
+    "title": "05.Chapter_5.md",
+    "prev_url": "102. 阅读/植堂工具箱/04.Chapter_4.md",
+    "prev_title": "04.Chapter_4.md",
+    "next_url": "102. 阅读/植堂工具箱/06.Chapter_6.md",
+    "next_title": "06.Chapter_6.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/06.Chapter_6.md.md",
+    "title": "06.Chapter_6.md",
+    "prev_url": "102. 阅读/植堂工具箱/05.Chapter_5.md",
+    "prev_title": "05.Chapter_5.md",
+    "next_url": "102. 阅读/植堂工具箱/07.Chapter_7.md",
+    "next_title": "07.Chapter_7.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/07.Chapter_7.md.md",
+    "title": "07.Chapter_7.md",
+    "prev_url": "102. 阅读/植堂工具箱/06.Chapter_6.md",
+    "prev_title": "06.Chapter_6.md",
+    "next_url": "102. 阅读/植堂工具箱/08.Chapter_8.md",
+    "next_title": "08.Chapter_8.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/08.Chapter_8.md.md",
+    "title": "08.Chapter_8.md",
+    "prev_url": "102. 阅读/植堂工具箱/07.Chapter_7.md",
+    "prev_title": "07.Chapter_7.md",
+    "next_url": "102. 阅读/植堂工具箱/09.Chapter_9.md",
+    "next_title": "09.Chapter_9.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/09.Chapter_9.md.md",
+    "title": "09.Chapter_9.md",
+    "prev_url": "102. 阅读/植堂工具箱/08.Chapter_8.md",
+    "prev_title": "08.Chapter_8.md",
+    "next_url": "102. 阅读/植堂工具箱/10.Chapter_10.md",
+    "next_title": "10.Chapter_10.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/10.Chapter_10.md.md",
+    "title": "10.Chapter_10.md",
+    "prev_url": "102. 阅读/植堂工具箱/09.Chapter_9.md",
+    "prev_title": "09.Chapter_9.md",
+    "next_url": "102. 阅读/植堂工具箱/11.Chapter_11.md",
+    "next_title": "11.Chapter_11.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/11.Chapter_11.md.md",
+    "title": "11.Chapter_11.md",
+    "prev_url": "102. 阅读/植堂工具箱/10.Chapter_10.md",
+    "prev_title": "10.Chapter_10.md",
+    "next_url": "102. 阅读/植堂工具箱/12.Chapter_12.md",
+    "next_title": "12.Chapter_12.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/12.Chapter_12.md.md",
+    "title": "12.Chapter_12.md",
+    "prev_url": "102. 阅读/植堂工具箱/11.Chapter_11.md",
+    "prev_title": "11.Chapter_11.md",
+    "next_url": "102. 阅读/植堂工具箱/13.Chapter_13.md",
+    "next_title": "13.Chapter_13.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/13.Chapter_13.md.md",
+    "title": "13.Chapter_13.md",
+    "prev_url": "102. 阅读/植堂工具箱/12.Chapter_12.md",
+    "prev_title": "12.Chapter_12.md",
+    "next_url": "102. 阅读/植堂工具箱/14.Chapter_14.md",
+    "next_title": "14.Chapter_14.md"
+  },
+  {
+    "path": "102. 阅读/植堂工具箱/14.Chapter_14.md.md",
+    "title": "14.Chapter_14.md",
+    "prev_url": "102. 阅读/植堂工具箱/13.Chapter_13.md",
+    "prev_title": "13.Chapter_13.md",
     "next_url": "103. 视频脚本/不合理的信仰",
     "next_title": "不合理的信仰"
   },
   {
     "path": "103. 视频脚本/不合理的信仰.md",
     "title": "不合理的信仰",
-    "prev_url": "102. 阅读/有粘性的教会/19_第十九章",
-    "prev_title": "19_第十九章",
+    "prev_url": "102. 阅读/植堂工具箱/14.Chapter_14.md",
+    "prev_title": "14.Chapter_14.md",
     "next_url": "103. 视频脚本/从巴别塔到五旬节-两种通天塔的故事",
     "next_title": "从巴别塔到五旬节-两种通天塔的故事"
   },
