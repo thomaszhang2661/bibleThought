@@ -1962,22 +1962,158 @@
     "title": "5. 一次得救永远得救",
     "prev_url": "101. 教义/护教学/理性的牢笼/4. 人得救是谁的功劳-没得救是不是神的错",
     "prev_title": "4. 人得救是谁的功劳-没得救是不是神的错",
-    "next_url": "101. 教义/护教学/理性的牢笼/After Enlightenment The Post-Secular Vision of J. G. Hamann",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment The Post-Secular Vision of J. G. Hamann",
     "next_title": "After Enlightenment The Post-Secular Vision of J. G. Hamann"
   },
   {
-    "path": "101. 教义/护教学/理性的牢笼/After Enlightenment The Post-Secular Vision of J. G. Hamann.md",
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment The Post-Secular Vision of J. G. Hamann.md",
     "title": "After Enlightenment The Post-Secular Vision of J. G. Hamann",
     "prev_url": "101. 教义/护教学/理性的牢笼/5. 一次得救永远得救",
     "prev_title": "5. 一次得救永远得救",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/00_导读与总结",
+    "next_title": "00_导读与总结"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/00_导读与总结.md",
+    "title": "00_导读与总结",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment The Post-Secular Vision of J. G. Hamann",
+    "prev_title": "After Enlightenment The Post-Secular Vision of J. G. Hamann",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/01_前言_致谢_缩略语",
+    "next_title": "01_前言_致谢_缩略语"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/01_前言_致谢_缩略语.md",
+    "title": "01_前言_致谢_缩略语",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/00_导读与总结",
+    "prev_title": "00_导读与总结",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/02_导论",
+    "next_title": "02_导论"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/02_导论.md",
+    "title": "02_导论",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/01_前言_致谢_缩略语",
+    "prev_title": "01_前言_致谢_缩略语",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/03_第一章_生平与著作1730-1788",
+    "next_title": "03_第一章_生平与著作1730-1788"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/03_第一章_生平与著作1730-1788.md",
+    "title": "03_第一章_生平与著作1730-1788",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/02_导论",
+    "prev_title": "02_导论",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/04_第二章_伦敦书写",
+    "next_title": "04_第二章_伦敦书写"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/04_第二章_伦敦书写.md",
+    "title": "04_第二章_伦敦书写",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/03_第一章_生平与著作1730-1788",
+    "prev_title": "03_第一章_生平与著作1730-1788",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/05_第三章_苏格拉底预表论",
+    "next_title": "05_第三章_苏格拉底预表论"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/05_第三章_苏格拉底预表论.md",
+    "title": "05_第三章_苏格拉底预表论",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/04_第二章_伦敦书写",
+    "prev_title": "04_第二章_伦敦书写",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/06_第四章_生平与著作1760-1774",
+    "next_title": "06_第四章_生平与著作1760-1774"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/06_第四章_生平与著作1760-1774.md",
+    "title": "06_第四章_生平与著作1760-1774",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/05_第三章_苏格拉底预表论",
+    "prev_title": "05_第三章_苏格拉底预表论",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/07_第五章_基督论诗学",
+    "next_title": "07_第五章_基督论诗学"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/07_第五章_基督论诗学.md",
+    "title": "07_第五章_基督论诗学",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/06_第四章_生平与著作1760-1774",
+    "prev_title": "06_第四章_生平与著作1760-1774",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/08_第六章_纠正门徒",
+    "next_title": "08_第六章_纠正门徒"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/08_第六章_纠正门徒.md",
+    "title": "08_第六章_纠正门徒",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/07_第五章_基督论诗学",
+    "prev_title": "07_第五章_基督论诗学",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/09_第七章_生平与著作1775-1780",
+    "next_title": "09_第七章_生平与著作1775-1780"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/09_第七章_生平与著作1775-1780.md",
+    "title": "09_第七章_生平与著作1775-1780",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/08_第六章_纠正门徒",
+    "prev_title": "08_第六章_纠正门徒",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/10_第八章_女巫发言",
+    "next_title": "10_第八章_女巫发言"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/10_第八章_女巫发言.md",
+    "title": "10_第八章_女巫发言",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/09_第七章_生平与著作1775-1780",
+    "prev_title": "09_第七章_生平与著作1775-1780",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/11_第九章_次经女巫断片",
+    "next_title": "11_第九章_次经女巫断片"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/11_第九章_次经女巫断片.md",
+    "title": "11_第九章_次经女巫断片",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/10_第八章_女巫发言",
+    "prev_title": "10_第八章_女巫发言",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/12_第十章_生平与著作1780-1784",
+    "next_title": "12_第十章_生平与著作1780-1784"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/12_第十章_生平与著作1780-1784.md",
+    "title": "12_第十章_生平与著作1780-1784",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/11_第九章_次经女巫断片",
+    "prev_title": "11_第九章_次经女巫断片",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/13_第十一章_元批判",
+    "next_title": "13_第十一章_元批判"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/13_第十一章_元批判.md",
+    "title": "13_第十一章_元批判",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/12_第十章_生平与著作1780-1784",
+    "prev_title": "12_第十章_生平与著作1780-1784",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/14_第十二章_元批判政治学",
+    "next_title": "14_第十二章_元批判政治学"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/14_第十二章_元批判政治学.md",
+    "title": "14_第十二章_元批判政治学",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/13_第十一章_元批判",
+    "prev_title": "13_第十一章_元批判",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/15_第十三章_生平与著作1785-1788",
+    "next_title": "15_第十三章_生平与著作1785-1788"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/15_第十三章_生平与著作1785-1788.md",
+    "title": "15_第十三章_生平与著作1785-1788",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/14_第十二章_元批判政治学",
+    "prev_title": "14_第十二章_元批判政治学",
+    "next_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/16_结论",
+    "next_title": "16_结论"
+  },
+  {
+    "path": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/16_结论.md",
+    "title": "16_结论",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/15_第十三章_生平与著作1785-1788",
+    "prev_title": "15_第十三章_生平与著作1785-1788",
     "next_url": "101. 教义/护理神学/1. 神爱世人护理神学---上帝的看顾保守",
     "next_title": "1. 神爱世人护理神学---上帝的看顾保守"
   },
   {
     "path": "101. 教义/护理神学/1. 神爱世人护理神学---上帝的看顾保守.md",
     "title": "1. 神爱世人护理神学---上帝的看顾保守",
-    "prev_url": "101. 教义/护教学/理性的牢笼/After Enlightenment The Post-Secular Vision of J. G. Hamann",
-    "prev_title": "After Enlightenment The Post-Secular Vision of J. G. Hamann",
+    "prev_url": "101. 教义/护教学/理性的牢笼/哈曼/After Enlightenment/16_结论",
+    "prev_title": "16_结论",
     "next_url": "101. 教义/护理神学/2. 特殊的护理---赦免和恩典的供应",
     "next_title": "2. 特殊的护理---赦免和恩典的供应"
   },
