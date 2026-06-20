@@ -98,12 +98,12 @@
     // TTS
     var ttsState = 'idle';
     var ttsText = '';
-    var ttsOffset = 0;
     var ttsCharIdx = 0;
+    var ttsChunks = [];
+    var ttsChunkIdx = 0;
     var speedPresets = [0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.2, 1.5, 1.8, 2.0, 2.5, 3.0, 3.5, 4.0];
     var speedIndex = 5; // default 1.0×
     var paraMap = [];
-    var ttsKeepAlive = null;
 
     // Initialize speed button states
     document.getElementById('btn-slow').disabled = (speedIndex === 0);
@@ -142,6 +142,66 @@
       paraMap.forEach(function(p) { p.el.classList.remove('tts-highlight'); });
     }
 
+    // Split text into ~500-char chunks at sentence boundaries.
+    // Avoids Chrome's long-utterance silent-stop bug without any keepalive timer.
+    function splitIntoChunks(text) {
+      var MAX = 500;
+      var chunks = [];
+      var pos = 0;
+      while (pos < text.length) {
+        while (pos < text.length && text[pos] === '\n') pos++;
+        if (pos >= text.length) break;
+        var end = Math.min(pos + MAX, text.length);
+        if (end < text.length) {
+          var paraBreak = text.lastIndexOf('\n\n', end);
+          if (paraBreak > pos + MAX * 0.4) {
+            end = paraBreak;
+          } else {
+            var best = -1;
+            ['。', '！', '？'].forEach(function(sep) {
+              var j = text.lastIndexOf(sep, end);
+              if (j > pos && j > best) best = j;
+            });
+            if (best !== -1) end = best + 1;
+          }
+        }
+        var chunk = text.slice(pos, end).trim();
+        if (chunk) chunks.push({text: chunk, offset: pos});
+        pos = end;
+      }
+      return chunks;
+    }
+
+    function speakChunk(idx) {
+      var btn = document.getElementById('btn-tts');
+      if (idx >= ttsChunks.length) {
+        ttsState = 'idle'; ttsCharIdx = 0;
+        btn.textContent = '朗读'; btn.classList.remove('active');
+        clearHighlight();
+        return;
+      }
+      if (ttsState !== 'playing') return;
+      ttsChunkIdx = idx;
+      var chunk = ttsChunks[idx];
+      var utt = new SpeechSynthesisUtterance(chunk.text);
+      utt.lang = 'zh-CN';
+      utt.rate = speedPresets[speedIndex];
+      utt.onboundary = function(e) {
+        if (e.name === 'word') {
+          ttsCharIdx = chunk.offset + e.charIndex;
+          highlightPara(ttsCharIdx);
+        }
+      };
+      utt.onend = function() { speakChunk(idx + 1); };
+      utt.onerror = function(e) {
+        if (e.error === 'interrupted' || e.error === 'canceled') return;
+        ttsState = 'idle';
+        btn.textContent = '朗读'; btn.classList.remove('active');
+        clearHighlight();
+      };
+      window.speechSynthesis.speak(utt);
+    }
+
     function changeSpeed(dir) {
       speedIndex = Math.max(0, Math.min(speedPresets.length - 1, speedIndex + dir));
       document.getElementById('btn-speed-label').textContent = speedPresets[speedIndex] + '×';
@@ -152,24 +212,6 @@
         window.speechSynthesis.cancel();
         setTimeout(function() { doSpeak(pos); }, 150);
       }
-    }
-
-    function stopKeepAlive() {
-      if (ttsKeepAlive) { clearInterval(ttsKeepAlive); ttsKeepAlive = null; }
-    }
-
-    function startKeepAlive() {
-      stopKeepAlive();
-      // Chrome bug: SpeechSynthesis silently stops after ~15s on long utterances.
-      // Pause/resume every 14s resets the timer without audible interruption.
-      ttsKeepAlive = setInterval(function() {
-        if (ttsState === 'playing' && window.speechSynthesis.speaking) {
-          window.speechSynthesis.pause();
-          window.speechSynthesis.resume();
-        } else if (ttsState !== 'playing') {
-          stopKeepAlive();
-        }
-      }, 14000);
     }
 
     function doSpeak(fromChar) {
@@ -185,35 +227,17 @@
       if (!ttsText) {
         ttsText = (document.getElementById('main-content') || document.body).innerText;
         buildParaMap();
+        ttsChunks = splitIntoChunks(ttsText);
       }
       fromChar = fromChar || 0;
-      ttsOffset = fromChar;
-      var utt = new SpeechSynthesisUtterance(ttsText.slice(fromChar));
-      utt.lang = 'zh-CN';
-      utt.rate = speedPresets[speedIndex];
-      document.getElementById('btn-speed-label').textContent = speedPresets[speedIndex] + '×';
-      utt.onboundary = function(e) {
-        if (e.name === 'word') {
-          ttsCharIdx = ttsOffset + e.charIndex;
-          highlightPara(ttsCharIdx);
-        }
-      };
-      utt.onend = function() {
-        stopKeepAlive();
-        ttsState = 'idle'; ttsText = ''; ttsCharIdx = 0;
-        btn.textContent = '朗读'; btn.classList.remove('active');
-        clearHighlight();
-      };
-      utt.onerror = function() {
-        stopKeepAlive();
-        ttsState = 'idle';
-        btn.textContent = '朗读'; btn.classList.remove('active');
-        clearHighlight();
-      };
-      window.speechSynthesis.speak(utt);
+      // Find the chunk containing fromChar
+      var startIdx = 0;
+      for (var i = ttsChunks.length - 1; i >= 0; i--) {
+        if (ttsChunks[i].offset <= fromChar) { startIdx = i; break; }
+      }
       ttsState = 'playing';
       btn.textContent = '暂停'; btn.classList.add('active');
-      startKeepAlive();
+      speakChunk(startIdx);
     }
 
     function toggleTTS() {

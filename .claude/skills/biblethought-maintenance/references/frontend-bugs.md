@@ -10,22 +10,15 @@ Non-obvious runtime behavior in `_layouts/default.html`. Read before touching th
 
 **Root cause:** Chrome/Chromium has a bug where `SpeechSynthesisUtterance` objects are silently garbage-collected mid-speech on long texts. Affects Chrome on all platforms.
 
-**Fix (already in code):** A `setInterval` keepalive calls `pause()` + `resume()` every 14 seconds to reset Chrome's internal timer. Do NOT remove this — the bug returns immediately.
+**Fix (already in code):** Text is split into ~500-char chunks via `splitIntoChunks()`. Each chunk is a separate utterance; when one ends (`onend`), `speakChunk(idx + 1)` starts the next immediately. Chunk boundaries land at sentence endings (`。！？`) so transitions are natural reading pauses.
 
 ```js
-// in doSpeak():
-startKeepAlive();  // starts the 14s interval
-
-// keepalive function:
-ttsKeepAlive = setInterval(function() {
-  if (ttsState === 'playing' && window.speechSynthesis.speaking) {
-    window.speechSynthesis.pause();
-    window.speechSynthesis.resume();
-  }
-}, 14000);
+// splitIntoChunks() splits at sentence boundaries, MAX 500 chars per chunk
+// speakChunk(idx) speaks one chunk and chains to the next via onend
+utt.onend = function() { speakChunk(idx + 1); };
 ```
 
-`stopKeepAlive()` is called in `utt.onend`, `utt.onerror`, and when speed changes trigger a restart.
+Do NOT merge these back into one long utterance — the Chrome bug returns immediately.
 
 **Not affected:** Safari/iOS (different TTS engine, but `pause()` doesn't work there — see below).
 
