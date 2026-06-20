@@ -978,14 +978,22 @@
     "title": "慈爱（hesed），而不是祭祀",
     "prev_url": "59. 雅各书/雅1",
     "prev_title": "雅1",
+    "next_url": "98. 讲道框架/骨中的火-当生活变得混乱时，不要惧怕",
+    "next_title": "骨中的火-当生活变得混乱时，不要惧怕"
+  },
+  {
+    "path": "98. 讲道框架/骨中的火-当生活变得混乱时，不要惧怕.md",
+    "title": "骨中的火-当生活变得混乱时，不要惧怕",
+    "prev_url": "98. 讲道框架/慈爱（hesed），而不是祭祀",
+    "prev_title": "慈爱（hesed），而不是祭祀",
     "next_url": "99. 讲道/The Man Who Defeated God",
     "next_title": "The Man Who Defeated God"
   },
   {
     "path": "99. 讲道/The Man Who Defeated God.md",
     "title": "The Man Who Defeated God",
-    "prev_url": "98. 讲道框架/慈爱（hesed），而不是祭祀",
-    "prev_title": "慈爱（hesed），而不是祭祀",
+    "prev_url": "98. 讲道框架/骨中的火-当生活变得混乱时，不要惧怕",
+    "prev_title": "骨中的火-当生活变得混乱时，不要惧怕",
     "next_url": "99. 讲道/从巴别塔到五旬节-两种通天塔的故事 精简版",
     "next_title": "从巴别塔到五旬节-两种通天塔的故事 精简版"
   },
@@ -1322,222 +1330,2302 @@
     "title": "论赦罪——施恩具之赦罪形式",
     "prev_url": "101. 教义/Francis Pieper/基督降在阴间",
     "prev_title": "基督降在阴间",
-    "next_url": "101. 教义/Francis Pieper/人论/01_人论与堕落前的人",
-    "next_title": "01_人论与堕落前的人"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/01_人论与堕落前的人.md",
-    "title": "01_人论与堕落前的人",
-    "prev_url": "101. 教义/Francis Pieper/论赦罪——施恩具之赦罪形式",
-    "prev_title": "论赦罪——施恩具之赦罪形式",
-    "next_url": "101. 教义/Francis Pieper/人论/02_上帝形象的实质内容",
-    "next_title": "02_上帝形象的实质内容"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/02_上帝形象的实质内容.md",
-    "title": "02_上帝形象的实质内容",
-    "prev_url": "101. 教义/Francis Pieper/人论/01_人论与堕落前的人",
-    "prev_title": "01_人论与堕落前的人",
-    "next_url": "101. 教义/Francis Pieper/人论/03_广义与狭义的上帝形象",
-    "next_title": "03_广义与狭义的上帝形象"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/03_广义与狭义的上帝形象.md",
-    "title": "03_广义与狭义的上帝形象",
-    "prev_url": "101. 教义/Francis Pieper/人论/02_上帝形象的实质内容",
-    "prev_title": "02_上帝形象的实质内容",
-    "next_url": "101. 教义/Francis Pieper/人论/04_神圣形象与人性的关系",
-    "next_title": "04_神圣形象与人性的关系"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/04_神圣形象与人性的关系.md",
-    "title": "04_神圣形象与人性的关系",
-    "prev_url": "101. 教义/Francis Pieper/人论/03_广义与狭义的上帝形象",
-    "prev_title": "03_广义与狭义的上帝形象",
-    "next_url": "101. 教义/Francis Pieper/人论/05_拥有神圣形象的直接后果",
-    "next_title": "05_拥有神圣形象的直接后果"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/05_拥有神圣形象的直接后果.md",
-    "title": "05_拥有神圣形象的直接后果",
-    "prev_url": "101. 教义/Francis Pieper/人论/04_神圣形象与人性的关系",
-    "prev_title": "04_神圣形象与人性的关系",
-    "next_url": "101. 教义/Francis Pieper/人论/06_上帝形象的目的",
-    "next_title": "06_上帝形象的目的"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/06_上帝形象的目的.md",
-    "title": "06_上帝形象的目的",
-    "prev_url": "101. 教义/Francis Pieper/人论/05_拥有神圣形象的直接后果",
-    "prev_title": "05_拥有神圣形象的直接后果",
-    "next_url": "101. 教义/Francis Pieper/人论/07_女性与神圣形象",
-    "next_title": "07_女性与神圣形象"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/07_女性与神圣形象.md",
-    "title": "07_女性与神圣形象",
-    "prev_url": "101. 教义/Francis Pieper/人论/06_上帝形象的目的",
-    "prev_title": "06_上帝形象的目的",
-    "next_url": "101. 教义/Francis Pieper/人论/08_B堕落后总论",
-    "next_title": "08_B堕落后总论"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/08_B堕落后总论.md",
-    "title": "08_B堕落后总论",
-    "prev_url": "101. 教义/Francis Pieper/人论/07_女性与神圣形象",
-    "prev_title": "07_女性与神圣形象",
-    "next_url": "101. 教义/Francis Pieper/人论/09_a1罪的定义",
-    "next_title": "09_a1罪的定义"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/09_a1罪的定义.md",
-    "title": "09_a1罪的定义",
-    "prev_url": "101. 教义/Francis Pieper/人论/08_B堕落后总论",
-    "prev_title": "08_B堕落后总论",
-    "next_url": "101. 教义/Francis Pieper/人论/10_a2神圣律法与罪",
-    "next_title": "10_a2神圣律法与罪"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/10_a2神圣律法与罪.md",
-    "title": "10_a2神圣律法与罪",
-    "prev_url": "101. 教义/Francis Pieper/人论/09_a1罪的定义",
-    "prev_title": "09_a1罪的定义",
-    "next_url": "101. 教义/Francis Pieper/人论/11_a3神律如何为人所知",
-    "next_title": "11_a3神律如何为人所知"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/11_a3神律如何为人所知.md",
-    "title": "11_a3神律如何为人所知",
-    "prev_url": "101. 教义/Francis Pieper/人论/10_a2神圣律法与罪",
-    "prev_title": "10_a2神圣律法与罪",
-    "next_url": "101. 教义/Francis Pieper/人论/12_a4罪的原因",
-    "next_title": "12_a4罪的原因"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/12_a4罪的原因.md",
-    "title": "12_a4罪的原因",
-    "prev_url": "101. 教义/Francis Pieper/人论/11_a3神律如何为人所知",
-    "prev_title": "11_a3神律如何为人所知",
-    "next_url": "101. 教义/Francis Pieper/人论/13_a5罪的后果",
-    "next_title": "13_a5罪的后果"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/13_a5罪的后果.md",
-    "title": "13_a5罪的后果",
-    "prev_url": "101. 教义/Francis Pieper/人论/12_a4罪的原因",
-    "prev_title": "12_a4罪的原因",
-    "next_url": "101. 教义/Francis Pieper/人论/14_b1原罪的定义",
-    "next_title": "14_b1原罪的定义"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/14_b1原罪的定义.md",
-    "title": "14_b1原罪的定义",
-    "prev_url": "101. 教义/Francis Pieper/人论/13_a5罪的后果",
-    "prev_title": "13_a5罪的后果",
-    "next_url": "101. 教义/Francis Pieper/人论/15_b2遗传腐败对理智意志的影响",
-    "next_title": "15_b2遗传腐败对理智意志的影响"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/15_b2遗传腐败对理智意志的影响.md",
-    "title": "15_b2遗传腐败对理智意志的影响",
-    "prev_url": "101. 教义/Francis Pieper/人论/14_b1原罪的定义",
-    "prev_title": "14_b1原罪的定义",
-    "next_url": "101. 教义/Francis Pieper/人论/16_b3原罪腐败的消极面与积极面",
-    "next_title": "16_b3原罪腐败的消极面与积极面"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/16_b3原罪腐败的消极面与积极面.md",
-    "title": "16_b3原罪腐败的消极面与积极面",
-    "prev_url": "101. 教义/Francis Pieper/人论/15_b2遗传腐败对理智意志的影响",
-    "prev_title": "15_b2遗传腐败对理智意志的影响",
-    "next_url": "101. 教义/Francis Pieper/人论/17_b4遗传腐败的主体",
-    "next_title": "17_b4遗传腐败的主体"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/17_b4遗传腐败的主体.md",
-    "title": "17_b4遗传腐败的主体",
-    "prev_url": "101. 教义/Francis Pieper/人论/16_b3原罪腐败的消极面与积极面",
-    "prev_title": "16_b3原罪腐败的消极面与积极面",
-    "next_url": "101. 教义/Francis Pieper/人论/18_b5遗传腐败的后果与自由意志",
-    "next_title": "18_b5遗传腐败的后果与自由意志"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/18_b5遗传腐败的后果与自由意志.md",
-    "title": "18_b5遗传腐败的后果与自由意志",
-    "prev_url": "101. 教义/Francis Pieper/人论/17_b4遗传腐败的主体",
-    "prev_title": "17_b4遗传腐败的主体",
-    "next_url": "101. 教义/Francis Pieper/人论/19_c1实际罪的定义",
-    "next_title": "19_c1实际罪的定义"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/19_c1实际罪的定义.md",
-    "title": "19_c1实际罪的定义",
-    "prev_url": "101. 教义/Francis Pieper/人论/18_b5遗传腐败的后果与自由意志",
-    "prev_title": "18_b5遗传腐败的后果与自由意志",
-    "next_url": "101. 教义/Francis Pieper/人论/20_c2实际罪的原因",
-    "next_title": "20_c2实际罪的原因"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/20_c2实际罪的原因.md",
-    "title": "20_c2实际罪的原因",
-    "prev_url": "101. 教义/Francis Pieper/人论/19_c1实际罪的定义",
-    "prev_title": "19_c1实际罪的定义",
-    "next_url": "101. 教义/Francis Pieper/人论/21_c3绊倒的教义",
-    "next_title": "21_c3绊倒的教义"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/21_c3绊倒的教义.md",
-    "title": "21_c3绊倒的教义",
-    "prev_url": "101. 教义/Francis Pieper/人论/20_c2实际罪的原因",
-    "prev_title": "20_c2实际罪的原因",
-    "next_url": "101. 教义/Francis Pieper/人论/22_c4试探的教义",
-    "next_title": "22_c4试探的教义"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/22_c4试探的教义.md",
-    "title": "22_c4试探的教义",
-    "prev_url": "101. 教义/Francis Pieper/人论/21_c3绊倒的教义",
-    "prev_title": "21_c3绊倒的教义",
-    "next_url": "101. 教义/Francis Pieper/人论/23_c5实际罪的分类（a-i）",
-    "next_title": "23_c5实际罪的分类（a-i）"
-  },
-  {
-    "path": "101. 教义/Francis Pieper/人论/23_c5实际罪的分类（a-i）.md",
-    "title": "23_c5实际罪的分类（a-i）",
-    "prev_url": "101. 教义/Francis Pieper/人论/22_c4试探的教义",
-    "prev_title": "22_c4试探的教义",
-    "next_url": "101. 教义/Francis Pieper/卷一_序言_神学的本质与性格/01_我们的立场",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/01_我们的立场",
     "next_title": "01_我们的立场"
   },
   {
-    "path": "101. 教义/Francis Pieper/卷一_序言_神学的本质与性格/01_我们的立场.md",
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/01_我们的立场.md",
     "title": "01_我们的立场",
-    "prev_url": "101. 教义/Francis Pieper/人论/23_c5实际罪的分类（a-i）",
-    "prev_title": "23_c5实际罪的分类（a-i）",
-    "next_url": "101. 教义/Francis Pieper/卷一_序言_神学的本质与性格/02_一般意义上的宗教",
+    "prev_url": "101. 教义/Francis Pieper/论赦罪——施恩具之赦罪形式",
+    "prev_title": "论赦罪——施恩具之赦罪形式",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/02_一般意义上的宗教",
     "next_title": "02_一般意义上的宗教"
   },
   {
-    "path": "101. 教义/Francis Pieper/卷一_序言_神学的本质与性格/02_一般意义上的宗教.md",
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/02_一般意义上的宗教.md",
     "title": "02_一般意义上的宗教",
-    "prev_url": "101. 教义/Francis Pieper/卷一_序言_神学的本质与性格/01_我们的立场",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/01_我们的立场",
     "prev_title": "01_我们的立场",
-    "next_url": "101. 教义/Francis Pieper/卷一_序言_神学的本质与性格/03_世界上宗教的数目",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/03_世界上宗教的数目",
     "next_title": "03_世界上宗教的数目"
   },
   {
-    "path": "101. 教义/Francis Pieper/卷一_序言_神学的本质与性格/03_世界上宗教的数目.md",
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/03_世界上宗教的数目.md",
     "title": "03_世界上宗教的数目",
-    "prev_url": "101. 教义/Francis Pieper/卷一_序言_神学的本质与性格/02_一般意义上的宗教",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/02_一般意义上的宗教",
     "prev_title": "02_一般意义上的宗教",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/04_两种现存宗教的来源",
+    "next_title": "04_两种现存宗教的来源"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/04_两种现存宗教的来源.md",
+    "title": "04_两种现存宗教的来源",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/03_世界上宗教的数目",
+    "prev_title": "03_世界上宗教的数目",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/05_可见基督教内部分裂的原因",
+    "next_title": "05_可见基督教内部分裂的原因"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/05_可见基督教内部分裂的原因.md",
+    "title": "05_可见基督教内部分裂的原因",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/04_两种现存宗教的来源",
+    "prev_title": "04_两种现存宗教的来源",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/06_基督教——绝对宗教",
+    "next_title": "06_基督教——绝对宗教"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/06_基督教——绝对宗教.md",
+    "title": "06_基督教——绝对宗教",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/05_可见基督教内部分裂的原因",
+    "prev_title": "05_可见基督教内部分裂的原因",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/07_基督教宗教与基督教神学",
+    "next_title": "07_基督教宗教与基督教神学"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/07_基督教宗教与基督教神学.md",
+    "title": "07_基督教宗教与基督教神学",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/06_基督教——绝对宗教",
+    "prev_title": "06_基督教——绝对宗教",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/08_基督教神学",
+    "next_title": "08_基督教神学"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/08_基督教神学.md",
+    "title": "08_基督教神学",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/07_基督教宗教与基督教神学",
+    "prev_title": "07_基督教宗教与基督教神学",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/09_作为禀赋的神学",
+    "next_title": "09_作为禀赋的神学"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/09_作为禀赋的神学.md",
+    "title": "09_作为禀赋的神学",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/08_基督教神学",
+    "prev_title": "08_基督教神学",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/10_作为教义的神学（上）",
+    "next_title": "10_作为教义的神学（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/10_作为教义的神学（上）.md",
+    "title": "10_作为教义的神学（上）",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/09_作为禀赋的神学",
+    "prev_title": "09_作为禀赋的神学",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/10_作为教义的神学（下）",
+    "next_title": "10_作为教义的神学（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/10_作为教义的神学（下）.md",
+    "title": "10_作为教义的神学（下）",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/10_作为教义的神学（上）",
+    "prev_title": "10_作为教义的神学（上）",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/11_基督教教义的划分（上）",
+    "next_title": "11_基督教教义的划分（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/11_基督教教义的划分（上）.md",
+    "title": "11_基督教教义的划分（上）",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/10_作为教义的神学（下）",
+    "prev_title": "10_作为教义的神学（下）",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/11_基督教教义的划分（下）",
+    "next_title": "11_基督教教义的划分（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/11_基督教教义的划分（下）.md",
+    "title": "11_基督教教义的划分（下）",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/11_基督教教义的划分（上）",
+    "prev_title": "11_基督教教义的划分（上）",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/12_教会与其教义",
+    "next_title": "12_教会与其教义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/12_教会与其教义.md",
+    "title": "12_教会与其教义",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/11_基督教教义的划分（下）",
+    "prev_title": "11_基督教教义的划分（下）",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/13_神学对人的目的",
+    "next_title": "13_神学对人的目的"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/13_神学对人的目的.md",
+    "title": "13_神学对人的目的",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/12_教会与其教义",
+    "prev_title": "12_教会与其教义",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/14_神学实现目的之方法",
+    "next_title": "14_神学实现目的之方法"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/14_神学实现目的之方法.md",
+    "title": "14_神学实现目的之方法",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/13_神学对人的目的",
+    "prev_title": "13_神学对人的目的",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/15_神学与科学",
+    "next_title": "15_神学与科学"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/15_神学与科学.md",
+    "title": "15_神学与科学",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/14_神学实现目的之方法",
+    "prev_title": "14_神学实现目的之方法",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/16_神学与确定性",
+    "next_title": "16_神学与确定性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/16_神学与确定性.md",
+    "title": "16_神学与确定性",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/15_神学与科学",
+    "prev_title": "15_神学与科学",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/17_神学与教义发展",
+    "next_title": "17_神学与教义发展"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/17_神学与教义发展.md",
+    "title": "17_神学与教义发展",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/16_神学与确定性",
+    "prev_title": "16_神学与确定性",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/18_神学与教义自由",
+    "next_title": "18_神学与教义自由"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/18_神学与教义自由.md",
+    "title": "18_神学与教义自由",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/17_神学与教义发展",
+    "prev_title": "17_神学与教义发展",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/19_神学与体系",
+    "next_title": "19_神学与体系"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/19_神学与体系.md",
+    "title": "19_神学与体系",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/18_神学与教义自由",
+    "prev_title": "18_神学与教义自由",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/20_神学与方法（上）",
+    "next_title": "20_神学与方法（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/20_神学与方法（上）.md",
+    "title": "20_神学与方法（上）",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/19_神学与体系",
+    "prev_title": "19_神学与体系",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/20_神学与方法（下）",
+    "next_title": "20_神学与方法（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/20_神学与方法（下）.md",
+    "title": "20_神学与方法（下）",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/20_神学与方法（上）",
+    "prev_title": "20_神学与方法（上）",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/21_神学禀赋的获得（上）",
+    "next_title": "21_神学禀赋的获得（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/21_神学禀赋的获得（上）.md",
+    "title": "21_神学禀赋的获得（上）",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/20_神学与方法（下）",
+    "prev_title": "20_神学与方法（下）",
+    "next_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/21_神学禀赋的获得（下）",
+    "next_title": "21_神学禀赋的获得（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/21_神学禀赋的获得（下）.md",
+    "title": "21_神学禀赋的获得（下）",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/21_神学禀赋的获得（上）",
+    "prev_title": "21_神学禀赋的获得（上）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/01_圣经是今日教会基督教教义的唯一源泉与准则（上）",
+    "next_title": "01_圣经是今日教会基督教教义的唯一源泉与准则（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/01_圣经是今日教会基督教教义的唯一源泉与准则（上）.md",
+    "title": "01_圣经是今日教会基督教教义的唯一源泉与准则（上）",
+    "prev_url": "101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/21_神学禀赋的获得（下）",
+    "prev_title": "21_神学禀赋的获得（下）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/01_圣经是今日教会基督教教义的唯一源泉与准则（下）",
+    "next_title": "01_圣经是今日教会基督教教义的唯一源泉与准则（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/01_圣经是今日教会基督教教义的唯一源泉与准则（下）.md",
+    "title": "01_圣经是今日教会基督教教义的唯一源泉与准则（下）",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/01_圣经是今日教会基督教教义的唯一源泉与准则（上）",
+    "prev_title": "01_圣经是今日教会基督教教义的唯一源泉与准则（上）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/02_圣经与上帝话语同一",
+    "next_title": "02_圣经与上帝话语同一"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/02_圣经与上帝话语同一.md",
+    "title": "02_圣经与上帝话语同一",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/01_圣经是今日教会基督教教义的唯一源泉与准则（下）",
+    "prev_title": "01_圣经是今日教会基督教教义的唯一源泉与准则（下）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/03_圣经的逐字默示",
+    "next_title": "03_圣经的逐字默示"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/03_圣经的逐字默示.md",
+    "title": "03_圣经的逐字默示",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/02_圣经与上帝话语同一",
+    "prev_title": "02_圣经与上帝话语同一",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/04_圣灵与圣经作者的关系",
+    "next_title": "04_圣灵与圣经作者的关系"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/04_圣灵与圣经作者的关系.md",
+    "title": "04_圣灵与圣经作者的关系",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/03_圣经的逐字默示",
+    "prev_title": "03_圣经的逐字默示",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/05_反对默示教义的异议（上）",
+    "next_title": "05_反对默示教义的异议（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/05_反对默示教义的异议（上）.md",
+    "title": "05_反对默示教义的异议（上）",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/04_圣灵与圣经作者的关系",
+    "prev_title": "04_圣灵与圣经作者的关系",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/05_反对默示教义的异议（下）",
+    "next_title": "05_反对默示教义的异议（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/05_反对默示教义的异议（下）.md",
+    "title": "05_反对默示教义的异议（下）",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/05_反对默示教义的异议（上）",
+    "prev_title": "05_反对默示教义的异议（上）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/06_默示教义的历史",
+    "next_title": "06_默示教义的历史"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/06_默示教义的历史.md",
+    "title": "06_默示教义的历史",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/05_反对默示教义的异议（下）",
+    "prev_title": "05_反对默示教义的异议（下）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/07_路德与圣经的默示（上）",
+    "next_title": "07_路德与圣经的默示（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/07_路德与圣经的默示（上）.md",
+    "title": "07_路德与圣经的默示（上）",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/06_默示教义的历史",
+    "prev_title": "06_默示教义的历史",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/07_路德与圣经的默示（下）",
+    "next_title": "07_路德与圣经的默示（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/07_路德与圣经的默示（下）.md",
+    "title": "07_路德与圣经的默示（下）",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/07_路德与圣经的默示（上）",
+    "prev_title": "07_路德与圣经的默示（上）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/08_对否认圣经默示之现代神学的简评",
+    "next_title": "08_对否认圣经默示之现代神学的简评"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/08_对否认圣经默示之现代神学的简评.md",
+    "title": "08_对否认圣经默示之现代神学的简评",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/07_路德与圣经的默示（下）",
+    "prev_title": "07_路德与圣经的默示（下）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/09_否认圣经默示的后果",
+    "next_title": "09_否认圣经默示的后果"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/09_否认圣经默示的后果.md",
+    "title": "09_否认圣经默示的后果",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/08_对否认圣经默示之现代神学的简评",
+    "prev_title": "08_对否认圣经默示之现代神学的简评",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/10_圣经的属性（上）",
+    "next_title": "10_圣经的属性（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/10_圣经的属性（上）.md",
+    "title": "10_圣经的属性（上）",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/09_否认圣经默示的后果",
+    "prev_title": "09_否认圣经默示的后果",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/10_圣经的属性（下）",
+    "next_title": "10_圣经的属性（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/10_圣经的属性（下）.md",
+    "title": "10_圣经的属性（下）",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/10_圣经的属性（上）",
+    "prev_title": "10_圣经的属性（上）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/11_历史对圣经的见证",
+    "next_title": "11_历史对圣经的见证"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/11_历史对圣经的见证.md",
+    "title": "11_历史对圣经的见证",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/10_圣经的属性（下）",
+    "prev_title": "10_圣经的属性（下）",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/12_圣经原文的完整性",
+    "next_title": "12_圣经原文的完整性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/12_圣经原文的完整性.md",
+    "title": "12_圣经原文的完整性",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/11_历史对圣经的见证",
+    "prev_title": "11_历史对圣经的见证",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/13_圣经原文与译本",
+    "next_title": "13_圣经原文与译本"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/13_圣经原文与译本.md",
+    "title": "13_圣经原文与译本",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/12_圣经原文的完整性",
+    "prev_title": "12_圣经原文的完整性",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/14_圣经在解决教义争论中的运用",
+    "next_title": "14_圣经在解决教义争论中的运用"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/14_圣经在解决教义争论中的运用.md",
+    "title": "14_圣经在解决教义争论中的运用",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/13_圣经原文与译本",
+    "prev_title": "13_圣经原文与译本",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/15_圣经的权威与信条书",
+    "next_title": "15_圣经的权威与信条书"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/15_圣经的权威与信条书.md",
+    "title": "15_圣经的权威与信条书",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/14_圣经在解决教义争论中的运用",
+    "prev_title": "14_圣经在解决教义争论中的运用",
+    "next_url": "101. 教义/Francis Pieper/102_卷一_圣经论/16_圣经与释经",
+    "next_title": "16_圣经与释经"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/102_卷一_圣经论/16_圣经与释经.md",
+    "title": "16_圣经与释经",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/15_圣经的权威与信条书",
+    "prev_title": "15_圣经的权威与信条书",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/01_上帝的自然知识",
+    "next_title": "01_上帝的自然知识"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/01_上帝的自然知识.md",
+    "title": "01_上帝的自然知识",
+    "prev_url": "101. 教义/Francis Pieper/102_卷一_圣经论/16_圣经与释经",
+    "prev_title": "16_圣经与释经",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/02_上帝的基督徒知识",
+    "next_title": "02_上帝的基督徒知识"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/02_上帝的基督徒知识.md",
+    "title": "02_上帝的基督徒知识",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/01_上帝的自然知识",
+    "prev_title": "01_上帝的自然知识",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/03_三一论争",
+    "next_title": "03_三一论争"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/03_三一论争.md",
+    "title": "03_三一论争",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/02_上帝的基督徒知识",
+    "prev_title": "02_上帝的基督徒知识",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/04_反对上帝合一性的异议",
+    "next_title": "04_反对上帝合一性的异议"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/04_反对上帝合一性的异议.md",
+    "title": "04_反对上帝合一性的异议",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/03_三一论争",
+    "prev_title": "03_三一论争",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/05_旧约中的三一论",
+    "next_title": "05_旧约中的三一论"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/05_旧约中的三一论.md",
+    "title": "05_旧约中的三一论",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/04_反对上帝合一性的异议",
+    "prev_title": "04_反对上帝合一性的异议",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/06_三一论与人类理性",
+    "next_title": "06_三一论与人类理性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/06_三一论与人类理性.md",
+    "title": "06_三一论与人类理性",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/05_旧约中的三一论",
+    "prev_title": "05_旧约中的三一论",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/07_教会术语与基督徒的上帝知识",
+    "next_title": "07_教会术语与基督徒的上帝知识"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/07_教会术语与基督徒的上帝知识.md",
+    "title": "07_教会术语与基督徒的上帝知识",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/06_三一论与人类理性",
+    "prev_title": "06_三一论与人类理性",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/08_神的本质与属性（上）",
+    "next_title": "08_神的本质与属性（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/08_神的本质与属性（上）.md",
+    "title": "08_神的本质与属性（上）",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/07_教会术语与基督徒的上帝知识",
+    "prev_title": "07_教会术语与基督徒的上帝知识",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/09_神的本质与属性（下）",
+    "next_title": "09_神的本质与属性（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/09_神的本质与属性（下）.md",
+    "title": "09_神的本质与属性（下）",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/08_神的本质与属性（上）",
+    "prev_title": "08_神的本质与属性（上）",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/10_神的全知（正篇）",
+    "next_title": "10_神的全知（正篇）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/10_神的全知（正篇）.md",
+    "title": "10_神的全知（正篇）",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/09_神的本质与属性（下）",
+    "prev_title": "09_神的本质与属性（下）",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/11_神的全知（续）——预知与自由意志问题",
+    "next_title": "11_神的全知（续）——预知与自由意志问题"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/11_神的全知（续）——预知与自由意志问题.md",
+    "title": "11_神的全知（续）——预知与自由意志问题",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/10_神的全知（正篇）",
+    "prev_title": "10_神的全知（正篇）",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/12_神的智慧（Sapientia Dei）",
+    "next_title": "12_神的智慧（Sapientia Dei）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/12_神的智慧（Sapientia Dei）.md",
+    "title": "12_神的智慧（Sapientia Dei）",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/11_神的全知（续）——预知与自由意志问题",
+    "prev_title": "11_神的全知（续）——预知与自由意志问题",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/13_神意志的属性——导论与分类",
+    "next_title": "13_神意志的属性——导论与分类"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/13_神意志的属性——导论与分类.md",
+    "title": "13_神意志的属性——导论与分类",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/12_神的智慧（Sapientia Dei）",
+    "prev_title": "12_神的智慧（Sapientia Dei）",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/14_神的圣洁（Sanctitas Dei）",
+    "next_title": "14_神的圣洁（Sanctitas Dei）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/14_神的圣洁（Sanctitas Dei）.md",
+    "title": "14_神的圣洁（Sanctitas Dei）",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/13_神意志的属性——导论与分类",
+    "prev_title": "13_神意志的属性——导论与分类",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/15_神的公义（Iustitia Dei）",
+    "next_title": "15_神的公义（Iustitia Dei）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/15_神的公义（Iustitia Dei）.md",
+    "title": "15_神的公义（Iustitia Dei）",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/14_神的圣洁（Sanctitas Dei）",
+    "prev_title": "14_神的圣洁（Sanctitas Dei）",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/16_神的真实（Veracitas Dei）",
+    "next_title": "16_神的真实（Veracitas Dei）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/16_神的真实（Veracitas Dei）.md",
+    "title": "16_神的真实（Veracitas Dei）",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/15_神的公义（Iustitia Dei）",
+    "prev_title": "15_神的公义（Iustitia Dei）",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/17_神的全能（Potentia Dei）",
+    "next_title": "17_神的全能（Potentia Dei）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/17_神的全能（Potentia Dei）.md",
+    "title": "17_神的全能（Potentia Dei）",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/16_神的真实（Veracitas Dei）",
+    "prev_title": "16_神的真实（Veracitas Dei）",
+    "next_url": "101. 教义/Francis Pieper/103_卷一_神论/18_神的慈善、怜悯、慈爱、恩典与长忍（Bonitas等）",
+    "next_title": "18_神的慈善、怜悯、慈爱、恩典与长忍（Bonitas等）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/103_卷一_神论/18_神的慈善、怜悯、慈爱、恩典与长忍（Bonitas等）.md",
+    "title": "18_神的慈善、怜悯、慈爱、恩典与长忍（Bonitas等）",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/17_神的全能（Potentia Dei）",
+    "prev_title": "17_神的全能（Potentia Dei）",
+    "next_url": "101. 教义/Francis Pieper/104_卷一_创造论/01_创造的记录",
+    "next_title": "01_创造的记录"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/104_卷一_创造论/01_创造的记录.md",
+    "title": "01_创造的记录",
+    "prev_url": "101. 教义/Francis Pieper/103_卷一_神论/18_神的慈善、怜悯、慈爱、恩典与长忍（Bonitas等）",
+    "prev_title": "18_神的慈善、怜悯、慈爱、恩典与长忍（Bonitas等）",
+    "next_url": "101. 教义/Francis Pieper/104_卷一_创造论/02_创造的定义",
+    "next_title": "02_创造的定义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/104_卷一_创造论/02_创造的定义.md",
+    "title": "02_创造的定义",
+    "prev_url": "101. 教义/Francis Pieper/104_卷一_创造论/01_创造的记录",
+    "prev_title": "01_创造的记录",
+    "next_url": "101. 教义/Francis Pieper/104_卷一_创造论/03_六日创造",
+    "next_title": "03_六日创造"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/104_卷一_创造论/03_六日创造.md",
+    "title": "03_六日创造",
+    "prev_url": "101. 教义/Francis Pieper/104_卷一_创造论/02_创造的定义",
+    "prev_title": "02_创造的定义",
+    "next_url": "101. 教义/Francis Pieper/104_卷一_创造论/04_创造中的秩序",
+    "next_title": "04_创造中的秩序"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/104_卷一_创造论/04_创造中的秩序.md",
+    "title": "04_创造中的秩序",
+    "prev_url": "101. 教义/Francis Pieper/104_卷一_创造论/03_六日创造",
+    "prev_title": "03_六日创造",
+    "next_url": "101. 教义/Francis Pieper/104_卷一_创造论/05_六日工作详解（上）",
+    "next_title": "05_六日工作详解（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/104_卷一_创造论/05_六日工作详解（上）.md",
+    "title": "05_六日工作详解（上）",
+    "prev_url": "101. 教义/Francis Pieper/104_卷一_创造论/04_创造中的秩序",
+    "prev_title": "04_创造中的秩序",
+    "next_url": "101. 教义/Francis Pieper/104_卷一_创造论/05_六日工作详解（下）",
+    "next_title": "05_六日工作详解（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/104_卷一_创造论/05_六日工作详解（下）.md",
+    "title": "05_六日工作详解（下）",
+    "prev_url": "101. 教义/Francis Pieper/104_卷一_创造论/05_六日工作详解（上）",
+    "prev_title": "05_六日工作详解（上）",
+    "next_url": "101. 教义/Francis Pieper/105_卷一_天使论/01_天使的存在与受造时间",
+    "next_title": "01_天使的存在与受造时间"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/105_卷一_天使论/01_天使的存在与受造时间.md",
+    "title": "01_天使的存在与受造时间",
+    "prev_url": "101. 教义/Francis Pieper/104_卷一_创造论/05_六日工作详解（下）",
+    "prev_title": "05_六日工作详解（下）",
+    "next_url": "101. 教义/Francis Pieper/105_卷一_天使论/02_\"天使\"之名",
+    "next_title": "02_\"天使\"之名"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/105_卷一_天使论/02_\"天使\"之名.md",
+    "title": "02_\"天使\"之名",
+    "prev_url": "101. 教义/Francis Pieper/105_卷一_天使论/01_天使的存在与受造时间",
+    "prev_title": "01_天使的存在与受造时间",
+    "next_url": "101. 教义/Francis Pieper/105_卷一_天使论/03_天使的本性与属性",
+    "next_title": "03_天使的本性与属性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/105_卷一_天使论/03_天使的本性与属性.md",
+    "title": "03_天使的本性与属性",
+    "prev_url": "101. 教义/Francis Pieper/105_卷一_天使论/02_\"天使\"之名",
+    "prev_title": "02_\"天使\"之名",
+    "next_url": "101. 教义/Francis Pieper/105_卷一_天使论/04_天使的数目与等级",
+    "next_title": "04_天使的数目与等级"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/105_卷一_天使论/04_天使的数目与等级.md",
+    "title": "04_天使的数目与等级",
+    "prev_url": "101. 教义/Francis Pieper/105_卷一_天使论/03_天使的本性与属性",
+    "prev_title": "03_天使的本性与属性",
+    "next_url": "101. 教义/Francis Pieper/105_卷一_天使论/05_善天使与恶天使",
+    "next_title": "05_善天使与恶天使"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/105_卷一_天使论/05_善天使与恶天使.md",
+    "title": "05_善天使与恶天使",
+    "prev_url": "101. 教义/Francis Pieper/105_卷一_天使论/04_天使的数目与等级",
+    "prev_title": "04_天使的数目与等级",
+    "next_url": "101. 教义/Francis Pieper/105_卷一_天使论/06_善天使及其活动",
+    "next_title": "06_善天使及其活动"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/105_卷一_天使论/06_善天使及其活动.md",
+    "title": "06_善天使及其活动",
+    "prev_url": "101. 教义/Francis Pieper/105_卷一_天使论/05_善天使与恶天使",
+    "prev_title": "05_善天使与恶天使",
+    "next_url": "101. 教义/Francis Pieper/105_卷一_天使论/07_恶天使及其活动与永恒刑罚",
+    "next_title": "07_恶天使及其活动与永恒刑罚"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/105_卷一_天使论/07_恶天使及其活动与永恒刑罚.md",
+    "title": "07_恶天使及其活动与永恒刑罚",
+    "prev_url": "101. 教义/Francis Pieper/105_卷一_天使论/06_善天使及其活动",
+    "prev_title": "06_善天使及其活动",
+    "next_url": "101. 教义/Francis Pieper/106_卷一_护理论/01_神圣护理的定义",
+    "next_title": "01_神圣护理的定义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/106_卷一_护理论/01_神圣护理的定义.md",
+    "title": "01_神圣护理的定义",
+    "prev_url": "101. 教义/Francis Pieper/105_卷一_天使论/07_恶天使及其活动与永恒刑罚",
+    "prev_title": "07_恶天使及其活动与永恒刑罚",
+    "next_url": "101. 教义/Francis Pieper/106_卷一_护理论/02_神圣护理与次因的关系",
+    "next_title": "02_神圣护理与次因的关系"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/106_卷一_护理论/02_神圣护理与次因的关系.md",
+    "title": "02_神圣护理与次因的关系",
+    "prev_url": "101. 教义/Francis Pieper/106_卷一_护理论/01_神圣护理的定义",
+    "prev_title": "01_神圣护理的定义",
+    "next_url": "101. 教义/Francis Pieper/106_卷一_护理论/03_神圣护理与罪",
+    "next_title": "03_神圣护理与罪"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/106_卷一_护理论/03_神圣护理与罪.md",
+    "title": "03_神圣护理与罪",
+    "prev_url": "101. 教义/Francis Pieper/106_卷一_护理论/02_神圣护理与次因的关系",
+    "prev_title": "02_神圣护理与次因的关系",
+    "next_url": "101. 教义/Francis Pieper/106_卷一_护理论/04_上帝允许人犯罪吗",
+    "next_title": "04_上帝允许人犯罪吗"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/106_卷一_护理论/04_上帝允许人犯罪吗.md",
+    "title": "04_上帝允许人犯罪吗",
+    "prev_url": "101. 教义/Francis Pieper/106_卷一_护理论/03_神圣护理与罪",
+    "prev_title": "03_神圣护理与罪",
+    "next_url": "101. 教义/Francis Pieper/106_卷一_护理论/05_神圣护理与自由意志",
+    "next_title": "05_神圣护理与自由意志"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/106_卷一_护理论/05_神圣护理与自由意志.md",
+    "title": "05_神圣护理与自由意志",
+    "prev_url": "101. 教义/Francis Pieper/106_卷一_护理论/04_上帝允许人犯罪吗",
+    "prev_title": "04_上帝允许人犯罪吗",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/01_人论与堕落前的人",
+    "next_title": "01_人论与堕落前的人"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/01_人论与堕落前的人.md",
+    "title": "01_人论与堕落前的人",
+    "prev_url": "101. 教义/Francis Pieper/106_卷一_护理论/05_神圣护理与自由意志",
+    "prev_title": "05_神圣护理与自由意志",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/02_上帝形象的实质内容",
+    "next_title": "02_上帝形象的实质内容"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/02_上帝形象的实质内容.md",
+    "title": "02_上帝形象的实质内容",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/01_人论与堕落前的人",
+    "prev_title": "01_人论与堕落前的人",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/03_广义与狭义的上帝形象",
+    "next_title": "03_广义与狭义的上帝形象"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/03_广义与狭义的上帝形象.md",
+    "title": "03_广义与狭义的上帝形象",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/02_上帝形象的实质内容",
+    "prev_title": "02_上帝形象的实质内容",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/04_神圣形象与人性的关系",
+    "next_title": "04_神圣形象与人性的关系"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/04_神圣形象与人性的关系.md",
+    "title": "04_神圣形象与人性的关系",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/03_广义与狭义的上帝形象",
+    "prev_title": "03_广义与狭义的上帝形象",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/05_拥有神圣形象的直接后果",
+    "next_title": "05_拥有神圣形象的直接后果"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/05_拥有神圣形象的直接后果.md",
+    "title": "05_拥有神圣形象的直接后果",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/04_神圣形象与人性的关系",
+    "prev_title": "04_神圣形象与人性的关系",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/06_上帝形象的目的",
+    "next_title": "06_上帝形象的目的"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/06_上帝形象的目的.md",
+    "title": "06_上帝形象的目的",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/05_拥有神圣形象的直接后果",
+    "prev_title": "05_拥有神圣形象的直接后果",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/07_女性与神圣形象",
+    "next_title": "07_女性与神圣形象"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/07_女性与神圣形象.md",
+    "title": "07_女性与神圣形象",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/06_上帝形象的目的",
+    "prev_title": "06_上帝形象的目的",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/08_堕落后总论",
+    "next_title": "08_堕落后总论"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/08_堕落后总论.md",
+    "title": "08_堕落后总论",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/07_女性与神圣形象",
+    "prev_title": "07_女性与神圣形象",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/09_罪的定义",
+    "next_title": "09_罪的定义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/09_罪的定义.md",
+    "title": "09_罪的定义",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/08_堕落后总论",
+    "prev_title": "08_堕落后总论",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/10_神圣律法与罪",
+    "next_title": "10_神圣律法与罪"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/10_神圣律法与罪.md",
+    "title": "10_神圣律法与罪",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/09_罪的定义",
+    "prev_title": "09_罪的定义",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/11_神律如何为人所知",
+    "next_title": "11_神律如何为人所知"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/11_神律如何为人所知.md",
+    "title": "11_神律如何为人所知",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/10_神圣律法与罪",
+    "prev_title": "10_神圣律法与罪",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/12_罪的原因",
+    "next_title": "12_罪的原因"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/12_罪的原因.md",
+    "title": "12_罪的原因",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/11_神律如何为人所知",
+    "prev_title": "11_神律如何为人所知",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/13_罪的后果",
+    "next_title": "13_罪的后果"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/13_罪的后果.md",
+    "title": "13_罪的后果",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/12_罪的原因",
+    "prev_title": "12_罪的原因",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/14_原罪的定义",
+    "next_title": "14_原罪的定义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/14_原罪的定义.md",
+    "title": "14_原罪的定义",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/13_罪的后果",
+    "prev_title": "13_罪的后果",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/15_遗传腐败对理智意志的影响",
+    "next_title": "15_遗传腐败对理智意志的影响"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/15_遗传腐败对理智意志的影响.md",
+    "title": "15_遗传腐败对理智意志的影响",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/14_原罪的定义",
+    "prev_title": "14_原罪的定义",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/16_原罪腐败的消极面与积极面",
+    "next_title": "16_原罪腐败的消极面与积极面"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/16_原罪腐败的消极面与积极面.md",
+    "title": "16_原罪腐败的消极面与积极面",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/15_遗传腐败对理智意志的影响",
+    "prev_title": "15_遗传腐败对理智意志的影响",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/17_遗传腐败的主体",
+    "next_title": "17_遗传腐败的主体"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/17_遗传腐败的主体.md",
+    "title": "17_遗传腐败的主体",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/16_原罪腐败的消极面与积极面",
+    "prev_title": "16_原罪腐败的消极面与积极面",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/18_遗传腐败的后果与自由意志",
+    "next_title": "18_遗传腐败的后果与自由意志"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/18_遗传腐败的后果与自由意志.md",
+    "title": "18_遗传腐败的后果与自由意志",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/17_遗传腐败的主体",
+    "prev_title": "17_遗传腐败的主体",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/19_实际罪的定义",
+    "next_title": "19_实际罪的定义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/19_实际罪的定义.md",
+    "title": "19_实际罪的定义",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/18_遗传腐败的后果与自由意志",
+    "prev_title": "18_遗传腐败的后果与自由意志",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/20_实际罪的原因",
+    "next_title": "20_实际罪的原因"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/20_实际罪的原因.md",
+    "title": "20_实际罪的原因",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/19_实际罪的定义",
+    "prev_title": "19_实际罪的定义",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/21_绊倒的教义",
+    "next_title": "21_绊倒的教义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/21_绊倒的教义.md",
+    "title": "21_绊倒的教义",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/20_实际罪的原因",
+    "prev_title": "20_实际罪的原因",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/22_试探的教义",
+    "next_title": "22_试探的教义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/22_试探的教义.md",
+    "title": "22_试探的教义",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/21_绊倒的教义",
+    "prev_title": "21_绊倒的教义",
+    "next_url": "101. 教义/Francis Pieper/107_卷一_人论/23_实际罪的分类（a-i）",
+    "next_title": "23_实际罪的分类（a-i）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/107_卷一_人论/23_实际罪的分类（a-i）.md",
+    "title": "23_实际罪的分类（a-i）",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/22_试探的教义",
+    "prev_title": "22_试探的教义",
+    "next_url": "101. 教义/Francis Pieper/201_卷二_恩典论/01_恩典的必要性",
+    "next_title": "01_恩典的必要性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/201_卷二_恩典论/01_恩典的必要性.md",
+    "title": "01_恩典的必要性",
+    "prev_url": "101. 教义/Francis Pieper/107_卷一_人论/23_实际罪的分类（a-i）",
+    "prev_title": "23_实际罪的分类（a-i）",
+    "next_url": "101. 教义/Francis Pieper/201_卷二_恩典论/02_救恩之恩典的概念",
+    "next_title": "02_救恩之恩典的概念"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/201_卷二_恩典论/02_救恩之恩典的概念.md",
+    "title": "02_救恩之恩典的概念",
+    "prev_url": "101. 教义/Francis Pieper/201_卷二_恩典论/01_恩典的必要性",
+    "prev_title": "01_恩典的必要性",
+    "next_url": "101. 教义/Francis Pieper/201_卷二_恩典论/03_救恩之恩典的属性",
+    "next_title": "03_救恩之恩典的属性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/201_卷二_恩典论/03_救恩之恩典的属性.md",
+    "title": "03_救恩之恩典的属性",
+    "prev_url": "101. 教义/Francis Pieper/201_卷二_恩典论/02_救恩之恩典的概念",
+    "prev_title": "02_救恩之恩典的概念",
+    "next_url": "101. 教义/Francis Pieper/201_卷二_恩典论/04_关于上帝恩典旨意的神学术语",
+    "next_title": "04_关于上帝恩典旨意的神学术语"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/201_卷二_恩典论/04_关于上帝恩典旨意的神学术语.md",
+    "title": "04_关于上帝恩典旨意的神学术语",
+    "prev_url": "101. 教义/Francis Pieper/201_卷二_恩典论/03_救恩之恩典的属性",
+    "prev_title": "03_救恩之恩典的属性",
+    "next_url": "101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与——概论（上）",
+    "next_title": "05_救恩的施与——概论（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与——概论（上）.md",
+    "title": "05_救恩的施与——概论（上）",
+    "prev_url": "101. 教义/Francis Pieper/201_卷二_恩典论/04_关于上帝恩典旨意的神学术语",
+    "prev_title": "04_关于上帝恩典旨意的神学术语",
+    "next_url": "101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与——概论（下）",
+    "next_title": "05_救恩的施与——概论（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与——概论（下）.md",
+    "title": "05_救恩的施与——概论（下）",
+    "prev_url": "101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与——概论（上）",
+    "prev_title": "05_救恩的施与——概论（上）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/00_基督论各节注释（第28-197条）",
+    "next_title": "00_基督论各节注释（第28-197条）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/00_基督论各节注释（第28-197条）.md",
+    "title": "00_基督论各节注释（第28-197条）",
+    "prev_url": "101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与——概论（下）",
+    "prev_title": "05_救恩的施与——概论（下）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/01_基督的真神性",
+    "next_title": "01_基督的真神性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/01_基督的真神性.md",
+    "title": "01_基督的真神性",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/00_基督论各节注释（第28-197条）",
+    "prev_title": "00_基督论各节注释（第28-197条）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/02_基督的真人性",
+    "next_title": "02_基督的真人性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/02_基督的真人性.md",
+    "title": "02_基督的真人性",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/01_基督的真神性",
+    "prev_title": "01_基督的真神性",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/03_位格联合（上）",
+    "next_title": "03_位格联合（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/03_位格联合（上）.md",
+    "title": "03_位格联合（上）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/02_基督的真人性",
+    "prev_title": "02_基督的真人性",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/04_位格联合与现代基督论诸说",
+    "next_title": "04_位格联合与现代基督论诸说"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/04_位格联合与现代基督论诸说.md",
+    "title": "04_位格联合与现代基督论诸说",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/03_位格联合（上）",
+    "prev_title": "03_位格联合（上）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/05_属性相通——导言与第一属（Genus Idiomaticum）",
+    "next_title": "05_属性相通——导言与第一属（Genus Idiomaticum）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/05_属性相通——导言与第一属（Genus Idiomaticum）.md",
+    "title": "05_属性相通——导言与第一属（Genus Idiomaticum）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/04_位格联合与现代基督论诸说",
+    "prev_title": "04_位格联合与现代基督论诸说",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/06_第二属无对等性",
+    "next_title": "06_第二属无对等性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/06_第二属无对等性.md",
+    "title": "06_第二属无对等性",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/05_属性相通——导言与第一属（Genus Idiomaticum）",
+    "prev_title": "05_属性相通——导言与第一属（Genus Idiomaticum）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/07_所有神圣属性皆传达给人性",
+    "next_title": "07_所有神圣属性皆传达给人性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/07_所有神圣属性皆传达给人性.md",
+    "title": "07_所有神圣属性皆传达给人性",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/06_第二属无对等性",
+    "prev_title": "06_第二属无对等性",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/08_传通遍在——经文论证续（弗一至太廿八）",
+    "next_title": "08_传通遍在——经文论证续（弗一至太廿八）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/08_传通遍在——经文论证续（弗一至太廿八）.md",
+    "title": "08_传通遍在——经文论证续（弗一至太廿八）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/07_所有神圣属性皆传达给人性",
+    "prev_title": "07_所有神圣属性皆传达给人性",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/09_基督人性遍在的方式（上）",
+    "next_title": "09_基督人性遍在的方式（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/09_基督人性遍在的方式（上）.md",
+    "title": "09_基督人性遍在的方式（上）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/08_传通遍在——经文论证续（弗一至太廿八）",
+    "prev_title": "08_传通遍在——经文论证续（弗一至太廿八）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/09_基督人性遍在的方式（下）",
+    "next_title": "09_基督人性遍在的方式（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/09_基督人性遍在的方式（下）.md",
+    "title": "09_基督人性遍在的方式（下）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/09_基督人性遍在的方式（上）",
+    "prev_title": "09_基督人性遍在的方式（上）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/10_传通遍在与圣餐",
+    "next_title": "10_传通遍在与圣餐"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/10_传通遍在与圣餐.md",
+    "title": "10_传通遍在与圣餐",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/09_基督人性遍在的方式（下）",
+    "prev_title": "09_基督人性遍在的方式（下）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/11_路德宗与改革宗在第三属使用相同术语的不同含义",
+    "next_title": "11_路德宗与改革宗在第三属使用相同术语的不同含义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/11_路德宗与改革宗在第三属使用相同术语的不同含义.md",
+    "title": "11_路德宗与改革宗在第三属使用相同术语的不同含义",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/10_传通遍在与圣餐",
+    "prev_title": "10_传通遍在与圣餐",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/12_第三属中对优提克斯主义与聂斯多留主义的驳斥",
+    "next_title": "12_第三属中对优提克斯主义与聂斯多留主义的驳斥"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/12_第三属中对优提克斯主义与聂斯多留主义的驳斥.md",
+    "title": "12_第三属中对优提克斯主义与聂斯多留主义的驳斥",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/11_路德宗与改革宗在第三属使用相同术语的不同含义",
+    "prev_title": "11_路德宗与改革宗在第三属使用相同术语的不同含义",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/13_改革宗基督论综合批判",
+    "next_title": "13_改革宗基督论综合批判"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/13_改革宗基督论综合批判.md",
+    "title": "13_改革宗基督论综合批判",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/12_第三属中对优提克斯主义与聂斯多留主义的驳斥",
+    "prev_title": "12_第三属中对优提克斯主义与聂斯多留主义的驳斥",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/14_基督的复活升天与再来",
+    "next_title": "14_基督的复活升天与再来"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/14_基督的复活升天与再来.md",
+    "title": "14_基督的复活升天与再来",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/13_改革宗基督论综合批判",
+    "prev_title": "13_改革宗基督论综合批判",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/15_基督的职分：总论与先知职分",
+    "next_title": "15_基督的职分：总论与先知职分"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/15_基督的职分：总论与先知职分.md",
+    "title": "15_基督的职分：总论与先知职分",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/14_基督的复活升天与再来",
+    "prev_title": "14_基督的复活升天与再来",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/16_祭司职分与代赎满足（上）",
+    "next_title": "16_祭司职分与代赎满足（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/16_祭司职分与代赎满足（上）.md",
+    "title": "16_祭司职分与代赎满足（上）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/15_基督的职分：总论与先知职分",
+    "prev_title": "15_基督的职分：总论与先知职分",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/17_祭司职分与代赎满足（下）",
+    "next_title": "17_祭司职分与代赎满足（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/17_祭司职分与代赎满足（下）.md",
+    "title": "17_祭司职分与代赎满足（下）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/16_祭司职分与代赎满足（上）",
+    "prev_title": "16_祭司职分与代赎满足（上）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/18_当代赎罪论诸异端批判（续）",
+    "next_title": "18_当代赎罪论诸异端批判（续）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/18_当代赎罪论诸异端批判（续）.md",
+    "title": "18_当代赎罪论诸异端批判（续）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/17_祭司职分与代赎满足（下）",
+    "prev_title": "17_祭司职分与代赎满足（下）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/19_基督的主动顺服与旧约祭祀",
+    "next_title": "19_基督的主动顺服与旧约祭祀"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/19_基督的主动顺服与旧约祭祀.md",
+    "title": "19_基督的主动顺服与旧约祭祀",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/18_当代赎罪论诸异端批判（续）",
+    "prev_title": "18_当代赎罪论诸异端批判（续）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/20_代赎的对象_基督的代求与升举状态中的祭司职分",
+    "next_title": "20_代赎的对象_基督的代求与升举状态中的祭司职分"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/20_代赎的对象_基督的代求与升举状态中的祭司职分.md",
+    "title": "20_代赎的对象_基督的代求与升举状态中的祭司职分",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/19_基督的主动顺服与旧约祭祀",
+    "prev_title": "19_基督的主动顺服与旧约祭祀",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/21_卑辱与升举的本质（上）",
+    "next_title": "21_卑辱与升举的本质（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/21_卑辱与升举的本质（上）.md",
+    "title": "21_卑辱与升举的本质（上）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/20_代赎的对象_基督的代求与升举状态中的祭司职分",
+    "prev_title": "20_代赎的对象_基督的代求与升举状态中的祭司职分",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/21_卑辱与升举的本质（下）",
+    "next_title": "21_卑辱与升举的本质（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/21_卑辱与升举的本质（下）.md",
+    "title": "21_卑辱与升举的本质（下）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/21_卑辱与升举的本质（上）",
+    "prev_title": "21_卑辱与升举的本质（上）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/22_卑辱与升举的各阶段（上）",
+    "next_title": "22_卑辱与升举的各阶段（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/22_卑辱与升举的各阶段（上）.md",
+    "title": "22_卑辱与升举的各阶段（上）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/21_卑辱与升举的本质（下）",
+    "prev_title": "21_卑辱与升举的本质（下）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/22_卑辱与升举的各阶段（下）",
+    "next_title": "22_卑辱与升举的各阶段（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/22_卑辱与升举的各阶段（下）.md",
+    "title": "22_卑辱与升举的各阶段（下）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/22_卑辱与升举的各阶段（上）",
+    "prev_title": "22_卑辱与升举的各阶段（上）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/23_属性交通之第二属（威性属，Genus Maiestaticum）",
+    "next_title": "23_属性交通之第二属（威性属，Genus Maiestaticum）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/23_属性交通之第二属（威性属，Genus Maiestaticum）.md",
+    "title": "23_属性交通之第二属（威性属，Genus Maiestaticum）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/22_卑辱与升举的各阶段（下）",
+    "prev_title": "22_卑辱与升举的各阶段（下）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/24_降卑与升高两种状态中所传达的遍在（续）",
+    "next_title": "24_降卑与升高两种状态中所传达的遍在（续）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/24_降卑与升高两种状态中所传达的遍在（续）.md",
+    "title": "24_降卑与升高两种状态中所传达的遍在（续）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/23_属性交通之第二属（威性属，Genus Maiestaticum）",
+    "prev_title": "23_属性交通之第二属（威性属，Genus Maiestaticum）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/25_所传达的神圣荣耀",
+    "next_title": "25_所传达的神圣荣耀"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/25_所传达的神圣荣耀.md",
+    "title": "25_所传达的神圣荣耀",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/24_降卑与升高两种状态中所传达的遍在（续）",
+    "prev_title": "24_降卑与升高两种状态中所传达的遍在（续）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/26_第二属与第一属之区别",
+    "next_title": "26_第二属与第一属之区别"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/26_第二属与第一属之区别.md",
+    "title": "26_第二属与第一属之区别",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/25_所传达的神圣荣耀",
+    "prev_title": "25_所传达的神圣荣耀",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/27_性的相通",
+    "next_title": "27_性的相通"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/27_性的相通.md",
+    "title": "27_性的相通",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/26_第二属与第一属之区别",
+    "prev_title": "26_第二属与第一属之区别",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/28_第二属中神圣属性不与神圣本质分离",
+    "next_title": "28_第二属中神圣属性不与神圣本质分离"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/28_第二属中神圣属性不与神圣本质分离.md",
+    "title": "28_第二属中神圣属性不与神圣本质分离",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/27_性的相通",
+    "prev_title": "27_性的相通",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/29_荣耀属中的抽象术语",
+    "next_title": "29_荣耀属中的抽象术语"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/29_荣耀属中的抽象术语.md",
+    "title": "29_荣耀属中的抽象术语",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/28_第二属中神圣属性不与神圣本质分离",
+    "prev_title": "28_第二属中神圣属性不与神圣本质分离",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/30_属性交通第三属（效果属，Genus Apotelesmaticum）",
+    "next_title": "30_属性交通第三属（效果属，Genus Apotelesmaticum）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/30_属性交通第三属（效果属，Genus Apotelesmaticum）.md",
+    "title": "30_属性交通第三属（效果属，Genus Apotelesmaticum）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/29_荣耀属中的抽象术语",
+    "prev_title": "29_荣耀属中的抽象术语",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/31_效果属的实践重要性",
+    "next_title": "31_效果属的实践重要性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/31_效果属的实践重要性.md",
+    "title": "31_效果属的实践重要性",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/30_属性交通第三属（效果属，Genus Apotelesmaticum）",
+    "prev_title": "30_属性交通第三属（效果属，Genus Apotelesmaticum）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/32_基督论脚注（注76-106）",
+    "next_title": "32_基督论脚注（注76-106）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/32_基督论脚注（注76-106）.md",
+    "title": "32_基督论脚注（注76-106）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/31_效果属的实践重要性",
+    "prev_title": "31_效果属的实践重要性",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/33_效果属与古代教会",
+    "next_title": "33_效果属与古代教会"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/33_效果属与古代教会.md",
+    "title": "33_效果属与古代教会",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/32_基督论脚注（注76-106）",
+    "prev_title": "32_基督论脚注（注76-106）",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/34_路德宗神学家在传通遍在上的共识",
+    "next_title": "34_路德宗神学家在传通遍在上的共识"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/34_路德宗神学家在传通遍在上的共识.md",
+    "title": "34_路德宗神学家在传通遍在上的共识",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/33_效果属与古代教会",
+    "prev_title": "33_效果属与古代教会",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/35_卑辱与升举状态中的传通遍在",
+    "next_title": "35_卑辱与升举状态中的传通遍在"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/35_卑辱与升举状态中的传通遍在.md",
+    "title": "35_卑辱与升举状态中的传通遍在",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/34_路德宗神学家在传通遍在上的共识",
+    "prev_title": "34_路德宗神学家在传通遍在上的共识",
+    "next_url": "101. 教义/Francis Pieper/202_卷二_基督论/36_基督的王权职分与结语",
+    "next_title": "36_基督的王权职分与结语"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/202_卷二_基督论/36_基督的王权职分与结语.md",
+    "title": "36_基督的王权职分与结语",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/35_卑辱与升举状态中的传通遍在",
+    "prev_title": "35_卑辱与升举状态中的传通遍在",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/00_救恩信心总论（De Fide Salvifica）",
+    "next_title": "00_救恩信心总论（De Fide Salvifica）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/00_救恩信心总论（De Fide Salvifica）.md",
+    "title": "00_救恩信心总论（De Fide Salvifica）",
+    "prev_url": "101. 教义/Francis Pieper/202_卷二_基督论/36_基督的王权职分与结语",
+    "prev_title": "36_基督的王权职分与结语",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/01_救恩信心的唯一对象是福音",
+    "next_title": "01_救恩信心的唯一对象是福音"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/01_救恩信心的唯一对象是福音.md",
+    "title": "01_救恩信心的唯一对象是福音",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/00_救恩信心总论（De Fide Salvifica）",
+    "prev_title": "00_救恩信心总论（De Fide Salvifica）",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/02_救恩信心是心灵的信赖",
+    "next_title": "02_救恩信心是心灵的信赖"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/02_救恩信心是心灵的信赖.md",
+    "title": "02_救恩信心是心灵的信赖",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/01_救恩信心的唯一对象是福音",
+    "prev_title": "01_救恩信心的唯一对象是福音",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/03_救恩信心是特殊信心",
+    "next_title": "03_救恩信心是特殊信心"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/03_救恩信心是特殊信心.md",
+    "title": "03_救恩信心是特殊信心",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/02_救恩信心是心灵的信赖",
+    "prev_title": "02_救恩信心是心灵的信赖",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/04_救恩信心是现实信心",
+    "next_title": "04_救恩信心是现实信心"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/04_救恩信心是现实信心.md",
+    "title": "04_救恩信心是现实信心",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/03_救恩信心是特殊信心",
+    "prev_title": "03_救恩信心是特殊信心",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/05_信心在称义中的功能",
+    "next_title": "05_信心在称义中的功能"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/05_信心在称义中的功能.md",
+    "title": "05_信心在称义中的功能",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/04_救恩信心是现实信心",
+    "prev_title": "04_救恩信心是现实信心",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/06_救恩信心是直接信心",
+    "next_title": "06_救恩信心是直接信心"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/06_救恩信心是直接信心.md",
+    "title": "06_救恩信心是直接信心",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/05_信心在称义中的功能",
+    "prev_title": "05_信心在称义中的功能",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/07_救恩信心涵盖恩典的确信",
+    "next_title": "07_救恩信心涵盖恩典的确信"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/07_救恩信心涵盖恩典的确信.md",
+    "title": "07_救恩信心涵盖恩典的确信",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/06_救恩信心是直接信心",
+    "prev_title": "06_救恩信心是直接信心",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/08_救恩信心是对福音所提供之恩典的信赖",
+    "next_title": "08_救恩信心是对福音所提供之恩典的信赖"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/08_救恩信心是对福音所提供之恩典的信赖.md",
+    "title": "08_救恩信心是对福音所提供之恩典的信赖",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/07_救恩信心涵盖恩典的确信",
+    "prev_title": "07_救恩信心涵盖恩典的确信",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/09_婴儿的信心",
+    "next_title": "09_婴儿的信心"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/09_婴儿的信心.md",
+    "title": "09_婴儿的信心",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/08_救恩信心是对福音所提供之恩典的信赖",
+    "prev_title": "08_救恩信心是对福音所提供之恩典的信赖",
+    "next_url": "101. 教义/Francis Pieper/203_卷二_信心论/10_信心一词的含义",
+    "next_title": "10_信心一词的含义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/203_卷二_信心论/10_信心一词的含义.md",
+    "title": "10_信心一词的含义",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/09_婴儿的信心",
+    "prev_title": "09_婴儿的信心",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/01_归正的本质",
+    "next_title": "01_归正的本质"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/01_归正的本质.md",
+    "title": "01_归正的本质",
+    "prev_url": "101. 教义/Francis Pieper/203_卷二_信心论/10_信心一词的含义",
+    "prev_title": "10_信心一词的含义",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/02_归正的主动因",
+    "next_title": "02_归正的主动因"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/02_归正的主动因.md",
+    "title": "02_归正的主动因",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/01_归正的本质",
+    "prev_title": "01_归正的本质",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/03_神实现归正所用的工具",
+    "next_title": "03_神实现归正所用的工具"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/03_神实现归正所用的工具.md",
+    "title": "03_神实现归正所用的工具",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/02_归正的主动因",
+    "prev_title": "02_归正的主动因",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/04_归正中的内在运动",
+    "next_title": "04_归正中的内在运动"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/04_归正中的内在运动.md",
+    "title": "04_归正中的内在运动",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/03_神实现归正所用的工具",
+    "prev_title": "03_神实现归正所用的工具",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/05_归正是瞬间完成的",
+    "next_title": "05_归正是瞬间完成的"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/05_归正是瞬间完成的.md",
+    "title": "05_归正是瞬间完成的",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/04_归正中的内在运动",
+    "prev_title": "04_归正中的内在运动",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/06_人能阻止自己的归正",
+    "next_title": "06_人能阻止自己的归正"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/06_人能阻止自己的归正.md",
+    "title": "06_人能阻止自己的归正",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/05_归正是瞬间完成的",
+    "prev_title": "05_归正是瞬间完成的",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/07_及物性归正与非及物性归正",
+    "next_title": "07_及物性归正与非及物性归正"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/07_及物性归正与非及物性归正.md",
+    "title": "07_及物性归正与非及物性归正",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/06_人能阻止自己的归正",
+    "prev_title": "06_人能阻止自己的归正",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/08_持续性归正",
+    "next_title": "08_持续性归正"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/08_持续性归正.md",
+    "title": "08_持续性归正",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/07_及物性归正与非及物性归正",
+    "prev_title": "07_及物性归正与非及物性归正",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/09_再归正",
+    "next_title": "09_再归正"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/09_再归正.md",
+    "title": "09_再归正",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/08_持续性归正",
+    "prev_title": "08_持续性归正",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/10_反对归正独作论的异议（上）",
+    "next_title": "10_反对归正独作论的异议（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/10_反对归正独作论的异议（上）.md",
+    "title": "10_反对归正独作论的异议（上）",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/09_再归正",
+    "prev_title": "09_再归正",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/10_反对归正独作论的异议（下）",
+    "next_title": "10_反对归正独作论的异议（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/10_反对归正独作论的异议（下）.md",
+    "title": "10_反对归正独作论的异议（下）",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/10_反对归正独作论的异议（上）",
+    "prev_title": "10_反对归正独作论的异议（上）",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/11_归正的同义词",
+    "next_title": "11_归正的同义词"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/11_归正的同义词.md",
+    "title": "11_归正的同义词",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/10_反对归正独作论的异议（下）",
+    "prev_title": "10_反对归正独作论的异议（下）",
+    "next_url": "101. 教义/Francis Pieper/204_卷二_归正论/12_得救次序各教义的排列",
+    "next_title": "12_得救次序各教义的排列"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/204_卷二_归正论/12_得救次序各教义的排列.md",
+    "title": "12_得救次序各教义的排列",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/11_归正的同义词",
+    "prev_title": "11_归正的同义词",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/01_唯独信心称义，不凭律法行为",
+    "next_title": "01_唯独信心称义，不凭律法行为"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/01_唯独信心称义，不凭律法行为.md",
+    "title": "01_唯独信心称义，不凭律法行为",
+    "prev_url": "101. 教义/Francis Pieper/204_卷二_归正论/12_得救次序各教义的排列",
+    "prev_title": "12_得救次序各教义的排列",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/02_圣经反对凭行为称义的严厉措辞",
+    "next_title": "02_圣经反对凭行为称义的严厉措辞"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/02_圣经反对凭行为称义的严厉措辞.md",
+    "title": "02_圣经反对凭行为称义的严厉措辞",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/01_唯独信心称义，不凭律法行为",
+    "prev_title": "01_唯独信心称义，不凭律法行为",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/03_信心称义的先决条件",
+    "next_title": "03_信心称义的先决条件"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/03_信心称义的先决条件.md",
+    "title": "03_信心称义的先决条件",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/02_圣经反对凭行为称义的严厉措辞",
+    "prev_title": "02_圣经反对凭行为称义的严厉措辞",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/04_称义是基督教信仰的核心教义",
+    "next_title": "04_称义是基督教信仰的核心教义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/04_称义是基督教信仰的核心教义.md",
+    "title": "04_称义是基督教信仰的核心教义",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/03_信心称义的先决条件",
+    "prev_title": "03_信心称义的先决条件",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/05_所有基督徒都相信信心称义",
+    "next_title": "05_所有基督徒都相信信心称义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/05_所有基督徒都相信信心称义.md",
+    "title": "05_所有基督徒都相信信心称义",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/04_称义是基督教信仰的核心教义",
+    "prev_title": "04_称义是基督教信仰的核心教义",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/06_否认信心称义的灾难性后果",
+    "next_title": "06_否认信心称义的灾难性后果"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/06_否认信心称义的灾难性后果.md",
+    "title": "06_否认信心称义的灾难性后果",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/05_所有基督徒都相信信心称义",
+    "prev_title": "05_所有基督徒都相信信心称义",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/07_陈述称义教义所用的术语",
+    "next_title": "07_陈述称义教义所用的术语"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/07_陈述称义教义所用的术语.md",
+    "title": "07_陈述称义教义所用的术语",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/06_否认信心称义的灾难性后果",
+    "prev_title": "06_否认信心称义的灾难性后果",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/08_基于行为的称义",
+    "next_title": "08_基于行为的称义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/08_基于行为的称义.md",
+    "title": "08_基于行为的称义",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/07_陈述称义教义所用的术语",
+    "prev_title": "07_陈述称义教义所用的术语",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/09_称义教义与律法福音的区分",
+    "next_title": "09_称义教义与律法福音的区分"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/09_称义教义与律法福音的区分.md",
+    "title": "09_称义教义与律法福音的区分",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/08_基于行为的称义",
+    "prev_title": "08_基于行为的称义",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/10_称义的确据",
+    "next_title": "10_称义的确据"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/10_称义的确据.md",
+    "title": "10_称义的确据",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/09_称义教义与律法福音的区分",
+    "prev_title": "09_称义教义与律法福音的区分",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/11_教皇制度与称义教义",
+    "next_title": "11_教皇制度与称义教义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/11_教皇制度与称义教义.md",
+    "title": "11_教皇制度与称义教义",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/10_称义的确据",
+    "prev_title": "10_称义的确据",
+    "next_url": "101. 教义/Francis Pieper/205_卷二_称义论/12_现代新教神学与称义教义",
+    "next_title": "12_现代新教神学与称义教义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/205_卷二_称义论/12_现代新教神学与称义教义.md",
+    "title": "12_现代新教神学与称义教义",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/11_教皇制度与称义教义",
+    "prev_title": "11_教皇制度与称义教义",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/01_成圣的定义",
+    "next_title": "01_成圣的定义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/01_成圣的定义.md",
+    "title": "01_成圣的定义",
+    "prev_url": "101. 教义/Francis Pieper/205_卷二_称义论/12_现代新教神学与称义教义",
+    "prev_title": "12_现代新教神学与称义教义",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/02_成圣与称义的本质区别",
+    "next_title": "02_成圣与称义的本质区别"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/02_成圣与称义的本质区别.md",
+    "title": "02_成圣与称义的本质区别",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/01_成圣的定义",
+    "prev_title": "01_成圣的定义",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/03_称义与成圣的关系",
+    "next_title": "03_称义与成圣的关系"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/03_称义与成圣的关系.md",
+    "title": "03_称义与成圣的关系",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/02_成圣与称义的本质区别",
+    "prev_title": "02_成圣与称义的本质区别",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/04_谁成就成圣",
+    "next_title": "04_谁成就成圣"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/04_谁成就成圣.md",
+    "title": "04_谁成就成圣",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/03_称义与成圣的关系",
+    "prev_title": "03_称义与成圣的关系",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/05_成圣的内在动力",
+    "next_title": "05_成圣的内在动力"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/05_成圣的内在动力.md",
+    "title": "05_成圣的内在动力",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/04_谁成就成圣",
+    "prev_title": "04_谁成就成圣",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/06_成圣的施恩途径",
+    "next_title": "06_成圣的施恩途径"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/06_成圣的施恩途径.md",
+    "title": "06_成圣的施恩途径",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/05_成圣的内在动力",
+    "prev_title": "05_成圣的内在动力",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/07_成圣与善行的必要性",
+    "next_title": "07_成圣与善行的必要性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/07_成圣与善行的必要性.md",
+    "title": "07_成圣与善行的必要性",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/06_成圣的施恩途径",
+    "prev_title": "06_成圣的施恩途径",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/08_成圣的不完全性",
+    "next_title": "08_成圣的不完全性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/08_成圣的不完全性.md",
+    "title": "08_成圣的不完全性",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/07_成圣与善行的必要性",
+    "prev_title": "07_成圣与善行的必要性",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/09_善行的性质与数量（上）",
+    "next_title": "09_善行的性质与数量（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/09_善行的性质与数量（上）.md",
+    "title": "09_善行的性质与数量（上）",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/08_成圣的不完全性",
+    "prev_title": "08_成圣的不完全性",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/09_善行的性质与数量（下）",
+    "next_title": "09_善行的性质与数量（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/09_善行的性质与数量（下）.md",
+    "title": "09_善行的性质与数量（下）",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/09_善行的性质与数量（上）",
+    "prev_title": "09_善行的性质与数量（上）",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/10_善行的赏赐",
+    "next_title": "10_善行的赏赐"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/10_善行的赏赐.md",
+    "title": "10_善行的赏赐",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/09_善行的性质与数量（下）",
+    "prev_title": "09_善行的性质与数量（下）",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/11_善行的崇高价值",
+    "next_title": "11_善行的崇高价值"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/11_善行的崇高价值.md",
+    "title": "11_善行的崇高价值",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/10_善行的赏赐",
+    "prev_title": "10_善行的赏赐",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/12_教皇制度与善行",
+    "next_title": "12_教皇制度与善行"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/12_教皇制度与善行.md",
+    "title": "12_教皇制度与善行",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/11_善行的崇高价值",
+    "prev_title": "11_善行的崇高价值",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/13_近代新教神学与善行",
+    "next_title": "13_近代新教神学与善行"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/13_近代新教神学与善行.md",
+    "title": "13_近代新教神学与善行",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/12_教皇制度与善行",
+    "prev_title": "12_教皇制度与善行",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/14_基督徒的生活与十字架",
+    "next_title": "14_基督徒的生活与十字架"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/14_基督徒的生活与十字架.md",
+    "title": "14_基督徒的生活与十字架",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/13_近代新教神学与善行",
+    "prev_title": "13_近代新教神学与善行",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/15_基督徒的生活与祷告",
+    "next_title": "15_基督徒的生活与祷告"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/15_基督徒的生活与祷告.md",
+    "title": "15_基督徒的生活与祷告",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/14_基督徒的生活与十字架",
+    "prev_title": "14_基督徒的生活与十字架",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/16_基督徒的生活与永生的盼望",
+    "next_title": "16_基督徒的生活与永生的盼望"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/16_基督徒的生活与永生的盼望.md",
+    "title": "16_基督徒的生活与永生的盼望",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/15_基督徒的生活与祷告",
+    "prev_title": "15_基督徒的生活与祷告",
+    "next_url": "101. 教义/Francis Pieper/301_卷三_成圣论/17_最终持守（DE PERSEVERANTIA）",
+    "next_title": "17_最终持守（DE PERSEVERANTIA）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/301_卷三_成圣论/17_最终持守（DE PERSEVERANTIA）.md",
+    "title": "17_最终持守（DE PERSEVERANTIA）",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/16_基督徒的生活与永生的盼望",
+    "prev_title": "16_基督徒的生活与永生的盼望",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/01_施恩具总论",
+    "next_title": "01_施恩具总论"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/01_施恩具总论.md",
+    "title": "01_施恩具总论",
+    "prev_url": "101. 教义/Francis Pieper/301_卷三_成圣论/17_最终持守（DE PERSEVERANTIA）",
+    "prev_title": "17_最终持守（DE PERSEVERANTIA）",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/02_施恩具的目的与对象",
+    "next_title": "02_施恩具的目的与对象"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/02_施恩具的目的与对象.md",
+    "title": "02_施恩具的目的与对象",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/01_施恩具总论",
+    "prev_title": "01_施恩具总论",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/03_圣礼的数目",
+    "next_title": "03_圣礼的数目"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/03_圣礼的数目.md",
+    "title": "03_圣礼的数目",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/02_施恩具的目的与对象",
+    "prev_title": "02_施恩具的目的与对象",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/04_施恩具的谬误教导（上）",
+    "next_title": "04_施恩具的谬误教导（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/04_施恩具的谬误教导（上）.md",
+    "title": "04_施恩具的谬误教导（上）",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/03_圣礼的数目",
+    "prev_title": "03_圣礼的数目",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/04_施恩具的谬误教导（下）",
+    "next_title": "04_施恩具的谬误教导（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/04_施恩具的谬误教导（下）.md",
+    "title": "04_施恩具的谬误教导（下）",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/04_施恩具的谬误教导（上）",
+    "prev_title": "04_施恩具的谬误教导（上）",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/05_施恩具教义的重要性",
+    "next_title": "05_施恩具教义的重要性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/05_施恩具教义的重要性.md",
+    "title": "05_施恩具教义的重要性",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/04_施恩具的谬误教导（下）",
+    "prev_title": "04_施恩具的谬误教导（下）",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/06_改革宗与路德宗施恩具论之比较神学研究",
+    "next_title": "06_改革宗与路德宗施恩具论之比较神学研究"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/06_改革宗与路德宗施恩具论之比较神学研究.md",
+    "title": "06_改革宗与路德宗施恩具论之比较神学研究",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/05_施恩具教义的重要性",
+    "prev_title": "05_施恩具教义的重要性",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/07_路德施恩具论与中世纪及改革宗神学之关系",
+    "next_title": "07_路德施恩具论与中世纪及改革宗神学之关系"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/07_路德施恩具论与中世纪及改革宗神学之关系.md",
+    "title": "07_路德施恩具论与中世纪及改革宗神学之关系",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/06_改革宗与路德宗施恩具论之比较神学研究",
+    "prev_title": "06_改革宗与路德宗施恩具论之比较神学研究",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/08_施恩具之赦罪形式（上）",
+    "next_title": "08_施恩具之赦罪形式（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/08_施恩具之赦罪形式（上）.md",
+    "title": "08_施恩具之赦罪形式（上）",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/07_路德施恩具论与中世纪及改革宗神学之关系",
+    "prev_title": "07_路德施恩具论与中世纪及改革宗神学之关系",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/08_施恩具之赦罪形式（下）",
+    "next_title": "08_施恩具之赦罪形式（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/08_施恩具之赦罪形式（下）.md",
+    "title": "08_施恩具之赦罪形式（下）",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/08_施恩具之赦罪形式（上）",
+    "prev_title": "08_施恩具之赦罪形式（上）",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/09_施恩具论补遗",
+    "next_title": "09_施恩具论补遗"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/09_施恩具论补遗.md",
+    "title": "09_施恩具论补遗",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/08_施恩具之赦罪形式（下）",
+    "prev_title": "08_施恩具之赦罪形式（下）",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/10_旧约中的施恩具",
+    "next_title": "10_旧约中的施恩具"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/10_旧约中的施恩具.md",
+    "title": "10_旧约中的施恩具",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/09_施恩具论补遗",
+    "prev_title": "09_施恩具论补遗",
+    "next_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/11_施恩具与祈祷",
+    "next_title": "11_施恩具与祈祷"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/302_卷三_施恩具论/11_施恩具与祈祷.md",
+    "title": "11_施恩具与祈祷",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/10_旧约中的施恩具",
+    "prev_title": "10_旧约中的施恩具",
+    "next_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/01_律法与福音的术语",
+    "next_title": "01_律法与福音的术语"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/303_卷三_律法与福音论/01_律法与福音的术语.md",
+    "title": "01_律法与福音的术语",
+    "prev_url": "101. 教义/Francis Pieper/302_卷三_施恩具论/11_施恩具与祈祷",
+    "prev_title": "11_施恩具与祈祷",
+    "next_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/02_律法与福音的共同点",
+    "next_title": "02_律法与福音的共同点"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/303_卷三_律法与福音论/02_律法与福音的共同点.md",
+    "title": "02_律法与福音的共同点",
+    "prev_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/01_律法与福音的术语",
+    "prev_title": "01_律法与福音的术语",
+    "next_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/03_律法与福音作为对立面",
+    "next_title": "03_律法与福音作为对立面"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/303_卷三_律法与福音论/03_律法与福音作为对立面.md",
+    "title": "03_律法与福音作为对立面",
+    "prev_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/02_律法与福音的共同点",
+    "prev_title": "02_律法与福音的共同点",
+    "next_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/04_律法与福音的实践结合",
+    "next_title": "04_律法与福音的实践结合"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/303_卷三_律法与福音论/04_律法与福音的实践结合.md",
+    "title": "04_律法与福音的实践结合",
+    "prev_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/03_律法与福音作为对立面",
+    "prev_title": "03_律法与福音作为对立面",
+    "next_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/05_正确区分律法与福音的难度",
+    "next_title": "05_正确区分律法与福音的难度"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/303_卷三_律法与福音论/05_正确区分律法与福音的难度.md",
+    "title": "05_正确区分律法与福音的难度",
+    "prev_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/04_律法与福音的实践结合",
+    "prev_title": "04_律法与福音的实践结合",
+    "next_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/06_正确区分的重要性",
+    "next_title": "06_正确区分的重要性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/303_卷三_律法与福音论/06_正确区分的重要性.md",
+    "title": "06_正确区分的重要性",
+    "prev_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/05_正确区分律法与福音的难度",
+    "prev_title": "05_正确区分律法与福音的难度",
+    "next_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/07_混淆律法与福音的主要人物",
+    "next_title": "07_混淆律法与福音的主要人物"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/303_卷三_律法与福音论/07_混淆律法与福音的主要人物.md",
+    "title": "07_混淆律法与福音的主要人物",
+    "prev_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/06_正确区分的重要性",
+    "prev_title": "06_正确区分的重要性",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/01_洗礼是神圣制度",
+    "next_title": "01_洗礼是神圣制度"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/01_洗礼是神圣制度.md",
+    "title": "01_洗礼是神圣制度",
+    "prev_url": "101. 教义/Francis Pieper/303_卷三_律法与福音论/07_混淆律法与福音的主要人物",
+    "prev_title": "07_混淆律法与福音的主要人物",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/02_洗礼的质料",
+    "next_title": "02_洗礼的质料"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/02_洗礼的质料.md",
+    "title": "02_洗礼的质料",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/01_洗礼是神圣制度",
+    "prev_title": "01_洗礼是神圣制度",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/03_洗礼成为圣礼之要素",
+    "next_title": "03_洗礼成为圣礼之要素"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/03_洗礼成为圣礼之要素.md",
+    "title": "03_洗礼成为圣礼之要素",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/02_洗礼的质料",
+    "prev_title": "02_洗礼的质料",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/04_洗礼作为真实施恩具（上）",
+    "next_title": "04_洗礼作为真实施恩具（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/04_洗礼作为真实施恩具（上）.md",
+    "title": "04_洗礼作为真实施恩具（上）",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/03_洗礼成为圣礼之要素",
+    "prev_title": "03_洗礼成为圣礼之要素",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/04_洗礼作为真实施恩具（下）",
+    "next_title": "04_洗礼作为真实施恩具（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/04_洗礼作为真实施恩具（下）.md",
+    "title": "04_洗礼作为真实施恩具（下）",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/04_洗礼作为真实施恩具（上）",
+    "prev_title": "04_洗礼作为真实施恩具（上）",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/05_洗礼的用途",
+    "next_title": "05_洗礼的用途"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/05_洗礼的用途.md",
+    "title": "05_洗礼的用途",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/04_洗礼作为真实施恩具（下）",
+    "prev_title": "04_洗礼作为真实施恩具（下）",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/06_洗礼的对象",
+    "next_title": "06_洗礼的对象"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/06_洗礼的对象.md",
+    "title": "06_洗礼的对象",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/05_洗礼的用途",
+    "prev_title": "05_洗礼的用途",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/07_施洗者",
+    "next_title": "07_施洗者"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/07_施洗者.md",
+    "title": "07_施洗者",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/06_洗礼的对象",
+    "prev_title": "06_洗礼的对象",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/08_洗礼的必要性",
+    "next_title": "08_洗礼的必要性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/08_洗礼的必要性.md",
+    "title": "08_洗礼的必要性",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/07_施洗者",
+    "prev_title": "07_施洗者",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/09_洗礼礼仪习俗（上）",
+    "next_title": "09_洗礼礼仪习俗（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/09_洗礼礼仪习俗（上）.md",
+    "title": "09_洗礼礼仪习俗（上）",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/08_洗礼的必要性",
+    "prev_title": "08_洗礼的必要性",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/09_洗礼礼仪习俗（下）",
+    "next_title": "09_洗礼礼仪习俗（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/09_洗礼礼仪习俗（下）.md",
+    "title": "09_洗礼礼仪习俗（下）",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/09_洗礼礼仪习俗（上）",
+    "prev_title": "09_洗礼礼仪习俗（上）",
+    "next_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/10_约翰的洗礼",
+    "next_title": "10_约翰的洗礼"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/304_卷三_洗礼论/10_约翰的洗礼.md",
+    "title": "10_约翰的洗礼",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/09_洗礼礼仪习俗（下）",
+    "prev_title": "09_洗礼礼仪习俗（下）",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/01_圣餐的神圣设立",
+    "next_title": "01_圣餐的神圣设立"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/01_圣餐的神圣设立.md",
+    "title": "01_圣餐的神圣设立",
+    "prev_url": "101. 教义/Francis Pieper/304_卷三_洗礼论/10_约翰的洗礼",
+    "prev_title": "10_约翰的洗礼",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/02_圣餐与其他圣礼的关系",
+    "next_title": "02_圣餐与其他圣礼的关系"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/02_圣餐与其他圣礼的关系.md",
+    "title": "02_圣餐与其他圣礼的关系",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/01_圣餐的神圣设立",
+    "prev_title": "01_圣餐的神圣设立",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/03_圣经关于圣餐的教义（上）",
+    "next_title": "03_圣经关于圣餐的教义（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/03_圣经关于圣餐的教义（上）.md",
+    "title": "03_圣经关于圣餐的教义（上）",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/02_圣餐与其他圣礼的关系",
+    "prev_title": "02_圣餐与其他圣礼的关系",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/03_圣经关于圣餐的教义（下）",
+    "next_title": "03_圣经关于圣餐的教义（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/03_圣经关于圣餐的教义（下）.md",
+    "title": "03_圣经关于圣餐的教义（下）",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/03_圣经关于圣餐的教义（上）",
+    "prev_title": "03_圣经关于圣餐的教义（上）",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/04_各种圣餐教义的综述（上）",
+    "next_title": "04_各种圣餐教义的综述（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/04_各种圣餐教义的综述（上）.md",
+    "title": "04_各种圣餐教义的综述（上）",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/03_圣经关于圣餐的教义（下）",
+    "prev_title": "03_圣经关于圣餐的教义（下）",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/04_各种圣餐教义的综述（下）",
+    "next_title": "04_各种圣餐教义的综述（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/04_各种圣餐教义的综述（下）.md",
+    "title": "04_各种圣餐教义的综述（下）",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/04_各种圣餐教义的综述（上）",
+    "prev_title": "04_各种圣餐教义的综述（上）",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/05_四处记载文字变化",
+    "next_title": "05_四处记载文字变化"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/05_四处记载文字变化.md",
+    "title": "05_四处记载文字变化",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/04_各种圣餐教义的综述（下）",
+    "prev_title": "04_各种圣餐教义的综述（下）",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/06_圣餐中的要素（上）",
+    "next_title": "06_圣餐中的要素（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/06_圣餐中的要素（上）.md",
+    "title": "06_圣餐中的要素（上）",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/05_四处记载文字变化",
+    "prev_title": "05_四处记载文字变化",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/06_圣餐中的要素（下）",
+    "next_title": "06_圣餐中的要素（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/06_圣餐中的要素（下）.md",
+    "title": "06_圣餐中的要素（下）",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/06_圣餐中的要素（上）",
+    "prev_title": "06_圣餐中的要素（上）",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/07_圣餐的构成（上）",
+    "next_title": "07_圣餐的构成（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/07_圣餐的构成（上）.md",
+    "title": "07_圣餐的构成（上）",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/06_圣餐中的要素（下）",
+    "prev_title": "06_圣餐中的要素（下）",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/07_圣餐的构成（下）",
+    "next_title": "07_圣餐的构成（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/07_圣餐的构成（下）.md",
+    "title": "07_圣餐的构成（下）",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/07_圣餐的构成（上）",
+    "prev_title": "07_圣餐的构成（上）",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/08_圣餐的目的",
+    "next_title": "08_圣餐的目的"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/08_圣餐的目的.md",
+    "title": "08_圣餐的目的",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/07_圣餐的构成（下）",
+    "prev_title": "07_圣餐的构成（下）",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/09_圣餐的领受者",
+    "next_title": "09_圣餐的领受者"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/09_圣餐的领受者.md",
+    "title": "09_圣餐的领受者",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/08_圣餐的目的",
+    "prev_title": "08_圣餐的目的",
+    "next_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/10_圣餐的必要性",
+    "next_title": "10_圣餐的必要性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/305_卷三_圣餐论/10_圣餐的必要性.md",
+    "title": "10_圣餐的必要性",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/09_圣餐的领受者",
+    "prev_title": "09_圣餐的领受者",
+    "next_url": "101. 教义/Francis Pieper/306_卷三_教会论/01_教会的本质",
+    "next_title": "01_教会的本质"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/306_卷三_教会论/01_教会的本质.md",
+    "title": "01_教会的本质",
+    "prev_url": "101. 教义/Francis Pieper/305_卷三_圣餐论/10_圣餐的必要性",
+    "prev_title": "10_圣餐的必要性",
+    "next_url": "101. 教义/Francis Pieper/306_卷三_教会论/02_关于教会的错误教义",
+    "next_title": "02_关于教会的错误教义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/306_卷三_教会论/02_关于教会的错误教义.md",
+    "title": "02_关于教会的错误教义",
+    "prev_url": "101. 教义/Francis Pieper/306_卷三_教会论/01_教会的本质",
+    "prev_title": "01_教会的本质",
+    "next_url": "101. 教义/Francis Pieper/306_卷三_教会论/03_基督教会的属性",
+    "next_title": "03_基督教会的属性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/306_卷三_教会论/03_基督教会的属性.md",
+    "title": "03_基督教会的属性",
+    "prev_url": "101. 教义/Francis Pieper/306_卷三_教会论/02_关于教会的错误教义",
+    "prev_title": "02_关于教会的错误教义",
+    "next_url": "101. 教义/Francis Pieper/306_卷三_教会论/04_教会的尊荣与荣耀",
+    "next_title": "04_教会的尊荣与荣耀"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/306_卷三_教会论/04_教会的尊荣与荣耀.md",
+    "title": "04_教会的尊荣与荣耀",
+    "prev_url": "101. 教义/Francis Pieper/306_卷三_教会论/03_基督教会的属性",
+    "prev_title": "03_基督教会的属性",
+    "next_url": "101. 教义/Francis Pieper/306_卷三_教会论/05_教会的建立与维护",
+    "next_title": "05_教会的建立与维护"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/306_卷三_教会论/05_教会的建立与维护.md",
+    "title": "05_教会的建立与维护",
+    "prev_url": "101. 教义/Francis Pieper/306_卷三_教会论/04_教会的尊荣与荣耀",
+    "prev_title": "04_教会的尊荣与荣耀",
+    "next_url": "101. 教义/Francis Pieper/306_卷三_教会论/06_地方教会论（上）_地方教会的本质与神圣设立",
+    "next_title": "06_地方教会论（上）_地方教会的本质与神圣设立"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/306_卷三_教会论/06_地方教会论（上）_地方教会的本质与神圣设立.md",
+    "title": "06_地方教会论（上）_地方教会的本质与神圣设立",
+    "prev_url": "101. 教义/Francis Pieper/306_卷三_教会论/05_教会的建立与维护",
+    "prev_title": "05_教会的建立与维护",
+    "next_url": "101. 教义/Francis Pieper/306_卷三_教会论/07_地方教会论（下）_正统与异端_教会团契_分裂主义",
+    "next_title": "07_地方教会论（下）_正统与异端_教会团契_分裂主义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/306_卷三_教会论/07_地方教会论（下）_正统与异端_教会团契_分裂主义.md",
+    "title": "07_地方教会论（下）_正统与异端_教会团契_分裂主义",
+    "prev_url": "101. 教义/Francis Pieper/306_卷三_教会论/06_地方教会论（上）_地方教会的本质与神圣设立",
+    "prev_title": "06_地方教会论（上）_地方教会的本质与神圣设立",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/01_服侍职分的本质",
+    "next_title": "01_服侍职分的本质"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/01_服侍职分的本质.md",
+    "title": "01_服侍职分的本质",
+    "prev_url": "101. 教义/Francis Pieper/306_卷三_教会论/07_地方教会论（下）_正统与异端_教会团契_分裂主义",
+    "prev_title": "07_地方教会论（下）_正统与异端_教会团契_分裂主义",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/02_服侍职分与属灵祭司职分的关系",
+    "next_title": "02_服侍职分与属灵祭司职分的关系"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/02_服侍职分与属灵祭司职分的关系.md",
+    "title": "02_服侍职分与属灵祭司职分的关系",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/01_服侍职分的本质",
+    "prev_title": "01_服侍职分的本质",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/03_服侍职分乃神圣而非人为之设立",
+    "next_title": "03_服侍职分乃神圣而非人为之设立"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/03_服侍职分乃神圣而非人为之设立.md",
+    "title": "03_服侍职分乃神圣而非人为之设立",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/02_服侍职分与属灵祭司职分的关系",
+    "prev_title": "02_服侍职分与属灵祭司职分的关系",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/04_服侍职分的必要性",
+    "next_title": "04_服侍职分的必要性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/04_服侍职分的必要性.md",
+    "title": "04_服侍职分的必要性",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/03_服侍职分乃神圣而非人为之设立",
+    "prev_title": "03_服侍职分乃神圣而非人为之设立",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/05_进入服侍职分的呼召",
+    "next_title": "05_进入服侍职分的呼召"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/05_进入服侍职分的呼召.md",
+    "title": "05_进入服侍职分的呼召",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/04_服侍职分的必要性",
+    "prev_title": "04_服侍职分的必要性",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/06_按立礼仪",
+    "next_title": "06_按立礼仪"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/06_按立礼仪.md",
+    "title": "06_按立礼仪",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/05_进入服侍职分的呼召",
+    "prev_title": "05_进入服侍职分的呼召",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/07_服侍职分非凌驾平信徒之上的特别属灵阶层",
+    "next_title": "07_服侍职分非凌驾平信徒之上的特别属灵阶层"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/07_服侍职分非凌驾平信徒之上的特别属灵阶层.md",
+    "title": "07_服侍职分非凌驾平信徒之上的特别属灵阶层",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/06_按立礼仪",
+    "prev_title": "06_按立礼仪",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/08_服侍职分的职权",
+    "next_title": "08_服侍职分的职权"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/08_服侍职分的职权.md",
+    "title": "08_服侍职分的职权",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/07_服侍职分非凌驾平信徒之上的特别属灵阶层",
+    "prev_title": "07_服侍职分非凌驾平信徒之上的特别属灵阶层",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/09_教会仆人的平等性",
+    "next_title": "09_教会仆人的平等性"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/09_教会仆人的平等性.md",
+    "title": "09_教会仆人的平等性",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/08_服侍职分的职权",
+    "prev_title": "08_服侍职分的职权",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/10_服侍职分乃教会中最高职务",
+    "next_title": "10_服侍职分乃教会中最高职务"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/10_服侍职分乃教会中最高职务.md",
+    "title": "10_服侍职分乃教会中最高职务",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/09_教会仆人的平等性",
+    "prev_title": "09_教会仆人的平等性",
+    "next_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/11_敌基督",
+    "next_title": "11_敌基督"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/307_卷三_服侍职分论/11_敌基督.md",
+    "title": "11_敌基督",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/10_服侍职分乃教会中最高职务",
+    "prev_title": "10_服侍职分乃教会中最高职务",
+    "next_url": "101. 教义/Francis Pieper/308_卷三_选民论/01_拣选的本质",
+    "next_title": "01_拣选的本质"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/308_卷三_选民论/01_拣选的本质.md",
+    "title": "01_拣选的本质",
+    "prev_url": "101. 教义/Francis Pieper/307_卷三_服侍职分论/11_敌基督",
+    "prev_title": "11_敌基督",
+    "next_url": "101. 教义/Francis Pieper/308_卷三_选民论/02_拣选在神学体系中的正当位置",
+    "next_title": "02_拣选在神学体系中的正当位置"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/308_卷三_选民论/02_拣选在神学体系中的正当位置.md",
+    "title": "02_拣选在神学体系中的正当位置",
+    "prev_url": "101. 教义/Francis Pieper/308_卷三_选民论/01_拣选的本质",
+    "prev_title": "01_拣选的本质",
+    "next_url": "101. 教义/Francis Pieper/308_卷三_选民论/03_被拣选者",
+    "next_title": "03_被拣选者"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/308_卷三_选民论/03_被拣选者.md",
+    "title": "03_被拣选者",
+    "prev_url": "101. 教义/Francis Pieper/308_卷三_选民论/02_拣选在神学体系中的正当位置",
+    "prev_title": "02_拣选在神学体系中的正当位置",
+    "next_url": "101. 教义/Francis Pieper/308_卷三_选民论/04_确信自己被拣选",
+    "next_title": "04_确信自己被拣选"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/308_卷三_选民论/04_确信自己被拣选.md",
+    "title": "04_确信自己被拣选",
+    "prev_url": "101. 教义/Francis Pieper/308_卷三_选民论/03_被拣选者",
+    "prev_title": "03_被拣选者",
+    "next_url": "101. 教义/Francis Pieper/308_卷三_选民论/05_信心与恩典拣选的关系",
+    "next_title": "05_信心与恩典拣选的关系"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/308_卷三_选民论/05_信心与恩典拣选的关系.md",
+    "title": "05_信心与恩典拣选的关系",
+    "prev_url": "101. 教义/Francis Pieper/308_卷三_选民论/04_确信自己被拣选",
+    "prev_title": "04_确信自己被拣选",
+    "next_url": "101. 教义/Francis Pieper/308_卷三_选民论/06_拣选教义的目的",
+    "next_title": "06_拣选教义的目的"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/308_卷三_选民论/06_拣选教义的目的.md",
+    "title": "06_拣选教义的目的",
+    "prev_url": "101. 教义/Francis Pieper/308_卷三_选民论/05_信心与恩典拣选的关系",
+    "prev_title": "05_信心与恩典拣选的关系",
+    "next_url": "101. 教义/Francis Pieper/308_卷三_选民论/07_无永罚性拣选",
+    "next_title": "07_无永罚性拣选"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/308_卷三_选民论/07_无永罚性拣选.md",
+    "title": "07_无永罚性拣选",
+    "prev_url": "101. 教义/Francis Pieper/308_卷三_选民论/06_拣选教义的目的",
+    "prev_title": "06_拣选教义的目的",
+    "next_url": "101. 教义/Francis Pieper/308_卷三_选民论/08_拣选教义中错误的根源",
+    "next_title": "08_拣选教义中错误的根源"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/308_卷三_选民论/08_拣选教义中错误的根源.md",
+    "title": "08_拣选教义中错误的根源",
+    "prev_url": "101. 教义/Francis Pieper/308_卷三_选民论/07_无永罚性拣选",
+    "prev_title": "07_无永罚性拣选",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/01_时间性的死亡",
+    "next_title": "01_时间性的死亡"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/01_时间性的死亡.md",
+    "title": "01_时间性的死亡",
+    "prev_url": "101. 教义/Francis Pieper/308_卷三_选民论/08_拣选教义中错误的根源",
+    "prev_title": "08_拣选教义中错误的根源",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/02_死亡与复活之间的灵魂状态",
+    "next_title": "02_死亡与复活之间的灵魂状态"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/02_死亡与复活之间的灵魂状态.md",
+    "title": "02_死亡与复活之间的灵魂状态",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/01_时间性的死亡",
+    "prev_title": "01_时间性的死亡",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/03_基督再来（上）",
+    "next_title": "03_基督再来（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/03_基督再来（上）.md",
+    "title": "03_基督再来（上）",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/02_死亡与复活之间的灵魂状态",
+    "prev_title": "02_死亡与复活之间的灵魂状态",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/04_基督再来（下）",
+    "next_title": "04_基督再来（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/04_基督再来（下）.md",
+    "title": "04_基督再来（下）",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/03_基督再来（上）",
+    "prev_title": "03_基督再来（上）",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/05_死人的复活",
+    "next_title": "05_死人的复活"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/05_死人的复活.md",
+    "title": "05_死人的复活",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/04_基督再来（下）",
+    "prev_title": "04_基督再来（下）",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/06_世界的终结",
+    "next_title": "06_世界的终结"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/06_世界的终结.md",
+    "title": "06_世界的终结",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/05_死人的复活",
+    "prev_title": "05_死人的复活",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/06_末日审判",
+    "next_title": "06_末日审判"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/06_末日审判.md",
+    "title": "06_末日审判",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/06_世界的终结",
+    "prev_title": "06_世界的终结",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/07_永恒刑罚的教义",
+    "next_title": "07_永恒刑罚的教义"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/07_永恒刑罚的教义.md",
+    "title": "07_永恒刑罚的教义",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/06_末日审判",
+    "prev_title": "06_末日审判",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/08_末世论最后章节（上）",
+    "next_title": "08_末世论最后章节（上）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/08_末世论最后章节（上）.md",
+    "title": "08_末世论最后章节（上）",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/07_永恒刑罚的教义",
+    "prev_title": "07_永恒刑罚的教义",
+    "next_url": "101. 教义/Francis Pieper/309_卷三_末世论/08_末世论最后章节（下）",
+    "next_title": "08_末世论最后章节（下）"
+  },
+  {
+    "path": "101. 教义/Francis Pieper/309_卷三_末世论/08_末世论最后章节（下）.md",
+    "title": "08_末世论最后章节（下）",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/08_末世论最后章节（上）",
+    "prev_title": "08_末世论最后章节（上）",
     "next_url": "101. 教义/两个国度/走向叛逆之路-分析朋霍费尔的抵抗神学/01_摘要",
     "next_title": "01_摘要"
   },
   {
     "path": "101. 教义/两个国度/走向叛逆之路-分析朋霍费尔的抵抗神学/01_摘要.md",
     "title": "01_摘要",
-    "prev_url": "101. 教义/Francis Pieper/卷一_序言_神学的本质与性格/03_世界上宗教的数目",
-    "prev_title": "03_世界上宗教的数目",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/08_末世论最后章节（下）",
+    "prev_title": "08_末世论最后章节（下）",
     "next_url": "101. 教义/两个国度/走向叛逆之路-分析朋霍费尔的抵抗神学/02_负责任行动与纳粹意识形态",
     "next_title": "02_负责任行动与纳粹意识形态"
   },
