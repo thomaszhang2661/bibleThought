@@ -103,6 +103,11 @@
     var speedPresets = [0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.2, 1.5, 1.8, 2.0, 2.5, 3.0, 3.5, 4.0];
     var speedIndex = 5; // default 1.0×
     var paraMap = [];
+    var ttsKeepAlive = null;
+
+    // Initialize speed button states
+    document.getElementById('btn-slow').disabled = (speedIndex === 0);
+    document.getElementById('btn-fast').disabled = (speedIndex === speedPresets.length - 1);
 
     function buildParaMap() {
       paraMap = [];
@@ -149,6 +154,24 @@
       }
     }
 
+    function stopKeepAlive() {
+      if (ttsKeepAlive) { clearInterval(ttsKeepAlive); ttsKeepAlive = null; }
+    }
+
+    function startKeepAlive() {
+      stopKeepAlive();
+      // Chrome bug: SpeechSynthesis silently stops after ~15s on long utterances.
+      // Pause/resume every 14s resets the timer without audible interruption.
+      ttsKeepAlive = setInterval(function() {
+        if (ttsState === 'playing' && window.speechSynthesis.speaking) {
+          window.speechSynthesis.pause();
+          window.speechSynthesis.resume();
+        } else if (ttsState !== 'playing') {
+          stopKeepAlive();
+        }
+      }, 14000);
+    }
+
     function doSpeak(fromChar) {
       var btn = document.getElementById('btn-tts');
       // Chrome: voices may not be loaded yet on first call
@@ -176,11 +199,13 @@
         }
       };
       utt.onend = function() {
+        stopKeepAlive();
         ttsState = 'idle'; ttsText = ''; ttsCharIdx = 0;
         btn.textContent = '朗读'; btn.classList.remove('active');
         clearHighlight();
       };
       utt.onerror = function() {
+        stopKeepAlive();
         ttsState = 'idle';
         btn.textContent = '朗读'; btn.classList.remove('active');
         clearHighlight();
@@ -188,6 +213,7 @@
       window.speechSynthesis.speak(utt);
       ttsState = 'playing';
       btn.textContent = '暂停'; btn.classList.add('active');
+      startKeepAlive();
     }
 
     function toggleTTS() {

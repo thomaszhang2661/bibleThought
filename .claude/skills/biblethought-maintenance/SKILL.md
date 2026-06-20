@@ -51,7 +51,13 @@ Quick checklist:
 
 ---
 
-## Workflow 3: Working on Pieper translation files
+## Workflow 3: Debugging frontend / TTS issues
+
+→ Read `references/frontend-bugs.md` for known JS runtime bugs (Chrome TTS cutoff, iOS pause limitation, etc.).
+
+---
+
+## Workflow 5: Working on Pieper translation files
 
 → Read `references/pieper-conventions.md` for folder naming, file naming, terminology standards, and things that look wrong but are intentional.
 
