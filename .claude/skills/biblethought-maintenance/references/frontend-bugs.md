@@ -36,6 +36,29 @@ Do NOT merge these back into one long utterance — the Chrome bug returns immed
 
 ---
 
+## Pause/resume: silent dead-end when chunk ends while paused
+
+**Symptom:** User pauses TTS, then clicks "继续" — button changes back to "暂停" but no audio plays.
+
+**Root cause:** With chunked TTS, if the current chunk finishes naturally while `ttsState === 'paused'`, `utt.onend` fires and calls `speakChunk(idx + 1)`, which returns early (state isn't 'playing'). When the user clicks "继续", `speechSynthesis.resume()` is called but there's nothing queued — TTS is silently dead.
+
+**Fix (already in code):** Pause is implemented as `cancel()` + save position, not `pause()`. Resume calls `doSpeak(savedPosition)` to restart from the saved char index. `pause()`/`resume()` are not used.
+
+```js
+// Pause: cancel and remember position
+window.speechSynthesis.cancel();
+ttsState = 'paused';
+
+// Resume: restart from remembered position
+var pos = ttsCharIdx;
+window.speechSynthesis.cancel();
+setTimeout(function() { doSpeak(pos); }, 100);
+```
+
+Do NOT switch back to `speechSynthesis.pause()`/`resume()` — the bug returns.
+
+---
+
 ## Speed change: position drift of ~1–2 sentences
 
 **Symptom:** After clicking 慢/快, speech resumes a few sentences before/after the actual pause point.

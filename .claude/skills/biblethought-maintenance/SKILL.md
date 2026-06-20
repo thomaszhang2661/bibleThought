@@ -1,6 +1,6 @@
 ---
 name: biblethought-maintenance
-description: Maintain the BibleThought Jekyll/GitHub Pages site. Use this skill proactively whenever the user mentions any of these: a page or article not showing up on the website, a build failure or Jekyll error, adding new content to the repo, renaming or reorganizing Pieper translation files, updating the article index, checking why something can't be opened or navigated on the web, or anything involving git commits to this repo. Also invoke when the user asks about Pieper chapter structure, terminology standards, or translation file naming.
+description: Use proactively whenever the user mentions: a page or article not showing up on the website, a build failure or Jekyll error, adding or reorganizing content in the repo, git commits or pushes to this repo, nav links broken, TTS not working or stopping mid-text, font size or layout issues on the site, Pieper chapter structure, terminology standards, or translation file naming. Invoke for any work touching this repo's files, structure, or GitHub Pages deployment.
 ---
 
 # BibleThought Site Maintenance
@@ -57,7 +57,7 @@ Quick checklist:
 
 ---
 
-## Workflow 5: Working on Pieper translation files
+## Workflow 4: Working on Pieper translation files
 
 → Read `references/pieper-conventions.md` for folder naming, file naming, terminology standards, and things that look wrong but are intentional.
 
@@ -75,4 +75,4 @@ Quick reminders:
 | `.claude/skills/biblethought-maintenance/scripts/generate_index.py` | Regenerates `index.md` + `nav.json` |
 | `.git/hooks/pre-commit` | Runs generator before every commit (local only) |
 | `_config.yml` | Jekyll config |
-| `_layouts/default.html` | Page layout with TTS, nav, font size |
+| `_layouts/default.html` | Page layout: TTS (chunked utterances), prev/next nav, font size — see `references/frontend-bugs.md` before touching JS |

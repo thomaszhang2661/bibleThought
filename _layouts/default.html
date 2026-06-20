@@ -247,13 +247,16 @@
         window.speechSynthesis.cancel();
         setTimeout(function() { doSpeak(0); }, 100);
       } else if (ttsState === 'playing') {
-        window.speechSynthesis.pause();
+        // Cancel current utterance and save position — don't rely on pause()/resume()
+        // which are unreliable when a chunk ends naturally while "paused".
+        window.speechSynthesis.cancel();
         ttsState = 'paused';
         document.getElementById('btn-tts').textContent = '继续';
       } else {
-        window.speechSynthesis.resume();
-        ttsState = 'playing';
-        document.getElementById('btn-tts').textContent = '暂停';
+        // Resume: restart from saved position
+        var pos = ttsCharIdx;
+        window.speechSynthesis.cancel();
+        setTimeout(function() { doSpeak(pos); }, 100);
       }
     }
 
