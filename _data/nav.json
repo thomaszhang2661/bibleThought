@@ -3618,14 +3618,278 @@
     "title": "08_末世论最后章节（下）",
     "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/08_末世论最后章节（上）",
     "prev_title": "08_末世论最后章节（上）",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/00_序言",
+    "next_title": "00_序言"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/00_序言.md",
+    "title": "00_序言",
+    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/08_末世论最后章节（下）",
+    "prev_title": "08_末世论最后章节（下）",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/01_第一章_基督教教义研究",
+    "next_title": "01_第一章_基督教教义研究"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/01_第一章_基督教教义研究.md",
+    "title": "01_第一章_基督教教义研究",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/00_序言",
+    "prev_title": "00_序言",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/02_第二章_圣经论",
+    "next_title": "02_第二章_圣经论"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/02_第二章_圣经论.md",
+    "title": "02_第二章_圣经论",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/01_第一章_基督教教义研究",
+    "prev_title": "01_第一章_基督教教义研究",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/03_第三章_上帝的认知",
+    "next_title": "03_第三章_上帝的认知"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/03_第三章_上帝的认知.md",
+    "title": "03_第三章_上帝的认知",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/02_第二章_圣经论",
+    "prev_title": "02_第二章_圣经论",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/04_第四章_上帝的本质和属性",
+    "next_title": "04_第四章_上帝的本质和属性"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/04_第四章_上帝的本质和属性.md",
+    "title": "04_第四章_上帝的本质和属性",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/03_第三章_上帝的认知",
+    "prev_title": "03_第三章_上帝的认知",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/05_第五章_三位一体",
+    "next_title": "05_第五章_三位一体"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/05_第五章_三位一体.md",
+    "title": "05_第五章_三位一体",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/04_第四章_上帝的本质和属性",
+    "prev_title": "04_第四章_上帝的本质和属性",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/06_第六章_创造",
+    "next_title": "06_第六章_创造"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/06_第六章_创造.md",
+    "title": "06_第六章_创造",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/05_第五章_三位一体",
+    "prev_title": "05_第五章_三位一体",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/07_第七章_上帝的保顾",
+    "next_title": "07_第七章_上帝的保顾"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/07_第七章_上帝的保顾.md",
+    "title": "07_第七章_上帝的保顾",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/06_第六章_创造",
+    "prev_title": "06_第六章_创造",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/08_第八章_天使",
+    "next_title": "08_第八章_天使"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/08_第八章_天使.md",
+    "title": "08_第八章_天使",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/07_第七章_上帝的保顾",
+    "prev_title": "07_第七章_上帝的保顾",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/09_第九章_人类",
+    "next_title": "09_第九章_人类"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/09_第九章_人类.md",
+    "title": "09_第九章_人类",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/08_第八章_天使",
+    "prev_title": "08_第八章_天使",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/10_第十章_恩典论",
+    "next_title": "10_第十章_恩典论"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/10_第十章_恩典论.md",
+    "title": "10_第十章_恩典论",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/09_第九章_人类",
+    "prev_title": "09_第九章_人类",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/11_第十一章_基督的位格",
+    "next_title": "11_第十一章_基督的位格"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/11_第十一章_基督的位格.md",
+    "title": "11_第十一章_基督的位格",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/10_第十章_恩典论",
+    "prev_title": "10_第十章_恩典论",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/12_第十二章_降卑与高举",
+    "next_title": "12_第十二章_降卑与高举"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/12_第十二章_降卑与高举.md",
+    "title": "12_第十二章_降卑与高举",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/11_第十一章_基督的位格",
+    "prev_title": "11_第十一章_基督的位格",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/13_第十三章_基督三重职分",
+    "next_title": "13_第十三章_基督三重职分"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/13_第十三章_基督三重职分.md",
+    "title": "13_第十三章_基督三重职分",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/12_第十二章_降卑与高举",
+    "prev_title": "12_第十二章_降卑与高举",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/14_第十四章_信心",
+    "next_title": "14_第十四章_信心"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/14_第十四章_信心.md",
+    "title": "14_第十四章_信心",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/13_第十三章_基督三重职分",
+    "prev_title": "13_第十三章_基督三重职分",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/15_第十五章_回转归正",
+    "next_title": "15_第十五章_回转归正"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/15_第十五章_回转归正.md",
+    "title": "15_第十五章_回转归正",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/14_第十四章_信心",
+    "prev_title": "14_第十四章_信心",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/16_第十六章_称义",
+    "next_title": "16_第十六章_称义"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/16_第十六章_称义.md",
+    "title": "16_第十六章_称义",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/15_第十五章_回转归正",
+    "prev_title": "15_第十五章_回转归正",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/17_第十七章_成圣",
+    "next_title": "17_第十七章_成圣"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/17_第十七章_成圣.md",
+    "title": "17_第十七章_成圣",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/16_第十六章_称义",
+    "prev_title": "16_第十六章_称义",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/18_第十八章_善行与祷告",
+    "next_title": "18_第十八章_善行与祷告"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/18_第十八章_善行与祷告.md",
+    "title": "18_第十八章_善行与祷告",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/17_第十七章_成圣",
+    "prev_title": "17_第十七章_成圣",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/19_第十九章_拣选",
+    "next_title": "19_第十九章_拣选"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/19_第十九章_拣选.md",
+    "title": "19_第十九章_拣选",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/18_第十八章_善行与祷告",
+    "prev_title": "18_第十八章_善行与祷告",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/20_第二十章_施恩具",
+    "next_title": "20_第二十章_施恩具"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/20_第二十章_施恩具.md",
+    "title": "20_第二十章_施恩具",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/19_第十九章_拣选",
+    "prev_title": "19_第十九章_拣选",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/21_第二十一章_圣礼引言",
+    "next_title": "21_第二十一章_圣礼引言"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/21_第二十一章_圣礼引言.md",
+    "title": "21_第二十一章_圣礼引言",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/20_第二十章_施恩具",
+    "prev_title": "20_第二十章_施恩具",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/22_第二十二章_圣洗礼",
+    "next_title": "22_第二十二章_圣洗礼"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/22_第二十二章_圣洗礼.md",
+    "title": "22_第二十二章_圣洗礼",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/21_第二十一章_圣礼引言",
+    "prev_title": "21_第二十一章_圣礼引言",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/23_第二十三章_圣餐",
+    "next_title": "23_第二十三章_圣餐"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/23_第二十三章_圣餐.md",
+    "title": "23_第二十三章_圣餐",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/22_第二十二章_圣洗礼",
+    "prev_title": "22_第二十二章_圣洗礼",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/24_第二十四章_教会",
+    "next_title": "24_第二十四章_教会"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/24_第二十四章_教会.md",
+    "title": "24_第二十四章_教会",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/23_第二十三章_圣餐",
+    "prev_title": "23_第二十三章_圣餐",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/25_第二十五章_教会相交",
+    "next_title": "25_第二十五章_教会相交"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/25_第二十五章_教会相交.md",
+    "title": "25_第二十五章_教会相交",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/24_第二十四章_教会",
+    "prev_title": "24_第二十四章_教会",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/26_第二十六章_教会圣工",
+    "next_title": "26_第二十六章_教会圣工"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/26_第二十六章_教会圣工.md",
+    "title": "26_第二十六章_教会圣工",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/25_第二十五章_教会相交",
+    "prev_title": "25_第二十五章_教会相交",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/27_第二十七章_敌基督",
+    "next_title": "27_第二十七章_敌基督"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/27_第二十七章_敌基督.md",
+    "title": "27_第二十七章_敌基督",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/26_第二十六章_教会圣工",
+    "prev_title": "26_第二十六章_教会圣工",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/28_第二十八章_终末论",
+    "next_title": "28_第二十八章_终末论"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/28_第二十八章_终末论.md",
+    "title": "28_第二十八章_终末论",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/27_第二十七章_敌基督",
+    "prev_title": "27_第二十七章_敌基督",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/29_第二十九章_教会与国家",
+    "next_title": "29_第二十九章_教会与国家"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/29_第二十九章_教会与国家.md",
+    "title": "29_第二十九章_教会与国家",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/28_第二十八章_终末论",
+    "prev_title": "28_第二十八章_终末论",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/30_第三十章_婚姻与家庭",
+    "next_title": "30_第三十章_婚姻与家庭"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/30_第三十章_婚姻与家庭.md",
+    "title": "30_第三十章_婚姻与家庭",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/29_第二十九章_教会与国家",
+    "prev_title": "29_第二十九章_教会与国家",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/31_附录",
+    "next_title": "31_附录"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/31_附录.md",
+    "title": "31_附录",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/30_第三十章_婚姻与家庭",
+    "prev_title": "30_第三十章_婚姻与家庭",
+    "next_url": "101. 教义/上帝以此爱世人-God so love the word/32_英汉对照表",
+    "next_title": "32_英汉对照表"
+  },
+  {
+    "path": "101. 教义/上帝以此爱世人-God so love the word/32_英汉对照表.md",
+    "title": "32_英汉对照表",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/31_附录",
+    "prev_title": "31_附录",
     "next_url": "101. 教义/两个国度/走向叛逆之路-分析朋霍费尔的抵抗神学/01_摘要",
     "next_title": "01_摘要"
   },
   {
     "path": "101. 教义/两个国度/走向叛逆之路-分析朋霍费尔的抵抗神学/01_摘要.md",
     "title": "01_摘要",
-    "prev_url": "101. 教义/Francis Pieper/309_卷三_末世论/08_末世论最后章节（下）",
-    "prev_title": "08_末世论最后章节（下）",
+    "prev_url": "101. 教义/上帝以此爱世人-God so love the word/32_英汉对照表",
+    "prev_title": "32_英汉对照表",
     "next_url": "101. 教义/两个国度/走向叛逆之路-分析朋霍费尔的抵抗神学/02_负责任行动与纳粹意识形态",
     "next_title": "02_负责任行动与纳粹意识形态"
   },
