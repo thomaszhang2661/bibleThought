@@ -2,9 +2,12 @@
 import os
 import re
 import json
+import subprocess
 from collections import defaultdict
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = subprocess.check_output(
+    ["git", "rev-parse", "--show-toplevel"], text=True
+).strip()
 
 EXCLUDE_FILES = {"index.md", "index- generator.md", "generate_index.py", "2..md", "Untitled.md"}
 EXCLUDE_DIRS = {".obsidian", ".git", "_attachments"}

@@ -17,7 +17,7 @@ Local path: `/Users/zhangjian/Library/Mobile Documents/iCloud~md~obsidian/Docume
 - **`_config.yml`**: applies `layout: default` to ALL files via `defaults`. This means EVERY `.md` file in the repo becomes a Jekyll page, and YAML front matter rules apply universally.
 - **`index.md`**: the article directory. **Auto-generated** by `generate_index.py` — do NOT edit by hand.
 - **`_data/nav.json`**: prev/next navigation per page. **Auto-generated** by `generate_index.py` — do NOT edit by hand.
-- **`generate_index.py`**: walks the entire repo and regenerates both `index.md` and `_data/nav.json`. Run it manually with `python3 generate_index.py` if needed.
+- **`.claude/skills/biblethought-maintenance/generate_index.py`**: walks the entire repo and regenerates both `index.md` and `_data/nav.json`. Run it manually with `python3 .claude/skills/biblethought-maintenance/generate_index.py` if needed.
 - **`.git/hooks/pre-commit`**: runs `generate_index.py` automatically before every `git commit`. `index.md` and `nav.json` are always in sync with the actual files.
 - **`_layouts/default.html`**: single layout for all pages; uses `site.data.nav`.
 
@@ -134,7 +134,7 @@ Note: 《协和信条的辩护》in `202_卷二_基督论/11_*.md` is a DIFFEREN
 
 | File | Purpose |
 |------|---------|
-| `generate_index.py` | Regenerates `index.md` + `nav.json`; runs automatically on every commit |
+| `.claude/skills/biblethought-maintenance/generate_index.py` | Regenerates `index.md` + `nav.json`; runs automatically on every commit |
 | `.git/hooks/pre-commit` | Triggers `generate_index.py` before each commit (local only, not git-tracked) |
 | `_config.yml` | Jekyll config; `defaults` applies layout to all files |
 | `_layouts/default.html` | Single page layout with TTS, nav, font size |
