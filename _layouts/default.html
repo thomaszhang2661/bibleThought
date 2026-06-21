@@ -183,12 +183,13 @@
       if (ttsState !== 'playing') return;
       ttsChunkIdx = idx;
       var chunk = ttsChunks[idx];
+      ttsCharIdx = chunk.offset; // track position at chunk level even if onboundary doesn't fire
       var utt = new SpeechSynthesisUtterance(chunk.text);
       utt.lang = 'zh-CN';
       utt.rate = speedPresets[speedIndex];
       utt.onboundary = function(e) {
         if (e.name === 'word') {
-          ttsCharIdx = chunk.offset + e.charIndex;
+          ttsCharIdx = chunk.offset + e.charIndex; // refine to word level when available
           highlightPara(ttsCharIdx);
         }
       };
