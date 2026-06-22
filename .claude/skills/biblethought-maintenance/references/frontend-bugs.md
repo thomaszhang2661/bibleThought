@@ -77,19 +77,33 @@ setTimeout(function() { doSpeak(pos); }, 150);
 
 ---
 
-## Voice pre-selection
+## 朗读高亮不随内容滚动
 
-**Why it exists:** Without explicit voice assignment, browsers re-select a voice on every utterance. This causes inconsistent quality across chunks and additional latency on first speak.
+**Symptom:** TTS 朗读时当前段落有黄色高亮，但页面不滚动，高亮段落移出屏幕后用户看不到。
 
-**Fix (already in code):** `initTTSVoice()` runs at page load (and on `onvoiceschanged`) and caches the best zh-CN voice in `ttsVoice`. Priority: local zh-CN > remote zh-CN > any zh. Each utterance sets `utt.voice = ttsVoice` if available.
+**Fix (already in code):** `highlightPara()` 在切换 class 后调用 `scrollIntoView`：
 
 ```js
-function initTTSVoice() {
-  var zh = window.speechSynthesis.getVoices().filter(v => /^zh/i.test(v.lang));
-  ttsVoice = zh.find(v => v.localService && /zh[-_]CN/i.test(v.lang))
-           || zh.find(v => /zh[-_]CN/i.test(v.lang))
-           || zh[0];
-}
+if (active) active.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 ```
 
-Do NOT remove the `onvoiceschanged` listener — Chrome loads voices asynchronously and the list is empty on the first synchronous call.
+`block: 'nearest'` — 只在元素不可见时才滚动，避免页面频繁跳动。不要用 `block: 'center'`（每次都跳到中间，体验差）。
+
+---
+
+## 不要强制预选语音
+
+**Symptom (past bug):** 代码曾加入 `initTTSVoice()` 预选本地 zh-CN 语音，结果覆盖了用户在系统/浏览器中设置的默认语音，用户听到了不认识的声音。
+
+**Rule:** 只设 `utt.lang = 'zh-CN'`，**不设 `utt.voice`**，让浏览器用用户的默认语音。
+
+```js
+// 正确
+utt.lang = 'zh-CN';
+utt.rate = speedPresets[speedIndex];
+
+// 错误 — 不要这样做
+if (ttsVoice) utt.voice = ttsVoice;
+```
+
+Do NOT add voice pre-selection back — it breaks the user's preferred voice setting.
