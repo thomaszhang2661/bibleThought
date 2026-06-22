@@ -294,14 +294,14 @@ body_class: index-page
 <a class="tree-file" href="99. 讲道/路加福音15 Josh">路加福音15 Josh</a>
 <a class="tree-file" href="99. 讲道/路加福音17_1-10 信心成就不可能的饶恕">路加福音17_1-10 信心成就不可能的饶恕</a>
 <a class="tree-file" href="99. 讲道/20260527三位一体主日">20260527三位一体主日</a>
-<details class="tree-folder" id="99-讲道-Bork牧师">
-<summary class="tree-dir">Bork牧师<a class="anchor-link" href="#99-讲道-Bork牧师">#</a></summary>
-<details class="tree-folder" id="99-讲道-Bork牧师-丰盛生命系列讲道">
-<summary class="tree-dir">丰盛生命系列讲道<a class="anchor-link" href="#99-讲道-Bork牧师-丰盛生命系列讲道">#</a></summary>
-<a class="tree-file" href="99. 讲道/Bork牧师/丰盛生命系列讲道/01_结出丰盛的果实_灵魂的园艺">01_结出丰盛的果实_灵魂的园艺</a>
-<a class="tree-file" href="99. 讲道/Bork牧师/丰盛生命系列讲道/02_结出爱的果子">02_结出爱的果子</a>
-<a class="tree-file" href="99. 讲道/Bork牧师/丰盛生命系列讲道/03_喜乐">03_喜乐</a>
-<a class="tree-file" href="99. 讲道/Bork牧师/丰盛生命系列讲道/03_喜乐_查经">03_喜乐_查经</a>
+<details class="tree-folder" id="99-讲道-00-Bork牧师">
+<summary class="tree-dir">00.Bork牧师<a class="anchor-link" href="#99-讲道-00-Bork牧师">#</a></summary>
+<details class="tree-folder" id="99-讲道-00-Bork牧师-丰盛生命系列讲道">
+<summary class="tree-dir">丰盛生命系列讲道<a class="anchor-link" href="#99-讲道-00-Bork牧师-丰盛生命系列讲道">#</a></summary>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/01_结出丰盛的果实_灵魂的园艺">01_结出丰盛的果实_灵魂的园艺</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/02_结出爱的果子">02_结出爱的果子</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/03_喜乐">03_喜乐</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/03_喜乐_查经">03_喜乐_查经</a>
 </details>
 </details>
 <details class="tree-folder" id="99-讲道-罪就伏在我们门前">
