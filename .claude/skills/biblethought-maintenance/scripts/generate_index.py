@@ -15,6 +15,13 @@ EXCLUDE_DIRS = {".obsidian", ".git", "_attachments"}
 INDEX_HEADER = '---\nbody_class: index-page\n---\n\n'
 INDEX_FOOTER = ''
 
+def folder_id(*parts):
+    """Generate anchor ID for a folder from one or more path components."""
+    combined = '-'.join(parts)
+    combined = re.sub(r'[\s._]+', '-', combined)
+    combined = re.sub(r'-+', '-', combined).strip('-')
+    return combined
+
 def make_id(text):
     """Generate anchor id from heading text: keep Chinese chars, ASCII word chars, hyphens."""
     result = text.replace(' ', '-')
@@ -148,7 +155,8 @@ def generate():
     for top in sorted(tree.keys(), key=num_key):
         if top == "":
             continue
-        lines.append(f'\n<details class="tree-folder">\n<summary class="tree-dir">{top}</summary>\n')
+        tid = folder_id(top)
+        lines.append(f'\n<details class="tree-folder" id="{tid}">\n<summary class="tree-dir">{top}<a class="anchor-link" href="#{tid}">#</a></summary>\n')
         subs = tree[top]
 
         for rel_path, title in subs.get("", {}).get("", []):
@@ -158,7 +166,8 @@ def generate():
         for sub in sorted(subs.keys(), key=num_key):
             if sub == "":
                 continue
-            lines.append(f'<details class="tree-folder">\n<summary class="tree-dir">{sub}</summary>\n')
+            sid = folder_id(top, sub)
+            lines.append(f'<details class="tree-folder" id="{sid}">\n<summary class="tree-dir">{sub}<a class="anchor-link" href="#{sid}">#</a></summary>\n')
             subsubs = subs[sub]
 
             for rel_path, title in subsubs.get("", []):
@@ -166,7 +175,8 @@ def generate():
                 lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')
 
             for subsub in sorted([k for k in subsubs.keys() if k != ""], key=num_key):
-                lines.append(f'<details class="tree-folder">\n<summary class="tree-dir">{subsub}</summary>\n')
+                ssid = folder_id(top, sub, subsub)
+                lines.append(f'<details class="tree-folder" id="{ssid}">\n<summary class="tree-dir">{subsub}<a class="anchor-link" href="#{ssid}">#</a></summary>\n')
                 for rel_path, title in subsubs[subsub]:
                     url = make_url(rel_path)
                     lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')

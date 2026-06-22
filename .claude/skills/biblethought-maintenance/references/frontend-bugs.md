@@ -110,6 +110,59 @@ if (active) active.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 
 ---
 
+## TTS 高亮自动滚动锁死页面
+
+**Symptom:** 朗读时高亮段落会自动滚动页面，用户手动滚动时被覆盖，感觉"页面被锁住了"。
+
+**Root cause:** `highlightPara()` 在每次 `onboundary` 时无条件调用 `scrollIntoView`，覆盖用户的手动滚动。
+
+**Fix (already in code):** 用 `userScrolling` flag 追踪用户是否在主动滚动：
+
+```js
+var userScrolling = false;
+var userScrollTimer = null;
+window.addEventListener('scroll', function() {
+  userScrolling = true;
+  clearTimeout(userScrollTimer);
+  userScrollTimer = setTimeout(function() { userScrolling = false; }, 2000);
+}, { passive: true });
+
+// In highlightPara():
+if (active && !userScrolling) active.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+```
+
+用户滚动后 2 秒内不自动滚动，之后恢复。
+
+---
+
+## 首页文件夹链接（可分享 URL）
+
+**Requirement:** 用户需要能复制某个文件夹的链接发给他人，让对方直接跳到该章节。
+
+**Implementation:** `generate_index.py` 为每个 `<details>` 加 `id`，并在 `<summary>` 内嵌 `<a class="anchor-link" href="#id">#</a>`：
+
+```html
+<details class="tree-folder" id="101-教义">
+<summary class="tree-dir">101. 教义<a class="anchor-link" href="#101-教义">#</a></summary>
+```
+
+`default.html` JS 用 capture 阶段监听（`true` 第三参数），确保在 `<summary>` toggle 之前拦截点击，复制 URL 到剪贴板：
+
+```js
+document.addEventListener('click', function(e) {
+  var a = e.target.closest('a.anchor-link');
+  if (!a) return;
+  e.preventDefault(); e.stopPropagation();
+  // ... copy URL ...
+}, true); // capture phase — must be true to fire before <summary> toggle
+```
+
+页面加载时若 URL 含 fragment，自动展开对应文件夹并滚动过去。
+
+**Rule:** 每次修改 `generate_index.py` 的文件夹输出格式，必须保留 `id` 和 `<a class="anchor-link">` — 这是用户分享文件夹链接的唯一入口。
+
+---
+
 ## 不要强制预选语音
 
 **Symptom (past bug):** 代码曾加入 `initTTSVoice()` 预选本地 zh-CN 语音，结果覆盖了用户在系统/浏览器中设置的默认语音，用户听到了不认识的声音。

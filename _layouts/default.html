@@ -55,7 +55,27 @@
       }
     });
 
-    // Anchor links for headings
+    // Anchor links: use capture phase so stopPropagation fires before <summary> toggle
+    document.addEventListener('click', function(e) {
+      var a = e.target.closest('a.anchor-link');
+      if (!a) return;
+      e.preventDefault();
+      e.stopPropagation();
+      var href = a.getAttribute('href') || '';
+      var id = href.startsWith('#') ? href.slice(1) : null;
+      if (!id) return;
+      var url = location.href.split('#')[0] + '#' + id;
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(url).then(function() {
+          var tip = document.getElementById('copy-tip');
+          tip.style.display = 'block';
+          setTimeout(function() { tip.style.display = 'none'; }, 1500);
+        });
+      }
+      history.pushState(null, '', '#' + id);
+    }, true);
+
+    // Add anchor links to headings (index page folders get theirs from generate_index.py)
     document.querySelectorAll('h2, h3, h4').forEach(function(h) {
       var id = h.id;
       if (!id) return;
@@ -63,18 +83,21 @@
       a.href = '#' + id;
       a.className = 'anchor-link';
       a.textContent = '#';
-      a.onclick = function(e) {
-        e.preventDefault();
-        var url = location.href.split('#')[0] + '#' + id;
-        navigator.clipboard.writeText(url).then(function() {
-          var tip = document.getElementById('copy-tip');
-          tip.style.display = 'block';
-          setTimeout(function() { tip.style.display = 'none'; }, 1500);
-        });
-        history.pushState(null, '', '#' + id);
-      };
       h.appendChild(a);
     });
+
+    // On page load: if URL fragment points to a <details> folder, open and scroll to it
+    (function() {
+      var hash = location.hash && location.hash.slice(1);
+      if (!hash) return;
+      var el = document.getElementById(hash);
+      if (el && el.tagName === 'DETAILS') {
+        el.open = true;
+        var p = el.parentElement;
+        while (p) { if (p.tagName === 'DETAILS') p.open = true; p = p.parentElement; }
+        setTimeout(function() { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 100);
+      }
+    })();
 
     function setFont(size) {
       document.body.className = 'font-' + size;
@@ -94,6 +117,15 @@
     }
     adjustPadding();
     window.addEventListener('resize', adjustPadding);
+
+    // TTS auto-scroll suppression: don't hijack scroll while user is scrolling manually
+    var userScrolling = false;
+    var userScrollTimer = null;
+    window.addEventListener('scroll', function() {
+      userScrolling = true;
+      clearTimeout(userScrollTimer);
+      userScrollTimer = setTimeout(function() { userScrolling = false; }, 2000);
+    }, { passive: true });
 
     // TTS
     var ttsState = 'idle';
@@ -146,7 +178,7 @@
       paraMap.forEach(function(p) {
         p.el.classList.toggle('tts-highlight', p.el === active);
       });
-      if (active) active.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      if (active && !userScrolling) active.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
 
     function clearHighlight() {
