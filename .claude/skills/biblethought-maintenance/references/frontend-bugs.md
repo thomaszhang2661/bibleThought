@@ -59,10 +59,37 @@ Do NOT switch back to `speechSynthesis.pause()`/`resume()` — the bug returns.
 
 ---
 
-## Speed change: position drift of ~1–2 sentences
+## Speed change: position rollback up to 1 sentence
 
-**Symptom:** After clicking 慢/快, speech resumes a few sentences before/after the actual pause point.
+**Symptom:** After clicking 慢/快, speech resumes slightly before the pause point (up to ~1 sentence back).
 
-**Root cause:** `onboundary` fires at word boundaries, not character boundaries, and not every browser fires it reliably. `ttsCharIdx` is an approximation.
+**Root cause:** `onboundary` events are unreliable; `ttsCharIdx` is an approximation. Without `onboundary`, it equals the chunk start, which could be ~500 chars back.
 
-**Acceptable:** Not worth fixing. The drift is small and the alternative (exact byte offset tracking) is fragile across browsers.
+**Fix (already in code):** `changeSpeed()` calls `nearestSentenceStart(ttsCharIdx)` before restarting. This scans backward up to 300 chars for a sentence terminator (`。！？\n`) and restarts from just after it — at most ~1 sentence of rollback, not a full chunk.
+
+```js
+var pos = nearestSentenceStart(ttsCharIdx); // ≤300 chars back, not chunk start
+window.speechSynthesis.cancel();
+setTimeout(function() { doSpeak(pos); }, 150);
+```
+
+**Residual:** If `onboundary` never fired for the current chunk, rollback can be up to 300 chars. Acceptable.
+
+---
+
+## Voice pre-selection
+
+**Why it exists:** Without explicit voice assignment, browsers re-select a voice on every utterance. This causes inconsistent quality across chunks and additional latency on first speak.
+
+**Fix (already in code):** `initTTSVoice()` runs at page load (and on `onvoiceschanged`) and caches the best zh-CN voice in `ttsVoice`. Priority: local zh-CN > remote zh-CN > any zh. Each utterance sets `utt.voice = ttsVoice` if available.
+
+```js
+function initTTSVoice() {
+  var zh = window.speechSynthesis.getVoices().filter(v => /^zh/i.test(v.lang));
+  ttsVoice = zh.find(v => v.localService && /zh[-_]CN/i.test(v.lang))
+           || zh.find(v => /zh[-_]CN/i.test(v.lang))
+           || zh[0];
+}
+```
+
+Do NOT remove the `onvoiceschanged` listener — Chrome loads voices asynchronously and the list is empty on the first synchronous call.
