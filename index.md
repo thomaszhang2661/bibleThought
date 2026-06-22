@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 800 篇文章
+共 801 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -330,6 +330,7 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/基督徒如何做人生选择">基督徒如何做人生选择</a>
 <a class="tree-file" href="101. 教义/00_教义问答/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
 <a class="tree-file" href="101. 教义/00_教义问答/自杀的信徒能否得救">自杀的信徒能否得救</a>
+<a class="tree-file" href="101. 教义/00_教义问答/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <details class="tree-folder">
 <summary class="tree-dir">旧约时代的人如何得救</summary>
 <a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
