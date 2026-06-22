@@ -326,6 +326,18 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
 <a class="tree-file" href="101. 教义/耶稣是谁？">耶稣是谁？</a>
 <details class="tree-folder">
+<summary class="tree-dir">00_教义问答</summary>
+<a class="tree-file" href="101. 教义/00_教义问答/基督徒如何做人生选择">基督徒如何做人生选择</a>
+<a class="tree-file" href="101. 教义/00_教义问答/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
+<a class="tree-file" href="101. 教义/00_教义问答/自杀的信徒能否得救">自杀的信徒能否得救</a>
+<details class="tree-folder">
+<summary class="tree-dir">旧约时代的人如何得救</summary>
+<a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
+<a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
+<a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
+</details>
+</details>
+<details class="tree-folder">
 <summary class="tree-dir">Francis Pieper</summary>
 <a class="tree-file" href="101. 教义/Francis Pieper/基督降在阴间">基督降在阴间</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/论赦罪——施恩具之赦罪形式">论赦罪——施恩具之赦罪形式</a>
@@ -902,11 +914,6 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/拣选/拣选多马笔记">拣选多马笔记</a>
 </details>
 <details class="tree-folder">
-<summary class="tree-dir">教义问答</summary>
-<a class="tree-file" href="101. 教义/教义问答/基督徒如何做人生选择">基督徒如何做人生选择</a>
-<a class="tree-file" href="101. 教义/教义问答/自杀的信徒能否得救">自杀的信徒能否得救</a>
-</details>
-<details class="tree-folder">
 <summary class="tree-dir">教会和事工</summary>
 <a class="tree-file" href="101. 教义/教会和事工/0. 资料推荐">0. 资料推荐</a>
 <a class="tree-file" href="101. 教义/教会和事工/1. Claude 总结-教会事工学习笔记">1. Claude 总结-教会事工学习笔记</a>
@@ -953,19 +960,9 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/敬虔主义论文/敬虔主义的灵-历史分析与当代关切">敬虔主义的灵-历史分析与当代关切</a>
 </details>
 <details class="tree-folder">
-<summary class="tree-dir">旧约时代的人如何得救</summary>
-<a class="tree-file" href="101. 教义/旧约时代的人如何得救/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
-<a class="tree-file" href="101. 教义/旧约时代的人如何得救/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
-<a class="tree-file" href="101. 教义/旧约时代的人如何得救/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
-</details>
-<details class="tree-folder">
 <summary class="tree-dir">洗礼</summary>
 <a class="tree-file" href="101. 教义/洗礼/关于洗礼的一些资料">关于洗礼的一些资料</a>
 <a class="tree-file" href="101. 教义/洗礼/洗礼是"必须的"吗-从律法与福音的区分谈起">洗礼是"必须的"吗-从律法与福音的区分谈起</a>
-</details>
-<details class="tree-folder">
-<summary class="tree-dir">神爱世人但不是所有人得救</summary>
-<a class="tree-file" href="101. 教义/神爱世人但不是所有人得救/并非所有人得救">并非所有人得救</a>
 </details>
 <details class="tree-folder">
 <summary class="tree-dir">祷告</summary>

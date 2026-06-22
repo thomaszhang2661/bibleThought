@@ -183,7 +183,7 @@
       return chunks;
     }
 
-    function speakChunk(idx) {
+    function speakChunk(idx, fromChar) {
       var btn = document.getElementById('btn-tts');
       if (idx >= ttsChunks.length) {
         ttsState = 'idle'; ttsCharIdx = 0;
@@ -194,19 +194,20 @@
       if (ttsState !== 'playing') return;
       ttsChunkIdx = idx;
       var chunk = ttsChunks[idx];
-      ttsCharIdx = chunk.offset; // track position at chunk level even if onboundary doesn't fire
-      var utt = new SpeechSynthesisUtterance(chunk.text);
+      var skip = (fromChar && fromChar > chunk.offset) ? fromChar - chunk.offset : 0;
+      var text = skip > 0 ? chunk.text.slice(skip) : chunk.text;
+      var base = chunk.offset + skip;
+      ttsCharIdx = base;
+      var utt = new SpeechSynthesisUtterance(text);
       utt.lang = 'zh-CN';
       utt.rate = speedPresets[speedIndex];
       utt.onboundary = function(e) {
-        if (e.name === 'word') {
-          ttsCharIdx = chunk.offset + e.charIndex; // refine to word level when available
-          highlightPara(ttsCharIdx);
-        }
+        if (e.name === 'word') { ttsCharIdx = base + e.charIndex; highlightPara(ttsCharIdx); }
       };
       utt.onend = function() { speakChunk(idx + 1); };
       utt.onerror = function(e) {
         if (e.error === 'interrupted' || e.error === 'canceled') return;
+        if (ttsState !== 'playing') return;
         ttsState = 'idle';
         btn.textContent = '朗读'; btn.classList.remove('active');
         clearHighlight();
@@ -241,7 +242,7 @@
       }
       ttsState = 'playing';
       btn.textContent = '暂停'; btn.classList.add('active');
-      speakChunk(startIdx);
+      speakChunk(startIdx, fromChar);
     }
 
     function toggleTTS() {
@@ -257,8 +258,7 @@
         ttsState = 'paused';
         document.getElementById('btn-tts').textContent = '继续';
       } else {
-        // Resume: restart from saved position
-        var pos = ttsCharIdx;
+        var pos = nearestSentenceStart(ttsCharIdx);
         window.speechSynthesis.cancel();
         setTimeout(function() { doSpeak(pos); }, 100);
       }
