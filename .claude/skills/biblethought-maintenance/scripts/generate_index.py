@@ -143,40 +143,38 @@ def generate():
 
     for rel_path, title in tree.get("", {}).get("", {}).get("", []):
         url = make_url(rel_path)
-        lines.append(f"- [{title}]({url})\n")
-    if tree.get("", {}).get("", {}).get("", []):
-        lines.append("\n")
+        lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')
 
     for top in sorted(tree.keys(), key=num_key):
         if top == "":
             continue
-        lines.append(f"## {top} {{#{make_id(top)}}}\n\n")
+        lines.append(f'\n<details class="tree-folder">\n<summary class="tree-dir">{top}</summary>\n')
         subs = tree[top]
 
         for rel_path, title in subs.get("", {}).get("", []):
             url = make_url(rel_path)
-            lines.append(f"- [{title}]({url})\n")
-        if subs.get("", {}).get(""):
-            lines.append("\n")
+            lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')
 
         for sub in sorted(subs.keys(), key=num_key):
             if sub == "":
                 continue
-            lines.append(f"### {sub} {{#{make_id(sub)}}}\n\n")
+            lines.append(f'<details class="tree-folder">\n<summary class="tree-dir">{sub}</summary>\n')
             subsubs = subs[sub]
 
             for rel_path, title in subsubs.get("", []):
                 url = make_url(rel_path)
-                lines.append(f"- [{title}]({url})\n")
-            if subsubs.get(""):
-                lines.append("\n")
+                lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')
 
             for subsub in sorted([k for k in subsubs.keys() if k != ""], key=num_key):
-                lines.append(f"#### {subsub} {{#{make_id(subsub)}}}\n\n")
+                lines.append(f'<details class="tree-folder">\n<summary class="tree-dir">{subsub}</summary>\n')
                 for rel_path, title in subsubs[subsub]:
                     url = make_url(rel_path)
-                    lines.append(f"- [{title}]({url})\n")
-                lines.append("\n")
+                    lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')
+                lines.append(f'</details>\n')
+
+            lines.append(f'</details>\n')
+
+        lines.append(f'</details>\n')
 
     lines.append(INDEX_FOOTER)
     output = os.path.join(ROOT, "index.md")
