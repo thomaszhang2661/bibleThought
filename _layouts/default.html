@@ -104,10 +104,34 @@
     var speedPresets = [0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.2, 1.5, 1.8, 2.0, 2.5, 3.0, 3.5, 4.0];
     var speedIndex = 5; // default 1.0×
     var paraMap = [];
+    var ttsVoice = null;
 
     // Initialize speed button states
     document.getElementById('btn-slow').disabled = (speedIndex === 0);
     document.getElementById('btn-fast').disabled = (speedIndex === speedPresets.length - 1);
+
+    // Pre-select best Chinese voice (local service preferred for speed and reliability)
+    function initTTSVoice() {
+      var voices = window.speechSynthesis.getVoices();
+      if (!voices.length) return;
+      var zh = voices.filter(function(v) { return /^zh/i.test(v.lang); });
+      if (!zh.length) return;
+      ttsVoice = zh.find(function(v) { return v.localService && /zh[-_]CN/i.test(v.lang); })
+              || zh.find(function(v) { return /zh[-_]CN/i.test(v.lang); })
+              || zh[0];
+    }
+    window.speechSynthesis.onvoiceschanged = initTTSVoice;
+    initTTSVoice();
+
+    // Return position of nearest sentence start at or before pos (for speed-change restart)
+    function nearestSentenceStart(pos) {
+      if (!ttsText || pos <= 0) return 0;
+      var limit = Math.max(0, pos - 300);
+      for (var i = Math.min(pos, ttsText.length) - 1; i >= limit; i--) {
+        if ('。！？\n'.indexOf(ttsText[i]) !== -1) return i + 1;
+      }
+      return limit;
+    }
 
     function buildParaMap() {
       paraMap = [];
@@ -186,6 +210,7 @@
       ttsCharIdx = chunk.offset; // track position at chunk level even if onboundary doesn't fire
       var utt = new SpeechSynthesisUtterance(chunk.text);
       utt.lang = 'zh-CN';
+      if (ttsVoice) utt.voice = ttsVoice;
       utt.rate = speedPresets[speedIndex];
       utt.onboundary = function(e) {
         if (e.name === 'word') {
@@ -209,7 +234,7 @@
       document.getElementById('btn-slow').disabled = (speedIndex === 0);
       document.getElementById('btn-fast').disabled = (speedIndex === speedPresets.length - 1);
       if (ttsState !== 'idle') {
-        var pos = ttsCharIdx;
+        var pos = nearestSentenceStart(ttsCharIdx);
         window.speechSynthesis.cancel();
         setTimeout(function() { doSpeak(pos); }, 150);
       }
@@ -220,7 +245,8 @@
       // Chrome: voices may not be loaded yet on first call
       if (window.speechSynthesis.getVoices().length === 0) {
         window.speechSynthesis.onvoiceschanged = function() {
-          window.speechSynthesis.onvoiceschanged = null;
+          initTTSVoice();
+          window.speechSynthesis.onvoiceschanged = initTTSVoice;
           doSpeak(fromChar);
         };
         return;
