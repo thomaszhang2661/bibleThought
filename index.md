@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 801 篇文章
+共 802 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -255,6 +255,7 @@ body_class: index-page
 
 <details class="tree-folder" id="97-论文翻译">
 <summary class="tree-dir">97.论文翻译<a class="anchor-link" href="#97-论文翻译">#</a></summary>
+<a class="tree-file" href="97.论文翻译/关怀被关怀者：信义宗牧师与心理健康专业人员的职责">关怀被关怀者：信义宗牧师与心理健康专业人员的职责</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
 </details>
 
