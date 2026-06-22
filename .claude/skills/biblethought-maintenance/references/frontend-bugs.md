@@ -36,26 +36,45 @@ Do NOT merge these back into one long utterance — the Chrome bug returns immed
 
 ---
 
-## Pause/resume: silent dead-end when chunk ends while paused
+## Pause/resume: two separate bugs
 
-**Symptom:** User pauses TTS, then clicks "继续" — button changes back to "暂停" but no audio plays.
+### Silent dead-end when chunk ends while paused
 
-**Root cause:** With chunked TTS, if the current chunk finishes naturally while `ttsState === 'paused'`, `utt.onend` fires and calls `speakChunk(idx + 1)`, which returns early (state isn't 'playing'). When the user clicks "继续", `speechSynthesis.resume()` is called but there's nothing queued — TTS is silently dead.
+**Symptom:** User pauses, clicks "继续" — button changes to "暂停" but no audio.
 
-**Fix (already in code):** Pause is implemented as `cancel()` + save position, not `pause()`. Resume calls `doSpeak(savedPosition)` to restart from the saved char index. `pause()`/`resume()` are not used.
+**Root cause:** If the current chunk finishes naturally while `ttsState === 'paused'`, `utt.onend` calls `speakChunk(idx + 1)` which returns early (state not 'playing'). `resume()` finds nothing queued — silent.
+
+**Fix:** Pause = `cancel()` + save position. Resume = `doSpeak(savedPos)`. Never use `pause()`/`resume()`.
+
+### Resume restarts from beginning of article
+
+**Symptom:** After pausing, clicking "继续" always restarts from the top.
+
+**Root cause (two layers):**
+1. `onboundary` often doesn't fire for Chinese text → `ttsCharIdx` stays at `chunk.offset`. For chunk 0 that offset is 0 = beginning of article.
+2. `onerror` with an unexpected error code (not `'interrupted'`/`'canceled'`) resets `ttsState = 'idle'` → next click triggers the idle branch (`ttsText = ''; ttsCharIdx = 0; doSpeak(0)`).
+
+**Fix (already in code):**
+- `speakChunk(idx, fromChar)` accepts a start-within-chunk offset and slices the text: `chunk.text.slice(fromChar - chunk.offset)`. `doSpeak` passes `fromChar` through so resume starts mid-chunk, not at chunk head.
+- `onerror` checks `if (ttsState !== 'playing') return` before resetting — stale error events from a cancelled utterance can't corrupt paused state.
+- Resume uses `nearestSentenceStart(ttsCharIdx)` (same as speed-change) for a clean sentence boundary.
 
 ```js
-// Pause: cancel and remember position
+// Pause: cancel and save position
 window.speechSynthesis.cancel();
 ttsState = 'paused';
 
-// Resume: restart from remembered position
-var pos = ttsCharIdx;
+// Resume: find nearest sentence boundary, restart there
+var pos = nearestSentenceStart(ttsCharIdx);
 window.speechSynthesis.cancel();
 setTimeout(function() { doSpeak(pos); }, 100);
+
+// speakChunk: skip already-read portion of the chunk
+var skip = (fromChar && fromChar > chunk.offset) ? fromChar - chunk.offset : 0;
+var text = skip > 0 ? chunk.text.slice(skip) : chunk.text;
 ```
 
-Do NOT switch back to `speechSynthesis.pause()`/`resume()` — the bug returns.
+**Residual:** If `onboundary` never fires and the user pauses within chunk 0, `ttsCharIdx` is 0 → restarts from the beginning of chunk 0 (= article start). No fix without time-based estimation — acceptable.
 
 ---
 
