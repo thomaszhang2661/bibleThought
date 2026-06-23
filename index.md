@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 945 篇文章
+共 963 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1059,6 +1059,16 @@ body_class: index-page
 <summary class="tree-dir">一瘸一拐与神同行<a class="anchor-link" href="#102-阅读-一瘸一拐与神同行">#</a></summary>
 <a class="tree-file" href="102. 阅读/一瘸一拐与神同行/一瘸一拐的旅程-与神同行">一瘸一拐的旅程-与神同行</a>
 </details>
+<details class="tree-folder" id="102-阅读-丈夫为妻祷告书">
+<summary class="tree-dir">丈夫为妻祷告书<a class="anchor-link" href="#102-阅读-丈夫为妻祷告书">#</a></summary>
+<details class="tree-folder" id="102-阅读-丈夫为妻祷告书-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-丈夫为妻祷告书-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/丈夫为妻祷告书/chapters/00_序言">00_序言</a>
+<a class="tree-file" href="102. 阅读/丈夫为妻祷告书/chapters/01_祷告1-7节_内在生命">01_祷告1-7节_内在生命</a>
+<a class="tree-file" href="102. 阅读/丈夫为妻祷告书/chapters/02_祷告8-14节_关系与委身">02_祷告8-14节_关系与委身</a>
+<a class="tree-file" href="102. 阅读/丈夫为妻祷告书/chapters/03_祷告15-21节_使命与未来">03_祷告15-21节_使命与未来</a>
+</details>
+</details>
 <details class="tree-folder" id="102-阅读-东方遇见西方-中国和美国的教学专家">
 <summary class="tree-dir">东方遇见西方-中国和美国的教学专家<a class="anchor-link" href="#102-阅读-东方遇见西方-中国和美国的教学专家">#</a></summary>
 <details class="tree-folder" id="102-阅读-东方遇见西方-中国和美国的教学专家-chapters">
@@ -1168,6 +1178,20 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/基督徒生命中的圣道与圣灵/chapters/00_基督徒生命中的圣道与圣灵">00_基督徒生命中的圣道与圣灵</a>
 </details>
 </details>
+<details class="tree-folder" id="102-阅读-基督教护教学手册">
+<summary class="tree-dir">基督教护教学手册<a class="anchor-link" href="#102-阅读-基督教护教学手册">#</a></summary>
+<details class="tree-folder" id="102-阅读-基督教护教学手册-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-基督教护教学手册-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/00_第一章_护教的本质能力与局限">00_第一章_护教的本质能力与局限</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/01_第二章_信仰与理性">01_第二章_信仰与理性</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/02_第三章_上_二十个论证一至十">02_第三章_上_二十个论证一至十</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/03_第三章_下_二十个论证十一至二十">03_第三章_下_二十个论证十一至二十</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/04_第四章_上帝的本质">04_第四章_上帝的本质</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/05_第五章_宇宙论的四个问题">05_第五章_宇宙论的四个问题</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/06_第六章_恶的问题">06_第六章_恶的问题</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/07_第七章_基督的神性">07_第七章_基督的神性</a>
+</details>
+</details>
 <details class="tree-folder" id="102-阅读-如何阅读一本书">
 <summary class="tree-dir">如何阅读一本书<a class="anchor-link" href="#102-阅读-如何阅读一本书">#</a></summary>
 <details class="tree-folder" id="102-阅读-如何阅读一本书-chapters">
@@ -1189,6 +1213,18 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/如何阅读一本书/chapters/14_第十四章_更多规则">14_第十四章_更多规则</a>
 <a class="tree-file" href="102. 阅读/如何阅读一本书/chapters/15_第十五章_另一半">15_第十五章_另一半</a>
 <a class="tree-file" href="102. 阅读/如何阅读一本书/chapters/16_第十六章_伟大的书籍">16_第十六章_伟大的书籍</a>
+<a class="tree-file" href="102. 阅读/如何阅读一本书/chapters/17_第十七章_自由心灵与自由人">17_第十七章_自由心灵与自由人</a>
+</details>
+</details>
+<details class="tree-folder" id="102-阅读-妻子为夫祷告书">
+<summary class="tree-dir">妻子为夫祷告书<a class="anchor-link" href="#102-阅读-妻子为夫祷告书">#</a></summary>
+<details class="tree-folder" id="102-阅读-妻子为夫祷告书-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-妻子为夫祷告书-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/妻子为夫祷告书/chapters/00_序言与引言">00_序言与引言</a>
+<a class="tree-file" href="102. 阅读/妻子为夫祷告书/chapters/01_妻子_工作_财务_性生活_柔情_试探">01_妻子_工作_财务_性生活_柔情_试探</a>
+<a class="tree-file" href="102. 阅读/妻子为夫祷告书/chapters/02_思想_恐惧_目的_选择_健康_保护_试炼_诚信_声誉">02_思想_恐惧_目的_选择_健康_保护_试炼_诚信_声誉</a>
+<a class="tree-file" href="102. 阅读/妻子为夫祷告书/chapters/03_优先次序_人际_父职_过去_态度_婚姻_情绪_行走_言谈_悔改">03_优先次序_人际_父职_过去_态度_婚姻_情绪_行走_言谈_悔改</a>
+<a class="tree-file" href="102. 阅读/妻子为夫祷告书/chapters/04_拯救_顺服_自我形象_信心_聆听_未来">04_拯救_顺服_自我形象_信心_聆听_未来</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-帮助比利-创伤知情教养">
