@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 963 篇文章
+共 980 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1190,6 +1190,15 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/05_第五章_宇宙论的四个问题">05_第五章_宇宙论的四个问题</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/06_第六章_恶的问题">06_第六章_恶的问题</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/07_第七章_基督的神性">07_第七章_基督的神性</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/08_第九章_圣经_神话还是历史">08_第九章_圣经_神话还是历史</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/08_第八章_复活">08_第八章_复活</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/08_第十章_死后生命">08_第十章_死后生命</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/09_第十一章_天堂">09_第十一章_天堂</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/12_第十二章_地狱">12_第十二章_地狱</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/13_第十三章_救恩">13_第十三章_救恩</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/14_第十四章_基督教与其他宗教">14_第十四章_基督教与其他宗教</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/15_第十五章_客观真理">15_第十五章_客观真理</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/16_第十六章_结论与后记">16_第十六章_结论与后记</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-如何阅读一本书">
@@ -1306,6 +1315,20 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/日常礼仪/chapters/09_第九章_给朋友打电话">09_第九章_给朋友打电话</a>
 <a class="tree-file" href="102. 阅读/日常礼仪/chapters/10_第十章_喝茶">10_第十章_喝茶</a>
 <a class="tree-file" href="102. 阅读/日常礼仪/chapters/11_第十一章_入睡">11_第十一章_入睡</a>
+</details>
+</details>
+<details class="tree-folder" id="102-阅读-旧约典故与翻译-以赛亚书葡萄牙语研究">
+<summary class="tree-dir">旧约典故与翻译-以赛亚书葡萄牙语研究<a class="anchor-link" href="#102-阅读-旧约典故与翻译-以赛亚书葡萄牙语研究">#</a></summary>
+<details class="tree-folder" id="102-阅读-旧约典故与翻译-以赛亚书葡萄牙语研究-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-旧约典故与翻译-以赛亚书葡萄牙语研究-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/00_摘要与目录">00_摘要与目录</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/01_第一章_绪论">01_第一章_绪论</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/02_第二章_典故与译者">02_第二章_典故与译者</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/03_第三章_典故文本与第二以赛亚书（上）">03_第三章_典故文本与第二以赛亚书（上）</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/03b_第三章_典故文本与第二以赛亚书（下）">03b_第三章_典故文本与第二以赛亚书（下）</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/04_第四章_方法论考量">04_第四章_方法论考量</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/05_第五章_上_阿尔梅达版本与历史背景">05_第五章_上_阿尔梅达版本与历史背景</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/06_第五章_中_阿尔梅达文本分析">06_第五章_中_阿尔梅达文本分析</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-有粘性的团队">
