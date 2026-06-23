@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 802 篇文章
+共 834 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -992,13 +992,25 @@ body_class: index-page
 
 <details class="tree-folder" id="102-阅读">
 <summary class="tree-dir">102. 阅读<a class="anchor-link" href="#102-阅读">#</a></summary>
-<a class="tree-file" href="102. 阅读/一瘸一拐的旅程-与神同行">一瘸一拐的旅程-与神同行</a>
-<a class="tree-file" href="102. 阅读/功绩主义的暴政">功绩主义的暴政</a>
 <a class="tree-file" href="102. 阅读/危险的呼召">危险的呼召</a>
-<a class="tree-file" href="102. 阅读/家庭习惯的力量">家庭习惯的力量</a>
 <a class="tree-file" href="102. 阅读/平凡日子的礼仪">平凡日子的礼仪</a>
 <a class="tree-file" href="102. 阅读/成圣基督在行动">成圣基督在行动</a>
 <a class="tree-file" href="102. 阅读/生存的秘诀">生存的秘诀</a>
+<details class="tree-folder" id="102-阅读-7个关键技能">
+<summary class="tree-dir">7个关键技能<a class="anchor-link" href="#102-阅读-7个关键技能">#</a></summary>
+<details class="tree-folder" id="102-阅读-7个关键技能-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-7个关键技能-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/7个关键技能/chapters/00_引言">00_引言</a>
+<a class="tree-file" href="102. 阅读/7个关键技能/chapters/01_第一章_专注与自我控制">01_第一章_专注与自我控制</a>
+<a class="tree-file" href="102. 阅读/7个关键技能/chapters/02_第二章_换位思考">02_第二章_换位思考</a>
+<a class="tree-file" href="102. 阅读/7个关键技能/chapters/03_第三章_沟通">03_第三章_沟通</a>
+<a class="tree-file" href="102. 阅读/7个关键技能/chapters/04_第四章_建立联系">04_第四章_建立联系</a>
+<a class="tree-file" href="102. 阅读/7个关键技能/chapters/05_第五章_批判性思维">05_第五章_批判性思维</a>
+<a class="tree-file" href="102. 阅读/7个关键技能/chapters/06_第六章_接受挑战">06_第六章_接受挑战</a>
+<a class="tree-file" href="102. 阅读/7个关键技能/chapters/07_第七章_自我指导参与式学习">07_第七章_自我指导参与式学习</a>
+<a class="tree-file" href="102. 阅读/7个关键技能/chapters/08_结语">08_结语</a>
+</details>
+</details>
 <details class="tree-folder" id="102-阅读-365-Through-Faith-Alone">
 <summary class="tree-dir">365 Through Faith Alone<a class="anchor-link" href="#102-阅读-365-Through-Faith-Alone">#</a></summary>
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/从扫罗学到什么存谦卑的心-与你的神同行">从扫罗学到什么存谦卑的心-与你的神同行</a>
@@ -1023,20 +1035,33 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/07_附录三四_罗莎里亚的信与常见问题解答">07_附录三四_罗莎里亚的信与常见问题解答</a>
 <a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/08_附录二_我们共同的旅程——肯特·巴特菲尔德">08_附录二_我们共同的旅程——肯特·巴特菲尔德</a>
 </details>
-<details class="tree-folder" id="102-阅读-中心教会">
-<summary class="tree-dir">中心教会<a class="anchor-link" href="#102-阅读-中心教会">#</a></summary>
-<a class="tree-file" href="102. 阅读/中心教会/00.Introduction">00.Introduction</a>
-<a class="tree-file" href="102. 阅读/中心教会/01.Chapter_1">01.Chapter_1</a>
-<a class="tree-file" href="102. 阅读/中心教会/02.Chapter_2">02.Chapter_2</a>
-<a class="tree-file" href="102. 阅读/中心教会/03.Chapter_3">03.Chapter_3</a>
-<a class="tree-file" href="102. 阅读/中心教会/04.Chapter_4">04.Chapter_4</a>
-<a class="tree-file" href="102. 阅读/中心教会/05.Chapter_5">05.Chapter_5</a>
-<a class="tree-file" href="102. 阅读/中心教会/06.Chapter_6">06.Chapter_6</a>
-<a class="tree-file" href="102. 阅读/中心教会/07.Chapter_7">07.Chapter_7</a>
-<a class="tree-file" href="102. 阅读/中心教会/08.Chapter_8">08.Chapter_8</a>
-<a class="tree-file" href="102. 阅读/中心教会/09.Chapter_9">09.Chapter_9</a>
-<a class="tree-file" href="102. 阅读/中心教会/10.Chapter_10">10.Chapter_10</a>
-<a class="tree-file" href="102. 阅读/中心教会/11.Chapter_11">11.Chapter_11</a>
+<details class="tree-folder" id="102-阅读-一瘸一拐与神同行">
+<summary class="tree-dir">一瘸一拐与神同行<a class="anchor-link" href="#102-阅读-一瘸一拐与神同行">#</a></summary>
+<a class="tree-file" href="102. 阅读/一瘸一拐与神同行/一瘸一拐的旅程-与神同行">一瘸一拐的旅程-与神同行</a>
+</details>
+<details class="tree-folder" id="102-阅读-功绩主义的暴政">
+<summary class="tree-dir">功绩主义的暴政<a class="anchor-link" href="#102-阅读-功绩主义的暴政">#</a></summary>
+<a class="tree-file" href="102. 阅读/功绩主义的暴政/功绩主义的暴政">功绩主义的暴政</a>
+</details>
+<details class="tree-folder" id="102-阅读-家庭习惯的力量">
+<summary class="tree-dir">家庭习惯的力量<a class="anchor-link" href="#102-阅读-家庭习惯的力量">#</a></summary>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/家庭习惯的力量">家庭习惯的力量</a>
+<details class="tree-folder" id="102-阅读-家庭习惯的力量-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-家庭习惯的力量-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/00_前言">00_前言</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/01_第一章_醒来">01_第一章_醒来</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/02_第二章_吃饭时间">02_第二章_吃饭时间</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/03_第三章_管教">03_第三章_管教</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/04_第四章_屏幕时间">04_第四章_屏幕时间</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/05_第五章_家庭灵修">05_第五章_家庭灵修</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/06_插章_祷告的礼物">06_插章_祷告的礼物</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/07_第六章_婚姻">07_第六章_婚姻</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/08_第七章_工作">08_第七章_工作</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/09_第八章_玩耍">09_第八章_玩耍</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/10_第九章_对话">10_第九章_对话</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/11_第十章_睡觉时间">11_第十章_睡觉时间</a>
+<a class="tree-file" href="102. 阅读/家庭习惯的力量/chapters/12_结语">12_结语</a>
+</details>
 </details>
 <details class="tree-folder" id="102-阅读-恐惧-被鬼附和属灵战争">
 <summary class="tree-dir">恐惧-被鬼附和属灵战争<a class="anchor-link" href="#102-阅读-恐惧-被鬼附和属灵战争">#</a></summary>
@@ -1136,6 +1161,21 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/植堂工具箱/13.Chapter_13">13.Chapter_13</a>
 <a class="tree-file" href="102. 阅读/植堂工具箱/14.Chapter_14">14.Chapter_14</a>
 </details>
+<details class="tree-folder" id="102-阅读-聚焦的教会">
+<summary class="tree-dir">聚焦的教会<a class="anchor-link" href="#102-阅读-聚焦的教会">#</a></summary>
+<a class="tree-file" href="102. 阅读/聚焦的教会/00.Introduction">00.Introduction</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/01.Chapter_1">01.Chapter_1</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/02.Chapter_2">02.Chapter_2</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/03.Chapter_3">03.Chapter_3</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/04.Chapter_4">04.Chapter_4</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/05.Chapter_5">05.Chapter_5</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/06.Chapter_6">06.Chapter_6</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/07.Chapter_7">07.Chapter_7</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/08.Chapter_8">08.Chapter_8</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/09.Chapter_9">09.Chapter_9</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/10.Chapter_10">10.Chapter_10</a>
+<a class="tree-file" href="102. 阅读/聚焦的教会/11.Chapter_11">11.Chapter_11</a>
+</details>
 </details>
 
 <details class="tree-folder" id="103-视频脚本">
@@ -1216,4 +1256,18 @@ body_class: index-page
 <details class="tree-folder" id="300-一些评论">
 <summary class="tree-dir">300. 一些评论<a class="anchor-link" href="#300-一些评论">#</a></summary>
 <a class="tree-file" href="300. 一些评论/关于Charlie Kirk">关于Charlie Kirk</a>
+</details>
+
+<details class="tree-folder" id="302-公众号洗稿">
+<summary class="tree-dir">302.公众号洗稿<a class="anchor-link" href="#302-公众号洗稿">#</a></summary>
+<a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
+<a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
+<a class="tree-file" href="302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
+<a class="tree-file" href="302.公众号洗稿/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
+<a class="tree-file" href="302.公众号洗稿/显而未见-路德对于呼召的教义">显而未见-路德对于呼召的教义</a>
+<a class="tree-file" href="302.公众号洗稿/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
+<a class="tree-file" href="302.公众号洗稿/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
+<a class="tree-file" href="302.公众号洗稿/耶稣是谁？">耶稣是谁？</a>
+<a class="tree-file" href="302.公众号洗稿/藐视恩典是教会之死">藐视恩典是教会之死</a>
+<a class="tree-file" href="302.公众号洗稿/路德宗政治抵抗理论-马德堡认信与下级执政官教义">路德宗政治抵抗理论-马德堡认信与下级执政官教义</a>
 </details>

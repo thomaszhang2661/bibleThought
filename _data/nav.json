@@ -5114,46 +5114,22 @@
     "title": "研究笔记",
     "prev_url": "101. 教义/苦难/为何有苦难韦思敬博士短讲",
     "prev_title": "为何有苦难韦思敬博士短讲",
-    "next_url": "102. 阅读/一瘸一拐的旅程-与神同行",
-    "next_title": "一瘸一拐的旅程-与神同行"
-  },
-  {
-    "path": "102. 阅读/一瘸一拐的旅程-与神同行.md",
-    "title": "一瘸一拐的旅程-与神同行",
-    "prev_url": "101. 教义/钥匙职/研究笔记",
-    "prev_title": "研究笔记",
-    "next_url": "102. 阅读/功绩主义的暴政",
-    "next_title": "功绩主义的暴政"
-  },
-  {
-    "path": "102. 阅读/功绩主义的暴政.md",
-    "title": "功绩主义的暴政",
-    "prev_url": "102. 阅读/一瘸一拐的旅程-与神同行",
-    "prev_title": "一瘸一拐的旅程-与神同行",
     "next_url": "102. 阅读/危险的呼召",
     "next_title": "危险的呼召"
   },
   {
     "path": "102. 阅读/危险的呼召.md",
     "title": "危险的呼召",
-    "prev_url": "102. 阅读/功绩主义的暴政",
-    "prev_title": "功绩主义的暴政",
-    "next_url": "102. 阅读/家庭习惯的力量",
-    "next_title": "家庭习惯的力量"
-  },
-  {
-    "path": "102. 阅读/家庭习惯的力量.md",
-    "title": "家庭习惯的力量",
-    "prev_url": "102. 阅读/危险的呼召",
-    "prev_title": "危险的呼召",
+    "prev_url": "101. 教义/钥匙职/研究笔记",
+    "prev_title": "研究笔记",
     "next_url": "102. 阅读/平凡日子的礼仪",
     "next_title": "平凡日子的礼仪"
   },
   {
     "path": "102. 阅读/平凡日子的礼仪.md",
     "title": "平凡日子的礼仪",
-    "prev_url": "102. 阅读/家庭习惯的力量",
-    "prev_title": "家庭习惯的力量",
+    "prev_url": "102. 阅读/危险的呼召",
+    "prev_title": "危险的呼召",
     "next_url": "102. 阅读/成圣基督在行动",
     "next_title": "成圣基督在行动"
   },
@@ -5170,14 +5146,86 @@
     "title": "生存的秘诀",
     "prev_url": "102. 阅读/成圣基督在行动",
     "prev_title": "成圣基督在行动",
+    "next_url": "102. 阅读/7个关键技能/chapters/00_引言",
+    "next_title": "00_引言"
+  },
+  {
+    "path": "102. 阅读/7个关键技能/chapters/00_引言.md",
+    "title": "00_引言",
+    "prev_url": "102. 阅读/生存的秘诀",
+    "prev_title": "生存的秘诀",
+    "next_url": "102. 阅读/7个关键技能/chapters/01_第一章_专注与自我控制",
+    "next_title": "01_第一章_专注与自我控制"
+  },
+  {
+    "path": "102. 阅读/7个关键技能/chapters/01_第一章_专注与自我控制.md",
+    "title": "01_第一章_专注与自我控制",
+    "prev_url": "102. 阅读/7个关键技能/chapters/00_引言",
+    "prev_title": "00_引言",
+    "next_url": "102. 阅读/7个关键技能/chapters/02_第二章_换位思考",
+    "next_title": "02_第二章_换位思考"
+  },
+  {
+    "path": "102. 阅读/7个关键技能/chapters/02_第二章_换位思考.md",
+    "title": "02_第二章_换位思考",
+    "prev_url": "102. 阅读/7个关键技能/chapters/01_第一章_专注与自我控制",
+    "prev_title": "01_第一章_专注与自我控制",
+    "next_url": "102. 阅读/7个关键技能/chapters/03_第三章_沟通",
+    "next_title": "03_第三章_沟通"
+  },
+  {
+    "path": "102. 阅读/7个关键技能/chapters/03_第三章_沟通.md",
+    "title": "03_第三章_沟通",
+    "prev_url": "102. 阅读/7个关键技能/chapters/02_第二章_换位思考",
+    "prev_title": "02_第二章_换位思考",
+    "next_url": "102. 阅读/7个关键技能/chapters/04_第四章_建立联系",
+    "next_title": "04_第四章_建立联系"
+  },
+  {
+    "path": "102. 阅读/7个关键技能/chapters/04_第四章_建立联系.md",
+    "title": "04_第四章_建立联系",
+    "prev_url": "102. 阅读/7个关键技能/chapters/03_第三章_沟通",
+    "prev_title": "03_第三章_沟通",
+    "next_url": "102. 阅读/7个关键技能/chapters/05_第五章_批判性思维",
+    "next_title": "05_第五章_批判性思维"
+  },
+  {
+    "path": "102. 阅读/7个关键技能/chapters/05_第五章_批判性思维.md",
+    "title": "05_第五章_批判性思维",
+    "prev_url": "102. 阅读/7个关键技能/chapters/04_第四章_建立联系",
+    "prev_title": "04_第四章_建立联系",
+    "next_url": "102. 阅读/7个关键技能/chapters/06_第六章_接受挑战",
+    "next_title": "06_第六章_接受挑战"
+  },
+  {
+    "path": "102. 阅读/7个关键技能/chapters/06_第六章_接受挑战.md",
+    "title": "06_第六章_接受挑战",
+    "prev_url": "102. 阅读/7个关键技能/chapters/05_第五章_批判性思维",
+    "prev_title": "05_第五章_批判性思维",
+    "next_url": "102. 阅读/7个关键技能/chapters/07_第七章_自我指导参与式学习",
+    "next_title": "07_第七章_自我指导参与式学习"
+  },
+  {
+    "path": "102. 阅读/7个关键技能/chapters/07_第七章_自我指导参与式学习.md",
+    "title": "07_第七章_自我指导参与式学习",
+    "prev_url": "102. 阅读/7个关键技能/chapters/06_第六章_接受挑战",
+    "prev_title": "06_第六章_接受挑战",
+    "next_url": "102. 阅读/7个关键技能/chapters/08_结语",
+    "next_title": "08_结语"
+  },
+  {
+    "path": "102. 阅读/7个关键技能/chapters/08_结语.md",
+    "title": "08_结语",
+    "prev_url": "102. 阅读/7个关键技能/chapters/07_第七章_自我指导参与式学习",
+    "prev_title": "07_第七章_自我指导参与式学习",
     "next_url": "102. 阅读/365 Through Faith Alone/从扫罗学到什么存谦卑的心-与你的神同行",
     "next_title": "从扫罗学到什么存谦卑的心-与你的神同行"
   },
   {
     "path": "102. 阅读/365 Through Faith Alone/从扫罗学到什么存谦卑的心-与你的神同行.md",
     "title": "从扫罗学到什么存谦卑的心-与你的神同行",
-    "prev_url": "102. 阅读/生存的秘诀",
-    "prev_title": "生存的秘诀",
+    "prev_url": "102. 阅读/7个关键技能/chapters/08_结语",
+    "prev_title": "08_结语",
     "next_url": "102. 阅读/365 Through Faith Alone/他的国位必坚立-直到永远",
     "next_title": "他的国位必坚立-直到永远"
   },
@@ -5314,110 +5362,142 @@
     "title": "08_附录二_我们共同的旅程——肯特·巴特菲尔德",
     "prev_url": "102. 阅读/一个不太可能的归信者的内心独白/07_附录三四_罗莎里亚的信与常见问题解答",
     "prev_title": "07_附录三四_罗莎里亚的信与常见问题解答",
-    "next_url": "102. 阅读/中心教会/00.Introduction",
-    "next_title": "00.Introduction"
+    "next_url": "102. 阅读/一瘸一拐与神同行/一瘸一拐的旅程-与神同行",
+    "next_title": "一瘸一拐的旅程-与神同行"
   },
   {
-    "path": "102. 阅读/中心教会/00.Introduction.md",
-    "title": "00.Introduction",
+    "path": "102. 阅读/一瘸一拐与神同行/一瘸一拐的旅程-与神同行.md",
+    "title": "一瘸一拐的旅程-与神同行",
     "prev_url": "102. 阅读/一个不太可能的归信者的内心独白/08_附录二_我们共同的旅程——肯特·巴特菲尔德",
     "prev_title": "08_附录二_我们共同的旅程——肯特·巴特菲尔德",
-    "next_url": "102. 阅读/中心教会/01.Chapter_1",
-    "next_title": "01.Chapter_1"
+    "next_url": "102. 阅读/功绩主义的暴政/功绩主义的暴政",
+    "next_title": "功绩主义的暴政"
   },
   {
-    "path": "102. 阅读/中心教会/01.Chapter_1.md",
-    "title": "01.Chapter_1",
-    "prev_url": "102. 阅读/中心教会/00.Introduction",
-    "prev_title": "00.Introduction",
-    "next_url": "102. 阅读/中心教会/02.Chapter_2",
-    "next_title": "02.Chapter_2"
+    "path": "102. 阅读/功绩主义的暴政/功绩主义的暴政.md",
+    "title": "功绩主义的暴政",
+    "prev_url": "102. 阅读/一瘸一拐与神同行/一瘸一拐的旅程-与神同行",
+    "prev_title": "一瘸一拐的旅程-与神同行",
+    "next_url": "102. 阅读/家庭习惯的力量/家庭习惯的力量",
+    "next_title": "家庭习惯的力量"
   },
   {
-    "path": "102. 阅读/中心教会/02.Chapter_2.md",
-    "title": "02.Chapter_2",
-    "prev_url": "102. 阅读/中心教会/01.Chapter_1",
-    "prev_title": "01.Chapter_1",
-    "next_url": "102. 阅读/中心教会/03.Chapter_3",
-    "next_title": "03.Chapter_3"
+    "path": "102. 阅读/家庭习惯的力量/家庭习惯的力量.md",
+    "title": "家庭习惯的力量",
+    "prev_url": "102. 阅读/功绩主义的暴政/功绩主义的暴政",
+    "prev_title": "功绩主义的暴政",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/00_前言",
+    "next_title": "00_前言"
   },
   {
-    "path": "102. 阅读/中心教会/03.Chapter_3.md",
-    "title": "03.Chapter_3",
-    "prev_url": "102. 阅读/中心教会/02.Chapter_2",
-    "prev_title": "02.Chapter_2",
-    "next_url": "102. 阅读/中心教会/04.Chapter_4",
-    "next_title": "04.Chapter_4"
+    "path": "102. 阅读/家庭习惯的力量/chapters/00_前言.md",
+    "title": "00_前言",
+    "prev_url": "102. 阅读/家庭习惯的力量/家庭习惯的力量",
+    "prev_title": "家庭习惯的力量",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/01_第一章_醒来",
+    "next_title": "01_第一章_醒来"
   },
   {
-    "path": "102. 阅读/中心教会/04.Chapter_4.md",
-    "title": "04.Chapter_4",
-    "prev_url": "102. 阅读/中心教会/03.Chapter_3",
-    "prev_title": "03.Chapter_3",
-    "next_url": "102. 阅读/中心教会/05.Chapter_5",
-    "next_title": "05.Chapter_5"
+    "path": "102. 阅读/家庭习惯的力量/chapters/01_第一章_醒来.md",
+    "title": "01_第一章_醒来",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/00_前言",
+    "prev_title": "00_前言",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/02_第二章_吃饭时间",
+    "next_title": "02_第二章_吃饭时间"
   },
   {
-    "path": "102. 阅读/中心教会/05.Chapter_5.md",
-    "title": "05.Chapter_5",
-    "prev_url": "102. 阅读/中心教会/04.Chapter_4",
-    "prev_title": "04.Chapter_4",
-    "next_url": "102. 阅读/中心教会/06.Chapter_6",
-    "next_title": "06.Chapter_6"
+    "path": "102. 阅读/家庭习惯的力量/chapters/02_第二章_吃饭时间.md",
+    "title": "02_第二章_吃饭时间",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/01_第一章_醒来",
+    "prev_title": "01_第一章_醒来",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/03_第三章_管教",
+    "next_title": "03_第三章_管教"
   },
   {
-    "path": "102. 阅读/中心教会/06.Chapter_6.md",
-    "title": "06.Chapter_6",
-    "prev_url": "102. 阅读/中心教会/05.Chapter_5",
-    "prev_title": "05.Chapter_5",
-    "next_url": "102. 阅读/中心教会/07.Chapter_7",
-    "next_title": "07.Chapter_7"
+    "path": "102. 阅读/家庭习惯的力量/chapters/03_第三章_管教.md",
+    "title": "03_第三章_管教",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/02_第二章_吃饭时间",
+    "prev_title": "02_第二章_吃饭时间",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/04_第四章_屏幕时间",
+    "next_title": "04_第四章_屏幕时间"
   },
   {
-    "path": "102. 阅读/中心教会/07.Chapter_7.md",
-    "title": "07.Chapter_7",
-    "prev_url": "102. 阅读/中心教会/06.Chapter_6",
-    "prev_title": "06.Chapter_6",
-    "next_url": "102. 阅读/中心教会/08.Chapter_8",
-    "next_title": "08.Chapter_8"
+    "path": "102. 阅读/家庭习惯的力量/chapters/04_第四章_屏幕时间.md",
+    "title": "04_第四章_屏幕时间",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/03_第三章_管教",
+    "prev_title": "03_第三章_管教",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/05_第五章_家庭灵修",
+    "next_title": "05_第五章_家庭灵修"
   },
   {
-    "path": "102. 阅读/中心教会/08.Chapter_8.md",
-    "title": "08.Chapter_8",
-    "prev_url": "102. 阅读/中心教会/07.Chapter_7",
-    "prev_title": "07.Chapter_7",
-    "next_url": "102. 阅读/中心教会/09.Chapter_9",
-    "next_title": "09.Chapter_9"
+    "path": "102. 阅读/家庭习惯的力量/chapters/05_第五章_家庭灵修.md",
+    "title": "05_第五章_家庭灵修",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/04_第四章_屏幕时间",
+    "prev_title": "04_第四章_屏幕时间",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/06_插章_祷告的礼物",
+    "next_title": "06_插章_祷告的礼物"
   },
   {
-    "path": "102. 阅读/中心教会/09.Chapter_9.md",
-    "title": "09.Chapter_9",
-    "prev_url": "102. 阅读/中心教会/08.Chapter_8",
-    "prev_title": "08.Chapter_8",
-    "next_url": "102. 阅读/中心教会/10.Chapter_10",
-    "next_title": "10.Chapter_10"
+    "path": "102. 阅读/家庭习惯的力量/chapters/06_插章_祷告的礼物.md",
+    "title": "06_插章_祷告的礼物",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/05_第五章_家庭灵修",
+    "prev_title": "05_第五章_家庭灵修",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/07_第六章_婚姻",
+    "next_title": "07_第六章_婚姻"
   },
   {
-    "path": "102. 阅读/中心教会/10.Chapter_10.md",
-    "title": "10.Chapter_10",
-    "prev_url": "102. 阅读/中心教会/09.Chapter_9",
-    "prev_title": "09.Chapter_9",
-    "next_url": "102. 阅读/中心教会/11.Chapter_11",
-    "next_title": "11.Chapter_11"
+    "path": "102. 阅读/家庭习惯的力量/chapters/07_第六章_婚姻.md",
+    "title": "07_第六章_婚姻",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/06_插章_祷告的礼物",
+    "prev_title": "06_插章_祷告的礼物",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/08_第七章_工作",
+    "next_title": "08_第七章_工作"
   },
   {
-    "path": "102. 阅读/中心教会/11.Chapter_11.md",
-    "title": "11.Chapter_11",
-    "prev_url": "102. 阅读/中心教会/10.Chapter_10",
-    "prev_title": "10.Chapter_10",
+    "path": "102. 阅读/家庭习惯的力量/chapters/08_第七章_工作.md",
+    "title": "08_第七章_工作",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/07_第六章_婚姻",
+    "prev_title": "07_第六章_婚姻",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/09_第八章_玩耍",
+    "next_title": "09_第八章_玩耍"
+  },
+  {
+    "path": "102. 阅读/家庭习惯的力量/chapters/09_第八章_玩耍.md",
+    "title": "09_第八章_玩耍",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/08_第七章_工作",
+    "prev_title": "08_第七章_工作",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/10_第九章_对话",
+    "next_title": "10_第九章_对话"
+  },
+  {
+    "path": "102. 阅读/家庭习惯的力量/chapters/10_第九章_对话.md",
+    "title": "10_第九章_对话",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/09_第八章_玩耍",
+    "prev_title": "09_第八章_玩耍",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/11_第十章_睡觉时间",
+    "next_title": "11_第十章_睡觉时间"
+  },
+  {
+    "path": "102. 阅读/家庭习惯的力量/chapters/11_第十章_睡觉时间.md",
+    "title": "11_第十章_睡觉时间",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/10_第九章_对话",
+    "prev_title": "10_第九章_对话",
+    "next_url": "102. 阅读/家庭习惯的力量/chapters/12_结语",
+    "next_title": "12_结语"
+  },
+  {
+    "path": "102. 阅读/家庭习惯的力量/chapters/12_结语.md",
+    "title": "12_结语",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/11_第十章_睡觉时间",
+    "prev_title": "11_第十章_睡觉时间",
     "next_url": "102. 阅读/恐惧-被鬼附和属灵战争/01-第一章-前言&我很害怕-将魔鬼请进家门",
     "next_title": "01-第一章-前言&我很害怕-将魔鬼请进家门"
   },
   {
     "path": "102. 阅读/恐惧-被鬼附和属灵战争/01-第一章-前言&我很害怕-将魔鬼请进家门.md",
     "title": "01-第一章-前言&我很害怕-将魔鬼请进家门",
-    "prev_url": "102. 阅读/中心教会/11.Chapter_11",
-    "prev_title": "11.Chapter_11",
+    "prev_url": "102. 阅读/家庭习惯的力量/chapters/12_结语",
+    "prev_title": "12_结语",
     "next_url": "102. 阅读/恐惧-被鬼附和属灵战争/02-第二章-伏都教与美国属灵主义",
     "next_title": "02-第二章-伏都教与美国属灵主义"
   },
@@ -6050,14 +6130,110 @@
     "title": "14.Chapter_14",
     "prev_url": "102. 阅读/植堂工具箱/13.Chapter_13",
     "prev_title": "13.Chapter_13",
+    "next_url": "102. 阅读/聚焦的教会/00.Introduction",
+    "next_title": "00.Introduction"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/00.Introduction.md",
+    "title": "00.Introduction",
+    "prev_url": "102. 阅读/植堂工具箱/14.Chapter_14",
+    "prev_title": "14.Chapter_14",
+    "next_url": "102. 阅读/聚焦的教会/01.Chapter_1",
+    "next_title": "01.Chapter_1"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/01.Chapter_1.md",
+    "title": "01.Chapter_1",
+    "prev_url": "102. 阅读/聚焦的教会/00.Introduction",
+    "prev_title": "00.Introduction",
+    "next_url": "102. 阅读/聚焦的教会/02.Chapter_2",
+    "next_title": "02.Chapter_2"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/02.Chapter_2.md",
+    "title": "02.Chapter_2",
+    "prev_url": "102. 阅读/聚焦的教会/01.Chapter_1",
+    "prev_title": "01.Chapter_1",
+    "next_url": "102. 阅读/聚焦的教会/03.Chapter_3",
+    "next_title": "03.Chapter_3"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/03.Chapter_3.md",
+    "title": "03.Chapter_3",
+    "prev_url": "102. 阅读/聚焦的教会/02.Chapter_2",
+    "prev_title": "02.Chapter_2",
+    "next_url": "102. 阅读/聚焦的教会/04.Chapter_4",
+    "next_title": "04.Chapter_4"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/04.Chapter_4.md",
+    "title": "04.Chapter_4",
+    "prev_url": "102. 阅读/聚焦的教会/03.Chapter_3",
+    "prev_title": "03.Chapter_3",
+    "next_url": "102. 阅读/聚焦的教会/05.Chapter_5",
+    "next_title": "05.Chapter_5"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/05.Chapter_5.md",
+    "title": "05.Chapter_5",
+    "prev_url": "102. 阅读/聚焦的教会/04.Chapter_4",
+    "prev_title": "04.Chapter_4",
+    "next_url": "102. 阅读/聚焦的教会/06.Chapter_6",
+    "next_title": "06.Chapter_6"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/06.Chapter_6.md",
+    "title": "06.Chapter_6",
+    "prev_url": "102. 阅读/聚焦的教会/05.Chapter_5",
+    "prev_title": "05.Chapter_5",
+    "next_url": "102. 阅读/聚焦的教会/07.Chapter_7",
+    "next_title": "07.Chapter_7"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/07.Chapter_7.md",
+    "title": "07.Chapter_7",
+    "prev_url": "102. 阅读/聚焦的教会/06.Chapter_6",
+    "prev_title": "06.Chapter_6",
+    "next_url": "102. 阅读/聚焦的教会/08.Chapter_8",
+    "next_title": "08.Chapter_8"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/08.Chapter_8.md",
+    "title": "08.Chapter_8",
+    "prev_url": "102. 阅读/聚焦的教会/07.Chapter_7",
+    "prev_title": "07.Chapter_7",
+    "next_url": "102. 阅读/聚焦的教会/09.Chapter_9",
+    "next_title": "09.Chapter_9"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/09.Chapter_9.md",
+    "title": "09.Chapter_9",
+    "prev_url": "102. 阅读/聚焦的教会/08.Chapter_8",
+    "prev_title": "08.Chapter_8",
+    "next_url": "102. 阅读/聚焦的教会/10.Chapter_10",
+    "next_title": "10.Chapter_10"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/10.Chapter_10.md",
+    "title": "10.Chapter_10",
+    "prev_url": "102. 阅读/聚焦的教会/09.Chapter_9",
+    "prev_title": "09.Chapter_9",
+    "next_url": "102. 阅读/聚焦的教会/11.Chapter_11",
+    "next_title": "11.Chapter_11"
+  },
+  {
+    "path": "102. 阅读/聚焦的教会/11.Chapter_11.md",
+    "title": "11.Chapter_11",
+    "prev_url": "102. 阅读/聚焦的教会/10.Chapter_10",
+    "prev_title": "10.Chapter_10",
     "next_url": "103. 视频脚本/不合理的信仰",
     "next_title": "不合理的信仰"
   },
   {
     "path": "103. 视频脚本/不合理的信仰.md",
     "title": "不合理的信仰",
-    "prev_url": "102. 阅读/植堂工具箱/14.Chapter_14",
-    "prev_title": "14.Chapter_14",
+    "prev_url": "102. 阅读/聚焦的教会/11.Chapter_11",
+    "prev_title": "11.Chapter_11",
     "next_url": "103. 视频脚本/从巴别塔到五旬节-两种通天塔的故事",
     "next_title": "从巴别塔到五旬节-两种通天塔的故事"
   },
@@ -6409,6 +6585,86 @@
     "path": "300. 一些评论/关于Charlie Kirk.md",
     "title": "关于Charlie Kirk",
     "prev_url": "202. 意象系统/我从埃及召出我的儿子-一句\"奇怪的引用\"背后的救赎结构",
-    "prev_title": "我从埃及召出我的儿子-一句\"奇怪的引用\"背后的救赎结构"
+    "prev_title": "我从埃及召出我的儿子-一句\"奇怪的引用\"背后的救赎结构",
+    "next_url": "302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章",
+    "next_title": "云彩般的见证人在见证什么-读希伯来书十至十二章"
+  },
+  {
+    "path": "302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章.md",
+    "title": "云彩般的见证人在见证什么-读希伯来书十至十二章",
+    "prev_url": "300. 一些评论/关于Charlie Kirk",
+    "prev_title": "关于Charlie Kirk",
+    "next_url": "302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调",
+    "next_title": "发现我们的召命-路德改教对基督徒职业观的重新强调"
+  },
+  {
+    "path": "302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调.md",
+    "title": "发现我们的召命-路德改教对基督徒职业观的重新强调",
+    "prev_url": "302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章",
+    "prev_title": "云彩般的见证人在见证什么-读希伯来书十至十二章",
+    "next_url": "302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用",
+    "next_title": "在巴比伦河边-咒诅诗的解释与应用"
+  },
+  {
+    "path": "302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用.md",
+    "title": "在巴比伦河边-咒诅诗的解释与应用",
+    "prev_url": "302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调",
+    "prev_title": "发现我们的召命-路德改教对基督徒职业观的重新强调",
+    "next_url": "302.公众号洗稿/时代论是什么-圣经怎么说",
+    "next_title": "时代论是什么-圣经怎么说"
+  },
+  {
+    "path": "302.公众号洗稿/时代论是什么-圣经怎么说.md",
+    "title": "时代论是什么-圣经怎么说",
+    "prev_url": "302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用",
+    "prev_title": "在巴比伦河边-咒诅诗的解释与应用",
+    "next_url": "302.公众号洗稿/显而未见-路德对于呼召的教义",
+    "next_title": "显而未见-路德对于呼召的教义"
+  },
+  {
+    "path": "302.公众号洗稿/显而未见-路德对于呼召的教义.md",
+    "title": "显而未见-路德对于呼召的教义",
+    "prev_url": "302.公众号洗稿/时代论是什么-圣经怎么说",
+    "prev_title": "时代论是什么-圣经怎么说",
+    "next_url": "302.公众号洗稿/神爱世人中的回答-AI总结",
+    "next_title": "神爱世人中的回答-AI总结"
+  },
+  {
+    "path": "302.公众号洗稿/神爱世人中的回答-AI总结.md",
+    "title": "神爱世人中的回答-AI总结",
+    "prev_url": "302.公众号洗稿/显而未见-路德对于呼召的教义",
+    "prev_title": "显而未见-路德对于呼召的教义",
+    "next_url": "302.公众号洗稿/神爱世人但不是所有人得救",
+    "next_title": "神爱世人但不是所有人得救"
+  },
+  {
+    "path": "302.公众号洗稿/神爱世人但不是所有人得救.md",
+    "title": "神爱世人但不是所有人得救",
+    "prev_url": "302.公众号洗稿/神爱世人中的回答-AI总结",
+    "prev_title": "神爱世人中的回答-AI总结",
+    "next_url": "302.公众号洗稿/耶稣是谁？",
+    "next_title": "耶稣是谁？"
+  },
+  {
+    "path": "302.公众号洗稿/耶稣是谁？.md",
+    "title": "耶稣是谁？",
+    "prev_url": "302.公众号洗稿/神爱世人但不是所有人得救",
+    "prev_title": "神爱世人但不是所有人得救",
+    "next_url": "302.公众号洗稿/藐视恩典是教会之死",
+    "next_title": "藐视恩典是教会之死"
+  },
+  {
+    "path": "302.公众号洗稿/藐视恩典是教会之死.md",
+    "title": "藐视恩典是教会之死",
+    "prev_url": "302.公众号洗稿/耶稣是谁？",
+    "prev_title": "耶稣是谁？",
+    "next_url": "302.公众号洗稿/路德宗政治抵抗理论-马德堡认信与下级执政官教义",
+    "next_title": "路德宗政治抵抗理论-马德堡认信与下级执政官教义"
+  },
+  {
+    "path": "302.公众号洗稿/路德宗政治抵抗理论-马德堡认信与下级执政官教义.md",
+    "title": "路德宗政治抵抗理论-马德堡认信与下级执政官教义",
+    "prev_url": "302.公众号洗稿/藐视恩典是教会之死",
+    "prev_title": "藐视恩典是教会之死"
   }
 ]
