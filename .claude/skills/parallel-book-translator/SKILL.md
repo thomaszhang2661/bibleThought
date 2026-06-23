@@ -70,6 +70,8 @@ Send **one message** with all Agent tool calls — this is what makes it paralle
 各节写单独文件，命名 NN_中文标题.md（节序号从 OFFSET 开始）
 节标题格式：# §N 中文标题
 
+**输出文件命名（必须）**：`NN_中文标题.md`，NN 为两位数字前缀（00、01、02…），从 00 开始按顺序编号。**没有数字前缀的文件在文件浏览器中会乱序。**
+
 规则：
 ① 逐段完整翻译，不省略任何段落（含脚注、括注、补充说明）
 ② 拉丁文/希腊文保留原文，括号内附中译
@@ -167,7 +169,7 @@ Markdown structure per file:
 - Nested sub-sections → `### 标题` (H3)
 - Body text → paragraphs as-is
 
-File naming: `NN_第N章_简短标题.md` with two-digit prefix.
+File naming: `NN_第N章_简短标题.md` with two-digit prefix starting from `00`. **This is mandatory — files without numeric prefixes sort incorrectly in all file browsers.**
 
 ### Phase 3: 并行校对（对照英文PDF）
 
