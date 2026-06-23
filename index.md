@@ -1190,9 +1190,9 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/05_第五章_宇宙论的四个问题">05_第五章_宇宙论的四个问题</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/06_第六章_恶的问题">06_第六章_恶的问题</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/07_第七章_基督的神性">07_第七章_基督的神性</a>
-<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/08_第九章_圣经_神话还是历史">08_第九章_圣经_神话还是历史</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/08_第八章_复活">08_第八章_复活</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/08_第十章_死后生命">08_第十章_死后生命</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/09_第九章_圣经_神话还是历史">09_第九章_圣经_神话还是历史</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/09_第十一章_天堂">09_第十一章_天堂</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/12_第十二章_地狱">12_第十二章_地狱</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/13_第十三章_救恩">13_第十三章_救恩</a>
