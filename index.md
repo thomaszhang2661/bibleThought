@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1028 篇文章
+共 1029 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1564,6 +1564,7 @@ body_class: index-page
 
 <details class="tree-folder" id="302-公众号洗稿">
 <summary class="tree-dir">302.公众号洗稿<a class="anchor-link" href="#302-公众号洗稿">#</a></summary>
+<a class="tree-file" href="302.公众号洗稿/5. 被倒出去的酒—苦难与奠祭">5. 被倒出去的酒—苦难与奠祭</a>
 <a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
 <a class="tree-file" href="302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
