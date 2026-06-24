@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 980 篇文章
+共 987 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1191,9 +1191,9 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/06_第六章_恶的问题">06_第六章_恶的问题</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/07_第七章_基督的神性">07_第七章_基督的神性</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/08_第八章_复活">08_第八章_复活</a>
-<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/08_第十章_死后生命">08_第十章_死后生命</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/09_第九章_圣经_神话还是历史">09_第九章_圣经_神话还是历史</a>
-<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/09_第十一章_天堂">09_第十一章_天堂</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/10_第十章_死后生命">10_第十章_死后生命</a>
+<a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/11_第十一章_天堂">11_第十一章_天堂</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/12_第十二章_地狱">12_第十二章_地狱</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/13_第十三章_救恩">13_第十三章_救恩</a>
 <a class="tree-file" href="102. 阅读/基督教护教学手册/chapters/14_第十四章_基督教与其他宗教">14_第十四章_基督教与其他宗教</a>
@@ -1329,6 +1329,13 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/04_第四章_方法论考量">04_第四章_方法论考量</a>
 <a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/05_第五章_上_阿尔梅达版本与历史背景">05_第五章_上_阿尔梅达版本与历史背景</a>
 <a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/06_第五章_中_阿尔梅达文本分析">06_第五章_中_阿尔梅达文本分析</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/07_第五章_下_阿尔梅达版本文本分析结论">07_第五章_下_阿尔梅达版本文本分析结论</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/08_第六章_上_后阿尔梅达天主教版本">08_第六章_上_后阿尔梅达天主教版本</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/09_第六章_中_后阿尔梅达天主教版本续">09_第六章_中_后阿尔梅达天主教版本续</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/10_第六章_下_后阿尔梅达天主教版本结论">10_第六章_下_后阿尔梅达天主教版本结论</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/11_第七章_上_葡萄牙语功能对等版本">11_第七章_上_葡萄牙语功能对等版本</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/12_第七章_下_葡萄牙语功能对等版本续">12_第七章_下_葡萄牙语功能对等版本续</a>
+<a class="tree-file" href="102. 阅读/旧约典故与翻译-以赛亚书葡萄牙语研究/chapters/13_第九章_总结结论与参考书目">13_第九章_总结结论与参考书目</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-有粘性的团队">
