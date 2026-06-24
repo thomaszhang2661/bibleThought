@@ -24,7 +24,14 @@ Local path: `/Users/zhangjian/Library/Mobile Documents/iCloud~md~obsidian/Docume
 
 1. Write the article in the correct subfolder.
 
-2. **Check line 1** — the most common build-breaker:
+2. **Check the filename** — bad characters break URLs silently:
+   - ❌ Double em dash `——` in filename → Jekyll encodes it into a broken URL, page 404s
+   - ✅ Use single `—` or `-` instead: `5. 被倒出去的酒—苦难与奠祭.md`
+   - ❌ `§` in filename (see Pieper conventions)
+   - If the article title uses `——`, the **filename must use `—`** (single). The `# Title` inside the file can keep `——` for display.
+   - **The pre-commit hook enforces this automatically** — commits with `——` in filenames are blocked with an error message.
+
+3. **Check line 1** — the most common build-breaker:
    - ✅ Starts with `# Heading` (no front matter)
    - ✅ Starts with `---` then valid YAML then closing `---`
    - ❌ Starts with `---` alone, no closing `---` → breaks Jekyll YAML parser
