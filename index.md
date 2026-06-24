@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 987 篇文章
+共 1000 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1112,6 +1112,20 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/以小教义祷告/chapters/10_附录">10_附录</a>
 </details>
 </details>
+<details class="tree-folder" id="102-阅读-信心建筑者">
+<summary class="tree-dir">信心建筑者<a class="anchor-link" href="#102-阅读-信心建筑者">#</a></summary>
+<details class="tree-folder" id="102-阅读-信心建筑者-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-信心建筑者-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/信心建筑者/chapters/01_第一课_圣经">01_第一课_圣经</a>
+<a class="tree-file" href="102. 阅读/信心建筑者/chapters/02_第二课_读圣经">02_第二课_读圣经</a>
+<a class="tree-file" href="102. 阅读/信心建筑者/chapters/03_第三课_唯一真神">03_第三课_唯一真神</a>
+<a class="tree-file" href="102. 阅读/信心建筑者/chapters/04_第四课_耶稣基督">04_第四课_耶稣基督</a>
+<a class="tree-file" href="102. 阅读/信心建筑者/chapters/05_第五课_圣洗礼">05_第五课_圣洗礼</a>
+<a class="tree-file" href="102. 阅读/信心建筑者/chapters/06_第六课_圣餐礼">06_第六课_圣餐礼</a>
+<a class="tree-file" href="102. 阅读/信心建筑者/chapters/07_第七课_教会和团契生活">07_第七课_教会和团契生活</a>
+<a class="tree-file" href="102. 阅读/信心建筑者/chapters/08_经文索引">08_经文索引</a>
+</details>
+</details>
 <details class="tree-folder" id="102-阅读-功绩主义的暴政">
 <summary class="tree-dir">功绩主义的暴政<a class="anchor-link" href="#102-阅读-功绩主义的暴政">#</a></summary>
 <a class="tree-file" href="102. 阅读/功绩主义的暴政/功绩主义的暴政">功绩主义的暴政</a>
@@ -1141,6 +1155,17 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/原谅/chapters/07_第七课_宽恕浪子">07_第七课_宽恕浪子</a>
 <a class="tree-file" href="102. 阅读/原谅/chapters/08_第八课_如耶稣般宽恕">08_第八课_如耶稣般宽恕</a>
 <a class="tree-file" href="102. 阅读/原谅/chapters/09_结语">09_结语</a>
+</details>
+</details>
+<details class="tree-folder" id="102-阅读-四个关键的概念">
+<summary class="tree-dir">四个关键的概念<a class="anchor-link" href="#102-阅读-四个关键的概念">#</a></summary>
+<details class="tree-folder" id="102-阅读-四个关键的概念-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-四个关键的概念-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/00_导言_以弗所书2章">00_导言_以弗所书2章</a>
+<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/01_第一课_罪">01_第一课_罪</a>
+<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/02_第二课_恩典">02_第二课_恩典</a>
+<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/03_第三课_信心">03_第三课_信心</a>
+<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/04_第四课_行为">04_第四课_行为</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-基于游戏的学习">
