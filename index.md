@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1031 篇文章
+共 1032 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -257,6 +257,7 @@ body_class: index-page
 <summary class="tree-dir">97.论文翻译<a class="anchor-link" href="#97-论文翻译">#</a></summary>
 <a class="tree-file" href="97.论文翻译/关怀被关怀者：信义宗牧师与心理健康专业人员的职责">关怀被关怀者：信义宗牧师与心理健康专业人员的职责</a>
 <a class="tree-file" href="97.论文翻译/基督复活的能力">基督复活的能力</a>
+<a class="tree-file" href="97.论文翻译/腓立比书第三章释经_Erstad_1980">腓立比书第三章释经_Erstad_1980</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
 </details>
 

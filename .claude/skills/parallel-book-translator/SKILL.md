@@ -1,16 +1,79 @@
 ---
 name: parallel-book-translator
-description: Translate OR organize long structured books into scholarly Chinese using parallel subagents. Use this skill when the user wants to: (1) translate a book from English into Chinese, or (2) organize an existing Chinese translation (e.g. from a Word document) into individual markdown files and proofread against the English original. Invoke proactively for any multi-chapter book work — translation, organization, proofreading, gap-filling, or cleanup.
+description: >
+  将英文神学文献（论文、讲义、书籍）翻译为学术中文，或整理已有中文译稿。
+
+  【立即触发】以下任意情形均须调用本 skill：
+  - 用户说"翻译这篇/这本"、"帮我翻译"、"translate this"
+  - 用户提供文件路径（PDF/txt/md）+ 提到"翻译"
+  - 用户说"整理译稿"、"校对翻译"、"对照英文校对"
+  - 用户要求将多章节英文书翻译为中文
+
+  【不触发】用户只是要修改已有中文文章内容、补充论点、调整结构，而没有提到翻译。
 ---
 
 # Parallel Book Translator / Organizer
 
-Two modes depending on what exists:
+Three modes depending on input:
 
 | Mode | Input | Main work |
 |------|-------|-----------|
-| **A: 翻译** | English text file | Parallel translation → Chinese .md files |
-| **B: 整理** | Chinese Word/PDF + English PDF | Extract → split into chapters → proofread |
+| **A: 翻译书籍** | 英文多章节书 | Parallel translation → per-chapter .md files |
+| **B: 整理译稿** | 中文 Word/PDF + 英文 PDF | Extract → split → proofread |
+| **C: 翻译单篇** | 英文单篇论文/讲义/报告 | 按行数决定 subagent 数量，输出单个 .md 文件 |
+
+---
+
+## Mode C 决策：单篇文档
+
+在启动任何 agent 之前，先量出文档行数，然后按下表决定 subagent 数量：
+
+```bash
+# PDF
+pdftotext "file.pdf" /tmp/doc.txt && wc -l /tmp/doc.txt
+
+# 已是 txt/md
+wc -l file.txt
+```
+
+| 行数 | Subagent 数量 | 说明 |
+|------|------------|------|
+| < 800 | **0（直接翻译，无 subagent）** | 在当前对话直接完整翻译，输出为单个 .md |
+| 800–2000 | **2 agents**（上 / 下，各半） | 各自翻译自己的行范围，合并输出 |
+| 2000–4000 | **3 agents**（上 / 中 / 下） | 每段约 700–1300 行 |
+| > 4000 | **ceil(行数 / 1300) agents** | 每段不超过 1300 行 |
+
+### Mode C 输出格式
+
+**无 subagent（< 800 行）**：直接在对话中翻译完整文档，写入单个 .md 文件。文件名格式：
+```
+中文标题_作者姓_年份.md
+```
+
+**有 subagent**：每个 agent 翻译自己的行范围，写入带行范围标注的临时文件，最后合并。
+
+Agent 提示模板（单篇）：
+```
+学术翻译任务：[文档名称]（第 N 部分，行 START–END）
+
+读取：sed -n 'START,ENDp' /tmp/doc.txt
+
+翻译规则：
+① 逐段完整翻译，不省略任何内容（含脚注、括注、希腊文/拉丁文注释）
+② 希腊文/拉丁文保留原文，括号内附中译
+③ 经文引用保留章节编号
+④ 文风：庄重学术
+⑤ 输出为纯 markdown，各原始节标题保留为 ## 标题
+
+输出文件：/tmp/doc_part_N.md
+```
+
+合并：
+```bash
+cat /tmp/doc_part_1.md /tmp/doc_part_2.md > 最终输出.md
+```
+
+---
 
 ---
 
