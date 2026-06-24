@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1029 篇文章
+共 1031 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -256,6 +256,7 @@ body_class: index-page
 <details class="tree-folder" id="97-论文翻译">
 <summary class="tree-dir">97.论文翻译<a class="anchor-link" href="#97-论文翻译">#</a></summary>
 <a class="tree-file" href="97.论文翻译/关怀被关怀者：信义宗牧师与心理健康专业人员的职责">关怀被关怀者：信义宗牧师与心理健康专业人员的职责</a>
+<a class="tree-file" href="97.论文翻译/基督复活的能力">基督复活的能力</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
 </details>
 
@@ -1568,6 +1569,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
 <a class="tree-file" href="302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
+<a class="tree-file" href="302.公众号洗稿/如何理解三位一体">如何理解三位一体</a>
 <a class="tree-file" href="302.公众号洗稿/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
 <a class="tree-file" href="302.公众号洗稿/显而未见-路德对于呼召的教义">显而未见-路德对于呼召的教义</a>
 <a class="tree-file" href="302.公众号洗稿/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
