@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1000 篇文章
+共 1028 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -342,6 +342,31 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
 <a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
 <a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
+</details>
+</details>
+<details class="tree-folder" id="101-教义-02-四个关键概念">
+<summary class="tree-dir">02_四个关键概念<a class="anchor-link" href="#101-教义-02-四个关键概念">#</a></summary>
+<details class="tree-folder" id="101-教义-02-四个关键概念-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#101-教义-02-四个关键概念-chapters">#</a></summary>
+<a class="tree-file" href="101. 教义/02_四个关键概念/chapters/00_导言_以弗所书2章">00_导言_以弗所书2章</a>
+<a class="tree-file" href="101. 教义/02_四个关键概念/chapters/01_第一课_罪">01_第一课_罪</a>
+<a class="tree-file" href="101. 教义/02_四个关键概念/chapters/02_第二课_恩典">02_第二课_恩典</a>
+<a class="tree-file" href="101. 教义/02_四个关键概念/chapters/03_第三课_信心">03_第三课_信心</a>
+<a class="tree-file" href="101. 教义/02_四个关键概念/chapters/04_第四课_行为">04_第四课_行为</a>
+</details>
+</details>
+<details class="tree-folder" id="101-教义-03-信心建造">
+<summary class="tree-dir">03_信心建造<a class="anchor-link" href="#101-教义-03-信心建造">#</a></summary>
+<details class="tree-folder" id="101-教义-03-信心建造-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#101-教义-03-信心建造-chapters">#</a></summary>
+<a class="tree-file" href="101. 教义/03_信心建造/chapters/01_第一课_圣经">01_第一课_圣经</a>
+<a class="tree-file" href="101. 教义/03_信心建造/chapters/02_第二课_读圣经">02_第二课_读圣经</a>
+<a class="tree-file" href="101. 教义/03_信心建造/chapters/03_第三课_唯一真神">03_第三课_唯一真神</a>
+<a class="tree-file" href="101. 教义/03_信心建造/chapters/04_第四课_耶稣基督">04_第四课_耶稣基督</a>
+<a class="tree-file" href="101. 教义/03_信心建造/chapters/05_第五课_圣洗礼">05_第五课_圣洗礼</a>
+<a class="tree-file" href="101. 教义/03_信心建造/chapters/06_第六课_圣餐礼">06_第六课_圣餐礼</a>
+<a class="tree-file" href="101. 教义/03_信心建造/chapters/07_第七课_教会和团契生活">07_第七课_教会和团契生活</a>
+<a class="tree-file" href="101. 教义/03_信心建造/chapters/08_经文索引">08_经文索引</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-Francis-Pieper">
@@ -1112,20 +1137,6 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/以小教义祷告/chapters/10_附录">10_附录</a>
 </details>
 </details>
-<details class="tree-folder" id="102-阅读-信心建筑者">
-<summary class="tree-dir">信心建筑者<a class="anchor-link" href="#102-阅读-信心建筑者">#</a></summary>
-<details class="tree-folder" id="102-阅读-信心建筑者-chapters">
-<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-信心建筑者-chapters">#</a></summary>
-<a class="tree-file" href="102. 阅读/信心建筑者/chapters/01_第一课_圣经">01_第一课_圣经</a>
-<a class="tree-file" href="102. 阅读/信心建筑者/chapters/02_第二课_读圣经">02_第二课_读圣经</a>
-<a class="tree-file" href="102. 阅读/信心建筑者/chapters/03_第三课_唯一真神">03_第三课_唯一真神</a>
-<a class="tree-file" href="102. 阅读/信心建筑者/chapters/04_第四课_耶稣基督">04_第四课_耶稣基督</a>
-<a class="tree-file" href="102. 阅读/信心建筑者/chapters/05_第五课_圣洗礼">05_第五课_圣洗礼</a>
-<a class="tree-file" href="102. 阅读/信心建筑者/chapters/06_第六课_圣餐礼">06_第六课_圣餐礼</a>
-<a class="tree-file" href="102. 阅读/信心建筑者/chapters/07_第七课_教会和团契生活">07_第七课_教会和团契生活</a>
-<a class="tree-file" href="102. 阅读/信心建筑者/chapters/08_经文索引">08_经文索引</a>
-</details>
-</details>
 <details class="tree-folder" id="102-阅读-功绩主义的暴政">
 <summary class="tree-dir">功绩主义的暴政<a class="anchor-link" href="#102-阅读-功绩主义的暴政">#</a></summary>
 <a class="tree-file" href="102. 阅读/功绩主义的暴政/功绩主义的暴政">功绩主义的暴政</a>
@@ -1155,17 +1166,6 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/原谅/chapters/07_第七课_宽恕浪子">07_第七课_宽恕浪子</a>
 <a class="tree-file" href="102. 阅读/原谅/chapters/08_第八课_如耶稣般宽恕">08_第八课_如耶稣般宽恕</a>
 <a class="tree-file" href="102. 阅读/原谅/chapters/09_结语">09_结语</a>
-</details>
-</details>
-<details class="tree-folder" id="102-阅读-四个关键的概念">
-<summary class="tree-dir">四个关键的概念<a class="anchor-link" href="#102-阅读-四个关键的概念">#</a></summary>
-<details class="tree-folder" id="102-阅读-四个关键的概念-chapters">
-<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-四个关键的概念-chapters">#</a></summary>
-<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/00_导言_以弗所书2章">00_导言_以弗所书2章</a>
-<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/01_第一课_罪">01_第一课_罪</a>
-<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/02_第二课_恩典">02_第二课_恩典</a>
-<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/03_第三课_信心">03_第三课_信心</a>
-<a class="tree-file" href="102. 阅读/四个关键的概念/chapters/04_第四课_行为">04_第四课_行为</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-基于游戏的学习">
@@ -1316,6 +1316,39 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/我为何是路德宗信徒-以耶稣为中心/07-第七章-我们将永远活着">07-第七章-我们将永远活着</a>
 <a class="tree-file" href="102. 阅读/我为何是路德宗信徒-以耶稣为中心/08-第八章-圣职">08-第八章-圣职</a>
 <a class="tree-file" href="102. 阅读/我为何是路德宗信徒-以耶稣为中心/09-第九章-锡安在歌唱">09-第九章-锡安在歌唱</a>
+</details>
+<details class="tree-folder" id="102-阅读-我们所信的谎言">
+<summary class="tree-dir">我们所信的谎言<a class="anchor-link" href="#102-阅读-我们所信的谎言">#</a></summary>
+<details class="tree-folder" id="102-阅读-我们所信的谎言-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-我们所信的谎言-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/00_导言与引言">00_导言与引言</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/01_第一课_心灵的战场">01_第一课_心灵的战场</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/02_第二课_谎言的代价">02_第二课_谎言的代价</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/03_第三课_拆除心灵营垒">03_第三课_拆除心灵营垒</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/04_第四课_关于自己的谎言">04_第四课_关于自己的谎言</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/05_第五课_关于他人的谎言">05_第五课_关于他人的谎言</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/06_第六课_关于生活的谎言">06_第六课_关于生活的谎言</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/07_第七课_关于上帝的谎言">07_第七课_关于上帝的谎言</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/08_第八课_男人所信的谎言">08_第八课_男人所信的谎言</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/09_第九课_女人所信的谎言">09_第九课_女人所信的谎言</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/10_第十课_关于真理的真理">10_第十课_关于真理的真理</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/11_第十一课_我必须完美">11_第十一课_我必须完美</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/12_第十二课_无法取悦所有人">12_第十二课_无法取悦所有人</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/13_第十三课_没有付出就没有收获">13_第十三课_没有付出就没有收获</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/14_第十四课_爱是永不止息">14_第十四课_爱是永不止息</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/15_第十五课_自恋与舍己">15_第十五课_自恋与舍己</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/16_第十六课_生活本是艰难">16_第十六课_生活本是艰难</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/17_第十七课_接受不能改变的">17_第十七课_接受不能改变的</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/18_第十八课_施比受更为有福">18_第十八课_施比受更为有福</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/19_第十九课_你是有价值的人">19_第十九课_你是有价值的人</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/20_第二十课_世界不欠你什么">20_第二十课_世界不欠你什么</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/21_第二十一课_得胜在于努力">21_第二十一课_得胜在于努力</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/22_第二十二课_你终将一死">22_第二十二课_你终将一死</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/23_第二十三课_耶稣会怎么想">23_第二十三课_耶稣会怎么想</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/24_第二十四课_基督的谦卑">24_第二十四课_基督的谦卑</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/25_第二十五课_持守到底">25_第二十五课_持守到底</a>
+<a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/26_附注与推荐阅读">26_附注与推荐阅读</a>
+</details>
 </details>
 <details class="tree-folder" id="102-阅读-教会增长运动中的律法与福音">
 <summary class="tree-dir">教会增长运动中的律法与福音<a class="anchor-link" href="#102-阅读-教会增长运动中的律法与福音">#</a></summary>
@@ -1519,6 +1552,7 @@ body_class: index-page
 <a class="tree-file" href="202. 意象系统/2. 一件皮衣的思考--从伊甸园到各各他">2. 一件皮衣的思考--从伊甸园到各各他</a>
 <a class="tree-file" href="202. 意象系统/3. 稳如老狗-神的失败和人的得胜">3. 稳如老狗-神的失败和人的得胜</a>
 <a class="tree-file" href="202. 意象系统/4. 食物上帝的供给">4. 食物上帝的供给</a>
+<a class="tree-file" href="202. 意象系统/5. 被倒出去的酒——苦难与奠祭">5. 被倒出去的酒——苦难与奠祭</a>
 <a class="tree-file" href="202. 意象系统/10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻">10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻</a>
 <a class="tree-file" href="202. 意象系统/我从埃及召出我的儿子-一句"奇怪的引用"背后的救赎结构">我从埃及召出我的儿子-一句"奇怪的引用"背后的救赎结构</a>
 </details>
