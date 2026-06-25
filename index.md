@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1032 篇文章
+共 1033 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1577,6 +1577,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
 <a class="tree-file" href="302.公众号洗稿/罪就伏在我们门前-第二版">罪就伏在我们门前-第二版</a>
 <a class="tree-file" href="302.公众号洗稿/耶稣是谁？">耶稣是谁？</a>
+<a class="tree-file" href="302.公众号洗稿/腓立比书第三章释经_Erstad_1980">腓立比书第三章释经_Erstad_1980</a>
 <a class="tree-file" href="302.公众号洗稿/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <a class="tree-file" href="302.公众号洗稿/路德宗政治抵抗理论-马德堡认信与下级执政官教义">路德宗政治抵抗理论-马德堡认信与下级执政官教义</a>
 </details>
