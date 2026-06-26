@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1064 篇文章
+共 1065 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1589,6 +1589,7 @@ body_class: index-page
 <a class="tree-file" href="202. 意象系统/4. 食物上帝的供给">4. 食物上帝的供给</a>
 <a class="tree-file" href="202. 意象系统/5. 被倒出去的酒—苦难与奠祭">5. 被倒出去的酒—苦难与奠祭</a>
 <a class="tree-file" href="202. 意象系统/10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻">10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻</a>
+<a class="tree-file" href="202. 意象系统/从埃及召出我的儿子">从埃及召出我的儿子</a>
 <a class="tree-file" href="202. 意象系统/我从埃及召出我的儿子-一句"奇怪的引用"背后的救赎结构">我从埃及召出我的儿子-一句"奇怪的引用"背后的救赎结构</a>
 </details>
 

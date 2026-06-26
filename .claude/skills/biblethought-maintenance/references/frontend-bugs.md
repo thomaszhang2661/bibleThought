@@ -154,12 +154,56 @@ document.addEventListener('click', function(e) {
   if (!a) return;
   e.preventDefault(); e.stopPropagation();
   // ... copy URL ...
+  history.pushState(null, '', '#' + id);
+  scrollToHash(id); // ← 必须同时调用 scrollToHash，否则 URL 变了但页面不滚动
 }, true); // capture phase — must be true to fire before <summary> toggle
 ```
 
 页面加载时若 URL 含 fragment，自动展开对应文件夹并滚动过去。
 
 **Rule:** 每次修改 `generate_index.py` 的文件夹输出格式，必须保留 `id` 和 `<a class="anchor-link">` — 这是用户分享文件夹链接的唯一入口。
+
+---
+
+## Hash 导航：展开 `<details>` 后必须用双 rAF 再滚动
+
+**Symptom:** 访问带 hash 的 URL（如 `#97-论文翻译-01-重拾路德宗灵修传统`）只显示主页顶部，文件夹未展开，未滚动到目标位置。嵌套文件夹（父子两层 `<details>` 都要展开）时尤其明显。
+
+**Root cause (two bugs):**
+1. `setTimeout(100ms)` 不够：展开多层 `<details>` 需要触发浏览器重新布局，1000+ 条目的大页面布局时间可能超过 100ms，导致 `scrollIntoView` 在布局完成前执行，位置错误。
+2. 点击 `#` 后只调用 `history.pushState`，没有触发展开+滚动，URL 变了但页面什么都没做。
+
+**Fix:** 提取 `scrollToHash(hash)` 函数，用双 `requestAnimationFrame` 代替 `setTimeout`：
+
+```js
+function scrollToHash(hash) {
+  if (!hash) return;
+  var el = document.getElementById(hash);
+  if (!el) return;
+  if (el.tagName === 'DETAILS') {
+    el.open = true;
+    var p = el.parentElement;
+    while (p) { if (p.tagName === 'DETAILS') p.open = true; p = p.parentElement; }
+  }
+  // 双 rAF：第一帧让浏览器处理 .open = true 引发的布局，第二帧再滚动
+  requestAnimationFrame(function() {
+    requestAnimationFrame(function() {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+}
+```
+
+页面加载用 `window.addEventListener('load', ...)` 而非内联 IIFE，确保在所有资源就绪后触发：
+
+```js
+window.addEventListener('load', function() {
+  var hash = location.hash && location.hash.slice(1);
+  if (hash) scrollToHash(hash);
+});
+```
+
+**Rule:** 凡是在 JS 里动态展开 `<details>` 后需要滚动，一律用双 rAF。`setTimeout(100)` 不可靠，不要用。
 
 ---
 
