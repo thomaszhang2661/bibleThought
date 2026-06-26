@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1065 篇文章
+共 1066 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1591,6 +1591,7 @@ body_class: index-page
 <a class="tree-file" href="202. 意象系统/10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻">10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻</a>
 <a class="tree-file" href="202. 意象系统/从埃及召出我的儿子">从埃及召出我的儿子</a>
 <a class="tree-file" href="202. 意象系统/我从埃及召出我的儿子-一句"奇怪的引用"背后的救赎结构">我从埃及召出我的儿子-一句"奇怪的引用"背后的救赎结构</a>
+<a class="tree-file" href="202. 意象系统/拿撒勒人是什么意思">拿撒勒人是什么意思</a>
 </details>
 
 <details class="tree-folder" id="300-一些评论">
