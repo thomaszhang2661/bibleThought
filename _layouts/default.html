@@ -55,6 +55,24 @@
       }
     });
 
+    // Open any collapsed <details> ancestors and scroll to the target element.
+    // Uses double rAF so layout is fully updated after .open = true before scrollIntoView.
+    function scrollToHash(hash) {
+      if (!hash) return;
+      var el = document.getElementById(hash);
+      if (!el) return;
+      if (el.tagName === 'DETAILS') {
+        el.open = true;
+        var p = el.parentElement;
+        while (p) { if (p.tagName === 'DETAILS') p.open = true; p = p.parentElement; }
+      }
+      requestAnimationFrame(function() {
+        requestAnimationFrame(function() {
+          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      });
+    }
+
     // Anchor links: use capture phase so stopPropagation fires before <summary> toggle
     document.addEventListener('click', function(e) {
       var a = e.target.closest('a.anchor-link');
@@ -73,6 +91,7 @@
         });
       }
       history.pushState(null, '', '#' + id);
+      scrollToHash(id);
     }, true);
 
     // Add anchor links to headings (index page folders get theirs from generate_index.py)
@@ -86,18 +105,11 @@
       h.appendChild(a);
     });
 
-    // On page load: if URL fragment points to a <details> folder, open and scroll to it
-    (function() {
+    // On page load: open and scroll to the hash target after all resources are ready
+    window.addEventListener('load', function() {
       var hash = location.hash && location.hash.slice(1);
-      if (!hash) return;
-      var el = document.getElementById(hash);
-      if (el && el.tagName === 'DETAILS') {
-        el.open = true;
-        var p = el.parentElement;
-        while (p) { if (p.tagName === 'DETAILS') p.open = true; p = p.parentElement; }
-        setTimeout(function() { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 100);
-      }
-    })();
+      if (hash) scrollToHash(hash);
+    });
 
     function setFont(size) {
       document.body.className = 'font-' + size;
