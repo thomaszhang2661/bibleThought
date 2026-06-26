@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1049 篇文章
+共 1052 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -257,9 +257,12 @@ body_class: index-page
 <summary class="tree-dir">97.论文翻译<a class="anchor-link" href="#97-论文翻译">#</a></summary>
 <a class="tree-file" href="97.论文翻译/关怀被关怀者：信义宗牧师与心理健康专业人员的职责">关怀被关怀者：信义宗牧师与心理健康专业人员的职责</a>
 <a class="tree-file" href="97.论文翻译/基督复活的能力">基督复活的能力</a>
+<a class="tree-file" href="97.论文翻译/威斯康星路德神学院的灵性成长">威斯康星路德神学院的灵性成长</a>
+<a class="tree-file" href="97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活">灵性能量管理_避免牧养倦怠_建立健康灵修生活</a>
 <a class="tree-file" href="97.论文翻译/腓立比书第三章释经_Erstad_1980">腓立比书第三章释经_Erstad_1980</a>
 <a class="tree-file" href="97.论文翻译/腓立比书第三章释经_Erstad_1980简化版">腓立比书第三章释经_Erstad_1980简化版</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
+<a class="tree-file" href="97.论文翻译/重拾以基督为中心的路德宗灵修传统">重拾以基督为中心的路德宗灵修传统</a>
 </details>
 
 <details class="tree-folder" id="98-讲道框架">
