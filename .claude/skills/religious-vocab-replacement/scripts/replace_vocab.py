@@ -99,7 +99,10 @@ def process_text(text: str) -> tuple[str, list[str]]:
     return text, changes
 
 
-def process_file(path: Path, dry_run: bool):
+OUTPUT_DIR = Path("/Users/zhangjian/Library/Mobile Documents/iCloud~md~obsidian/Documents/BibleThought/302.公众号洗稿")
+
+
+def process_file(path: Path, dry_run: bool, output_dir: Path):
     content = path.read_text(encoding="utf-8")
     new_content, changes = process_text(content)
 
@@ -112,26 +115,33 @@ def process_file(path: Path, dry_run: bool):
         for c in changes:
             print(c)
     else:
-        path.write_text(new_content, encoding="utf-8")
+        out_path = output_dir / path.name
+        out_path.write_text(new_content, encoding="utf-8")
         print(f"✅ {path.name}：")
         for c in changes:
             print(c)
+        print(f"  → 已写入 {out_path}")
 
 
 def main():
     parser = argparse.ArgumentParser(description="宗教词汇批量替换")
     parser.add_argument("target", help="文件路径或目录")
     parser.add_argument("--dry-run", action="store_true", help="预览，不修改文件")
+    parser.add_argument("--output-dir", default=str(OUTPUT_DIR), help="输出目录（默认：302.公众号洗稿）")
     args = parser.parse_args()
+
+    output_dir = Path(args.output_dir)
+    if not args.dry_run:
+        output_dir.mkdir(parents=True, exist_ok=True)
 
     target = Path(args.target)
     if target.is_file():
-        process_file(target, args.dry_run)
+        process_file(target, args.dry_run, output_dir)
     elif target.is_dir():
         files = sorted(target.rglob("*.md"))
         print(f"找到 {len(files)} 个 .md 文件\n")
         for f in files:
-            process_file(f, args.dry_run)
+            process_file(f, args.dry_run, output_dir)
     else:
         print(f"错误：找不到 {target}", file=sys.stderr)
         sys.exit(1)

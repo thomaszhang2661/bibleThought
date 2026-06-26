@@ -18,7 +18,7 @@ description: >
 
 给定源文件路径后，执行以下步骤：
 
-**第一步：运行替换脚本**
+**第一步：预览替换内容**
 
 ```bash
 python "/Users/zhangjian/Library/Mobile Documents/iCloud~md~obsidian/Documents/BibleThought/.claude/skills/religious-vocab-replacement/scripts/replace_vocab.py" \
@@ -26,16 +26,14 @@ python "/Users/zhangjian/Library/Mobile Documents/iCloud~md~obsidian/Documents/B
   --dry-run
 ```
 
-先用 `--dry-run` 预览替换内容，确认无误后去掉 `--dry-run` 正式写入。
+**第二步：确认无误后正式写入**
 
-**第二步：复制到输出目录**
-
-将处理后的文件复制到：
-```
-/Users/zhangjian/Library/Mobile Documents/iCloud~md~obsidian/Documents/BibleThought/302.公众号洗稿/
+```bash
+python "/Users/zhangjian/Library/Mobile Documents/iCloud~md~obsidian/Documents/BibleThought/.claude/skills/religious-vocab-replacement/scripts/replace_vocab.py" \
+  "<源文件路径>"
 ```
 
-文件名保持原文件名。
+脚本会将洗稿版本直接写入 `302.公众号洗稿/<原文件名>`，**源文件保持不变**。
 
 **第三步：输出替换统计**
 
