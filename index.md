@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1052 篇文章
+共 1056 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -263,6 +263,9 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/腓立比书第三章释经_Erstad_1980简化版">腓立比书第三章释经_Erstad_1980简化版</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <a class="tree-file" href="97.论文翻译/重拾以基督为中心的路德宗灵修传统">重拾以基督为中心的路德宗灵修传统</a>
+<a class="tree-file" href="97.论文翻译/重拾路德宗灵修传统_第三部分_以圣道为中心的祈祷恩赐">重拾路德宗灵修传统_第三部分_以圣道为中心的祈祷恩赐</a>
+<a class="tree-file" href="97.论文翻译/重拾路德宗灵修传统_第二部分_默想圣道的恩赐">重拾路德宗灵修传统_第二部分_默想圣道的恩赐</a>
+<a class="tree-file" href="97.论文翻译/重拾路德宗灵修传统_第四部分_试炼的恩赐">重拾路德宗灵修传统_第四部分_试炼的恩赐</a>
 </details>
 
 <details class="tree-folder" id="98-讲道框架">
@@ -1605,4 +1608,5 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/腓立比书第三章释经_Erstad_1980 copy">腓立比书第三章释经_Erstad_1980 copy</a>
 <a class="tree-file" href="302.公众号洗稿/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <a class="tree-file" href="302.公众号洗稿/路德宗政治抵抗理论-马德堡认信与下级执政官教义">路德宗政治抵抗理论-马德堡认信与下级执政官教义</a>
+<a class="tree-file" href="302.公众号洗稿/重拾以基督为中心的路德宗灵修传统">重拾以基督为中心的路德宗灵修传统</a>
 </details>
