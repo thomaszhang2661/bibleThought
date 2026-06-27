@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1066 篇文章
+共 1076 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1076,6 +1076,20 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/01_家庭习惯的力量/chapters/12_结语">12_结语</a>
 </details>
 </details>
+<details class="tree-folder" id="102-阅读-02-上帝的应许">
+<summary class="tree-dir">02_上帝的应许<a class="anchor-link" href="#102-阅读-02-上帝的应许">#</a></summary>
+<a class="tree-file" href="102. 阅读/02_上帝的应许/上帝的应许">上帝的应许</a>
+<details class="tree-folder" id="102-阅读-02-上帝的应许-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-02-上帝的应许-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/02_上帝的应许/chapters/01_创世之初">01_创世之初</a>
+<a class="tree-file" href="102. 阅读/02_上帝的应许/chapters/02_上帝的应许">02_上帝的应许</a>
+<a class="tree-file" href="102. 阅读/02_上帝的应许/chapters/03_上帝实现了祂的应许">03_上帝实现了祂的应许</a>
+<a class="tree-file" href="102. 阅读/02_上帝的应许/chapters/04_耶稣完成上帝的应许">04_耶稣完成上帝的应许</a>
+<a class="tree-file" href="102. 阅读/02_上帝的应许/chapters/05_称义的应许">05_称义的应许</a>
+<a class="tree-file" href="102. 阅读/02_上帝的应许/chapters/06_平安的应许">06_平安的应许</a>
+<a class="tree-file" href="102. 阅读/02_上帝的应许/chapters/07_永生的应许">07_永生的应许</a>
+</details>
+</details>
 <details class="tree-folder" id="102-阅读-7个关键技能">
 <summary class="tree-dir">7个关键技能<a class="anchor-link" href="#102-阅读-7个关键技能">#</a></summary>
 <details class="tree-folder" id="102-阅读-7个关键技能-chapters">
@@ -1589,9 +1603,10 @@ body_class: index-page
 <a class="tree-file" href="202. 意象系统/4. 食物上帝的供给">4. 食物上帝的供给</a>
 <a class="tree-file" href="202. 意象系统/5. 被倒出去的酒—苦难与奠祭">5. 被倒出去的酒—苦难与奠祭</a>
 <a class="tree-file" href="202. 意象系统/10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻">10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻</a>
-<a class="tree-file" href="202. 意象系统/从埃及召出我的儿子">从埃及召出我的儿子</a>
 <a class="tree-file" href="202. 意象系统/我从埃及召出我的儿子-一句"奇怪的引用"背后的救赎结构">我从埃及召出我的儿子-一句"奇怪的引用"背后的救赎结构</a>
 <a class="tree-file" href="202. 意象系统/拿撒勒人是什么意思">拿撒勒人是什么意思</a>
+<a class="tree-file" href="202. 意象系统/肖申克的救赎与约瑟">肖申克的救赎与约瑟</a>
+<a class="tree-file" href="202. 意象系统/肖申克的救赎与约瑟2">肖申克的救赎与约瑟2</a>
 </details>
 
 <details class="tree-folder" id="300-一些评论">
@@ -1601,6 +1616,7 @@ body_class: index-page
 
 <details class="tree-folder" id="302-公众号洗稿">
 <summary class="tree-dir">302.公众号洗稿<a class="anchor-link" href="#302-公众号洗稿">#</a></summary>
+<a class="tree-file" href="302.公众号洗稿/05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春">05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春</a>
 <a class="tree-file" href="302.公众号洗稿/5. 被倒出去的酒—苦难与奠祭">5. 被倒出去的酒—苦难与奠祭</a>
 <a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
