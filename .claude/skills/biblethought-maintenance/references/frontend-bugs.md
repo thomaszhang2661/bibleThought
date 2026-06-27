@@ -163,6 +163,8 @@ document.addEventListener('click', function(e) {
 
 **Rule:** 每次修改 `generate_index.py` 的文件夹输出格式，必须保留 `id` 和 `<a class="anchor-link">` — 这是用户分享文件夹链接的唯一入口。
 
+**不要加自动展开子文件夹的行为。** 曾经尝试过：点开一级文件夹时自动展开所有直接子文件夹（用 `toggle` 事件监听）。用户反馈体验差——点一个文件夹结果全部子文件夹都打开了。已回滚。保持原生 `<details>` 行为：点哪个开哪个。
+
 ---
 
 ## Hash 导航：展开 `<details>` 后必须用双 rAF 再滚动
