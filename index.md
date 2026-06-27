@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1089 篇文章
+共 1093 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1618,6 +1618,8 @@ body_class: index-page
 <summary class="tree-dir">204.整体结构<a class="anchor-link" href="#204-整体结构">#</a></summary>
 <a class="tree-file" href="204.整体结构/01_伊甸园里为什么要放那棵树">01_伊甸园里为什么要放那棵树</a>
 <a class="tree-file" href="204.整体结构/02_从伊甸园到大洪水发生了什么">02_从伊甸园到大洪水发生了什么</a>
+<a class="tree-file" href="204.整体结构/03_洪水之后上帝做了什么">03_洪水之后上帝做了什么</a>
+<a class="tree-file" href="204.整体结构/04_巴别塔的人想要什么">04_巴别塔的人想要什么</a>
 </details>
 
 <details class="tree-folder" id="300-一些评论">
@@ -1667,5 +1669,7 @@ body_class: index-page
 <summary class="tree-dir">204.整体结构<a class="anchor-link" href="#302-公众号洗稿-204-整体结构">#</a></summary>
 <a class="tree-file" href="302.公众号洗稿/204.整体结构/01_伊甸园里为什么要放那棵树">01_伊甸园里为什么要放那棵树</a>
 <a class="tree-file" href="302.公众号洗稿/204.整体结构/02_从伊甸园到大洪水发生了什么">02_从伊甸园到大洪水发生了什么</a>
+<a class="tree-file" href="302.公众号洗稿/204.整体结构/03_洪水之后上帝做了什么">03_洪水之后上帝做了什么</a>
+<a class="tree-file" href="302.公众号洗稿/204.整体结构/04_巴别塔的人想要什么">04_巴别塔的人想要什么</a>
 </details>
 </details>
