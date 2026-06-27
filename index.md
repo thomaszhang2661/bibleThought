@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1076 篇文章
+共 1084 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1640,5 +1640,16 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/01_重拾路德宗灵修传统/02_重拾路德宗灵修传统_第二部分_默想圣道的恩赐">02_重拾路德宗灵修传统_第二部分_默想圣道的恩赐</a>
 <a class="tree-file" href="302.公众号洗稿/01_重拾路德宗灵修传统/03_重拾路德宗灵修传统_第三部分_以圣道为中心的祈祷恩赐">03_重拾路德宗灵修传统_第三部分_以圣道为中心的祈祷恩赐</a>
 <a class="tree-file" href="302.公众号洗稿/01_重拾路德宗灵修传统/04_重拾路德宗灵修传统_第四部分_试炼的恩赐">04_重拾路德宗灵修传统_第四部分_试炼的恩赐</a>
+</details>
+<details class="tree-folder" id="302-公众号洗稿-上帝的应许">
+<summary class="tree-dir">上帝的应许<a class="anchor-link" href="#302-公众号洗稿-上帝的应许">#</a></summary>
+<a class="tree-file" href="302.公众号洗稿/上帝的应许/01_创世之初">01_创世之初</a>
+<a class="tree-file" href="302.公众号洗稿/上帝的应许/02_上帝的应许">02_上帝的应许</a>
+<a class="tree-file" href="302.公众号洗稿/上帝的应许/03_上帝实现了祂的应许">03_上帝实现了祂的应许</a>
+<a class="tree-file" href="302.公众号洗稿/上帝的应许/04_耶稣完成上帝的应许">04_耶稣完成上帝的应许</a>
+<a class="tree-file" href="302.公众号洗稿/上帝的应许/05_称义的应许">05_称义的应许</a>
+<a class="tree-file" href="302.公众号洗稿/上帝的应许/06_平安的应许">06_平安的应许</a>
+<a class="tree-file" href="302.公众号洗稿/上帝的应许/07_永生的应许">07_永生的应许</a>
+<a class="tree-file" href="302.公众号洗稿/上帝的应许/上帝的应许">上帝的应许</a>
 </details>
 </details>
