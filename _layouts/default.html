@@ -57,18 +57,14 @@
 
     // Open any collapsed <details> ancestors and scroll to the target element.
     // Uses double rAF so layout is fully updated after .open = true before scrollIntoView.
-    // Sets _suppressAutoExpand so manual-click auto-expand doesn't cascade during navigation.
-    var _suppressAutoExpand = false;
     function scrollToHash(hash) {
       if (!hash) return;
       var el = document.getElementById(hash);
       if (!el) return;
       if (el.tagName === 'DETAILS') {
-        _suppressAutoExpand = true;
         el.open = true;
         var p = el.parentElement;
         while (p) { if (p.tagName === 'DETAILS') p.open = true; p = p.parentElement; }
-        _suppressAutoExpand = false;
       }
       requestAnimationFrame(function() {
         requestAnimationFrame(function() {
@@ -76,17 +72,6 @@
         });
       });
     }
-
-    // Auto-expand: when user manually opens a folder, its direct child folders also open.
-    // One level only — _suppressAutoExpand prevents cascade when children open.
-    document.addEventListener('toggle', function(e) {
-      if (_suppressAutoExpand || !e.target.open || e.target.tagName !== 'DETAILS') return;
-      _suppressAutoExpand = true;
-      Array.from(e.target.children).forEach(function(c) {
-        if (c.tagName === 'DETAILS') c.open = true;
-      });
-      _suppressAutoExpand = false;
-    }, true);
 
     // Anchor links: use capture phase so stopPropagation fires before <summary> toggle
     document.addEventListener('click', function(e) {
