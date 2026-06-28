@@ -50,4 +50,6 @@ python "/Users/zhangjian/Library/Mobile Documents/iCloud~md~obsidian/Documents/B
 
 2. **单字"神"**：逐字扫描，检查前后字符，跳过"精神""神奇""神秘"等普通汉语词汇。
 
-词汇表见 `references/vocab-map.md`，如需新增替换对，在脚本 `REPLACEMENTS` 列表中添加即可（自动按长度排序）。
+词汇表见 `references/vocab.json`，如需新增替换对，直接在 `vocab.json` 中添加 `["原词", "替换词"]` 条目即可（脚本读取时自动按长度降序排序）。
+
+**输出路径注意**：脚本默认输出到 `302.公众号洗稿/<原文件名>`（根目录），需手动 `mv` 到对应子文件夹（如 `302.公众号洗稿/03.标杆人生/`）。
