@@ -334,8 +334,8 @@ body_class: index-page
 <summary class="tree-dir">丰盛生命系列讲道<a class="anchor-link" href="#99-讲道-00-Bork牧师-丰盛生命系列讲道">#</a></summary>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/01_结出丰盛的果实_灵魂的园艺">01_结出丰盛的果实_灵魂的园艺</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/02_结出爱的果子">02_结出爱的果子</a>
-<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/03_喜乐">03_喜乐</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/03_喜乐_查经">03_喜乐_查经</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/03_喜乐人生">03_喜乐人生</a>
 </details>
 </details>
 <details class="tree-folder" id="99-讲道-罪就伏在我们门前">
@@ -1671,7 +1671,6 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
 <a class="tree-file" href="302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
 <a class="tree-file" href="302.公众号洗稿/如何理解三位一体">如何理解三位一体</a>
-<a class="tree-file" href="302.公众号洗稿/当我停止寻找人生目的之后">当我停止寻找人生目的之后</a>
 <a class="tree-file" href="302.公众号洗稿/我来要把火丢在地上">我来要把火丢在地上</a>
 <a class="tree-file" href="302.公众号洗稿/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
 <a class="tree-file" href="302.公众号洗稿/显而未见-路德对于呼召的教义">显而未见-路德对于呼召的教义</a>
@@ -1705,6 +1704,7 @@ body_class: index-page
 <summary class="tree-dir">03.标杆人生<a class="anchor-link" href="#302-公众号洗稿-03-标杆人生">#</a></summary>
 <a class="tree-file" href="302.公众号洗稿/03.标杆人生/如何正确理解「向着标杆直跑」-兼论《标杆人生》的主要神学错误">如何正确理解「向着标杆直跑」-兼论《标杆人生》的主要神学错误</a>
 <a class="tree-file" href="302.公众号洗稿/03.标杆人生/寻找新宝藏之路的危险_Christie_2008">寻找新宝藏之路的危险_Christie_2008</a>
+<a class="tree-file" href="302.公众号洗稿/03.标杆人生/当我停止寻找人生目的之后">当我停止寻找人生目的之后</a>
 <a class="tree-file" href="302.公众号洗稿/03.标杆人生/教会增长运动及其对施恩具使用的影响_Cortright_1989">教会增长运动及其对施恩具使用的影响_Cortright_1989</a>
 <a class="tree-file" href="302.公众号洗稿/03.标杆人生/福音是神赐给我们做祂工作的能力_Braun_2005">福音是神赐给我们做祂工作的能力_Braun_2005</a>
 <a class="tree-file" href="302.公众号洗稿/03.标杆人生/腓立比书第三章释经_Erstad_1980 copy">腓立比书第三章释经_Erstad_1980 copy</a>
