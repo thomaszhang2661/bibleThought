@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1108 篇文章
+共 1112 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -268,6 +268,13 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/03_重拾路德宗灵修传统_第三部分_以圣道为中心的祈祷恩赐">03_重拾路德宗灵修传统_第三部分_以圣道为中心的祈祷恩赐</a>
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/04_重拾路德宗灵修传统_第四部分_试炼的恩赐">04_重拾路德宗灵修传统_第四部分_试炼的恩赐</a>
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春">05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春</a>
+</details>
+<details class="tree-folder" id="97-论文翻译-教会增长运动批判">
+<summary class="tree-dir">教会增长运动批判<a class="anchor-link" href="#97-论文翻译-教会增长运动批判">#</a></summary>
+<a class="tree-file" href="97.论文翻译/教会增长运动批判/从施培纳到斯坦利：探索现代美国福音主义中的敬虔主义主题_Hemmelman_2020">从施培纳到斯坦利：探索现代美国福音主义中的敬虔主义主题_Hemmelman_2020</a>
+<a class="tree-file" href="97.论文翻译/教会增长运动批判/寻找新宝藏之路的危险_Christie_2008">寻找新宝藏之路的危险_Christie_2008</a>
+<a class="tree-file" href="97.论文翻译/教会增长运动批判/教会增长运动及其对施恩具使用的影响_Cortright_1989">教会增长运动及其对施恩具使用的影响_Cortright_1989</a>
+<a class="tree-file" href="97.论文翻译/教会增长运动批判/福音是神赐给我们做祂工作的能力_Braun_2005">福音是神赐给我们做祂工作的能力_Braun_2005</a>
 </details>
 <details class="tree-folder" id="97-论文翻译-腓立比书三章">
 <summary class="tree-dir">腓立比书三章<a class="anchor-link" href="#97-论文翻译-腓立比书三章">#</a></summary>
@@ -1094,6 +1101,24 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/02_上帝的应许/chapters/07_永生的应许">07_永生的应许</a>
 </details>
 </details>
+<details class="tree-folder" id="102-阅读-03-创世记注释-Lawrenz-Jeske">
+<summary class="tree-dir">03_创世记注释_Lawrenz_Jeske<a class="anchor-link" href="#102-阅读-03-创世记注释-Lawrenz-Jeske">#</a></summary>
+<details class="tree-folder" id="102-阅读-03-创世记注释-Lawrenz-Jeske-chapters">
+<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-03-创世记注释-Lawrenz-Jeske-chapters">#</a></summary>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/00_前言与引言">00_前言与引言</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/01_创1_1-2_3">01_创1_1-2_3</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/02_创2_4-25">02_创2_4-25</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/03_创3章">03_创3章</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/04_创4章">04_创4章</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/05_创5章">05_创5章</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/06_创6章">06_创6章</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/07_创7章">07_创7章</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/08_创8章">08_创8章</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/09_创9章">09_创9章</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/10_创10章">10_创10章</a>
+<a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/11_创11章">11_创11章</a>
+</details>
+</details>
 <details class="tree-folder" id="102-阅读-7个关键技能">
 <summary class="tree-dir">7个关键技能<a class="anchor-link" href="#102-阅读-7个关键技能">#</a></summary>
 <details class="tree-folder" id="102-阅读-7个关键技能-chapters">
@@ -1188,24 +1213,6 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/以小教义祷告/chapters/09_第九章_家规表_上">09_第九章_家规表_上</a>
 <a class="tree-file" href="102. 阅读/以小教义祷告/chapters/09_第九章_家规表_下">09_第九章_家规表_下</a>
 <a class="tree-file" href="102. 阅读/以小教义祷告/chapters/10_附录">10_附录</a>
-</details>
-</details>
-<details class="tree-folder" id="102-阅读-创世记注释-Lawrenz-Jeske">
-<summary class="tree-dir">创世记注释_Lawrenz_Jeske<a class="anchor-link" href="#102-阅读-创世记注释-Lawrenz-Jeske">#</a></summary>
-<details class="tree-folder" id="102-阅读-创世记注释-Lawrenz-Jeske-chapters">
-<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-创世记注释-Lawrenz-Jeske-chapters">#</a></summary>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/00_前言与引言">00_前言与引言</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/01_创1_1-2_3">01_创1_1-2_3</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/02_创2_4-25">02_创2_4-25</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/03_创3章">03_创3章</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/04_创4章">04_创4章</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/05_创5章">05_创5章</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/06_创6章">06_创6章</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/07_创7章">07_创7章</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/08_创8章">08_创8章</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/09_创9章">09_创9章</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/10_创10章">10_创10章</a>
-<a class="tree-file" href="102. 阅读/创世记注释_Lawrenz_Jeske/chapters/11_创11章">11_创11章</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-功绩主义的暴政">
