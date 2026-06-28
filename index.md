@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1124 篇文章
+共 1126 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -336,6 +336,8 @@ body_class: index-page
 <a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/02_结出爱的果子">02_结出爱的果子</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/03_喜乐_查经">03_喜乐_查经</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/03_喜乐人生">03_喜乐人生</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/04_活出果子的生命-平安">04_活出果子的生命-平安</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/04_活出果子的生命-平安_查经">04_活出果子的生命-平安_查经</a>
 </details>
 </details>
 <details class="tree-folder" id="99-讲道-罪就伏在我们门前">
