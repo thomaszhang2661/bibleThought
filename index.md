@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1112 篇文章
+共 1117 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1672,7 +1672,6 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
 <a class="tree-file" href="302.公众号洗稿/罪就伏在我们门前-第二版">罪就伏在我们门前-第二版</a>
 <a class="tree-file" href="302.公众号洗稿/耶稣是谁？">耶稣是谁？</a>
-<a class="tree-file" href="302.公众号洗稿/腓立比书第三章释经_Erstad_1980 copy">腓立比书第三章释经_Erstad_1980 copy</a>
 <a class="tree-file" href="302.公众号洗稿/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <a class="tree-file" href="302.公众号洗稿/路德宗政治抵抗理论-马德堡认信与下级执政官教义">路德宗政治抵抗理论-马德堡认信与下级执政官教义</a>
 <a class="tree-file" href="302.公众号洗稿/重拾以基督为中心的路德宗灵修传统">重拾以基督为中心的路德宗灵修传统</a>
@@ -1694,6 +1693,15 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/02_上帝的应许/06_平安的应许">06_平安的应许</a>
 <a class="tree-file" href="302.公众号洗稿/02_上帝的应许/07_永生的应许">07_永生的应许</a>
 <a class="tree-file" href="302.公众号洗稿/02_上帝的应许/上帝的应许">上帝的应许</a>
+</details>
+<details class="tree-folder" id="302-公众号洗稿-03-标杆人生">
+<summary class="tree-dir">03.标杆人生<a class="anchor-link" href="#302-公众号洗稿-03-标杆人生">#</a></summary>
+<a class="tree-file" href="302.公众号洗稿/03.标杆人生/如何正确理解「向着标杆直跑」-兼论《标杆人生》的主要神学错误">如何正确理解「向着标杆直跑」-兼论《标杆人生》的主要神学错误</a>
+<a class="tree-file" href="302.公众号洗稿/03.标杆人生/寻找新宝藏之路的危险_Christie_2008">寻找新宝藏之路的危险_Christie_2008</a>
+<a class="tree-file" href="302.公众号洗稿/03.标杆人生/教会增长运动及其对施恩具使用的影响_Cortright_1989">教会增长运动及其对施恩具使用的影响_Cortright_1989</a>
+<a class="tree-file" href="302.公众号洗稿/03.标杆人生/福音是神赐给我们做祂工作的能力_Braun_2005">福音是神赐给我们做祂工作的能力_Braun_2005</a>
+<a class="tree-file" href="302.公众号洗稿/03.标杆人生/腓立比书第三章释经_Erstad_1980 copy">腓立比书第三章释经_Erstad_1980 copy</a>
+<a class="tree-file" href="302.公众号洗稿/03.标杆人生/腓立比书第三章释经_Erstad_1980简化版">腓立比书第三章释经_Erstad_1980简化版</a>
 </details>
 <details class="tree-folder" id="302-公众号洗稿-204-整体结构">
 <summary class="tree-dir">204.整体结构<a class="anchor-link" href="#302-公众号洗稿-204-整体结构">#</a></summary>
