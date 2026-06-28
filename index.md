@@ -260,10 +260,7 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/基督复活的能力">基督复活的能力</a>
 <a class="tree-file" href="97.论文翻译/威斯康星路德神学院的灵性成长">威斯康星路德神学院的灵性成长</a>
 <a class="tree-file" href="97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活">灵性能量管理_避免牧养倦怠_建立健康灵修生活</a>
-<a class="tree-file" href="97.论文翻译/腓立比书第三章释经_Erstad_1980">腓立比书第三章释经_Erstad_1980</a>
-<a class="tree-file" href="97.论文翻译/腓立比书第三章释经_Erstad_1980简化版">腓立比书第三章释经_Erstad_1980简化版</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
-<a class="tree-file" href="97.论文翻译/重拾以基督为中心的路德宗灵修传统">重拾以基督为中心的路德宗灵修传统</a>
 <details class="tree-folder" id="97-论文翻译-01-重拾路德宗灵修传统">
 <summary class="tree-dir">01_重拾路德宗灵修传统<a class="anchor-link" href="#97-论文翻译-01-重拾路德宗灵修传统">#</a></summary>
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/01_重拾路德宗灵修传统_第一部分_从好消息汲取灵修生活的力量">01_重拾路德宗灵修传统_第一部分_从好消息汲取灵修生活的力量</a>
@@ -271,6 +268,12 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/03_重拾路德宗灵修传统_第三部分_以圣道为中心的祈祷恩赐">03_重拾路德宗灵修传统_第三部分_以圣道为中心的祈祷恩赐</a>
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/04_重拾路德宗灵修传统_第四部分_试炼的恩赐">04_重拾路德宗灵修传统_第四部分_试炼的恩赐</a>
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春">05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春</a>
+</details>
+<details class="tree-folder" id="97-论文翻译-腓立比书三章">
+<summary class="tree-dir">腓立比书三章<a class="anchor-link" href="#97-论文翻译-腓立比书三章">#</a></summary>
+<a class="tree-file" href="97.论文翻译/腓立比书三章/如何正确理解"向着标杆直跑"？——兼论《标杆人生》的主要神学错误">如何正确理解"向着标杆直跑"？——兼论《标杆人生》的主要神学错误</a>
+<a class="tree-file" href="97.论文翻译/腓立比书三章/腓立比书第三章释经_Erstad_1980">腓立比书第三章释经_Erstad_1980</a>
+<a class="tree-file" href="97.论文翻译/腓立比书三章/腓立比书第三章释经_Erstad_1980简化版">腓立比书第三章释经_Erstad_1980简化版</a>
 </details>
 </details>
 
