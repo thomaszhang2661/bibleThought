@@ -278,7 +278,7 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="97-论文翻译-腓立比书三章">
 <summary class="tree-dir">腓立比书三章<a class="anchor-link" href="#97-论文翻译-腓立比书三章">#</a></summary>
-<a class="tree-file" href="97.论文翻译/腓立比书三章/如何正确理解"向着标杆直跑"？——兼论《标杆人生》的主要神学错误">如何正确理解"向着标杆直跑"？——兼论《标杆人生》的主要神学错误</a>
+<a class="tree-file" href="97.论文翻译/腓立比书三章/如何正确理解"向着标杆直跑"？-兼论《标杆人生》的主要神学错误">如何正确理解"向着标杆直跑"？-兼论《标杆人生》的主要神学错误</a>
 <a class="tree-file" href="97.论文翻译/腓立比书三章/腓立比书第三章释经_Erstad_1980">腓立比书第三章释经_Erstad_1980</a>
 <a class="tree-file" href="97.论文翻译/腓立比书三章/腓立比书第三章释经_Erstad_1980简化版">腓立比书第三章释经_Erstad_1980简化版</a>
 </details>
