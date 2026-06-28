@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1122 篇文章
+共 1124 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -286,6 +286,7 @@ body_class: index-page
 <details class="tree-folder" id="97-论文翻译-腓立比书三章">
 <summary class="tree-dir">腓立比书三章<a class="anchor-link" href="#97-论文翻译-腓立比书三章">#</a></summary>
 <a class="tree-file" href="97.论文翻译/腓立比书三章/如何正确理解「向着标杆直跑」-兼论《标杆人生》的主要神学错误">如何正确理解「向着标杆直跑」-兼论《标杆人生》的主要神学错误</a>
+<a class="tree-file" href="97.论文翻译/腓立比书三章/当我停止寻找人生目的之后">当我停止寻找人生目的之后</a>
 <a class="tree-file" href="97.论文翻译/腓立比书三章/腓立比书第三章释经_Erstad_1980">腓立比书第三章释经_Erstad_1980</a>
 <a class="tree-file" href="97.论文翻译/腓立比书三章/腓立比书第三章释经_Erstad_1980简化版">腓立比书第三章释经_Erstad_1980简化版</a>
 </details>
@@ -1670,6 +1671,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
 <a class="tree-file" href="302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
 <a class="tree-file" href="302.公众号洗稿/如何理解三位一体">如何理解三位一体</a>
+<a class="tree-file" href="302.公众号洗稿/当我停止寻找人生目的之后">当我停止寻找人生目的之后</a>
 <a class="tree-file" href="302.公众号洗稿/我来要把火丢在地上">我来要把火丢在地上</a>
 <a class="tree-file" href="302.公众号洗稿/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
 <a class="tree-file" href="302.公众号洗稿/显而未见-路德对于呼召的教义">显而未见-路德对于呼召的教义</a>
