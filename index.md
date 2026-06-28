@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1126 篇文章
+共 1178 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1121,6 +1121,61 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/10_创10章">10_创10章</a>
 <a class="tree-file" href="102. 阅读/03_创世记注释_Lawrenz_Jeske/chapters/11_创11章">11_创11章</a>
 </details>
+</details>
+<details class="tree-folder" id="102-阅读-04-神圣沉思录-Gerhard">
+<summary class="tree-dir">04_神圣沉思录_Gerhard<a class="anchor-link" href="#102-阅读-04-神圣沉思录-Gerhard">#</a></summary>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/00_导言">00_导言</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/01_认识自身之罪">01_认识自身之罪</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/02_从主受难而来的悔罪功课">02_从主受难而来的悔罪功课</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/03_真诚悔罪的果实">03_真诚悔罪的果实</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/04_耶稣之名的默想">04_耶稣之名的默想</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/05_从基督之爱而来的信心功课">05_从基督之爱而来的信心功课</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/06_从基督受难而来的安慰">06_从基督受难而来的安慰</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/07_主受难的果实">07_主受难的果实</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/08_救恩的确据">08_救恩的确据</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/09_唯独爱上帝">09_唯独爱上帝</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/10_与上帝的和好">10_与上帝的和好</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/11_我们罪的代赎">11_我们罪的代赎</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/12_真信心的本质与属性">12_真信心的本质与属性</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/13_基督与灵魂的属灵联合">13_基督与灵魂的属灵联合</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/14_道成肉身的奥秘">14_道成肉身的奥秘</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/15_道成肉身的救恩果实">15_道成肉身的救恩果实</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/16_虔敬者的灵魂滋养">16_虔敬者的灵魂滋养</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/17_洗礼的果实">17_洗礼的果实</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/18_领受基督身体与宝血的益处">18_领受基督身体与宝血的益处</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/19_主的圣餐的奥秘">19_主的圣餐的奥秘</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/20_领圣餐前的认真预备">20_领圣餐前的认真预备</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/21_基督的升天">21_基督的升天</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/22_论圣灵的讲道">22_论圣灵的讲道</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/23_教会的尊贵">23_教会的尊贵</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/24_关于预定的默想">24_关于预定的默想</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/25_祷告的救赎功效">25_祷告的救赎功效</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/26_圣天使的保护">26_圣天使的保护</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/27_魔鬼的网罗">27_魔鬼的网罗</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/28_虔敬生活的基本法则">28_虔敬生活的基本法则</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/29_错置的安全感">29_错置的安全感</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/30_效法基督的圣洁生活">30_效法基督的圣洁生活</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/31_舍己">31_舍己</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/32_灵魂真正的安息">32_灵魂真正的安息</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/33_纯洁的良知">33_纯洁的良知</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/34_追求真正的谦卑">34_追求真正的谦卑</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/35_逃避贪婪">35_逃避贪婪</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/36_真正慈爱的属性">36_真正慈爱的属性</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/37_追求圣洁贞节">37_追求圣洁贞节</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/38_今世生命的短暂性">38_今世生命的短暂性</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/39_世界的虚空">39_世界的虚空</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/40_试炼的益处">40_试炼的益处</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/41_基督徒忍耐的基础">41_基督徒忍耐的基础</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/42_以恒忍胜过试炼">42_以恒忍胜过试炼</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/43_每日思考死亡">43_每日思考死亡</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/44_友人去世时的安慰">44_友人去世时的安慰</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/45_末日审判">45_末日审判</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/46_渴慕永生">46_渴慕永生</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/47_天堂中至福的见神">47_天堂中至福的见神</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/48_天堂中与天使的美好相交">48_天堂中与天使的美好相交</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/49_地狱的严酷刑罚">49_地狱的严酷刑罚</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/50_地狱中的永久刑罚">50_地狱中的永久刑罚</a>
+<a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/51_虔敬者的属灵复活">51_虔敬者的属灵复活</a>
 </details>
 <details class="tree-folder" id="102-阅读-7个关键技能">
 <summary class="tree-dir">7个关键技能<a class="anchor-link" href="#102-阅读-7个关键技能">#</a></summary>
