@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1178 篇文章
+共 1267 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -259,6 +259,7 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/关怀被关怀者：信义宗牧师与心理健康专业人员的职责">关怀被关怀者：信义宗牧师与心理健康专业人员的职责</a>
 <a class="tree-file" href="97.论文翻译/基督复活的能力">基督复活的能力</a>
 <a class="tree-file" href="97.论文翻译/威斯康星路德神学院的灵性成长">威斯康星路德神学院的灵性成长</a>
+<a class="tree-file" href="97.论文翻译/教义学与虔敬——格哈德圣洁沉思录导论_Brug">教义学与虔敬——格哈德圣洁沉思录导论_Brug</a>
 <a class="tree-file" href="97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活">灵性能量管理_避免牧养倦怠_建立健康灵修生活</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <details class="tree-folder" id="97-论文翻译-01-重拾路德宗灵修传统">
@@ -276,6 +277,10 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/02_敬虔主义论文/当恩典成为要求-读经-祷告-传福音背后的神学陷阱-一篇关于敬虔主义错误及律法福音混淆的概述">当恩典成为要求-读经-祷告-传福音背后的神学陷阱-一篇关于敬虔主义错误及律法福音混淆的概述</a>
 <a class="tree-file" href="97.论文翻译/02_敬虔主义论文/敬虔主义-过去与现在">敬虔主义-过去与现在</a>
 <a class="tree-file" href="97.论文翻译/02_敬虔主义论文/敬虔主义的灵-历史分析与当代关切">敬虔主义的灵-历史分析与当代关切</a>
+</details>
+<details class="tree-folder" id="97-论文翻译-圣洁沉思录-格哈德-1606">
+<summary class="tree-dir">圣洁沉思录_格哈德_1606<a class="anchor-link" href="#97-论文翻译-圣洁沉思录-格哈德-1606">#</a></summary>
+<a class="tree-file" href="97.论文翻译/圣洁沉思录_格哈德_1606/04_默想XL-LI">04_默想XL-LI</a>
 </details>
 <details class="tree-folder" id="97-论文翻译-教会增长运动批判">
 <summary class="tree-dir">教会增长运动批判<a class="anchor-link" href="#97-论文翻译-教会增长运动批判">#</a></summary>
@@ -1176,6 +1181,117 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/49_地狱的严酷刑罚">49_地狱的严酷刑罚</a>
 <a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/50_地狱中的永久刑罚">50_地狱中的永久刑罚</a>
 <a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/51_虔敬者的属灵复活">51_虔敬者的属灵复活</a>
+</details>
+<details class="tree-folder" id="102-阅读-05-日课祷告宝库-Kinnaman-2008">
+<summary class="tree-dir">05_日课祷告宝库_Kinnaman_2008<a class="anchor-link" href="#102-阅读-05-日课祷告宝库-Kinnaman-2008">#</a></summary>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/00_前言_十一月一至三日">00_前言_十一月一至三日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/01_十一月四至七日">01_十一月四至七日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/02_十一月八至十日">02_十一月八至十日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/03_十一月十一至十四日">03_十一月十一至十四日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/04_十一月十五至十八日">04_十一月十五至十八日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/05_十一月十九至二十二日">05_十一月十九至二十二日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/07_十一月二十七至三十日">07_十一月二十七至三十日</a>
+</details>
+<details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008">
+<summary class="tree-dir">06_恩典叠恩典_Kleinig_2008<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008">#</a></summary>
+<details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008-00-序言与导论">
+<summary class="tree-dir">00_序言与导论<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008-00-序言与导论">#</a></summary>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/00_序言与导论/00_序言">00_序言</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/00_序言与导论/01_信仰的传承">01_信仰的传承</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/00_序言与导论/02_在基督里的参与">02_在基督里的参与</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/00_序言与导论/03_我们的导师">03_我们的导师</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/00_序言与导论/04_属灵争战中">04_属灵争战中</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/00_序言与导论/05_恩典叠恩典">05_恩典叠恩典</a>
+</details>
+<details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008-01-基督的奥秘">
+<summary class="tree-dir">01_基督的奥秘<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008-01-基督的奥秘">#</a></summary>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/01_一群乞丐（章标题与引言）">01_一群乞丐（章标题与引言）</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/02_乞讨的艺术">02_乞讨的艺术</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/03_奇异的丰富">03_奇异的丰富</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/04_倒行的进步">04_倒行的进步</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/05_装模作样">05_装模作样</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/06_信仰之旅">06_信仰之旅</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/07_看不见的道路">07_看不见的道路</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/08_呼吸">08_呼吸</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/09_保持清洁的良知">09_保持清洁的良知</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/10_敬虔的操练">10_敬虔的操练</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/11_敬虔的奥秘">11_敬虔的奥秘</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/12_我们隐秘的生命">12_我们隐秘的生命</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/13_信仰的奥秘">13_信仰的奥秘</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/14_隐秘的使者">14_隐秘的使者</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/15_上帝的诗班">15_上帝的诗班</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/16_礼仪性灵修">16_礼仪性灵修</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/17_旧约中的日课祷告">17_旧约中的日课祷告</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/18_早期教会的日课祷告">18_早期教会的日课祷告</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/19_路德宗日课祷告模式">19_路德宗日课祷告模式</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/20_荣耀的分量">20_荣耀的分量</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/01_基督的奥秘/21_守护奥秘">21_守护奥秘</a>
+</details>
+<details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008-02-默想的奥秘">
+<summary class="tree-dir">02_默想的奥秘<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008-02-默想的奥秘">#</a></summary>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/01_听道之心（章标题与引言）">01_听道之心（章标题与引言）</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/02_所罗门的事例">02_所罗门的事例</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/03_聆听的奥秘">03_聆听的奥秘</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/04_自发的默想">04_自发的默想</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/05_放松的专注">05_放松的专注</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/06_基督徒的默想">06_基督徒的默想</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/07_导师耶稣">07_导师耶稣</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/08_忠实的默想（上）">08_忠实的默想（上）</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/08_忠实的默想（下）">08_忠实的默想（下）</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/09_属灵的喂养">09_属灵的喂养</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/10_我们的属灵引导者">10_我们的属灵引导者</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/11_启示之光">11_启示之光</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/12_玛利亚的榜样">12_玛利亚的榜样</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/14_领受话语">14_领受话语</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/16_每日觉醒">16_每日觉醒</a>
+</details>
+<details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008-03-祷告的奥秘">
+<summary class="tree-dir">03_祷告的奥秘<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008-03-祷告的奥秘">#</a></summary>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/01_祷告的恩赐">01_祷告的恩赐</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/02_君王的朋友">02_君王的朋友</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/03_祷告的专家">03_祷告的专家</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/04_无所给予">04_无所给予</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/05_与耶稣同祷">05_与耶稣同祷</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/06_言语的提示">06_言语的提示</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/07_信心的祷告">07_信心的祷告</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/08_不住的祷告">08_不住的祷告</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/09_祷告的实践">09_祷告的实践</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/10_无力感">10_无力感</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/11_在鱼腹中">11_在鱼腹中</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/12_与诗篇同悲">12_与诗篇同悲</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/13_祷告的能力">13_祷告的能力</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/14_上帝的同工">14_上帝的同工</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/15_黄金法则">15_黄金法则</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/16_代祷的基础">16_代祷的基础</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/17_团结">17_团结</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/03_祷告的奥秘/18_群体性行动">18_群体性行动</a>
+</details>
+<details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008-04-隐秘的争战">
+<summary class="tree-dir">04_隐秘的争战<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008-04-隐秘的争战">#</a></summary>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/01_战斗至最后一息（章标题与引言）">01_战斗至最后一息（章标题与引言）</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/02_伪装">02_伪装</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/03_争战的修辞">03_争战的修辞</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/04_战场">04_战场</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/05_打美好的仗">05_打美好的仗</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/06_隐秘的仇敌">06_隐秘的仇敌</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/11_好的摆脱">11_好的摆脱</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/12_光明的盔甲">12_光明的盔甲</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/13_我们的属灵武器">13_我们的属灵武器</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/14_守卫职责">14_守卫职责</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/15_守护圣地">15_守护圣地</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/16_信实者的安慰者">16_信实者的安慰者</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/17_加入抵抗">17_加入抵抗</a>
+</details>
+<details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008-05-隐藏的圣洁">
+<summary class="tree-dir">05_隐藏的圣洁<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008-05-隐藏的圣洁">#</a></summary>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/01_圣洁之路（章标题与引言）">01_圣洁之路（章标题与引言）</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/02_启程出发">02_启程出发</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/03_悦神的奉献">03_悦神的奉献</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/04_圣洁的款待">04_圣洁的款待</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/05_我们的圣召">05_我们的圣召</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/06_圣洁的灵修">06_圣洁的灵修</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/07_看不见的光环">07_看不见的光环</a>
+</details>
 </details>
 <details class="tree-folder" id="102-阅读-7个关键技能">
 <summary class="tree-dir">7个关键技能<a class="anchor-link" href="#102-阅读-7个关键技能">#</a></summary>
