@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1107 篇文章
+共 1108 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -255,6 +255,7 @@ body_class: index-page
 
 <details class="tree-folder" id="97-论文翻译">
 <summary class="tree-dir">97.论文翻译<a class="anchor-link" href="#97-论文翻译">#</a></summary>
+<a class="tree-file" href="97.论文翻译/二十一世纪的聚会：探索虚拟信认型路德宗会众的可能性_Schlomer_2022">二十一世纪的聚会：探索虚拟信认型路德宗会众的可能性_Schlomer_2022</a>
 <a class="tree-file" href="97.论文翻译/关怀被关怀者：信义宗牧师与心理健康专业人员的职责">关怀被关怀者：信义宗牧师与心理健康专业人员的职责</a>
 <a class="tree-file" href="97.论文翻译/基督复活的能力">基督复活的能力</a>
 <a class="tree-file" href="97.论文翻译/威斯康星路德神学院的灵性成长">威斯康星路德神学院的灵性成长</a>
