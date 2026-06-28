@@ -6090,14 +6090,110 @@
     "title": "10_附录",
     "prev_url": "102. 阅读/以小教义祷告/chapters/09_第九章_家规表_下",
     "prev_title": "09_第九章_家规表_下",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/00_前言与引言",
+    "next_title": "00_前言与引言"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/00_前言与引言.md",
+    "title": "00_前言与引言",
+    "prev_url": "102. 阅读/以小教义祷告/chapters/10_附录",
+    "prev_title": "10_附录",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/01_创1_1-2_3",
+    "next_title": "01_创1_1-2_3"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/01_创1_1-2_3.md",
+    "title": "01_创1_1-2_3",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/00_前言与引言",
+    "prev_title": "00_前言与引言",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/02_创2_4-25",
+    "next_title": "02_创2_4-25"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/02_创2_4-25.md",
+    "title": "02_创2_4-25",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/01_创1_1-2_3",
+    "prev_title": "01_创1_1-2_3",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/03_创3章",
+    "next_title": "03_创3章"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/03_创3章.md",
+    "title": "03_创3章",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/02_创2_4-25",
+    "prev_title": "02_创2_4-25",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/04_创4章",
+    "next_title": "04_创4章"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/04_创4章.md",
+    "title": "04_创4章",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/03_创3章",
+    "prev_title": "03_创3章",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/05_创5章",
+    "next_title": "05_创5章"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/05_创5章.md",
+    "title": "05_创5章",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/04_创4章",
+    "prev_title": "04_创4章",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/06_创6章",
+    "next_title": "06_创6章"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/06_创6章.md",
+    "title": "06_创6章",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/05_创5章",
+    "prev_title": "05_创5章",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/07_创7章",
+    "next_title": "07_创7章"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/07_创7章.md",
+    "title": "07_创7章",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/06_创6章",
+    "prev_title": "06_创6章",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/08_创8章",
+    "next_title": "08_创8章"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/08_创8章.md",
+    "title": "08_创8章",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/07_创7章",
+    "prev_title": "07_创7章",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/09_创9章",
+    "next_title": "09_创9章"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/09_创9章.md",
+    "title": "09_创9章",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/08_创8章",
+    "prev_title": "08_创8章",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/10_创10章",
+    "next_title": "10_创10章"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/10_创10章.md",
+    "title": "10_创10章",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/09_创9章",
+    "prev_title": "09_创9章",
+    "next_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/11_创11章",
+    "next_title": "11_创11章"
+  },
+  {
+    "path": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/11_创11章.md",
+    "title": "11_创11章",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/10_创10章",
+    "prev_title": "10_创10章",
     "next_url": "102. 阅读/功绩主义的暴政/功绩主义的暴政",
     "next_title": "功绩主义的暴政"
   },
   {
     "path": "102. 阅读/功绩主义的暴政/功绩主义的暴政.md",
     "title": "功绩主义的暴政",
-    "prev_url": "102. 阅读/以小教义祷告/chapters/10_附录",
-    "prev_title": "10_附录",
+    "prev_url": "102. 阅读/创世记注释_Lawrenz_Jeske/chapters/11_创11章",
+    "prev_title": "11_创11章",
     "next_url": "102. 阅读/功绩主义的暴政/chapters/00_序言与引言",
     "next_title": "00_序言与引言"
   },
