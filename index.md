@@ -269,9 +269,16 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/04_重拾路德宗灵修传统_第四部分_试炼的恩赐">04_重拾路德宗灵修传统_第四部分_试炼的恩赐</a>
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春">05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春</a>
 </details>
+<details class="tree-folder" id="97-论文翻译-02-敬虔主义论文">
+<summary class="tree-dir">02_敬虔主义论文<a class="anchor-link" href="#97-论文翻译-02-敬虔主义论文">#</a></summary>
+<a class="tree-file" href="97.论文翻译/02_敬虔主义论文/从施培纳到斯坦利：探索现代美国福音主义中的敬虔主义主题_Hemmelman_2020">从施培纳到斯坦利：探索现代美国福音主义中的敬虔主义主题_Hemmelman_2020</a>
+<a class="tree-file" href="97.论文翻译/02_敬虔主义论文/当代敬虔主义">当代敬虔主义</a>
+<a class="tree-file" href="97.论文翻译/02_敬虔主义论文/当恩典成为要求-读经-祷告-传福音背后的神学陷阱-一篇关于敬虔主义错误及律法福音混淆的概述">当恩典成为要求-读经-祷告-传福音背后的神学陷阱-一篇关于敬虔主义错误及律法福音混淆的概述</a>
+<a class="tree-file" href="97.论文翻译/02_敬虔主义论文/敬虔主义-过去与现在">敬虔主义-过去与现在</a>
+<a class="tree-file" href="97.论文翻译/02_敬虔主义论文/敬虔主义的灵-历史分析与当代关切">敬虔主义的灵-历史分析与当代关切</a>
+</details>
 <details class="tree-folder" id="97-论文翻译-教会增长运动批判">
 <summary class="tree-dir">教会增长运动批判<a class="anchor-link" href="#97-论文翻译-教会增长运动批判">#</a></summary>
-<a class="tree-file" href="97.论文翻译/教会增长运动批判/从施培纳到斯坦利：探索现代美国福音主义中的敬虔主义主题_Hemmelman_2020">从施培纳到斯坦利：探索现代美国福音主义中的敬虔主义主题_Hemmelman_2020</a>
 <a class="tree-file" href="97.论文翻译/教会增长运动批判/寻找新宝藏之路的危险_Christie_2008">寻找新宝藏之路的危险_Christie_2008</a>
 <a class="tree-file" href="97.论文翻译/教会增长运动批判/教会增长运动及其对施恩具使用的影响_Cortright_1989">教会增长运动及其对施恩具使用的影响_Cortright_1989</a>
 <a class="tree-file" href="97.论文翻译/教会增长运动批判/福音是神赐给我们做祂工作的能力_Braun_2005">福音是神赐给我们做祂工作的能力_Braun_2005</a>
@@ -1008,13 +1015,6 @@ body_class: index-page
 <details class="tree-folder" id="101-教义-教理问答">
 <summary class="tree-dir">教理问答<a class="anchor-link" href="#101-教义-教理问答">#</a></summary>
 <a class="tree-file" href="101. 教义/教理问答/我的第一本教理问答">我的第一本教理问答</a>
-</details>
-<details class="tree-folder" id="101-教义-敬虔主义论文">
-<summary class="tree-dir">敬虔主义论文<a class="anchor-link" href="#101-教义-敬虔主义论文">#</a></summary>
-<a class="tree-file" href="101. 教义/敬虔主义论文/当代敬虔主义">当代敬虔主义</a>
-<a class="tree-file" href="101. 教义/敬虔主义论文/当恩典成为要求-读经-祷告-传福音背后的神学陷阱-一篇关于敬虔主义错误及律法福音混淆的概述">当恩典成为要求-读经-祷告-传福音背后的神学陷阱-一篇关于敬虔主义错误及律法福音混淆的概述</a>
-<a class="tree-file" href="101. 教义/敬虔主义论文/敬虔主义-过去与现在">敬虔主义-过去与现在</a>
-<a class="tree-file" href="101. 教义/敬虔主义论文/敬虔主义的灵-历史分析与当代关切">敬虔主义的灵-历史分析与当代关切</a>
 </details>
 <details class="tree-folder" id="101-教义-洗礼">
 <summary class="tree-dir">洗礼<a class="anchor-link" href="#101-教义-洗礼">#</a></summary>
