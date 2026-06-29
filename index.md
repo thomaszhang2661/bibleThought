@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1362 篇文章
+共 1363 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -349,6 +349,7 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/灵恩运动/灵恩运动_Becker_1974">灵恩运动_Becker_1974</a>
 <a class="tree-file" href="97.论文翻译/灵恩运动/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
 <a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967">联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967</a>
+<a class="tree-file" href="97.论文翻译/灵恩运动/说方言与信心医治_Niermeier_1975">说方言与信心医治_Niermeier_1975</a>
 </details>
 <details class="tree-folder" id="97-论文翻译-腓立比书三章">
 <summary class="tree-dir">腓立比书三章<a class="anchor-link" href="#97-论文翻译-腓立比书三章">#</a></summary>
