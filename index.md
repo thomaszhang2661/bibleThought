@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1364 篇文章
+共 1369 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1935,6 +1935,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春">05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春</a>
 <a class="tree-file" href="302.公众号洗稿/5. 被倒出去的酒—苦难与奠祭">5. 被倒出去的酒—苦难与奠祭</a>
 <a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
+<a class="tree-file" href="302.公众号洗稿/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
 <a class="tree-file" href="302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
 <a class="tree-file" href="302.公众号洗稿/如何理解三位一体">如何理解三位一体</a>
@@ -1976,6 +1977,13 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/03.标杆人生/福音是神赐给我们做祂工作的能力_Braun_2005">福音是神赐给我们做祂工作的能力_Braun_2005</a>
 <a class="tree-file" href="302.公众号洗稿/03.标杆人生/腓立比书第三章释经_Erstad_1980 copy">腓立比书第三章释经_Erstad_1980 copy</a>
 <a class="tree-file" href="302.公众号洗稿/03.标杆人生/腓立比书第三章释经_Erstad_1980简化版">腓立比书第三章释经_Erstad_1980简化版</a>
+</details>
+<details class="tree-folder" id="302-公众号洗稿-05-灵恩运动">
+<summary class="tree-dir">05.灵恩运动<a class="anchor-link" href="#302-公众号洗稿-05-灵恩运动">#</a></summary>
+<a class="tree-file" href="302.公众号洗稿/05.灵恩运动/方言现象_Gerlach">方言现象_Gerlach</a>
+<a class="tree-file" href="302.公众号洗稿/05.灵恩运动/方言的恩赐_Smith_1968">方言的恩赐_Smith_1968</a>
+<a class="tree-file" href="302.公众号洗稿/05.灵恩运动/灵恩运动_Becker_1974">灵恩运动_Becker_1974</a>
+<a class="tree-file" href="302.公众号洗稿/05.灵恩运动/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
 </details>
 <details class="tree-folder" id="302-公众号洗稿-204-整体结构">
 <summary class="tree-dir">204.整体结构<a class="anchor-link" href="#302-公众号洗稿-204-整体结构">#</a></summary>
