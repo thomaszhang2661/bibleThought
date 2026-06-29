@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1384 篇文章
+共 1385 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1237,6 +1237,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/31_十一月三十日_圣安德烈使徒日">31_十一月三十日_圣安德烈使徒日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/32_十二月一日">32_十二月一日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/33_十二月二日">33_十二月二日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/34_十二月三日">34_十二月三日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/37_十二月六日_缪拉的尼古拉斯">37_十二月六日_缪拉的尼古拉斯</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/42_十二月十一日">42_十二月十一日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/48_十二月十七日_但以理先知与三位青年">48_十二月十七日_但以理先知与三位青年</a>
