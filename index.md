@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1277 篇文章
+共 1282 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -282,6 +282,7 @@ body_class: index-page
 <summary class="tree-dir">圣洁沉思录_格哈德_1606<a class="anchor-link" href="#97-论文翻译-圣洁沉思录-格哈德-1606">#</a></summary>
 <a class="tree-file" href="97.论文翻译/圣洁沉思录_格哈德_1606/01_序言与默想I-XII">01_序言与默想I-XII</a>
 <a class="tree-file" href="97.论文翻译/圣洁沉思录_格哈德_1606/02_默想XIII-XXV">02_默想XIII-XXV</a>
+<a class="tree-file" href="97.论文翻译/圣洁沉思录_格哈德_1606/03_默想XXVI-XXXIX">03_默想XXVI-XXXIX</a>
 <a class="tree-file" href="97.论文翻译/圣洁沉思录_格哈德_1606/04_默想XL-LI">04_默想XL-LI</a>
 </details>
 <details class="tree-folder" id="97-论文翻译-教会增长运动批判">
@@ -1284,6 +1285,10 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/04_战场">04_战场</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/05_打美好的仗">05_打美好的仗</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/06_隐秘的仇敌">06_隐秘的仇敌</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/07_隐秘的伏击">07_隐秘的伏击</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/08_黑暗被揭露">08_黑暗被揭露</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/09_攻击的目标">09_攻击的目标</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/10_清醒的警醒">10_清醒的警醒</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/11_好的摆脱">11_好的摆脱</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/12_光明的盔甲">12_光明的盔甲</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/04_隐秘的争战/13_我们的属灵武器">13_我们的属灵武器</a>
