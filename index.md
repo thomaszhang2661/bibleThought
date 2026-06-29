@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1363 篇文章
+共 1364 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -288,6 +288,7 @@ body_class: index-page
 <details class="tree-folder" id="97-论文翻译-灵恩运动">
 <summary class="tree-dir">灵恩运动<a class="anchor-link" href="#97-论文翻译-灵恩运动">#</a></summary>
 <a class="tree-file" href="97.论文翻译/灵恩运动/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
+<a class="tree-file" href="97.论文翻译/灵恩运动/方言现象_Gerlach">方言现象_Gerlach</a>
 <a class="tree-file" href="97.论文翻译/灵恩运动/方言的恩赐_Smith_1968">方言的恩赐_Smith_1968</a>
 <a class="tree-file" href="97.论文翻译/灵恩运动/灵恩运动_Becker_1974">灵恩运动_Becker_1974</a>
 <a class="tree-file" href="97.论文翻译/灵恩运动/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
