@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1394 篇文章
+共 1396 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1238,6 +1238,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/32_十二月一日">32_十二月一日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/33_十二月二日">33_十二月二日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/34_十二月三日">34_十二月三日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/35_十二月四日">35_十二月四日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/37_十二月六日_缪拉的尼古拉斯">37_十二月六日_缪拉的尼古拉斯</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/38_十二月七日">38_十二月七日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/42_十二月十一日">42_十二月十一日</a>
@@ -1251,6 +1252,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/59_十二月二十八日_诸圣婴孩殉道者">59_十二月二十八日_诸圣婴孩殉道者</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/60_十二月二十九日">60_十二月二十九日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/61_十二月三十日">61_十二月三十日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/62_十二月三十一日">62_十二月三十一日</a>
 </details>
 <details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008">
 <summary class="tree-dir">06_恩典叠恩典_Kleinig_2008<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008">#</a></summary>
