@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1370 篇文章
+共 1374 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -293,8 +293,15 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/灵恩运动/方言的恩赐_Smith_1968">方言的恩赐_Smith_1968</a>
 <a class="tree-file" href="97.论文翻译/灵恩运动/灵恩运动_Becker_1974">灵恩运动_Becker_1974</a>
 <a class="tree-file" href="97.论文翻译/灵恩运动/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967">联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967</a>
 <a class="tree-file" href="97.论文翻译/灵恩运动/说方言与信心医治_Niermeier_1975">说方言与信心医治_Niermeier_1975</a>
+<details class="tree-folder" id="97-论文翻译-灵恩运动-联合主义-路德宗密苏里会内灵恩更新的因果-Stone-1967">
+<summary class="tree-dir">联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967<a class="anchor-link" href="#97-论文翻译-灵恩运动-联合主义-路德宗密苏里会内灵恩更新的因果-Stone-1967">#</a></summary>
+<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/01_序言与第一二章">01_序言与第一二章</a>
+<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/02_第三章_联合主义成因">02_第三章_联合主义成因</a>
+<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/03_第四章_联合主义效应">03_第四章_联合主义效应</a>
+<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/04_第五六章_教会交通基础与审思">04_第五六章_教会交通基础与审思</a>
+<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/05_第七章_结论与附录">05_第七章_结论与附录</a>
+</details>
 </details>
 <details class="tree-folder" id="97-论文翻译-腓立比书三章">
 <summary class="tree-dir">腓立比书三章<a class="anchor-link" href="#97-论文翻译-腓立比书三章">#</a></summary>
