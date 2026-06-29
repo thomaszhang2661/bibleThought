@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1282 篇文章
+共 1283 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1193,6 +1193,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/03_十一月十一至十四日">03_十一月十一至十四日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/04_十一月十五至十八日">04_十一月十五至十八日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/05_十一月十九至二十二日">05_十一月十九至二十二日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/06_十一月二十三至二十六日">06_十一月二十三至二十六日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/07_十一月二十七至三十日">07_十一月二十七至三十日</a>
 </details>
 <details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008">
