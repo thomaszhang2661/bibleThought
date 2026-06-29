@@ -264,6 +264,8 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/教义学与虔敬——格哈德圣洁沉思录导论_Brug">教义学与虔敬——格哈德圣洁沉思录导论_Brug</a>
 <a class="tree-file" href="97.论文翻译/方言的恩赐_Smith_1968">方言的恩赐_Smith_1968</a>
 <a class="tree-file" href="97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活">灵性能量管理_避免牧养倦怠_建立健康灵修生活</a>
+<a class="tree-file" href="97.论文翻译/灵恩运动_Becker_1974">灵恩运动_Becker_1974</a>
+<a class="tree-file" href="97.论文翻译/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <details class="tree-folder" id="97-论文翻译-01-重拾路德宗灵修传统">
 <summary class="tree-dir">01_重拾路德宗灵修传统<a class="anchor-link" href="#97-论文翻译-01-重拾路德宗灵修传统">#</a></summary>
@@ -1412,8 +1414,6 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-五旬节运动与灵恩运动-chapters">
 <summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-五旬节运动与灵恩运动-chapters">#</a></summary>
 <a class="tree-file" href="102. 阅读/五旬节运动与灵恩运动/chapters/00_五旬节运动与灵恩运动">00_五旬节运动与灵恩运动</a>
-<a class="tree-file" href="102. 阅读/五旬节运动与灵恩运动/chapters/01_灵恩运动_Becker_1974">01_灵恩运动_Becker_1974</a>
-<a class="tree-file" href="102. 阅读/五旬节运动与灵恩运动/chapters/02_灵恩运动_Warnke_1973">02_灵恩运动_Warnke_1973</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-以小教义祷告">

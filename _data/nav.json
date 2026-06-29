@@ -1042,14 +1042,30 @@
     "title": "灵性能量管理_避免牧养倦怠_建立健康灵修生活",
     "prev_url": "97.论文翻译/方言的恩赐_Smith_1968",
     "prev_title": "方言的恩赐_Smith_1968",
+    "next_url": "97.论文翻译/灵恩运动_Becker_1974",
+    "next_title": "灵恩运动_Becker_1974"
+  },
+  {
+    "path": "97.论文翻译/灵恩运动_Becker_1974.md",
+    "title": "灵恩运动_Becker_1974",
+    "prev_url": "97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活",
+    "prev_title": "灵性能量管理_避免牧养倦怠_建立健康灵修生活",
+    "next_url": "97.论文翻译/灵恩运动_Warnke_1973",
+    "next_title": "灵恩运动_Warnke_1973"
+  },
+  {
+    "path": "97.论文翻译/灵恩运动_Warnke_1973.md",
+    "title": "灵恩运动_Warnke_1973",
+    "prev_url": "97.论文翻译/灵恩运动_Becker_1974",
+    "prev_title": "灵恩运动_Becker_1974",
     "next_url": "97.论文翻译/藐视恩典是教会之死",
     "next_title": "藐视恩典是教会之死"
   },
   {
     "path": "97.论文翻译/藐视恩典是教会之死.md",
     "title": "藐视恩典是教会之死",
-    "prev_url": "97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活",
-    "prev_title": "灵性能量管理_避免牧养倦怠_建立健康灵修生活",
+    "prev_url": "97.论文翻译/灵恩运动_Warnke_1973",
+    "prev_title": "灵恩运动_Warnke_1973",
     "next_url": "97.论文翻译/01_重拾路德宗灵修传统/01_重拾路德宗灵修传统_第一部分_从好消息汲取灵修生活的力量",
     "next_title": "01_重拾路德宗灵修传统_第一部分_从好消息汲取灵修生活的力量"
   },
@@ -7626,30 +7642,14 @@
     "title": "00_五旬节运动与灵恩运动",
     "prev_url": "102. 阅读/东方遇见西方-中国和美国的教学专家/chapters/06_第六章_经验总结_下",
     "prev_title": "06_第六章_经验总结_下",
-    "next_url": "102. 阅读/五旬节运动与灵恩运动/chapters/01_灵恩运动_Becker_1974",
-    "next_title": "01_灵恩运动_Becker_1974"
-  },
-  {
-    "path": "102. 阅读/五旬节运动与灵恩运动/chapters/01_灵恩运动_Becker_1974.md",
-    "title": "01_灵恩运动_Becker_1974",
-    "prev_url": "102. 阅读/五旬节运动与灵恩运动/chapters/00_五旬节运动与灵恩运动",
-    "prev_title": "00_五旬节运动与灵恩运动",
-    "next_url": "102. 阅读/五旬节运动与灵恩运动/chapters/02_灵恩运动_Warnke_1973",
-    "next_title": "02_灵恩运动_Warnke_1973"
-  },
-  {
-    "path": "102. 阅读/五旬节运动与灵恩运动/chapters/02_灵恩运动_Warnke_1973.md",
-    "title": "02_灵恩运动_Warnke_1973",
-    "prev_url": "102. 阅读/五旬节运动与灵恩运动/chapters/01_灵恩运动_Becker_1974",
-    "prev_title": "01_灵恩运动_Becker_1974",
     "next_url": "102. 阅读/以小教义祷告/chapters/00_前言",
     "next_title": "00_前言"
   },
   {
     "path": "102. 阅读/以小教义祷告/chapters/00_前言.md",
     "title": "00_前言",
-    "prev_url": "102. 阅读/五旬节运动与灵恩运动/chapters/02_灵恩运动_Warnke_1973",
-    "prev_title": "02_灵恩运动_Warnke_1973",
+    "prev_url": "102. 阅读/五旬节运动与灵恩运动/chapters/00_五旬节运动与灵恩运动",
+    "prev_title": "00_五旬节运动与灵恩运动",
     "next_url": "102. 阅读/以小教义祷告/chapters/01_第一章_以要理问答祷告",
     "next_title": "01_第一章_以要理问答祷告"
   },
