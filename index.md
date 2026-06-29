@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1307 篇文章
+共 1310 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -255,7 +255,9 @@ body_class: index-page
 
 <details class="tree-folder" id="97-论文翻译">
 <summary class="tree-dir">97.论文翻译<a class="anchor-link" href="#97-论文翻译">#</a></summary>
+<a class="tree-file" href="97.论文翻译/00_律法与福音在教会增长运动中">00_律法与福音在教会增长运动中</a>
 <a class="tree-file" href="97.论文翻译/二十一世纪的聚会：探索虚拟信认型路德宗会众的可能性_Schlomer_2022">二十一世纪的聚会：探索虚拟信认型路德宗会众的可能性_Schlomer_2022</a>
+<a class="tree-file" href="97.论文翻译/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
 <a class="tree-file" href="97.论文翻译/关怀被关怀者：信义宗牧师与心理健康专业人员的职责">关怀被关怀者：信义宗牧师与心理健康专业人员的职责</a>
 <a class="tree-file" href="97.论文翻译/基督复活的能力">基督复活的能力</a>
 <a class="tree-file" href="97.论文翻译/威斯康星路德神学院的灵性成长">威斯康星路德神学院的灵性成长</a>
@@ -1409,6 +1411,8 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-五旬节运动与灵恩运动-chapters">
 <summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-五旬节运动与灵恩运动-chapters">#</a></summary>
 <a class="tree-file" href="102. 阅读/五旬节运动与灵恩运动/chapters/00_五旬节运动与灵恩运动">00_五旬节运动与灵恩运动</a>
+<a class="tree-file" href="102. 阅读/五旬节运动与灵恩运动/chapters/01_灵恩运动_Becker_1974">01_灵恩运动_Becker_1974</a>
+<a class="tree-file" href="102. 阅读/五旬节运动与灵恩运动/chapters/02_灵恩运动_Warnke_1973">02_灵恩运动_Warnke_1973</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-以小教义祷告">
@@ -1640,13 +1644,6 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/24_第二十四课_基督的谦卑">24_第二十四课_基督的谦卑</a>
 <a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/25_第二十五课_持守到底">25_第二十五课_持守到底</a>
 <a class="tree-file" href="102. 阅读/我们所信的谎言/chapters/26_附注与推荐阅读">26_附注与推荐阅读</a>
-</details>
-</details>
-<details class="tree-folder" id="102-阅读-教会增长运动中的律法与福音">
-<summary class="tree-dir">教会增长运动中的律法与福音<a class="anchor-link" href="#102-阅读-教会增长运动中的律法与福音">#</a></summary>
-<details class="tree-folder" id="102-阅读-教会增长运动中的律法与福音-chapters">
-<summary class="tree-dir">chapters<a class="anchor-link" href="#102-阅读-教会增长运动中的律法与福音-chapters">#</a></summary>
-<a class="tree-file" href="102. 阅读/教会增长运动中的律法与福音/chapters/00_律法与福音在教会增长运动中">00_律法与福音在教会增长运动中</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-日常礼仪">
