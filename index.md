@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1396 篇文章
+共 1399 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1241,10 +1241,13 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/35_十二月四日">35_十二月四日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/37_十二月六日_缪拉的尼古拉斯">37_十二月六日_缪拉的尼古拉斯</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/38_十二月七日">38_十二月七日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/39_十二月八日">39_十二月八日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/42_十二月十一日">42_十二月十一日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/43_十二月十二日">43_十二月十二日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/44_十二月十三日_路济亚殉道者">44_十二月十三日_路济亚殉道者</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/48_十二月十七日_但以理先知与三位青年">48_十二月十七日_但以理先知与三位青年</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/49_十二月十八日">49_十二月十八日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/50_十二月十九日">50_十二月十九日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/55_十二月二十四日_圣诞前夕">55_十二月二十四日_圣诞前夕</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/56_十二月二十五日_圣诞节">56_十二月二十五日_圣诞节</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/57_十二月二十六日_圣司提反殉道者">57_十二月二十六日_圣司提反殉道者</a>
