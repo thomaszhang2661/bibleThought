@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1659 篇文章
+共 1660 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -263,6 +263,7 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/教义学与虔敬——格哈德圣洁沉思录导论_Brug">教义学与虔敬——格哈德圣洁沉思录导论_Brug</a>
 <a class="tree-file" href="97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活">灵性能量管理_避免牧养倦怠_建立健康灵修生活</a>
 <a class="tree-file" href="97.论文翻译/牧师最迫切的五个需要_Koehneke_2019">牧师最迫切的五个需要_Koehneke_2019</a>
+<a class="tree-file" href="97.论文翻译/神学作为实践性神赐习性_埃戈尔德_1962">神学作为实践性神赐习性_埃戈尔德_1962</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <details class="tree-folder" id="97-论文翻译-01-重拾路德宗灵修传统">
 <summary class="tree-dir">01_重拾路德宗灵修传统<a class="anchor-link" href="#97-论文翻译-01-重拾路德宗灵修传统">#</a></summary>
