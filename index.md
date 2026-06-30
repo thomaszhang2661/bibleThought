@@ -1721,12 +1721,12 @@ body_class: index-page
 <summary class="tree-dir">05_隐藏的圣洁<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008-05-隐藏的圣洁">#</a></summary>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/01_圣洁之路（章标题与引言）">01_圣洁之路（章标题与引言）</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/02_启程出发">02_启程出发</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/03_悦神的奉献">03_悦神的奉献</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/03_立于圣地">03_立于圣地</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/04_圣洁的款待">04_圣洁的款待</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/05_我们的圣召">05_我们的圣召</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/06_圣洁的灵修">06_圣洁的灵修</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/07_看不见的光环">07_看不见的光环</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/04_悦神的奉献">04_悦神的奉献</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/05_圣洁的款待">05_圣洁的款待</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/06_我们的圣召">06_我们的圣召</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/07_圣洁的灵修">07_圣洁的灵修</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/08_看不见的光环">08_看不见的光环</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-07-圣洁沉思录-格哈德-1606">
