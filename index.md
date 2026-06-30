@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1660 篇文章
+共 1664 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -263,6 +263,7 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/教义学与虔敬——格哈德圣洁沉思录导论_Brug">教义学与虔敬——格哈德圣洁沉思录导论_Brug</a>
 <a class="tree-file" href="97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活">灵性能量管理_避免牧养倦怠_建立健康灵修生活</a>
 <a class="tree-file" href="97.论文翻译/牧师最迫切的五个需要_Koehneke_2019">牧师最迫切的五个需要_Koehneke_2019</a>
+<a class="tree-file" href="97.论文翻译/神学何以为习性_弗吕格_CTQ2025">神学何以为习性_弗吕格_CTQ2025</a>
 <a class="tree-file" href="97.论文翻译/神学作为实践性神赐习性_埃戈尔德_1962">神学作为实践性神赐习性_埃戈尔德_1962</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <details class="tree-folder" id="97-论文翻译-01-重拾路德宗灵修传统">
@@ -286,6 +287,12 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/教会增长运动批判/寻找新宝藏之路的危险_Christie_2008">寻找新宝藏之路的危险_Christie_2008</a>
 <a class="tree-file" href="97.论文翻译/教会增长运动批判/教会增长运动及其对施恩具使用的影响_Cortright_1989">教会增长运动及其对施恩具使用的影响_Cortright_1989</a>
 <a class="tree-file" href="97.论文翻译/教会增长运动批判/福音是神赐给我们做祂工作的能力_Braun_2005">福音是神赐给我们做祂工作的能力_Braun_2005</a>
+</details>
+<details class="tree-folder" id="97-论文翻译-格哈德-神学概念化-Fluegge-2018">
+<summary class="tree-dir">格哈德_神学概念化_Fluegge_2018<a class="anchor-link" href="#97-论文翻译-格哈德-神学概念化-Fluegge-2018">#</a></summary>
+<a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/05_第四章_神学作为实践（下）">05_第四章_神学作为实践（下）</a>
+<a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/09_第六章_神学的实施（下）">09_第六章_神学的实施（下）</a>
+<a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/10_第七章_结论">10_第七章_结论</a>
 </details>
 <details class="tree-folder" id="97-论文翻译-灵恩运动">
 <summary class="tree-dir">灵恩运动<a class="anchor-link" href="#97-论文翻译-灵恩运动">#</a></summary>
