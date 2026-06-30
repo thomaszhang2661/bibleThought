@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1742 篇文章
+共 1752 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -290,6 +290,7 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="97-论文翻译-格哈德-神学概念化-Fluegge-2018">
 <summary class="tree-dir">格哈德_神学概念化_Fluegge_2018<a class="anchor-link" href="#97-论文翻译-格哈德-神学概念化-Fluegge-2018">#</a></summary>
+<a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/03_第三章_神学作为神赐习性">03_第三章_神学作为神赐习性</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/05_第四章_神学作为实践（下）">05_第四章_神学作为实践（下）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/06_第五章_界定神学（上）">06_第五章_界定神学（上）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/07_第五章_界定神学（下）">07_第五章_界定神学（下）</a>
@@ -1537,17 +1538,25 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E07_四旬一周五">E07_四旬一周五</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E08_四旬一周六">E08_四旬一周六</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E09_四旬期第二主日">E09_四旬期第二主日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E10_四旬二周一">E10_四旬二周一</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E11_四旬二周二">E11_四旬二周二</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E12_四旬二周三">E12_四旬二周三</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E13_四旬二周四">E13_四旬二周四</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E14_四旬二周五">E14_四旬二周五</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E15_四旬二周六">E15_四旬二周六</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E16_四旬期第三主日">E16_四旬期第三主日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E17_四旬三周一">E17_四旬三周一</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E18_四旬三周二">E18_四旬三周二</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E19_四旬三周三">E19_四旬三周三</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E20_四旬三周四">E20_四旬三周四</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E21_四旬三周五">E21_四旬三周五</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E22_四旬三周六">E22_四旬三周六</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E23_四旬期第四主日">E23_四旬期第四主日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E24_四旬四周一">E24_四旬四周一</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E25_四旬四周二">E25_四旬四周二</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E26_四旬四周三">E26_四旬四周三</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E27_四旬四周四">E27_四旬四周四</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E28_四旬四周五">E28_四旬四周五</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E29_四旬期第五主日">E29_四旬期第五主日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E32_四旬五周四">E32_四旬五周四</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E33_四旬五周五">E33_四旬五周五</a>
@@ -1559,6 +1568,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E39_圣洗足星期四">E39_圣洗足星期四</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E40_受难节">E40_受难节</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E41_圣安息日">E41_圣安息日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E42_复活节主日">E42_复活节主日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E43_复活节第二主日">E43_复活节第二主日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E44_复活二周一">E44_复活二周一</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E45_复活二周二">E45_复活二周二</a>
