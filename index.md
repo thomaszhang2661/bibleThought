@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1682 篇文章
+共 1721 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1214,6 +1214,8 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-05-日课祷告宝库-Kinnaman-2008">
 <summary class="tree-dir">05_日课祷告宝库_Kinnaman_2008<a class="anchor-link" href="#102-阅读-05-日课祷告宝库-Kinnaman-2008">#</a></summary>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/00_前言与导言">00_前言与导言</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/00b_导言与使用说明">00b_导言与使用说明</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/00c_教会年历与礼仪日历">00c_教会年历与礼仪日历</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/0101_一月一日_主名日暨割礼">0101_一月一日_主名日暨割礼</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/0102_一月二日">0102_一月二日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/0103_一月三日">0103_一月三日</a>
@@ -1527,11 +1529,27 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/1231_十二月三十一日">1231_十二月三十一日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E01_圣灰星期三">E01_圣灰星期三</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E02_圣灰后周四">E02_圣灰后周四</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E03_圣灰后周五">E03_圣灰后周五</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E04_四旬期第一主日">E04_四旬期第一主日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E05_四旬一周二">E05_四旬一周二</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E06_四旬一周三">E06_四旬一周三</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E07_四旬一周五">E07_四旬一周五</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E08_四旬一周六">E08_四旬一周六</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E11_四旬二周二">E11_四旬二周二</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E12_四旬二周三">E12_四旬二周三</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E16_四旬期第三主日">E16_四旬期第三主日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E17_四旬三周一">E17_四旬三周一</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E20_四旬三周四">E20_四旬三周四</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E21_四旬三周五">E21_四旬三周五</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E24_四旬四周一">E24_四旬四周一</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E29_四旬期第五主日">E29_四旬期第五主日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E32_四旬五周四">E32_四旬五周四</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E33_四旬五周五">E33_四旬五周五</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E34_四旬五周六">E34_四旬五周六</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E36_圣周一">E36_圣周一</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E37_圣周二">E37_圣周二</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E39_圣洗足星期四">E39_圣洗足星期四</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E40_受难节">E40_受难节</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E44_复活二周一">E44_复活二周一</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E45_复活二周二">E45_复活二周二</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E46_复活二周四">E46_复活二周四</a>
@@ -1540,8 +1558,29 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E49_复活节第三主日">E49_复活节第三主日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E50_复活三周一">E50_复活三周一</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E51_复活三周三">E51_复活三周三</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E52_复活三周四">E52_复活三周四</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E53_复活三周五">E53_复活三周五</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E54_复活三周六">E54_复活三周六</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E55_复活节第四主日">E55_复活节第四主日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E56_复活四周二">E56_复活四周二</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E58_复活四周四">E58_复活四周四</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E59_复活四周五">E59_复活四周五</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E60_复活四周六">E60_复活四周六</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E61_复活节第五主日">E61_复活节第五主日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E62_复活五周一">E62_复活五周一</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E64_复活五周三">E64_复活五周三</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E65_复活五周四">E65_复活五周四</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E68_复活节第六主日">E68_复活节第六主日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E69_复活六周一">E69_复活六周一</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E71_复活六周三">E71_复活六周三</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E72_升天节">E72_升天节</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E74_复活六周六">E74_复活六周六</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E75_复活节第七主日">E75_复活节第七主日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E77_复活七周二">E77_复活七周二</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E78_复活七周三">E78_复活七周三</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E80_复活七周五">E80_复活七周五</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E81_复活七周六">E81_复活七周六</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E83_圣灵降临后周一">E83_圣灵降临后周一</a>
 </details>
 <details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008">
 <summary class="tree-dir">06_恩典叠恩典_Kleinig_2008<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008">#</a></summary>
