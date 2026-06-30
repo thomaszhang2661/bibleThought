@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1755 篇文章
+共 1758 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -256,16 +256,19 @@ body_class: index-page
 <details class="tree-folder" id="97-论文翻译">
 <summary class="tree-dir">97.论文翻译<a class="anchor-link" href="#97-论文翻译">#</a></summary>
 <a class="tree-file" href="97.论文翻译/00_律法与福音在教会增长运动中">00_律法与福音在教会增长运动中</a>
+<a class="tree-file" href="97.论文翻译/两位牧养教育者_葛拉赫_2004">两位牧养教育者_葛拉赫_2004</a>
 <a class="tree-file" href="97.论文翻译/二十一世纪的聚会：探索虚拟信认型路德宗会众的可能性_Schlomer_2022">二十一世纪的聚会：探索虚拟信认型路德宗会众的可能性_Schlomer_2022</a>
 <a class="tree-file" href="97.论文翻译/关怀被关怀者：信义宗牧师与心理健康专业人员的职责">关怀被关怀者：信义宗牧师与心理健康专业人员的职责</a>
 <a class="tree-file" href="97.论文翻译/基督复活的能力">基督复活的能力</a>
 <a class="tree-file" href="97.论文翻译/威斯康星路德神学院的灵性成长">威斯康星路德神学院的灵性成长</a>
+<a class="tree-file" href="97.论文翻译/我信我奇妙可畏地被造_沙尔夫_2021">我信我奇妙可畏地被造_沙尔夫_2021</a>
 <a class="tree-file" href="97.论文翻译/教义学与虔敬——格哈德圣洁沉思录导论_Brug">教义学与虔敬——格哈德圣洁沉思录导论_Brug</a>
 <a class="tree-file" href="97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活">灵性能量管理_避免牧养倦怠_建立健康灵修生活</a>
 <a class="tree-file" href="97.论文翻译/牧师最迫切的五个需要_Koehneke_2019">牧师最迫切的五个需要_Koehneke_2019</a>
 <a class="tree-file" href="97.论文翻译/神学何以为习性_弗吕格_CTQ2025">神学何以为习性_弗吕格_CTQ2025</a>
 <a class="tree-file" href="97.论文翻译/神学作为实践性神赐习性_埃戈尔德_1962">神学作为实践性神赐习性_埃戈尔德_1962</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
+<a class="tree-file" href="97.论文翻译/认知与情感目标的教学_葛拉赫">认知与情感目标的教学_葛拉赫</a>
 <details class="tree-folder" id="97-论文翻译-01-重拾路德宗灵修传统">
 <summary class="tree-dir">01_重拾路德宗灵修传统<a class="anchor-link" href="#97-论文翻译-01-重拾路德宗灵修传统">#</a></summary>
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/01_重拾路德宗灵修传统_第一部分_从好消息汲取灵修生活的力量">01_重拾路德宗灵修传统_第一部分_从好消息汲取灵修生活的力量</a>
