@@ -9066,22 +9066,38 @@
     "title": "E21_四旬三周五",
     "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E20_四旬三周四",
     "prev_title": "E20_四旬三周四",
+    "next_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E22_四旬三周六",
+    "next_title": "E22_四旬三周六"
+  },
+  {
+    "path": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E22_四旬三周六.md",
+    "title": "E22_四旬三周六",
+    "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E21_四旬三周五",
+    "prev_title": "E21_四旬三周五",
     "next_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E24_四旬四周一",
     "next_title": "E24_四旬四周一"
   },
   {
     "path": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E24_四旬四周一.md",
     "title": "E24_四旬四周一",
-    "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E21_四旬三周五",
-    "prev_title": "E21_四旬三周五",
+    "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E22_四旬三周六",
+    "prev_title": "E22_四旬三周六",
+    "next_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E25_四旬四周二",
+    "next_title": "E25_四旬四周二"
+  },
+  {
+    "path": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E25_四旬四周二.md",
+    "title": "E25_四旬四周二",
+    "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E24_四旬四周一",
+    "prev_title": "E24_四旬四周一",
     "next_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E29_四旬期第五主日",
     "next_title": "E29_四旬期第五主日"
   },
   {
     "path": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E29_四旬期第五主日.md",
     "title": "E29_四旬期第五主日",
-    "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E24_四旬四周一",
-    "prev_title": "E24_四旬四周一",
+    "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E25_四旬四周二",
+    "prev_title": "E25_四旬四周二",
     "next_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E32_四旬五周四",
     "next_title": "E32_四旬五周四"
   },
@@ -9146,14 +9162,22 @@
     "title": "E40_受难节",
     "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E39_圣洗足星期四",
     "prev_title": "E39_圣洗足星期四",
+    "next_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E41_圣安息日",
+    "next_title": "E41_圣安息日"
+  },
+  {
+    "path": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E41_圣安息日.md",
+    "title": "E41_圣安息日",
+    "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E40_受难节",
+    "prev_title": "E40_受难节",
     "next_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E44_复活二周一",
     "next_title": "E44_复活二周一"
   },
   {
     "path": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E44_复活二周一.md",
     "title": "E44_复活二周一",
-    "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E40_受难节",
-    "prev_title": "E40_受难节",
+    "prev_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E41_圣安息日",
+    "prev_title": "E41_圣安息日",
     "next_url": "102. 阅读/05_日课祷告宝库_Kinnaman_2008/E45_复活二周二",
     "next_title": "E45_复活二周二"
   },

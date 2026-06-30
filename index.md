@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1734 篇文章
+共 1737 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1545,7 +1545,9 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E18_四旬三周二">E18_四旬三周二</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E20_四旬三周四">E20_四旬三周四</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E21_四旬三周五">E21_四旬三周五</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E22_四旬三周六">E22_四旬三周六</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E24_四旬四周一">E24_四旬四周一</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E25_四旬四周二">E25_四旬四周二</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E29_四旬期第五主日">E29_四旬期第五主日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E32_四旬五周四">E32_四旬五周四</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E33_四旬五周五">E33_四旬五周五</a>
@@ -1555,6 +1557,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E38_圣周三">E38_圣周三</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E39_圣洗足星期四">E39_圣洗足星期四</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E40_受难节">E40_受难节</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E41_圣安息日">E41_圣安息日</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E44_复活二周一">E44_复活二周一</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E45_复活二周二">E45_复活二周二</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E46_复活二周四">E46_复活二周四</a>
