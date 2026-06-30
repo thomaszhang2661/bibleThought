@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1752 篇文章
+共 1755 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1558,6 +1558,8 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E27_四旬四周四">E27_四旬四周四</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E28_四旬四周五">E28_四旬四周五</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E29_四旬期第五主日">E29_四旬期第五主日</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E30_四旬五周一">E30_四旬五周一</a>
+<a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E31_四旬五周三">E31_四旬五周三</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E32_四旬五周四">E32_四旬五周四</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E33_四旬五周五">E33_四旬五周五</a>
 <a class="tree-file" href="102. 阅读/05_日课祷告宝库_Kinnaman_2008/E34_四旬五周六">E34_四旬五周六</a>
@@ -1720,6 +1722,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/01_圣洁之路（章标题与引言）">01_圣洁之路（章标题与引言）</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/02_启程出发">02_启程出发</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/03_悦神的奉献">03_悦神的奉献</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/03_立于圣地">03_立于圣地</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/04_圣洁的款待">04_圣洁的款待</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/05_我们的圣召">05_我们的圣召</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/05_隐藏的圣洁/06_圣洁的灵修">06_圣洁的灵修</a>
