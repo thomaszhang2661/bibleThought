@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1758 篇文章
+共 1760 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -297,6 +297,7 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/05_第四章_神学作为实践（下）">05_第四章_神学作为实践（下）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/06_第五章_界定神学（上）">06_第五章_界定神学（上）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/07_第五章_界定神学（下）">07_第五章_界定神学（下）</a>
+<a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/08_第六章_神学的实施（上）">08_第六章_神学的实施（上）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/09_第六章_神学的实施（下）">09_第六章_神学的实施（下）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/10_第七章_结论">10_第七章_结论</a>
 </details>
@@ -1672,12 +1673,13 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/14_领受话语">14_领受话语</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/15_每日专注">15_每日专注</a>
 <a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/16_每日觉醒">16_每日觉醒</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/17_在黑暗中看见">17_在黑暗中看见</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/18_从诗篇学习">18_从诗篇学习</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/19_忠实的想象力">19_忠实的想象力</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/20_默想手册">20_默想手册</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/21_单纯临在">21_单纯临在</a>
-<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/22_每日领受">22_每日领受</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/17_张开耳目">17_张开耳目</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/18_在黑暗中看见">18_在黑暗中看见</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/19_从诗篇学习">19_从诗篇学习</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/20_忠实的想象力">20_忠实的想象力</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/21_默想手册">21_默想手册</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/22_单纯临在">22_单纯临在</a>
+<a class="tree-file" href="102. 阅读/06_恩典叠恩典_Kleinig_2008/02_默想的奥秘/23_每日领受">23_每日领受</a>
 </details>
 <details class="tree-folder" id="102-阅读-06-恩典叠恩典-Kleinig-2008-03-祷告的奥秘">
 <summary class="tree-dir">03_祷告的奥秘<a class="anchor-link" href="#102-阅读-06-恩典叠恩典-Kleinig-2008-03-祷告的奥秘">#</a></summary>
