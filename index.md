@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1760 篇文章
+共 1764 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -293,7 +293,11 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="97-论文翻译-格哈德-神学概念化-Fluegge-2018">
 <summary class="tree-dir">格哈德_神学概念化_Fluegge_2018<a class="anchor-link" href="#97-论文翻译-格哈德-神学概念化-Fluegge-2018">#</a></summary>
+<a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/00_序言与导论">00_序言与导论</a>
+<a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/01_第一章_改革宗历史语境中的习性概念">01_第一章_改革宗历史语境中的习性概念</a>
+<a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/02_第二章_格哈德对习性概念的运用">02_第二章_格哈德对习性概念的运用</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/03_第三章_神学作为神赐习性">03_第三章_神学作为神赐习性</a>
+<a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/04_第四章_神学作为实践（上）">04_第四章_神学作为实践（上）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/05_第四章_神学作为实践（下）">05_第四章_神学作为实践（下）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/06_第五章_界定神学（上）">06_第五章_界定神学（上）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/07_第五章_界定神学（下）">07_第五章_界定神学（下）</a>
