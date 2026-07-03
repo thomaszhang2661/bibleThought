@@ -6,8 +6,11 @@ description: >
   【立即触发】以下任意情形均须调用本 skill：
   - 用户说"翻译这篇/这本"、"帮我翻译"、"translate this"
   - 用户提供文件路径（PDF/txt/md）+ 提到"翻译"
-  - 用户说"整理译稿"、"校对翻译"、"对照英文校对"
+  - 用户说"整理译稿"、"校对翻译"、"对照英文校对"、"proof reading"、"内容校对"
   - 用户要求将多章节英文书翻译为中文
+
+  【校对默认深度模式】凡"校对"任务，默认逐段比对中英文内容（意思准确性、
+  省略、逻辑颠倒、数字/引用/术语错误），而非只查格式。
 
   【不触发】用户只是要修改已有中文文章内容、补充论点、调整结构，而没有提到翻译。
 ---
@@ -19,8 +22,12 @@ Three modes depending on input:
 | Mode | Input | Main work |
 |------|-------|-----------|
 | **A: 翻译书籍** | 英文多章节书 | Parallel translation → per-chapter .md files |
-| **B: 整理译稿** | 中文 Word/PDF + 英文 PDF | Extract → split → proofread |
+| **B: 整理译稿** | 中文 Word/PDF + 英文 PDF | Extract → split → **深度校对**（逐段比对内容） |
 | **C: 翻译单篇** | 英文单篇论文/讲义/报告 | 按行数决定 subagent 数量，输出单个 .md 文件 |
+
+> **校对默认为「深度内容校对」**：逐段比对中英文意思，而非只查格式。
+> 格式校对（英文残片、断行、遗漏节标题）只是第一遍；意思准确性（曲解、
+> 省略、逻辑颠倒、数字/引用/术语错误）是必做的第二遍。见 Mode B Phase 3。
 
 ---
 
@@ -234,29 +241,40 @@ Markdown structure per file:
 
 File naming: `NN_第N章_简短标题.md` with two-digit prefix starting from `00`. **This is mandatory — files without numeric prefixes sort incorrectly in all file browsers.**
 
-### Phase 3: 并行校对（对照英文PDF）
+### Phase 3: 深度并行校对（对照英文PDF，默认）
 
-Group chapters into batches of 3–5 per agent. From the English PDF TOC, note the page range for each chapter.
+**默认为深度内容校对**：逐段比对意思，而非只检查格式。每组 **2 章**，确保校对深度。
 
-**Proofreading agent prompt template:**
+从英文 PDF 目录找出每章的行范围（用 `grep -n "^Chapter\|^Acts [0-9]" /tmp/book_en.txt`）。
+
+**深度校对 agent 提示模板（每组 2 章）：**
 ```
-You are proofreading a Chinese theological translation against its English original.
+深度内容校对任务：[书名] 第X章 + 第Y章
 
-Book: [English title] by [Author]
-Chapters assigned: Ch N–M
-Chinese files: [list file paths]
-English PDF: [PDF path] (pages X–Y)
+英文原文：
+- 第X章：sed -n 'START,ENDp' /tmp/book_en.txt
+- 第Y章：sed -n 'START,ENDp' /tmp/book_en.txt
 
-For each chapter:
-1. Read the English PDF pages (max 20 pages per read — do multiple reads for long chapters)
-2. Read the Chinese .md file
-3. Compare and fix directly in the file:
-   a) Missing paragraphs or sections
-   b) Mistranslated key theological terms (see references/theology_terms.md)
-   c) Heading levels (H2 for main sections, H3 for sub-sections; never mark quotations as headings)
-   d) Garbled characters, typos, truncated sentences
-4. Report what you changed in each file
+中文文件：
+- [中文章节文件路径]
+
+这是深度内容校对，不是格式校对。对每一个中文评注段落，找到英文原文对应段落，逐句比对：
+
+1. **内容完整性**：英文段落中的每个关键论点，中文是否都有？有无整句被省略？
+2. **意思准确性**：中文是否如实传达英文意思？有无曲解、夸大、弱化、逻辑颠倒？
+3. **数字/年份/距离等细节**：所有具体数据必须与英文一致（"more than 40"不能译成"40"）
+4. **圣经引用的书卷和章节**：书名和章节号必须与英文一致，不能有偏移
+5. **专有名词**：人名地名术语必须准确（governor≠government，Barnabas=巴拿巴）
+6. **神学术语**：inspired/默示、grace/恩典、repentance/悔改、spirit/灵（注意是否是圣灵）
+
+操作：用 Edit 工具直接修改文件中的错误。
+报告：只列实质内容错误（不报格式问题），说明英文原意和错误类型。
 ```
+
+**批次大小建议**：
+- 正常章节（< 300 EN 行）：每组 2 章
+- 大章节（> 400 EN 行）：单章一个 agent
+- 目标：每个 agent 覆盖不超过 600 行英文，保证逐段覆盖
 
 ---
 
@@ -273,10 +291,23 @@ git push
 ## Quality principles
 
 1. **No omissions** — every paragraph, footnote, and parenthetical must be present
-2. **Consistent terminology** — parallel agents can diverge; enforce with the terms list
-3. **Numeric file prefixes** — ensures correct sort order in file browsers and web views
-4. **Heading hierarchy** — H2 for main sections, H3 for sub-sections; never mark quotations as headings
-5. **Correct source attribution** — verify chapter content matches the right source pages/lines
+2. **深度校对是默认** — 整理/校对任务必做逐段内容比对，不能只查格式。格式干净 ≠ 翻译正确
+3. **Consistent terminology** — parallel agents can diverge; enforce with the terms list
+4. **Numeric file prefixes** — ensures correct sort order in file browsers and web views
+5. **Heading hierarchy** — H2 for main sections, H3 for sub-sections; never mark quotations as headings
+6. **Correct source attribution** — verify chapter content matches the right source pages/lines
+
+### 深度校对常见错误类型（实测高频）
+
+以下是从真实校对中反复出现的错误，agent 提示中应重点提示：
+
+- **意思颠倒/逻辑倒置**：`without seeming to deny` 译成"除非否认"；`no more competent than` 译成"没有能力"（丢失比较）；犹推古段落"正式教导"与"交谈"被对调
+- **整句/整段省略**：英文三句评注中文只译第一句；关键神学论点（如"唯独因信得救"）被跳过
+- **数字精度丢失**：`more than 40 years` → "40 年"；`about 15 years` → "十五年"（漏"约"）
+- **方向/地理错误**：`northwest` → "以北"；`east` → "西"；`off the coast`（海岸外）→ "海岸"
+- **专名/职衔误译**：`governor`（总督）→ "政府"；`Emperor`（皇帝）→ "王"；`a spirit`（一个灵）→ "圣灵"；`NIV` → "和合本"
+- **神学术语弱化**：`inspired text`（受默示）→ "启示性的"；`prophesied`（预言）→ "应许"；`the power of the gospel`（福音大能）漏"大能"
+- **圣经引用偏移**：`Luke 1:3` → "路加福音 1:1"；漏节号 `3:10, 11` → "3:11"
 
 ---
 
