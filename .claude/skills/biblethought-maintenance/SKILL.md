@@ -28,8 +28,10 @@ Local path: `/Users/zhangjian/Library/Mobile Documents/iCloud~md~obsidian/Docume
    - ❌ Double em dash `——` in filename → Jekyll encodes it into a broken URL, page 404s
    - ✅ Use single `—` or `-` instead: `5. 被倒出去的酒—苦难与奠祭.md`
    - ❌ `§` in filename (see Pieper conventions)
+   - ❌ Half-width colon `:` in filename (e.g. verse refs like `出1:1`) → Jekyll/Addressable treats the text before it as a URI scheme and throws `Invalid scheme format`, failing the **entire site build**, not just that page
+   - ✅ Use fullwidth `：` instead: `01_以色列人受压迫（出1：1–2：25）.md`
    - If the article title uses `——`, the **filename must use `—`** (single). The `# Title` inside the file can keep `——` for display.
-   - **The pre-commit hook enforces this automatically** — commits with `——` in filenames are blocked with an error message.
+   - **The pre-commit hook enforces this automatically** — commits with `——`, `:`, or other bad characters in filenames are blocked with an error message.
 
 3. **Check line 1** — the most common build-breaker:
    - ✅ Starts with `# Heading` (no front matter)
