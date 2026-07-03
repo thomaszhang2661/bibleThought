@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1764 篇文章
+共 1800 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -253,6 +253,50 @@ body_class: index-page
 <a class="tree-file" href="59. 雅各书/雅1">雅1</a>
 </details>
 
+<details class="tree-folder" id="96-大众圣经读本">
+<summary class="tree-dir">96.大众圣经读本<a class="anchor-link" href="#96-大众圣经读本">#</a></summary>
+<details class="tree-folder" id="96-大众圣经读本-1-创世记">
+<summary class="tree-dir">1.创世记<a class="anchor-link" href="#96-大众圣经读本-1-创世记">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/1.创世记/00_编者序言与前言">00_编者序言与前言</a>
+<a class="tree-file" href="96.大众圣经读本/1.创世记/01_世界的创始（创1：1-2：3）">01_世界的创始（创1：1-2：3）</a>
+<a class="tree-file" href="96.大众圣经读本/1.创世记/03_报告二：亚当的家谱（创5：1-6：8）">03_报告二：亚当的家谱（创5：1-6：8）</a>
+<a class="tree-file" href="96.大众圣经读本/1.创世记/04_报告三：挪亚（创6：9-9：29）">04_报告三：挪亚（创6：9-9：29）</a>
+<a class="tree-file" href="96.大众圣经读本/1.创世记/08_报告七：以实玛利（创25：12-18）">08_报告七：以实玛利（创25：12-18）</a>
+</details>
+<details class="tree-folder" id="96-大众圣经读本-使徒行传">
+<summary class="tree-dir">使徒行传<a class="anchor-link" href="#96-大众圣经读本-使徒行传">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/00_前言">00_前言</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/01_第一章">01_第一章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/02_第二章">02_第二章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/03_第三章">03_第三章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/04_第四章">04_第四章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/05_第五章">05_第五章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/06_第六章">06_第六章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/07_第七章">07_第七章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/08_第八章">08_第八章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/09_第九章">09_第九章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/10_第十章">10_第十章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/11_第十一章">11_第十一章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/12_第十二章">12_第十二章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/13_第十三章">13_第十三章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/14_第十四章">14_第十四章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/15_第十五章">15_第十五章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/16_第十六章">16_第十六章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/17_第十七章">17_第十七章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/18_第十八章">18_第十八章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/19_第十九章">19_第十九章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/20_第二十章">20_第二十章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/21_第二十一章">21_第二十一章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/22_第二十二章">22_第二十二章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/23_第二十三章">23_第二十三章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/24_第二十四章">24_第二十四章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/25_第二十五章">25_第二十五章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/26_第二十六章">26_第二十六章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/27_第二十七章">27_第二十七章</a>
+<a class="tree-file" href="96.大众圣经读本/使徒行传/28_第二十八章">28_第二十八章</a>
+</details>
+</details>
+
 <details class="tree-folder" id="97-论文翻译">
 <summary class="tree-dir">97.论文翻译<a class="anchor-link" href="#97-论文翻译">#</a></summary>
 <a class="tree-file" href="97.论文翻译/00_律法与福音在教会增长运动中">00_律法与福音在教会增长运动中</a>
@@ -339,6 +383,7 @@ body_class: index-page
 <details class="tree-folder" id="98-讲道框架">
 <summary class="tree-dir">98. 讲道框架<a class="anchor-link" href="#98-讲道框架">#</a></summary>
 <a class="tree-file" href="98. 讲道框架/慈爱（hesed），而不是祭祀">慈爱（hesed），而不是祭祀</a>
+<a class="tree-file" href="98. 讲道框架/轻省的轭—五旬节后第六主日">轻省的轭—五旬节后第六主日</a>
 <a class="tree-file" href="98. 讲道框架/骨中的火-当生活变得混乱时，不要惧怕">骨中的火-当生活变得混乱时，不要惧怕</a>
 </details>
 
@@ -2349,6 +2394,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/耶稣是谁？">耶稣是谁？</a>
 <a class="tree-file" href="302.公众号洗稿/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <a class="tree-file" href="302.公众号洗稿/路德宗政治抵抗理论-马德堡认信与下级执政官教义">路德宗政治抵抗理论-马德堡认信与下级执政官教义</a>
+<a class="tree-file" href="302.公众号洗稿/轻省的轭—五旬节后第六主日">轻省的轭—五旬节后第六主日</a>
 <a class="tree-file" href="302.公众号洗稿/重拾以基督为中心的路德宗灵修传统">重拾以基督为中心的路德宗灵修传统</a>
 <a class="tree-file" href="302.公众号洗稿/马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春">马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春</a>
 <details class="tree-folder" id="302-公众号洗稿-01-重拾路德宗灵修传统">
