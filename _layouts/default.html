@@ -67,7 +67,7 @@
         var p = el.parentElement;
         while (p) { if (p.tagName === 'DETAILS') p.open = true; p = p.parentElement; }
         // Also open direct child <details> (one level deep)
-        //el.querySelectorAll(':scope > details').forEach(function(child) { child.open = true; });
+        el.querySelectorAll(':scope > details').forEach(function(child) { child.open = true; });
       }
       requestAnimationFrame(function() {
         requestAnimationFrame(function() {
