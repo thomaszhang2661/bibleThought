@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1825 篇文章
+共 1826 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -411,6 +411,7 @@ body_class: index-page
 <details class="tree-folder" id="98-讲道框架">
 <summary class="tree-dir">98. 讲道框架<a class="anchor-link" href="#98-讲道框架">#</a></summary>
 <a class="tree-file" href="98. 讲道框架/慈爱（hesed），而不是祭祀">慈爱（hesed），而不是祭祀</a>
+<a class="tree-file" href="98. 讲道框架/轻省的担子—重看《指环王》的一点随想">轻省的担子—重看《指环王》的一点随想</a>
 <a class="tree-file" href="98. 讲道框架/轻省的轭—五旬节后第六主日">轻省的轭—五旬节后第六主日</a>
 <a class="tree-file" href="98. 讲道框架/骨中的火-当生活变得混乱时，不要惧怕">骨中的火-当生活变得混乱时，不要惧怕</a>
 </details>
