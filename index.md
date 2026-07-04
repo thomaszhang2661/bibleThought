@@ -1869,19 +1869,6 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/07_圣洁沉思录_格哈德_1606/52_L_论地狱中的永恒刑罚">52_L_论地狱中的永恒刑罚</a>
 <a class="tree-file" href="102. 阅读/07_圣洁沉思录_格哈德_1606/53_LI_论虔诚者的灵性复活">53_LI_论虔诚者的灵性复活</a>
 </details>
-<details class="tree-folder" id="102-阅读-07-巨婴国-武志红">
-<summary class="tree-dir">07_巨婴国_武志红<a class="anchor-link" href="#102-阅读-07-巨婴国-武志红">#</a></summary>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/00_推荐序">00_推荐序</a>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/01_自序">01_自序</a>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/02_第一章_我们集体停留在婴儿期">02_第一章_我们集体停留在婴儿期</a>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/03_第二章_巨婴心理共生">03_第二章_巨婴心理共生</a>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/04_第三章_中国式好人">04_第三章_中国式好人</a>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/05_第四章_全能自恋的龙">05_第四章_全能自恋的龙</a>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/06_第五章_孝就是顺">06_第五章_孝就是顺</a>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/07_第六章_无回应即绝境">07_第六章_无回应即绝境</a>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/08_第七章_从龙成为人">08_第七章_从龙成为人</a>
-<a class="tree-file" href="102. 阅读/07_巨婴国_武志红/09_后记">09_后记</a>
-</details>
 <details class="tree-folder" id="102-阅读-7个关键技能">
 <summary class="tree-dir">7个关键技能<a class="anchor-link" href="#102-阅读-7个关键技能">#</a></summary>
 <details class="tree-folder" id="102-阅读-7个关键技能-chapters">
@@ -1919,6 +1906,19 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/08_过犹不及/17_第三部分_发展健全的界线">17_第三部分_发展健全的界线</a>
 <a class="tree-file" href="102. 阅读/08_过犹不及/18_第十五章_如何评估界线的发展">18_第十五章_如何评估界线的发展</a>
 <a class="tree-file" href="102. 阅读/08_过犹不及/19_第十六章_一日有界线的生活">19_第十六章_一日有界线的生活</a>
+</details>
+<details class="tree-folder" id="102-阅读-09-巨婴国-武志红">
+<summary class="tree-dir">09_巨婴国_武志红<a class="anchor-link" href="#102-阅读-09-巨婴国-武志红">#</a></summary>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/00_推荐序">00_推荐序</a>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/01_自序">01_自序</a>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/02_第一章_我们集体停留在婴儿期">02_第一章_我们集体停留在婴儿期</a>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/03_第二章_巨婴心理共生">03_第二章_巨婴心理共生</a>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/04_第三章_中国式好人">04_第三章_中国式好人</a>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/05_第四章_全能自恋的龙">05_第四章_全能自恋的龙</a>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/06_第五章_孝就是顺">06_第五章_孝就是顺</a>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/07_第六章_无回应即绝境">07_第六章_无回应即绝境</a>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/08_第七章_从龙成为人">08_第七章_从龙成为人</a>
+<a class="tree-file" href="102. 阅读/09_巨婴国_武志红/09_后记">09_后记</a>
 </details>
 <details class="tree-folder" id="102-阅读-365-Through-Faith-Alone">
 <summary class="tree-dir">365 Through Faith Alone<a class="anchor-link" href="#102-阅读-365-Through-Faith-Alone">#</a></summary>
