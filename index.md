@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1856 篇文章
+共 1857 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -949,6 +949,10 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="101-教义-十诫">
 <summary class="tree-dir">十诫<a class="anchor-link" href="#101-教义-十诫">#</a></summary>
+<details class="tree-folder" id="101-教义-十诫-02-第二诫">
+<summary class="tree-dir">02-第二诫<a class="anchor-link" href="#101-教义-十诫-02-第二诫">#</a></summary>
+<a class="tree-file" href="101. 教义/十诫/02-第二诫/郑牧师">郑牧师</a>
+</details>
 <details class="tree-folder" id="101-教义-十诫-03-第三诫命">
 <summary class="tree-dir">03-第三诫命<a class="anchor-link" href="#101-教义-十诫-03-第三诫命">#</a></summary>
 <a class="tree-file" href="101. 教义/十诫/03-第三诫命/关于集权政府的问题">关于集权政府的问题</a>
