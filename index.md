@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1857 篇文章
+共 1861 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -447,15 +447,17 @@ body_class: index-page
 <a class="tree-file" href="99. 讲道/路加福音17_1-10 信心成就不可能的饶恕">路加福音17_1-10 信心成就不可能的饶恕</a>
 <a class="tree-file" href="99. 讲道/20260527三位一体主日">20260527三位一体主日</a>
 <details class="tree-folder" id="99-讲道-00-Bork牧师">
-<summary class="tree-dir">00.Bork牧师<a class="anchor-link" href="#99-讲道-00-Bork牧师">#</a></summary>
-<details class="tree-folder" id="99-讲道-00-Bork牧师-丰盛生命系列讲道">
-<summary class="tree-dir">丰盛生命系列讲道<a class="anchor-link" href="#99-讲道-00-Bork牧师-丰盛生命系列讲道">#</a></summary>
-<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/01_结出丰盛的果实_灵魂的园艺">01_结出丰盛的果实_灵魂的园艺</a>
-<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/02_结出爱的果子">02_结出爱的果子</a>
-<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/03_喜乐_查经">03_喜乐_查经</a>
-<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/03_喜乐人生">03_喜乐人生</a>
-<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/04_活出果子的生命-平安">04_活出果子的生命-平安</a>
-<a class="tree-file" href="99. 讲道/00.Bork牧师/丰盛生命系列讲道/04_活出果子的生命-平安_查经">04_活出果子的生命-平安_查经</a>
+<summary class="tree-dir">00_Bork牧师<a class="anchor-link" href="#99-讲道-00-Bork牧师">#</a></summary>
+<details class="tree-folder" id="99-讲道-00-Bork牧师-00-丰盛生命系列讲道">
+<summary class="tree-dir">00_丰盛生命系列讲道<a class="anchor-link" href="#99-讲道-00-Bork牧师-00-丰盛生命系列讲道">#</a></summary>
+<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/01_结出丰盛的果实_灵魂的园艺">01_结出丰盛的果实_灵魂的园艺</a>
+<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/02_结出爱的果子">02_结出爱的果子</a>
+<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/03_喜乐_查经">03_喜乐_查经</a>
+<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/03_喜乐人生">03_喜乐人生</a>
+<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/04_活出果子的生命-平安">04_活出果子的生命-平安</a>
+<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/04_活出果子的生命-平安_查经">04_活出果子的生命-平安_查经</a>
+<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/05_ Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience">05_ Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience</a>
+<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/05_结出忍耐的果子—神的忍耐与我们的忍耐**">05_结出忍耐的果子—神的忍耐与我们的忍耐**</a>
 </details>
 </details>
 <details class="tree-folder" id="99-讲道-罪就伏在我们门前">
@@ -1298,6 +1300,11 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/49_地狱的严酷刑罚">49_地狱的严酷刑罚</a>
 <a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/50_地狱中的永久刑罚">50_地狱中的永久刑罚</a>
 <a class="tree-file" href="102. 阅读/04_神圣沉思录_Gerhard/51_虔敬者的属灵复活">51_虔敬者的属灵复活</a>
+</details>
+<details class="tree-folder" id="102-阅读-05-daily-Treasure">
+<summary class="tree-dir">05_daily_Treasure<a class="anchor-link" href="#102-阅读-05-daily-Treasure">#</a></summary>
+<a class="tree-file" href="102. 阅读/05_daily_Treasure/01_Introduction">01_Introduction</a>
+<a class="tree-file" href="102. 阅读/05_daily_Treasure/02_The_Time_of_Easter">02_The_Time_of_Easter</a>
 </details>
 <details class="tree-folder" id="102-阅读-05-日课祷告宝库-Kinnaman-2008">
 <summary class="tree-dir">05_日课祷告宝库_Kinnaman_2008<a class="anchor-link" href="#102-阅读-05-日课祷告宝库-Kinnaman-2008">#</a></summary>
