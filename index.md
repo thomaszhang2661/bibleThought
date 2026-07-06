@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 1861 篇文章
+共 1862 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1305,6 +1305,7 @@ body_class: index-page
 <summary class="tree-dir">05_daily_Treasure<a class="anchor-link" href="#102-阅读-05-daily-Treasure">#</a></summary>
 <a class="tree-file" href="102. 阅读/05_daily_Treasure/01_Introduction">01_Introduction</a>
 <a class="tree-file" href="102. 阅读/05_daily_Treasure/02_The_Time_of_Easter">02_The_Time_of_Easter</a>
+<a class="tree-file" href="102. 阅读/05_daily_Treasure/02_Time_of_Easter">02_Time_of_Easter</a>
 </details>
 <details class="tree-folder" id="102-阅读-05-日课祷告宝库-Kinnaman-2008">
 <summary class="tree-dir">05_日课祷告宝库_Kinnaman_2008<a class="anchor-link" href="#102-阅读-05-日课祷告宝库-Kinnaman-2008">#</a></summary>
