@@ -1,0 +1,45 @@
+# Thursday — Easter 7
+
+## Psalmody
+
+14Turn again, O | God of hosts!* Look down from | heaven, and see; have regard for this vine, 15the stock that your right hand | planted,* and for the son whom you made strong | for yourself. 16They have burned it with fire; they have | cut it down;* may they perish at the rebuke | of your face! 17But let your hand be on the man of your | right hand,* the son of man whom you have made strong | for yourself! 18Then we shall not turn | back from you;* give us life, and we will call up- | on your name! 19Restore us, O LORD | God of hosts!* Let your face shine, that we | may be saved!—Psalm 80:14–19
+Additional Psalm: Psalm 91
+
+## Old Testament Reading: Numbers 16:41–17:13
+
+[Korah’s Rebellion]
+
+41But on the next day all the congregation of the people of Israel grumbled against Moses and against Aaron, saying, “You have killed the people of the LORD.” 42And when the congregation had assembled against Moses and against Aaron, they turned toward the tent of meeting. And behold, the cloud covered it, and the glory of the LORD appeared. 43And Moses and Aaron came to the front of the tent of meeting, 44and the LORD spoke to Moses, saying, 45“Get away from the midst of this congregation, that I may consume them in a moment.” And they fell on their faces. 46And Moses said to Aaron, “Take your censer, and put fire on it from off the altar and lay incense on it and carry it quickly to the congregation and make atonement for them, for wrath has gone out from the LORD; the plague has begun.” 47So Aaron took it as Moses said and ran into the midst of the assembly. And behold, the plague had already begun among the people. And he put on the incense and made atonement for the people. 48And he stood between the dead and the living, and the plague was stopped. 49Now those who died in the plague were 14,700, besides those who died in the affair of Korah. 50And Aaron returned to Moses at the entrance of the tent of meeting, when the plague was stopped.
+
+Aaron’s Staff Buds
+
+17:1The LORD spoke to Moses, saying, 2“Speak to the people of Israel, and get from them staffs, one for each fathers’ house, from all their chiefs according to their fathers’ houses, twelve staffs. Write each man’s name on his staff, 3and write Aaron’s name on the staff of Levi. For there shall be one staff for the head of each fathers’ house. 4Then you shall deposit them in the tent of meeting before the testimony, where I meet with you. 5And the staff of the man whom I choose shall sprout. Thus I will make to cease from me the grumblings of the people of Israel, which they grumble against you.” 6Moses spoke to the people of Israel. And all their chiefs gave him staffs, one for each chief, according to their fathers’ houses, twelve staffs. And the staff of Aaron was among their staffs. 7And Moses deposited the staffs before the LORD in the tent of the testimony. 8On the next day Moses went into the tent of the testimony, and behold, the staff of Aaron for the house of Levi had sprouted and put forth buds and produced blossoms, and it bore ripe almonds. 9Then Moses brought out all the staffs from before the LORD to all the people of Israel. And they looked, and each man took his staff. 10And the LORD said to Moses, “Put back the staff of Aaron before the testimony, to be kept as a sign for the rebels, that you may make an end of their grumblings against me, lest they die.” 11Thus did Moses; as the LORD commanded him, so he did. 12And the people of Israel said to Moses, “Behold, we perish, we are undone, we are all undone. 13Everyone who comes near, who comes near to the tabernacle of the LORD, shall die. Are we all to perish?” Additional Reading: Numbers 18:1–19:22
+
+## New Testament Reading: Luke 20:1–18
+
+The Authority of Jesus Challenged
+
+1One day, as Jesus was teaching the people in the temple and preaching the gospel, the chief priests and the scribes with the elders came up 2and said to him, “Tell us by what authority you do these things, or who it is that gave you this authority.” 3He answered them, “I also will ask you a question. Now tell me, 4was the baptism of John from heaven or from man?” 5And they discussed it with one another, saying, “If we say, ‘From heaven,’ he will say, ‘Why did you not believe him?’ 6But if we say, ‘From man,’ all the people will stone us to death, for they are convinced that John was a prophet.” 7So they answered that they did not know where it came from. 8And Jesus said to them, “Neither will I tell you by what authority I do these things.”
+
+The Parable of the Wicked Tenants
+
+9And he began to tell the people this parable: “A man planted a vineyard and let it out to tenants and went into another country for a long while.10When the time came, he sent a servant to the tenants, so that they would give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed.11And he sent another servant. But they also beat and treated him shamefully, and sent him away empty- handed.12And he sent yet a third. This one also they wounded and cast out.13Then the owner of the vineyard said, ‘What shall I do? I will send my beloved son; perhaps they will respect him.’ 14But when the tenants saw him, they said to themselves, ‘This is the heir. Let us kill him, so that the inheritance may be ours.’ 15And they threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them?16He will come and destroy those tenants and give the vineyard to others.” When they heard this, they said, “Surely not!” 17But he looked directly at them and said, “What then is this that is written: “‘The stone that the builders rejected has become the cornerstone’? 18Everyone who falls on that stone will be broken to pieces, and when it falls on anyone, it will crush him.”
+
+## Writing
+
+This ministry will endure and is not to be replaced by any other. But the incumbents of this ministry do not remain; they die. This necessitates an ever-new supply of preachers, which calls for the employment of certain means. The ministry, that is, the Word of God, Baptism, and Holy Communion, came directly from Christ; but later Christ departed from this earth. Now a new way of sending was instituted, which works through man but is not of man. We were sent according to this method; according to it, we elect and send others, and we install them in their ministry to preach and to administer the sacraments. This type of sending is also of God and commanded by God. Even though God resorts to our aid and to human agency, it is He Himself who sends laborers into His vineyard. Therefore everyone [who preaches] must realize that he has been sent. That is, he must know that he has been called; he dare not venture to sneak into the office furtively and without authorization. It must be done in the open. The sending is done through man, for example, when a city, a prince, or a congregation calls someone into office. But at the same time this person is sent by God.—Martin Luther
+
+## Hymnody
+
+Christ is made the sure foundation, Christ, our head and cornerstone,
+Chosen of the Lord and precious, Binding all the Church in one; Holy
+Zion’s help forever And our confidence alone.—Christ Is Made the Sure
+Foundation (LSB 909:1)
+
+## Prayer of the Day
+
+Lord Jesus, You are the stone that the builders rejected. But on the third day, You became the cornerstone. By Your Word and Spirit, open our hearts to receive You as the beloved Son sent from the Father so that we might always embrace suffering as the means by which we enter into Your glory; for You live and reign with the Father and the Holy Spirit, one God, now and forever. (1025)
+
+## Suggested Reading from the Book of Concord
+
+Solid Declaration of the Formula of Concord XI 38–44

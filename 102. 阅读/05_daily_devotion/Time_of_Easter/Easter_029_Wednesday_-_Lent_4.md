@@ -1,0 +1,50 @@
+# Wednesday — Lent 4
+
+## Psalmody
+
+1Vindicate me, O LORD, for I have walked in my in- | tegrity,* and I have trusted in the LORD without | wavering. 2Prove me, O LORD, and | try me;* test my heart | and my mind. 3For your steadfast love is be- | fore my eyes,* and I walk in your | faithfulness. 4I do not sit with men of | falsehood,* nor do I consort with | hypocrites. 5I hate the assembly of evil- | doers,* and I will not sit with the | wicked. 6I wash my hands in | innocence* and go around your altar, | O LORD, 7proclaiming thanksgiving | aloud,* and telling all your | wondrous deeds.
+—Psalm 26:1–7
+Additional Psalm: Psalm 16, Psalm 6
+
+## Old Testament Reading: Genesis 44:1–18, 32–34
+
+Joseph Tests His Brothers
+
+1Then he commanded the steward of his house, “Fill the men’s sacks with food, as much as they can carry, and put each man’s money in the mouth of his sack, 2and put my cup, the silver cup, in the mouth of the sack of the youngest, with his money for the grain.” And he did as Joseph told him. 3As soon as the morning was light, the men were sent away with their donkeys. 4They had gone only a short distance from the city. Now Joseph said to his steward, “Up, follow after the men, and when you overtake them, say to them, ‘Why have you repaid evil for good? 5Is it not from this that my lord drinks, and by this that he practices divination? You have done evil in doing this.’” 6When he overtook them, he spoke to them these words. 7They said to him, “Why does my lord speak such words as these? Far be it from your servants to do such a thing! 8Behold, the money that we found in the mouths of our sacks we brought back to you from the land of Canaan. How then could we steal silver or gold from your lord’s house? 9Whichever of your servants is found with it shall die, and we also will be my lord’s servants.” 10He said, “Let it be as you say: he who is found with it shall be my servant, and the rest of you shall be innocent.” 11Then each man quickly lowered his sack to the ground, and each man opened his sack. 12And he searched, beginning with the eldest and ending with the youngest. And the cup was found in Benjamin’s sack. 13Then they tore their clothes, and every man loaded his donkey, and they returned to the city. 14When Judah and his brothers came to Joseph’s house, he was still there. They fell before him to the ground. 15Joseph said to them, “What deed is this that you have done? Do you not know that a man like me can indeed practice divination?” 16And Judah said, “What shall we say to my lord? What shall we speak? Or how can we clear ourselves? God has found out the guilt of your servants; behold, we are my lord’s servants, both we and he also in whose hand the cup has been found.” 17But he said, “Far be it from me that I should do so! Only the man in whose hand the cup was found shall be my servant. But as for you, go up in peace to your father.” 18Then Judah went up to him and said, “Oh, my lord, please let your servant speak a word in my lord’s ears, and let not your anger burn against your servant, for you are like Pharaoh himself.… 32“For your servant became a pledge of safety for the boy to my father, saying, ‘If I do not bring him back to you, then I shall bear the blame before my father all my life.’ 33Now therefore, please let your servant remain instead of the boy as a servant to my lord, and let the boy go back with his brothers. 34For how can I go back to my father if the boy is not with me? I fear to see the evil that would find my father.”
+
+## New Testament Reading: Mark 12:28–44
+
+The Great Commandment
+
+28And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, “Which commandment is the most important of all?” 29Jesus answered, “The most important is, ‘Hear, O Israel: The Lord our God, the Lord is one. 30And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ 31The second is this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.” 32And the scribe said to him, “You are right, Teacher. You have truly said that he is one, and there is no other besides him. 33And to love him with all the heart and with all the understanding and with all the strength, and to love one’s neighbor as oneself, is much more than all whole burnt offerings and sacrifices.” 34And when Jesus saw that he answered wisely, he said to him, “You are not far from the kingdom of God.” And after that no one dared to ask him any more questions.
+
+Whose Son Is the Christ?
+
+35And as Jesus taught in the temple, he said, “How can the scribes say that the Christ is the son of David? 36David himself, in the Holy Spirit, declared, “‘The Lord said to my Lord, Sit at my right hand, until I put your enemies under your feet.’ 37David himself calls him Lord. So how is he his son?” And the great throng heard him gladly.
+
+Beware of the Scribes
+
+38And in his teaching he said, “Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces 39and have the best seats in the synagogues and the places of honor at feasts, 40who devour widows’ houses and for a pretense make long prayers. They will receive the greater condemnation.”
+
+The Widow’s Offering
+
+41And he sat down opposite the treasury and watched the people putting money into the offering box. Many rich people put in large sums. 42And a poor widow came and put in two small copper coins, which make a penny. 43And he called his disciples to him and said to them, “Truly, I say to you, this poor widow has put in more than all those who are contributing to the offering box. 44For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on.”
+
+## Writing
+
+Throughout the Prophets and the Psalms this worship (this latreia) is highly praised, even though the Law does not teach the free forgiveness of sins. The Old Testament Fathers knew the promise about Christ, that God for Christ’s sake wanted to forgive sins. They understood that Christ would be the price for our sins. They knew that our works are not a price for so great a matter. So they received free mercy and forgiveness of sins by faith, just as the saints in the New Testament. To this point belong those frequent repetitions about mercy and faith that appear in the Psalms and the Prophets. For example, Psalm 130:3 says, “If You, O LORD, should mark iniquities, O Lord, who could stand?” Here David confesses his sins and does not list his merits. He adds, “But with You there is forgiveness” (v. 4). Here he comforts himself by his trust in God’s mercy, and he refers to the promise, “I wait for the LORD, my soul waits, and in His word I hope” (v. 5). This means, “Because You have promised the forgiveness of sins, I am sustained by Your promise.” Therefore, the Fathers also were justified, not by the Law, but by the promise and faith. It is amazing that the adversaries diminish faith to such a degree, even though they see that it is everywhere praised as a great service. For example, Psalm 50:15 says, “Call upon Me in the day of trouble; I will deliver you.” God wants Himself to be known, He wants Himself to be worshiped, so that we receive benefits from Him and receive them because of His mercy, not because of our merits. This is the richest consolation in all afflictions. The adversaries ban such consolation when they diminish and disparage faith and teach only that by means of works and merits people interact with God.—Apology of the Augsburg Confession IV (II) 57–60
+
+## Hymnody
+
+Hail to the Lord’s anointed, Great David’s greater Son! Hail, in the time
+appointed, His reign on earth begun! He comes to break oppression, To set
+the captive free, To take away transgression And rule in equity.—Hail to
+the Lord’s Anointed (LSB 398:1)
+
+## Prayer of the Day
+
+Lord Jesus Christ, our great High Priest, cleanse us by the power of Your redeeming blood that in purity and peace we may worship and adore Your holy name; for You live and reign with the Father and the Holy Spirit, one God, now and forever. (B84) Lenten Catechesis: How can water do such great things? In the water is God’s Word or command and God’s name. His name is a treasure greater and nobler than heaven and earth.… Baptism is quite a different thing from all other water. This is not because of its natural quality but because something more noble is added here. God Himself stakes His honor, His power, and His might on it. Therefore, Baptism is not only natural water, but a divine, heavenly, holy, and blessed water, and whatever other terms we can find to praise it. This is all because of the Word, which is a heavenly, holy Word, which no one can praise enough. For it has, and is able to do, all that God is and can do [Isaiah 55:10–11]. In this way it also gets its essence as a Sacrament, as St. Augustine also taught, “When the Word is joined to the element or natural substance, it becomes a Sacrament,” that is, a holy and divine matter and sign.—Large Catechism IV 16–18 You must honor Baptism and consider it glorious because of the Word. For God Himself has honored it both by words and deeds. Furthermore, He has confirmed it with miracles from heaven. Do you think that it was a joke that, when Christ was baptized, the heavens were opened and the Holy Spirit descended visibly, and everything was divine glory and majesty [Luke 3:21–22]?—Large Catechism IV 21 I encourage again that these two—the water and the Word—by no means be separated from each other and parted. For if the Word is separated from it, the water is the same as the water that the servant cooks with. It may indeed be called a bathkeeper’s baptism. But when the Word is added, as God has ordained, it is a Sacrament. It is called Christ’s Baptism.—Large Catechism IV 22
+
+## Suggested Reading from the Book of Concord
+
+Solid Declaration of the Formula of Concord III 24–29

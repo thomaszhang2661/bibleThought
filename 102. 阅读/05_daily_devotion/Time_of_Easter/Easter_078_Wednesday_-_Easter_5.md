@@ -1,0 +1,45 @@
+# Wednesday — Easter 5
+
+## Psalmody
+
+12What shall I render | to the LORDfor* all his bene- | fits to me? 13I will lift up the cup of sal- | vation* and call on the name | of the LORD, 14I will pay my vows | to the LORDin* the presence of all his | people. 15Precious in the sight | of the LORDis* the death | of his saints. 16O LORD, I am your | servant;* I am your servant, the son of your maidservant. You have | loosed my bonds. 17I will offer to you the sacrifice of thanks- | giving* and call on the name | of the LORD. 18I will pay my vows | to the LORDin* the presence of all his | people, 19in the courts of the house | of the LORD,* in your midst, O Jerusalem. | Praise the LORD!—Psalm 116:12–19
+Additional Psalm: Psalm 123
+
+## Old Testament Reading: Leviticus 23:23–44
+
+The Feast of Trumpets
+
+23And the LORD spoke to Moses, saying, 24“Speak to the people of Israel, saying, In the seventh month, on the first day of the month, you shall observe a day of solemn rest, a memorial proclaimed with blast of trumpets, a holy convocation. 25You shall not do any ordinary work, and you shall present a food offering to the LORD.”
+
+The Day of Atonement
+
+26And the LORD spoke to Moses, saying, 27“Now on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD. 28And you shall not do any work on that very day, for it is a Day of Atonement, to make atonement for you before the LORD your God. 29For whoever is not afflicted on that very day shall be cut off from his people. 30And whoever does any work on that very day, that person I will destroy from among his people. 31You shall not do any work. It is a statute forever throughout your generations in all your dwelling places. 32It shall be to you a Sabbath of solemn rest, and you shall afflict yourselves. On the ninth day of the month beginning at evening, from evening to evening shall you keep your Sabbath.”
+
+The Feast of Booths
+
+33And the LORD spoke to Moses, saying, 34“Speak to the people of Israel, saying, On the fifteenth day of this seventh month and for seven days is the Feast of Booths to the LORD. 35On the first day shall be a holy convocation; you shall not do any ordinary work. 36For seven days you shall present food offerings to the LORD. On the eighth day you shall hold a holy convocation and present a food offering to the LORD. It is a solemn assembly; you shall not do any ordinary work. 37“These are the appointed feasts of the LORD, which you shall proclaim as times of holy convocation, for presenting to the LORD food offerings, burnt offerings and grain offerings, sacrifices and drink offerings, each on its proper day, 38besides the LORD’s Sabbaths and besides your gifts and besides all your vow offerings and besides all your freewill offerings, which you give to the LORD. 39“On the fifteenth day of the seventh month, when you have gathered in the produce of the land, you shall celebrate the feast of the LORD seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest. 40And you shall take on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the LORD your God seven days. 41You shall celebrate it as a feast to the LORD for seven days in the year. It is a statute forever throughout your generations; you shall celebrate it in the seventh month. 42You shall dwell in booths for seven days. All native Israelites shall dwell in booths, 43that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt: I am the LORD your God.” 44Thus Moses declared to the people of Israel the appointed feasts of the LORD.
+
+## New Testament Reading: Luke 12:35–53
+
+You Must Be Ready
+
+35“Stay dressed for action and keep your lamps burning, 36and be like men who are waiting for their master to come home from the wedding feast, so that they may open the door to him at once when he comes and knocks. 37Blessed are those servants whom the master finds awake when he comes. Truly, I say to you, he will dress himself for service and have them recline at table, and he will come and serve them. 38If he comes in the second watch, or in the third, and finds them awake, blessed are those servants! 39But know this, that if the master of the house had known at what hour the thief was coming, he would not have left his house to be broken into. 40You also must be ready, for the Son of Man is coming at an hour you do not expect.” 41Peter said, “Lord, are you telling this parable for us or for all?” 42And the Lord said, “Who then is the faithful and wise manager, whom his master will set over his household, to give them their portion of food at the proper time? 43Blessed is that servant whom his master will find so doing when he comes. 44Truly, I say to you, he will set him over all his possessions. 45But if that servant says to himself, ‘My master is delayed in coming,’ and begins to beat the male and female servants, and to eat and drink and get drunk, 46the master of that servant will come on a day when he does not expect him and at an hour he does not know, and will cut him in pieces and put him with the unfaithful. 47And that servant who knew his master’s will but did not get ready or act according to his will, will receive a severe beating. 48But the one who did not know, and did what deserved a beating, will receive a light beating. Everyone to whom much was given, of him much will be required, and from him to whom they entrusted much, they will demand the more. Not Peace, but Division 49“I came to cast fire on the earth, and would that it were already kindled! 50I have a baptism to be baptized with, and how great is my distress until it is accomplished! 51Do you think that I have come to give peace on earth? No, I tell you, but rather division. 52For from now on in one house there will be five divided, three against two and two against three. 53They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against mother-in-law.”
+
+## Writing
+
+Nowhere is God more deeply covered and hidden than in the Passion. Gethsemane and the cry of dereliction on the cross shatter every attempt to twist the Gospel into a triumphal epiphany of some savior-god in the manner of the ancient mystery religions, or into a heroic epic. How often the theology of glory has tried to control the Gospel! The miracles have been particularly misunderstood in this way. To be sure, Jesus “manifested His glory” in them, as we are told in the account of the wedding at Cana. But it says explicitly: “His disciples believed in Him.” Not the wedding guests, nor the five thousand whom He fed, nor the sick whom He healed, nor even those whom He raised from the dead believed in Him. Also these deeds were both a revealing and a covering of His divine majesty; only in faith did His disciples see His glory. His resurrection also was no demonstration for the world. The empty grave as such convinced no one who did not believe in Him. It could be explained away, as were also His miracles of healing (Matt. 27:64; Luke 11:28). Faith always deals with what is hidden. Also the faith of the apostles and of the apostolic church that Jesus is Lord was faith in His hidden glory, in God veiled in the flesh, in the true God in the form of true manhood. Nowhere, however, is this hiddenness more profound than in the cross.—Hermann Sasse
+
+## Hymnody
+
+The Bridegroom soon will call us, “Come to the wedding feast.” May
+slumber not befall us Nor watchfulness decrease. May all our lamps be
+burning With oil enough and more That we, with Him returning, May find
+an open door!—The Bridegroom Soon Will Call Us (LSB 514:1)
+
+## Prayer of the Day
+
+Merciful Lord, cleanse and defend Your Church by the sacrifice of Christ. United with Him in Holy Baptism, give us grace to receive with thanksgiving the fruits of His redeeming work and daily follow in His way; through the same Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. (C73)
+
+## Suggested Reading from the Book of Concord
+
+Solid Declaration of the Formula of Concord VIII 66–70

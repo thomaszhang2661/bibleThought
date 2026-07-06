@@ -1,0 +1,41 @@
+# Monday — Easter 2
+
+## Psalmody
+
+1Praise | the LORD!* Praise the LORD, | O my soul! 2I will praise the LORD as long | as I live;* I will sing praises to my God while I have my | being. 3Put not your trust in | princes,* in a son of man, in whom there is no sal- | vation. 4When his breath departs he returns | to the earth;* on that very day his plans | perish. 5Blessèd is he whose help is the God of | Jacob,* whose hope is in the | LORD his God, 6who made heaven and earth, the sea, and all that is | in them,* who keeps faith for- | ever; 7who executes justice for | the oppressed,* who gives food to the | hungry. The LORD sets the prisoners free; 8 the LORD opens the eyes | of the blind.* The LORD lifts up those who are bowed down; the LORD loves the | righteous. 9The LORD watches over the sojourners; he upholds the widow and the | fatherless,* but the way of the wicked he brings to | ruin. 10The LORD will reign for- | ever,* your God, O Zion, to all generations. | Praise the LORD!—Psalm 146
+Additional Psalm: Psalm 103
+
+## Old Testament Reading: Exodus 22:20–23:13
+
+[Laws About Social Justice]
+
+20“Whoever sacrifices to any god, other than the LORD alone, shall be devoted to destruction. 21“You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt. 22You shall not mistreat any widow or fatherless child. 23If you do mistreat them, and they cry out to me, I will surely hear their cry, 24and my wrath will burn, and I will kill you with the sword, and your wives shall become widows and your children fatherless. 25“If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him. 26If ever you take your neighbor’s cloak in pledge, you shall return it to him before the sun goes down, 27for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he cries to me, I will hear, for I am compassionate. 28“You shall not revile God, nor curse a ruler of your people. 29“You shall not delay to offer from the fullness of your harvest and from the outflow of your presses. The firstborn of your sons you shall give to me. 30You shall do the same with your oxen and with your sheep: seven days it shall be with its mother; on the eighth day you shall give it to me. 31“You shall be consecrated to me. Therefore you shall not eat any flesh that is torn by beasts in the field; you shall throw it to the dogs. 23:1“You shall not spread a false report. You shall not join hands with a wicked man to be a malicious witness. 2You shall not fall in with the many to do evil, nor shall you bear witness in a lawsuit, siding with the many, so as to pervert justice, 3nor shall you be partial to a poor man in his lawsuit. 4“If you meet your enemy’s ox or his donkey going astray, you shall bring it back to him. 5If you see the donkey of one who hates you lying down under its burden, you shall refrain from leaving him with it; you shall rescue it with him. 6“You shall not pervert the justice due to your poor in his lawsuit. 7Keep far from a false charge, and do not kill the innocent and righteous, for I will not acquit the wicked. 8And you shall take no bribe, for a bribe blinds the clear-sighted and subverts the cause of those who are in the right. 9“You shall not oppress a sojourner. You know the heart of a sojourner, for you were sojourners in the land of Egypt.
+
+Laws About the Sabbath and Festivals
+
+10“For six years you shall sow your land and gather in its yield, 11but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave the beasts of the field may eat. You shall do likewise with your vineyard, and with your olive orchard. 12“Six days you shall do your work, but on the seventh day you shall rest; that your ox and your donkey may have rest, and the son of your servant woman, and the alien, may be refreshed. 13“Pay attention to all that I have said to you, and make no mention of the names of other gods, nor let it be heard on your lips.”
+
+## New Testament Reading: Luke 4:16–30
+
+Jesus Rejected at Nazareth
+
+16And he came to Nazareth, where he had been brought up. And as was his custom, he went to the synagogue on the Sabbath day, and he stood up to read. 17And the scroll of the prophet Isaiah was given to him. He unrolled the scroll and found the place where it was written, 18“The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, 19to proclaim the year of the Lord’s favor.” 20And he rolled up the scroll and gave it back to the attendant and sat down. And the eyes of all in the synagogue were fixed on him. 21And he began to say to them, “Today this Scripture has been fulfilled in your hearing.” 22And all spoke well of him and marveled at the gracious words that were coming from his mouth. And they said, “Is not this Joseph’s son?” 23And he said to them, “Doubtless you will quote to me this proverb, ‘Physician, heal yourself.’ What we have heard you did at Capernaum, do here in your hometown as well.” 24And he said, “Truly, I say to you, no prophet is acceptable in his hometown. 25But in truth, I tell you, there were many widows in Israel in the days of Elijah, when the heavens were shut up three years and six months, and a great famine came over all the land, 26and Elijah was sent to none of them but only to Zarephath, in the land of Sidon, to a woman who was a widow. 27And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian.” 28When they heard these things, all in the synagogue were filled with wrath. 29And they rose up and drove him out of the town and brought him to the brow of the hill on which their town was built, so that they could throw him down the cliff. 30But passing through their midst, he went away.
+
+## Writing
+
+Why, then, did Moses, after the prohibition of any “likeness of anything” (Ex. 20:4) set forth a bronze serpent, placed on a “tree” in a hanging posture, for a spectacle of healing to Israel during the time when, after their idolatry, they were suffering extermination by serpents? Was it not that in this case he was exhibiting the Lord’s cross on which the serpent (the devil) was made a show of, so that to everyone hurt by such snakes, by turning intently from the severity of their sins to the sacraments of Christ’s cross, salvation was delivered? For whoever gazed upon that cross was freed from the bite of the serpents. Have you not read in the utterance of the prophet in the Psalms, “The Lord reigns from the tree” (Ps. 96:10, some Latin manuscripts)? I wait to hear what you understand by this and fear that you may perhaps think it means that some carpenter-king is signified and not Christ, who has reigned from that time onward when He overcame the death which resulted from His suffering on “the tree”… What worldly king wears the ensign of his power on his shoulder, but bears no diadem on his head, or scepter in his hand, or some other mark of distinctive vesture? The “King of ages,” Christ Jesus, alone carried on His shoulder His own surpassing glory and power and magnificence—the cross—that according to the prophecy, the Lord Himself “reigns from the tree.”
+—Tertullian
+
+## Hymnody
+
+Fulfilled is all that David told In sure prophetic song of old, That God the
+nations’ king should be And reign in triumph from the tree.—The Royal
+Banners Forward Go (LSB 455:3)
+
+## Prayer of the Day
+
+Lord God, heavenly Father, Your Son announced in the synagogue of His hometown of Nazareth that as the Messiah, His teaching and miracles demonstrated His presence in creation to release it from bondage and bring healing by making all things new. Give us faith to see that His teaching and miracles continue today in the healing medicine of Your Word and the Sacraments, which put to flight the diseases of our souls; through Jesus Christ, Your Son, our Lord. (1011)
+
+## Suggested Reading from the Book of Concord
+
+Solid Declaration of the Formula of Concord VII 42–47

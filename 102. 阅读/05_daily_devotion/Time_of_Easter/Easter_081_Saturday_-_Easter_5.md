@@ -1,0 +1,45 @@
+# Saturday — Easter 5
+
+## Psalmody
+
+1O God, you are my God; earnestly I | seek you;* my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no | water. 2So I have looked upon you in the sanctu- | ary,* beholding your power and | glory. 3Because your steadfast love is bet- | ter than life,* my lips will | praise you. 4So I will bless you as long | as I live;* in your name I will lift | up my hands. 5My soul will be satisfied as with fat and | rich food,* and my mouth will praise you with | joyful lips, 8My soul | clings to you;* your right hand up- | holds me. 9But those who seek to de- | stroy my life* shall go down into the depths | of the earth; 10they shall be given over to the power | of the sword;* they shall be a portion for | jackals. 11But the king shall re- | joice in God;* all who swear by him shall exult, for the mouths of liars | will be stopped.—Psalm 63:1–5, 8–11
+Additional Psalm: Psalm 78
+
+## Old Testament Reading: Leviticus 26:21–33, 39–44
+
+[Punishment for Disobedience]
+
+21“Then if you walk contrary to me and will not listen to me, I will continue striking you, sevenfold for your sins. 22And I will let loose the wild beasts against you, which shall bereave you of your children and destroy your livestock and make you few in number, so that your roads shall be deserted. 23“And if by this discipline you are not turned to me but walk contrary to me, 24then I also will walk contrary to you, and I myself will strike you sevenfold for your sins. 25And I will bring a sword upon you, that shall execute vengeance for the covenant. And if you gather within your cities, I will send pestilence among you, and you shall be delivered into the hand of the enemy. 26When I break your supply of bread, ten women shall bake your bread in a single oven and shall dole out your bread again by weight, and you shall eat and not be satisfied. 27“But if in spite of this you will not listen to me, but walk contrary to me, 28then I will walk contrary to you in fury, and I myself will discipline you sevenfold for your sins. 29You shall eat the flesh of your sons, and you shall eat the flesh of your daughters. 30And I will destroy your high places and cut down your incense altars and cast your dead bodies upon the dead bodies of your idols, and my soul will abhor you. 31And I will lay your cities waste and will make your sanctuaries desolate, and I will not smell your pleasing aromas. 32And I myself will devastate the land, so that your enemies who settle in it shall be appalled at it. 33And I will scatter you among the nations, and I will unsheathe the sword after you, and your land shall be a desolation, and your cities shall be a waste.… 39“And those of you who are left shall rot away in your enemies’ lands because of their iniquity, and also because of the iniquities of their fathers they shall rot away like them. 40“But if they confess their iniquity and the iniquity of their fathers in their treachery that they committed against me, and also in walking contrary to me, 41so that I walked contrary to them and brought them into the land of their enemies—if then their uncircumcised heart is humbled and they make amends for their iniquity, 42then I will remember my covenant with Jacob, and I will remember my covenant with Isaac and my covenant with Abraham, and I will remember the land. 43But the land shall be abandoned by them and enjoy its Sabbaths while it lies desolate without them, and they shall make amends for their iniquity, because they spurned my rules and their soul abhorred my statutes. 44Yet for all that, when they are in the land of their enemies, I will not spurn them, neither will I abhor them so as to destroy them utterly and break my covenant with them, for I am the LORD their God.” Additional Reading: Numbers 1:1–2:34
+
+## New Testament Reading: Luke 14:1–24
+
+Healing of a Man on the Sabbath
+
+1One Sabbath, when he went to dine at the house of a ruler of the Pharisees, they were watching him carefully. 2And behold, there was a man before him who had dropsy. 3And Jesus responded to the lawyers and Pharisees, saying, “Is it lawful to heal on the Sabbath, or not?” 4But they remained silent. Then he took him and healed him and sent him away. 5And he said to them, “Which of you, having a son or an ox that has fallen into a well on a Sabbath day, will not immediately pull him out?” 6And they could not reply to these things.
+
+The Parable of the Wedding Feast
+
+7Now he told a parable to those who were invited, when he noticed how they chose the places of honor, saying to them, 8“When you are invited by someone to a wedding feast, do not sit down in a place of honor, lest someone more distinguished than you be invited by him, 9and he who invited you both will come and say to you, ‘Give your place to this person,’ and then you will begin with shame to take the lowest place. 10But when you are invited, go and sit in the lowest place, so that when your host comes he may say to you, ‘Friend, move up higher.’ Then you will be honored in the presence of all who sit at table with you. 11For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.”
+
+The Parable of the Great Banquet
+
+12He said also to the man who had invited him, “When you give a dinner or a banquet, do not invite your friends or your brothers or your relatives or rich neighbors, lest they also invite you in return and you be repaid. 13But when you give a feast, invite the poor, the crippled, the lame, the blind, 14and you will be blessed, because they cannot repay you. For you will be repaid at the resurrection of the just.” 15When one of those who reclined at table with him heard these things, he said to him, “Blessed is everyone who will eat bread in the kingdom of God!” 16But he said to him, “A man once gave a great banquet and invited many. 17And at the time for the banquet he sent his servant to say to those who had been invited, ‘Come, for everything is now ready.’ 18But they all alike began to make excuses. The first said to him, ‘I have bought a field, and I must go out and see it. Please have me excused.’ 19And another said, ‘I have bought five yoke of oxen, and I go to examine them. Please have me excused.’ 20And another said, ‘I have married a wife, and therefore I cannot come.’ 21So the servant came and reported these things to his master. Then the master of the house became angry and said to his servant, ‘Go out quickly to the streets and lanes of the city, and bring in the poor and crippled and blind and lame.’ 22And the servant said, ‘Sir, what you commanded has been done, and still there is room.’ 23And the master said to the servant, ‘Go out to the highways and hedges and compel people to come in, that my house may be filled. 24For I tell you, none of those men who were invited shall taste my banquet.’”
+
+## Writing
+
+While they were going, the Lord “met them” and said, “Hail!” When he meets them, he does not frighten them with his power but comes before them with the ardor of his love. He does not startle them with his authority but greets them warmly. He binds them by the covenant of the bridegroom, not by the right of the ruler. He honors them with the love of a brother. He greets them with a gracious salutation. At one time he said to his disciples, “Salute no one on the road.” So why is it that here along the way this visitor is so quick to salute them? He does not wait to be recognized. He does not demand to be understood. He does not allow himself to be questioned. Rather, he extends this greeting immediately, enthusiastically. He did this because the force of his love overcomes and surpasses all. Furthermore, by doing so Christ himself greets the church. He makes its very heart to be his own and thus receives its body into his own, as the apostle says, “And he is the head of the body, the church.” This greeting itself evidently shows that the full figure of the church abides in these women. They are contrasted with those disciples whom Christ scolds who were wavering over the resurrection. He quells their fears by showing his side and the deep holes from the nails. By taking food, he now restores their faith.—Peter Chrysologus
+
+## Hymnody
+
+To pastures green, Lord, safely guide, To restful waters lead me; Your table
+well for me provide, Your wounded hand now feed me. Though weary,
+sinful, sick, and weak, Refuge in You alone I seek, To share Your cup of
+healing.—Lord Jesus Christ, Life-Giving Bread (LSB 625:2)
+
+## Prayer of the Day
+
+O Lord of grace and mercy, teach us by Your Holy Spirit to follow the example of Your Son in true humility, that we may withstand the temptations of the devil and with pure hearts and minds avoid ungodly pride; through the same Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. (C75)
+
+## Suggested Reading from the Book of Concord
+
+Solid Declaration of the Formula of Concord VIII 85–87
