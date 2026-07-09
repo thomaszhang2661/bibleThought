@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2376 篇文章
+共 2377 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -2470,6 +2470,7 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励">
 <summary class="tree-dir">10_福音激励<a class="anchor-link" href="#102-阅读-10-福音激励">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/00_前言">00_前言</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音">01_上帝在基督里爱和赦免的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/02_死亡和生命的福音">02_死亡和生命的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音">03_义的奴隶的福音</a>
