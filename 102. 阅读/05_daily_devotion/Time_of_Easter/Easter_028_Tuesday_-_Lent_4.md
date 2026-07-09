@@ -39,3 +39,17 @@ Lord God heavenly Father, the God of Abraham, and the God of Isaac, and the God 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord III 18–23
+
+[18] The word regeneration is sometimes used for the word justification. Therefore, it is necessary that this word be properly explained, in order that the renewal that follows justification by faith may not be confused with the actual justification by faith, but that they may be properly distinguished from each other.
+
+[19] In the first place, the word regeneration (regeneratio) is used to mean both the forgiveness of sins for Christ’s sake alone and, at the same time, the succeeding renewal that the Holy Spirit works in those who are justified by faith. Then again, it is sometimes used to mean only the forgiveness of sins and that we are adopted as God’s sons. It is in this latter sense that the word is used much of the time in the Apology, where it is written that justification before God is regeneration. St. Paul, too, has used these words as distinct from each other:
+
+He saved us ... by the washing of regeneration and renewal of the Holy Spirit. (Titus 3:5)
+
+[20] The words “making alive” have sometimes been used in a similar sense. For when a person is justified through faith (which the Holy Spirit alone does), this is truly a regeneration. In this he becomes a child of God instead of a child of wrath [Ephesians 2:3]. So he is transferred from death to life, as it is written, “When we were dead in our trespasses, [God] made us alive together with Christ” [Ephesians 2:5]. Likewise, “The righteous shall live by faith” (Romans 1:17 [see also Habakkuk 2:4]). This is how the word is usually used in the Apology.
+
+[21] Again, it is often used for sanctification and renewal, which follows the righteousness of faith. Dr. Luther has used it this way in his book about the Church and the Councils, and elsewhere [e.g., LW 41:114].
+
+[22] We teach that through the Holy Spirit’s work we are born anew and justified. But the sense is not that after regeneration no unrighteousness clings anymore to the justified and regenerate in their being and life. It means that Christ covers all their sins (which in this life still dwell in nature) with His complete obedience. But despite this they are declared and regarded godly and righteous by faith and for the sake of Christ’s obedience (which Christ rendered to the Father for us from His birth to His most humiliating death on the cross [Philippians 2:8]). Still, because of their corrupt nature, they are and will remain sinners to the grave. Nor, on the other hand, is this the meaning: without repentance, conversion, and renewal we can or should yield to sins and remain and continue in them.
+
+[23] True contrition must come first. Out of pure grace, for the sake of the only Mediator, Christ [1 Timothy 2:5], without any works and merit, people are righteous before God in the way stated above (i.e., they are received into grace). The Holy Spirit is also given to them. He renews and sanctifies them and works in them love for God and for their neighbor. But the beginning of renewal is imperfect in this life. Sin still dwells in the flesh, even in the regenerate. Therefore, the righteousness of faith before God comes from the free crediting of Christ’s righteousness, without the addition of our works. So our sins are forgiven us and covered and are not charged against us (Romans 4:6–8).

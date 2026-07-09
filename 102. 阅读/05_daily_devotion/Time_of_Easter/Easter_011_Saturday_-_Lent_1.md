@@ -41,3 +41,17 @@ Heavenly Father, during His earthly ministry Your Son Jesus healed the sick and 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord I 58–62
+
+[58] For this reason, too, God’s Church will never be able to have permanent peace in this controversy, but instead the dissension will grow stronger and continue if the church’s ministers remain in doubt about whether original sin is a substance or an accident, and whether it is rightly and properly named so.
+
+[59] If the churches and schools are to be thoroughly relieved of this scandalous and very mischievous controversy, it is necessary that everyone be properly instructed about this matter.
+
+[60] But if it is further asked what kind of an accident (nonessential quality) original sin is, that is another question. No philosopher, no papist, no sophist, indeed, no human reason, however sharp it may be, can give the right explanation to this. All understanding and every explanation of it must be derived solely from the Holy Scriptures. They testify that original sin is an unspeakable evil and such an entire corruption of human nature that in it and all its inward and outward powers, nothing pure or good remains. Everything is entirely corrupt, so that because of original sin a person is truly spiritually dead in God’s sight [Ephesians 2:5]. All a person’s powers are dead to what is good.
+
+[61] In this way, then, original sin is not weakened by the word accident (nonessential quality). It is explained according to God’s Word, the way Dr. Luther has written with great seriousness against the weakening of original sin in his Latin exposition of Genesis 3 [LW 1:160–82]. Accident (a nonessential quality) serves only to show the distinction between God’s work (which our nature is, even though it is corrupt) and the devil’s work (the sin that dwells in God’s work and is the most profound and indescribable corruption of it).
+
+[62] Luther, in his treatment of this subject, has used the term accident, and also the term quality, and has not rejected them. But at the same time he has, with special seriousness and great zeal, taken the greatest pains to explain and to impress upon every single reader what a horrible quality and accident it is. For by it human nature is not merely polluted, but is so deeply corrupted that nothing pure or incorrupt has remained in it. His words on Psalm 90 show this:
+
+Whether we call original sin a quality or a disease, it is indeed the utmost evil, that we are not only to suffer God’s eternal wrath and eternal death, but that we do not even understand what we suffer. [LW 13:127–28]
+
+And again, on Genesis 3 he writes: “We are infected with the poison of original sin from the bottom of the foot to the top of the head, because this happened to us in a still perfect nature” [see LW 1:163].

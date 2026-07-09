@@ -38,3 +38,23 @@ O God, You are the strength of all who trust in You, and without Your aid we can
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord X 13–18
+
+[13] Paul yields and gives way to the weak concerning food and ‹the observance of› times or days (Romans 14:6). But to the false apostles, who wanted to impose these on the conscience as necessary things, he will not yield even in matters that are adiaphora. “Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath” (Colossians 2:16). When Peter and Barnabas yielded somewhat in such an emergency, Paul openly rebukes them according to the truth of the Gospel as people who were not acting right in this matter (Galatians 2:11–14).
+
+[14] This case is no longer a question about outward matters of indifference, which in their nature and essence are free. They cannot produce a command or prohibition that they must or must not be used. The case presented by Paul is a question, in the first place, about the outstanding article of our Christian faith. For the apostle testifies, “so that the truth of the gospel might be preserved for you” [Galatians 2:5]. The Gospel is obscured and perverted by such compulsion or command, because such adiaphora are publicly required for the approval of false doctrine, superstition, and idolatry, and for the suppression of pure doctrine and Christian liberty, or at least are abused for this purpose by the adversaries and are viewed this way.
+
+[15] The article about Christian freedom is at stake here. The Holy Spirit, through the holy apostle’s mouth, sincerely told His Church to preserve this article, as we have just heard. As soon as Christian freedom is weakened and human traditions are forced on the Church with coercion, as though it were wrong and a sin to omit them, the way is already prepared for idolatry. In this way, human traditions are multiplied and regarded as a divine worship, not only equal to God’s ordinances, but even placed above them.
+
+[16] Furthermore, idolaters are confirmed in their idolatry by such yielding and conforming in outward things, where there has not previously been Christian unity in doctrine. On the other hand, true believers are grieved, offended, and weakened in their faith. Every Christian, for the sake of his soul’s welfare and salvation, is bound to avoid both of these, as it is written:
+
+Woe to the world for temptations to sin! (Matthew 18:7)
+
+But whoever causes one of these little ones who believe in Me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea. (Matthew 18:6)
+
+[17] But what Christ says is to be especially remembered:
+
+So everyone who acknowledges Me before men, I also will acknowledge before My Father who is in heaven. (Matthew 10:32)
+
+[18] However, this has always and everywhere been the faith and confession about such matters, by the chief teachers of the Augsburg Confession. We are following in their footsteps and we intend to persevere in their confession by God’s grace. Their confession is shown by the following testimonies drawn from the Smalcald Articles, which were composed and signed in the year 1537:
+
+From the Smalcald Articles (1537)

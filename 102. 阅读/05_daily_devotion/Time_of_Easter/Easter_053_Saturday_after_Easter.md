@@ -40,3 +40,19 @@ Lord Jesus, You are the Good Shepherd, without whom nothing is secure. Rescue an
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 28–34
+
+[28] This highly enlightened man ‹Dr. Luther› foresaw in the Spirit that after his death some would try to make it seem that he had backed away from the above-mentioned doctrine and other Christian articles. Therefore, he has added the following protest to his Confession concerning Christ’s Supper:
+
+[29] I see that schisms and errors are increasing proportionately with the passage of time, and that there is no end to the rage and fury of Satan. Hence lest any persons during my lifetime or after my death appeal to me or misuse my writings to confirm their error, as the sacramentarian and baptist fanatics are already beginning to do, I desire with this treatise to confess my faith before God and all the world, point by point. I am determined to abide by it until my death and (so help me God!) in this faith to depart from this world and to appear before the judgment seat of our Lord Jesus Christ. Hence if any one shall say after my death, “If Luther were living now, he would teach and hold this or that article differently, for he did not consider it sufficiently,” etc., let me say once and for all that by the grace of God I have most diligently traced all these articles through the Scriptures, have examined them again and again in the light thereof, and have wanted to defend all of them as certainly as I have now defended the sacrament of the altar.
+
+[31] I am not drunk or irresponsible. I know what I am saying, and I well realize what this will mean for me before the Last Judgment at the coming of the Lord Jesus Christ. Let no one make this out to be a joke or idle talk; I am in dead earnest, since by the grace of God I have learned to know a great deal about Satan. If he can twist and pervert the Word of God and the Scriptures, what will he not be able to do with my or someone else’s words? [LW 37:360–61]
+
+[32] After this protest, Dr. Luther, of blessed memory, presents, among other articles, this as well:
+
+In the same way I also say and confess that in the sacrament of the altar the true body and blood of Christ are orally eaten and drunk in the bread and wine, even if the priests who distribute them or those who receive them do not believe or otherwise misuse the sacrament. It does not rest on man’s belief or unbelief but on the Word and ordinance of God—unless they first change God’s Word and ordinance and misinterpret them, as the enemies of the sacrament do at the present time. They, indeed, have only bread and wine, for they do not also have the words and instituted ordinance of God but have perverted and changed it according to their own imagination. [LW 37:367]
+
+[33] Dr. Luther, above others, certainly understood the true and proper meaning of the Augsburg Confession. He constantly remained steadfast in that Confession till the end of his life, and he defended it shortly before his death. He repeated his faith about this article with great zeal in his last Confession, where he writes:
+
+I regard them all as being cut from the same piece of cloth, as indeed they are. For they do not want to believe that the Lord’s bread in the Supper is His true, natural body which the godless person or Judas receives orally just as well as St. Peter and all the saints. Whoever (I say) does not want to believe that, let him not trouble me with letters, writings, or words and let him not expect to have fellowship with me. This is final. (Brief Confession concerning the Holy Sacrament [1544; LW 38:304])
+
+[34] From these explanations, and especially from that of Dr. Luther as the leading teacher of the Augsburg Confession, any intelligent person who loves truth and peace can undoubtedly see what has always been the proper meaning and understanding of the Augsburg Confession on this article.

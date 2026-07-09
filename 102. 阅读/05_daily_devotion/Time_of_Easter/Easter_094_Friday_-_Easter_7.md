@@ -55,3 +55,31 @@ Living God, Your almighty power is made known chiefly in showing mercy and pity.
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord XI 45–52
+
+[45] This doctrine also provides the excellent, glorious consolation that God was greatly concerned about the conversion, righteousness, and salvation of every Christian. He so faithfully ‹provided for it› that even before the foundation of the world was laid, He considered it, and in His purpose ordained how He would bring me to salvation and preserve me in salvation.
+
+[46] He wanted to secure my salvation so well and so certainly, since through the weakness and wickedness of our flesh salvation could easily be lost from our hands, or through the devil’s and the world’s craft and might it could be snatched and taken from us. Therefore, He ordained in His eternal purpose what cannot fail or be overthrown. He placed salvation for safekeeping in the almighty hand of our Savior, Jesus Christ, from which no one can snatch us (John 10:28).
+
+[47] Therefore, Paul asks in Romans, because we “are called according to His purpose” (8:28), who “will be able to separate us from the love of God in Christ Jesus our Lord”? (8:39).
+
+[48] Furthermore, this doctrine provides glorious consolation under the cross and amid temptations. In other words, God in His counsel, before the time of the world, determined and decreed that He would assist us in all distresses. He determined to grant patience, give consolation, nourish and encourage hope, and produce an outcome for us that would contribute to our salvation.
+
+[49] Also, Paul teaches this in a very consoling way. He explains that God in His purpose has ordained before the time of the world by what crosses and sufferings He would conform every one of His elect to the image of His Son. His cross shall and must work together for good for everyone, because they are called according to God’s purpose. Therefore, Paul has concluded that it is certain and beyond doubt that neither “tribulation, or distress,” neither “death nor life,” or other such things “will be able to separate us from the love of God in Christ Jesus our Lord.” (See Romans 8:28, 29, 35, 38, 39.)
+
+[50] This article provides a glorious testimony that God’s Church will exist and abide in opposition to all the gates of hell [Matthew 16:18]. Likewise, it teaches what God’s true Church is, so that we may not be offended by the great authority of the false church (Romans 9:24–25).
+
+[51] Powerful rebukes and warnings are taken from this article, such as these:
+
+[They] rejected the purpose of God for themselves. (Luke 7:30)
+
+For I tell you, none of those men who were invited shall taste my banquet. (Luke 14:24)
+
+Many are called, but few are chosen. [Matthew 20:14]
+
+He who has ears to hear, let him hear. [Luke 8:8]
+
+Take care then how you hear. [Luke 8:18]
+
+So the teaching about this article can be used for our benefit, comfort, and salvation.
+
+[52] But a distinction must be made with special care between what is clearly revealed about election in God’s Word and what is not revealed. For, in addition to what has been revealed in Christ about this (which we have spoken about up to this point), God has kept secret and concealed much about this mystery. He reserved it for His wisdom and knowledge alone. We should not investigate this, indulge our thoughts in this matter, draw conclusions, or inquire curiously. Instead, we should cling to the revealed Word. This warning is most urgently needed.

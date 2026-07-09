@@ -45,3 +45,37 @@ Merciful and everlasting God, You did not spare Your only Son but delivered Him 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord IV 21–32
+
+[21] Second, when it is taught that good works are necessary, it must also be explained why they are necessary. These reasons are listed in the Augsburg Confession and Apology.
+
+[22] We must be on our guard well to make sure that works are not brought in and mixed into the article of justification and salvation. Therefore, the following propositions are justly rejected: “good works are necessary for believers to be saved; therefore, it is impossible to be saved without good works”. This is directly contrary to the doctrine about the exclusive terms in the article of justification and salvation. In other words, these positions conflict with the words St. Paul uses to exclude entirely our works and merits from the article of justification and salvation and to credit everything to God’s grace and Christ’s merit alone, as explained in the preceding article.
+
+[23] These propositions take the comfort of the Gospel away from afflicted, troubled consciences. They give reason to doubt, and are dangerous in many ways. They strengthen assumptions about one’s own righteousness and increase confidence in one’s own works. Besides, they are accepted by the papists, and are used in their interest against the pure doctrine of the alone-saving faith.
+
+[24] Furthermore, they are contrary to the form of sound words. For it is written, “David also speaks of the blessing of the one to whom God counts righteousness apart from works” (Romans 4:6). Likewise, in Article VI (3) of the Augsburg Confession it is written that we are saved “without works, through faith alone.” So Dr. Luther, too, rejected and condemned these propositions when they were used
+
+[25] 1. by the false prophets among the Galatians [e.g., LW 26:124–26];
+
+[26] 2. by the papists, in very many places;
+
+[27] 3. by the Anabaptists, when they present this interpretation: We should not rest faith on the merit of works, but we must still have works as necessary for salvation [LW 40:227–62];
+
+[28] 4. and also by some of Luther’s own followers, who wanted to interpret this proposition as follows: Although we require works as necessary to salvation, we do not teach people to trust in works. (See Luther’s Commentary on Genesis 22 [LW 4:162–73].)
+
+[29] For these reasons, it is right for this matter to remain settled in our churches. The ways of speaking just mentioned should not be taught, defended, or excused. Instead, they should be thrown out of our churches and rejected as false and incorrect. These are expressions that were renewed because of the Interim. They originated from it and were again drawn into discussion in times of persecution. This happened when there was special need for a clear, correct confession against all sorts of corruptions and adulterations of the article of justification.
+
+## [PRESERVATION IN THE FAITH]
+
+[30] Third, whether good works preserve salvation, or whether they are necessary for preserving faith, righteousness, and salvation is another issue in dispute. This again is of high and great importance, for “the one who endures to the end will be saved” (Matthew 24:13). Also, “For we share in Christ, if indeed we hold our original confidence firm to the end” (Hebrews 3:14). We must also explain well and precisely how righteousness and salvation are preserved in us, lest salvation be lost again.
+
+[31] Above all, this false Epicurean delusion is to be seriously rebuked and rejected: some imagine that faith, and the righteousness and salvation that they have received, cannot be lost through sins or wicked deeds, not even through willful and intentional ones. They imagine that a Christian retains faith, God’s grace, righteousness, and salvation even though he indulges his wicked lusts without fear and shame, resists the Holy Spirit, and purposely engages in sins against conscience.
+
+[32] Against this deadly delusion the following true, unchangeable, divine threats and severe punishments and warnings should be repeated often and impressed upon Christians who are justified through faith:
+
+Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers. . . will inherit the kingdom of God. (1 Corinthians 6:9–10)
+
+Those who do such things will not inherit the kingdom of God. (Galatians 5:21; see also Ephesians 5:5)
+
+If you live according to the flesh you will die. (Romans 8:13)
+
+On account of these the wrath of God is coming [upon the children of disobedience]. (Colossians 3:6)

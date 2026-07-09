@@ -38,3 +38,21 @@ Almighty and everlasting God, You sent Your Son, our Savior Jesus Christ, to tak
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord IV 14–20
+
+[14] First, regarding the necessity or voluntary nature of good works, it is clear that in the Augsburg Confession and its Apology these expressions are often used and repeated— good works are necessary. Likewise, they say it is necessary to do good works, which necessarily follow faith and reconciliation. Likewise, we necessarily are to do, and must do, the kind of good works God has commanded. In the Holy Scriptures themselves the words necessity, needful, and necessary, as well as ought and must, are used to describe what we are bound to do because of God’s ordinance, command, and will. (See Romans 13:5; 1 Corinthians 9:9; Acts 5:29; John 15:12; 1 John 4:21).
+
+[15] It is for this reason that the sayings and propositions just mentioned (in this Christian and proper understanding) are unfairly condemned and rejected by some people. These sayings should rightly be employed and used to reject the secure, Epicurean delusion. For many create for themselves a dead faith or delusion that lacks repentance and good works. They act as though there could be true faith in a heart at the same time as the wicked intention to persevere and continue in sin [Romans 6:1–2]. This is impossible. Or, they act as though a person could have and keep true faith, righteousness, and salvation even though he is and remains a corrupt and unfruitful tree, from which no good fruit comes at all. In fact, they say this even though a person persists in sins against conscience or purposely engages again in these sins. All of this is incorrect and false.
+
+[16] In this matter the following distinction must be noted. The meaning of these expressions must be a necessity based on Christ’s ordinance, command, and will and based on our obligation, but not a necessity based on coercion. In other words, when the word necessary is used, it should be understood not as force, but only as the order of God’s unchanging will, whose debtors we are.
+
+[17] His commandment points out that the creature should be obedient to its Creator. In other places (2 Corinthians 9:7; Philemon 14; and 1 Peter 5:2) something is said to be of necessity that is wrung from a person against his will, by force or otherwise, so that he acts outwardly for the sake of appearance, but without and against his will. God does not want such ‹hypocritical› works. The people of the New Testament are to be a willing people (Psalm 110:3) and sacrifice freely (Psalm 54:6), “not reluctantly or under compulsion” (2 Corinthians 9:7). They are to be “obedient from the heart” (Romans 6:17), “for God loves a cheerful giver” (2 Corinthians 9:7).
+
+[18] In this understanding, and in this sense, it is correctly said and taught that truly good works should be done willingly, or from a voluntary spirit, by those whom God’s Son has made free. The dispute about the voluntary nature of good works was engaged in by some people specifically to make this point.
+
+[19] Here, again, it is well to note the distinction that St. Paul makes in Romans 7:22–23:
+
+For I delight in the law of God, in my inner being, but I see in my members another law [that is not only unwilling or disinclined, but also] waging war against the law of my mind.
+
+Regarding the unwilling and rebellious flesh, Paul says, “I discipline my body and keep it under control” (1 Corinthians 9:27) and “those who belong to Christ Jesus have crucified [slain] the flesh with its passions and desires” (Galatians 5:24). (See also Romans 8:13.)
+
+[20] When it is asserted and taught that good works are free to believers in the sense that they are optional for them to do or not to do, this is false, and must be rejected. It is false to say that believers might or could act against ‹God’s Law› and still have faith and God’s favor and grace.

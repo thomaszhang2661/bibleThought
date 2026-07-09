@@ -46,3 +46,21 @@ Almighty God, in Your mercy so guide the course of this world that we may forgiv
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 69–72
+
+[69] Some Christians have a weak faith and are shy, troubled, and heartily terrified because of the great number of their sins. They think that in their great impurity they are not worthy of this precious treasure and Christ’s benefits. They feel their weakness of faith and lament it, and from their hearts desire that they may serve God with stronger, more joyful faith and pure obedience. These are the truly worthy guests for whom this highly venerable Sacrament has been especially instituted and appointed.
+
+[70] For Christ says:
+
+Come to Me, all who labor and are heavy laden, and I will give you rest. (Matthew 11:28)
+
+Those who are well have no need of a physician, but those who are sick. (Matthew 9:12)
+
+[God’s] power is made mighty in the weak. [2 Corinthians 12:9 Luther]
+
+As for the one who is weak in faith, welcome him; . . . for God has welcomed him. [Romans 14:1–3]
+
+Whoever believes in [the Son of God, be it with a strong or with a weak faith,] may have eternal life. [John 3:15]
+
+[71] Worthiness does not depend on the greatness or smallness, the weakness or strength of faith. Instead, it depends on Christ’s merit, which the distressed father of little faith [Mark 9:24] enjoyed as well as Abraham, Paul, and others who have a joyful and strong faith.
+
+[72] Let the foregoing be said of the true presence and twofold partaking of Christ’s body and blood. These happen either through faith, spiritually, or also orally, both by the worthy and the unworthy.

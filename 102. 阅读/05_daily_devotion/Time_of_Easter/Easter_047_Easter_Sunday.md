@@ -34,3 +34,35 @@ Almighty God the Father, through Your only-begotten Son, Jesus Christ, You have 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VI 7–14
+
+[7] However, believers are not renewed in this life perfectly or completely. Their sin is covered by Christ’s perfect obedience, so that it is not charged against believers for condemnation. Also, the putting to death of the old Adam [Romans 6:6] and the renewal in the spirit of their mind [Ephesians 4:23] is begun through the Holy Spirit. Nevertheless, the old Adam still clings to them in their nature and all its inward and outward powers.
+
+[8] The apostle has written about this:
+
+For I know that nothing good dwells in me, that is, in my flesh. (Romans 7:18)
+
+I do not understand my own actions. For I do not do what I want, but I do the very thing I hate. (Romans 7:15)
+
+But I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members. (Romans 7:23)
+
+For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do. (Galatians 5:17)
+
+[9] Because of these fleshly lusts, God’s truly believing, elect, and regenerate children need the daily instruction and admonition, warning, and threatening of the Law in this life. But they also need frequent punishments. So they will be roused, ‹the old man driven out of them,› and they will follow God’s Spirit, as it is written:
+
+It is good for me that I was afflicted, that I might learn Your statutes. (Psalm 119:71)
+
+But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified. (1 Corinthians 9:27)
+
+If you are left without discipline, in which all have participated, then you are illegitimate children and not sons. (Hebrews 12:8)
+
+[21] Dr. Luther has fully explained this at greater length in the Summer Part of the Church Postil, on the Epistle for the Nineteenth Sunday after Trinity.
+
+[10] We must also explain clearly what the Gospel does, produces, and works toward the new obedience of believers. We must also explain the Law’s office in this matter, regarding believers’ good works.
+
+[11] The Law indeed says it is God’s will and command that we should walk in a new life [Romans 6:4]. But it does not give the power and ability to begin and to do it. The Holy Spirit renews the heart. He is given and received, not through the Law, but through the preaching of the Gospel (Galatians 3:14).
+
+[12] Thereafter, the Holy Spirit uses the Law in order to teach the regenerate from it and to point out and show them in the Ten Commandments what is the “will of God, what is ‹good and› acceptable and perfect” (Romans 12:2) in what “good works, which God prepared beforehand, that we should walk” (Ephesians 2:10). He encourages them to this. When they are idle, negligent, and rebellious in this matter because of the flesh, He rebukes them through the Law. So the Spirit carries out both offices together: He slays and makes alive [Deuteronomy 32:39]. He leads into hell and brings up again. For His office is not only to comfort, but also to rebuke. For it is written, “when [the Holy Spirit] comes, He will convict the world [which includes also the old Adam] concerning sin and righteousness and judgment” [John 16:8].
+
+[13] Sin is everything that is contrary to God’s Law.
+
+[14] St. Paul says, “All Scripture is breathed out by God and profitable for teaching, for reproof” [2 Timothy 3:16], and to rebuke is the Law’s special office. Therefore, as often as believers stumble, they are rebuked by the Holy Spirit from the Law. By the same Spirit they are raised up and comforted again with the preaching of the Holy Gospel.

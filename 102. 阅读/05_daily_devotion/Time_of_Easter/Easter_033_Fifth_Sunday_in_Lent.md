@@ -48,3 +48,19 @@ Almighty God, by Your great goodness mercifully look upon Your people that we ma
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord III 54–58
+
+[54] The dispute about God’s essential righteousness dwelling in us must also be correctly explained. In the elect (who are justified by Christ and reconciled with God), God the Father, Son, and Holy Spirit (who is the eternal and essential righteousness) dwells by faith. (For all Christians are temples of God [1 Corinthians 3:16–17] the Father, Son, and Holy Spirit, who also moves them to do right.) Yet this indwelling of God is not the righteousness of faith St. Paul describes and that he calls God’s righteousness for the sake of which we are declared righteous before God. But it comes after the righteousness of faith, which is nothing else than the forgiveness of sins and the gracious adoption of the poor sinner for the sake of Christ’s obedience and merit alone.
+
+[55] In our churches it is acknowledged among the theologians of the Augsburg Confession that all our righteousness is to be sought outside the merits, works, virtues, and worthiness of ourselves and of all people. Our righteousness rests alone on Christ the Lord. Therefore, how Christ is called our Righteousness in this matter of justification must be carefully considered. I mean, that our righteousness rests not on one or the other nature in Christ, but on Christ’s entire person, who as God and man is our Righteousness in His only, entire, and complete obedience.
+
+[56] Even if Christ had been conceived and born without sin by the Holy Spirit and had fulfilled all righteousness in His human nature alone, and yet had not been true and eternal God, this obedience and suffering of His human nature could not be credited to us for righteousness. Also, if God’s Son had not become man, the divine nature alone could not be our righteousness. Therefore, we believe, teach, and confess that the entire obedience of Christ’s entire person (which He has offered to the Father for us, even to His most humiliating death on the cross) is credited to us for righteousness. For the human nature alone, without the divine, could not by obedience or suffering make satisfaction to eternal, almighty God for the sins of all the world. However, the divinity alone, without the humanity, could not mediate between God and us.
+
+[57] As mentioned above, the obedience not only of one nature, but of the entire person, is a complete satisfaction and atonement for the human race. By this obedience God’s eternal, unchangeable righteousness, revealed in the Law, has been satisfied. So our righteousness benefits us before God and is revealed in the Gospel. Faith relies on this before God, which God credits to faith, as it is written in Romans 5:19:
+
+For as by the one man’s disobedience the many were made sinners, so by the one man’s obedience the many will be made righteous.
+
+The blood of Jesus His Son cleanses us from all sin. (1 John 1:7)
+
+The righteous shall live by his faith. (Habakkuk 2:4 [see also Romans 1:17])
+
+[58] Neither Christ’s divine nor human nature by itself is credited to us for righteousness, but only the obedience of the person who is at the same time God and man. And faith thus values Christ’s person because it was made under the Law [Galatians 4:4] for us and bore our sins, and, in His going to the Father, He offered to His heavenly Father for us poor sinners His entire, complete obedience. This extends from His holy birth even unto death. In this way, He has covered all our disobedience, which dwells in our nature, and its thoughts, words, and works. So disobedience is not charged against us for condemnation. It is pardoned and forgiven out of pure grace alone, for Christ’s sake.

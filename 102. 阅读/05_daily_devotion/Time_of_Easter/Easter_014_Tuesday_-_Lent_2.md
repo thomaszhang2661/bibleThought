@@ -48,3 +48,35 @@ Heavenly Father, though we do not deserve Your goodness, still You provide for a
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord II 9–13
+
+[9] First, mankind’s reason or natural intellect does still have a dim spark of the knowledge that there is a God. It also knows about the doctrine of the Law (Romans 1:19–21, 24, 32). Yet it is so ignorant, blind, and perverted that even when the most ingenious and learned people on earth read or hear the Gospel of God’s Son and the promise of eternal salvation, they cannot by their own powers perceive, apprehend, understand, or believe and regard it as true. They want to understand these spiritual things with their reason. But the more diligently and seriously they try, the less they understand or believe. Before they become enlightened and are taught by the Holy Spirit, they regard all this only as foolishness or fictions.
+
+[10] The natural person does not accept the things of the Spirit of God, for they are folly to him. (1 Corinthians 2:14)
+
+For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe. (1 Corinthians 1:21)
+
+Now this I say and testify in the Lord, that you must no longer walk as the Gentiles [that is, those not born again of God’s Spirit] do, in the futility of their minds. They are darkened in their understanding, alienated from the life of God because of the ignorance that is in them, due to their hardness of heart. (Ephesians 4:17–18)
+
+To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given.... This is why I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand. (Matthew 13:11–13; see also Luke 8:18)
+
+No one understands; no one seeks for God. All have turned aside; together they have become worthless; no one does good, not even one. (Romans 3:11–12)
+
+The Scriptures flatly call natural man in spiritual and divine things darkness (Ephesians 5:8; Acts 26:18). John 1:5 says, “The light shines in the darkness” (that is, in the dark, blind world, which does not know or regard God), “and the darkness has not overcome it.” Likewise, the Scriptures teach that a sinful person is not only weak and sick, but also finished and entirely dead (Ephesians 2:1–5; Colossians 2:13).
+
+[11] Now, a person who is physically dead cannot from his own powers prepare or make himself come back to life again. So the person who is spiritually dead in sins cannot by his own strength make or apply himself to acquire spiritual and heavenly righteousness and life. This is true unless he is delivered and brought to life by God’s Son from the death of sin.
+
+[12] The Scriptures deny to the intellect, heart, and will of the natural man all readiness, skill, capacity, and ability to think, to understand, to be able to do, to begin, to will, to undertake, to act, to work, or to agree to work anything good and right in spiritual things from himself.
+
+Not that we are sufficient in ourselves to claim anything as coming from us, but our sufficiency is from God. (2 Corinthians 3:5)
+
+Together they have become worthless. (Romans 3:12)
+
+My word finds no place in you. (John 8:37)
+
+The darkness has not overcome it [the light]. (John 1:5)
+
+“The natural person does not accept [or, as the Greek word properly signifies, grasps not, comprehends not, accepts not] the things of the Spirit of God” (1 Corinthians 2:14). This means he is not capable of spiritual things. For they are foolishness to him; neither can he know them.
+
+[13] Much less will he truly believe the Gospel or agree with it and regard it as truth.
+
+For the mind that is set on the flesh [or the mind of the natural man] is hostile to God, for it does not submit to God’s law; indeed, it cannot. (Romans 8:7)

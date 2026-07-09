@@ -48,3 +48,17 @@ Lord Jesus Christ, our great High Priest, cleanse us by the power of Your redeem
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord III 24–29
+
+[24] If the article of justification is to remain pure, the greatest attention must be given with special diligence. Otherwise, what comes before faith, and what follows after it, will be mixed together or inserted into the article of justification as necessary and belonging to it. For it is not one and the same thing to talk about conversion and to talk about justification.
+
+[25] Not everything that belongs to conversion also belongs to the article of justification. Only God’s grace, Christ’s merit, and faith belong and are necessary to the article of justification. Faith receives these blessings in the promise of the Gospel, by which Christ’s righteousness is credited to us. From this we receive and have forgiveness of sins, reconciliation with God, sonship, and are made heirs of eternal life.
+
+[26] True, saving faith is not in people who lack contrition and sorrow and who have a wicked plan to remain and continue in sins. But true contrition comes first, and genuine faith is in or with true repentance.
+
+[27] Love is a fruit that surely and necessarily also follows true faith. The fact that a person does not love is a sure sign that he is not justified. He is still in death or has lost the righteousness of faith again, as John says (1 John 3:14). But Paul says [in Romans 3:28], “For we hold that one is justified by faith apart from works of the law.” He shows that neither the contrition that comes first, nor the works that follow, belong in the article or action of justification by faith. Good works do not come before justification, but follow it. A person must first be justified before he can do good works.
+
+[28] In the same way, renewal and sanctification also do not belong in the article or matter of justification before God, even though it is a benefit of the Mediator, Christ, and a work of the Holy Spirit. Sanctification follows justification since, on account of our corrupt flesh, sanctification is not entirely perfect and complete in this life. Dr. Luther writes well about this in his beautiful and large commentary on the Epistle to the Galatians, in which he says the following:
+
+[29] We concede that good works and love must also be taught; but this must be in its proper time and place, that is, when the question has to do with works, apart from this chief doctrine. But here the point at issue is how we are justified and attain eternal life. To this we answer with Paul: We are pronounced righteous solely by faith in Christ, not by the works of the Law or by love. This is not because we reject works or love, as our adversaries accuse us of doing, but because we refuse to let ourselves be distracted from the principal point at issue here, as Satan is trying to do. So since we are now dealing with the topic of justification, we reject and condemn works; for this topic will not allow of any discussion of good works. On this issue, therefore, we simply cut off all laws and all works of the Law. [LW 26:137]
+
+That’s what Luther says.

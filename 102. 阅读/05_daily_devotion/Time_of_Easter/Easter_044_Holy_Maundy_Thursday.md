@@ -40,3 +40,21 @@ O Lord, in this wondrous Sacrament You have left us a remembrance of Your passio
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord V 16–22
+
+[16] In order that everyone may see that we conceal nothing in the disagreement we are describing, we present the matter to the eyes of the Christian reader plainly and clearly:
+
+[14] We unanimously believe, teach, and confess that the Law is properly a divine doctrine in which God’s righteous, unchangeable will is revealed. It shows what the quality of a person should be in his nature, thoughts, words, and works, in order that he may be pleasing and acceptable to God. It also threatens its transgressors with God’s wrath and temporal and eternal punishments. For as Luther writes against the lawstormers [Antinomians]:
+
+Everything that reproves sin is and belongs to the Law. Its peculiar office is to rebuke sin and to lead to the knowledge of sins (Romans 3:20; 7:7).
+
+Because unbelief is the root and wellspring of ‹all sins that must be rebuked and reproved›, the Law rebukes unbelief also.
+
+[18] It is true that the Law with its doctrine is illustrated and explained by the Gospel. Nevertheless, it remains the Law’s peculiar office to rebuke sins and teach about good works.
+
+[19] The Law rebukes unbelief, that is, when people do not believe God’s Word. Now the Gospel is God’s Word, and it alone properly teaches and commands people to believe in Christ. The Holy Spirit, through the Law’s office, also rebukes unbelief, that is, when people do not believe in Christ.
+
+[20] Yet it is properly the Gospel alone that teaches about saving faith in Christ. Now, a person has not kept God’s Law, but has transgressed it when his corrupt nature, thoughts, words, and works fight against it. Therefore, he is under God’s wrath, death, all temporal calamities, and the punishment of hellfire. The Gospel is properly a doctrine that teaches what a person should believe, so that he receives forgiveness of sins with God. In other words, it teaches that God’s Son, our Lord Christ, has taken upon Himself and borne the Law’s curse and has atoned and paid for all our sins. Through Him alone we again enter into favor with God, receive forgiveness of sins through faith and are delivered from death and all the punishments of sins, and are eternally saved.
+
+[21] Everything that comforts, that offers God’s favor and grace to transgressors of the Law, is, and is properly called, the Gospel. It is a good and joyful message that God will not punish sins, but will forgive them for Christ’s sake.
+
+[22] Every penitent sinner ought to believe (i.e., place his confidence) in the Lord Christ alone. For Christ “was delivered up for our trespasses and raised for our justification” (Romans 4:25). “He made Him to be sin who knew no sin, so that in Him we might become the righteousness of God” (2 Corinthians 5:21), “whom God made our wisdom and our righteousness and sanctification and redemption” (1 Corinthians 1:30). His obedience is credited to us for righteousness before God’s strict court, so that the Law, as set forth above, is a ministry that kills through the letter and preaches condemnation (2 Corinthians 3:6, 9). The Gospel “is the power of God for salvation to everyone who believes” (Romans 1:16), which preaches righteousness and gives the Spirit (1 Corinthians 1:18; Galatians 3:2). Dr. Luther taught this distinction with special diligence in nearly all his writings and has properly shown that the knowledge of God from the Gospel is far different from that which is taught and learned from the Law. Even the pagans, to a certain extent, had a knowledge of God from the natural law. But they neither knew Him nor glorified Him correctly (Romans 1:19–32) [LW 22:150–54].

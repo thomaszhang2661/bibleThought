@@ -6,8 +6,6 @@ Prayer
 
 THE LORD’S PRAYER
 
-Note: As Christians, prayer is a constant in our life, for we are always in need of God’s mercy. Christ gave us the Lord’s Prayer so that we will both know how to pray and for what to pray. Prayer is a habit for the Christian, but experience teaches that it is a habit easily broken. While mindless and unthinking repetition presents a problem, repeating the same prayer throughout one’s life does not. In his Small Catechism, Luther advises the use of set forms and patterns of prayer and recommends devoting times throughout each day to pray the Lord’s Prayer. Because the prayer Jesus taught us is God’s Word, we know He loves to hear it. True prayer is never offered to earn or merit God’s favor, but rather flows from a heart that is justified through faith. Luther urges the development of good prayer habits that begin in childhood. Prayer is the Christian’s weapon against the devil’s many temptations.
-
 [1] We have now heard what we must do and believe, in what things the best and happiest life consists. Now follows the third part, how we ought to pray.
 
 [2] For we are in a situation where no person can perfectly keep the Ten Commandments, even though he has begun to believe. The devil with all his power, together with the world and our own flesh, resists our efforts. Therefore, nothing is more necessary than that we should continually turn towards God’s ear, call upon Him, and pray to Him. We must pray that He would give, preserve, and increase faith in us and the fulfillment of the Ten Commandments [2 Thessalonians 1:3]. We pray that He would remove everything that is in our way and that opposes us in these matters.
@@ -78,8 +76,6 @@ Note: As Christians, prayer is a constant in our life, for we are always in need
 
 THE FIRST PETITION
 
-Note: We pray using the name given us in our Baptism, by which God makes us a part of Himself. God’s name is holy among us when we believe, teach, and live according to His Word. In the worst possible way God’s name is profaned among us when men preach and teach contrary to God’s Word and when people live an openly evil life. Luther’s highest concern is that God’s name be kept holy through genuine biblical teaching, in contrast to all the false teaching in the world. Luther’s hymn “Lord, Keep Us Steadfast in Your Word” is a powerful application of these truths.
-
 [35] Hallowed be Thy name.
 
 [36] This is, indeed, somewhat difficult, and not expressed in good German. For in our mother tongue we would say, “Heavenly Father, help us in every way so that Your name may be holy.”
@@ -114,8 +110,6 @@ Answer, as plainly as it can be said: “When both our doctrine and life are god
 
 THE SECOND PETITION
 
-Note: In this petition, we are praying to God that the kingdom of Christ will come and remain among us, both in this life and finally on the Last Day. We ask God that we will remain faithful and daily grow in His grace, so that many more will come to Christ’s kingdom. This petition shows that God wants us to ask not only for small cares and needs of life but also for great things from Him. If God invites us to pray for such great and wonderful things as His kingdom of grace, surely He will provide also for our daily needs.
-
 Thy kingdom come.
 
 [49] In the First Petition we prayed about God’s honor and name. We prayed that He would prevent the world from adorning its lies and wickedness with God’s name, but that He would cause His name to be valued as great and holy both in doctrine and life, so that He may be praised and magnified in us. Here we pray that His kingdom also may come.
@@ -142,8 +136,6 @@ Answer, “Nothing other than what we learned in the Creed: God sent His Son, Je
 
 THE THIRD PETITION
 
-Note: By faith we cling to God’s holy name and His holy kingdom. But evil opposes us and tries to snatch God’s kingdom from us. Luther says we pray that God will work His will among us and protect and keep us safe from our old sinful flesh and from all the evil in the world. The devil will spare no effort to make us fall away from God’s kingdom. We Christians bear a holy cross: temptations, dangers, and intense struggle throughout our life. It is foolish for us to think that a Christian’s life is easy. Therefore, we ask God to work His gracious will for us and to provide us with the strength we need.
-
 [59] Thy will be done on earth as it is in heaven.
 
 [60] So far we have prayed that God’s name be honored by us and that His kingdom triumph among us. In these two points is summed up all that deals with God’s honor and our salvation. We receive God as our own and all His riches. But now arises a need that is just as great: we must firmly keep God’s honor and our salvation, and not allow ourselves to be torn from them.
@@ -169,8 +161,6 @@ Note: By faith we cling to God’s holy name and His holy kingdom. But evil oppo
 [70] We have this comfort and confidence: the devil’s will and purpose and all our enemies shall and must fail and come to nothing, no matter how proud, secure, and powerful they know themselves to be. For if their will were not broken and hindered, God’s kingdom could not remain on earth nor His name be hallowed.
 
 THE FOURTH PETITION
-
-Note: “Daily Bread” encompasses everything we need for our life here on earth. Luther explains in this petition that our greatest need is good governing authorities. Through them God provides us with what we need for this body and life. Nothing in this life will be “good” unless we live in peace and security; history readily proves Luther’s point. The devil is intent on thwarting good government and causing unrest and turmoil. Yet God gives daily necessities even to the wicked. God wants us to pray for them too, so that we recognize that He gives us all good things as a gracious gift.
 
 [71] Give us this day our daily bread.
 
@@ -202,8 +192,6 @@ Note: “Daily Bread” encompasses everything we need for our life here on eart
 
 THE FIFTH PETITION
 
-Note: God forgives our sins, even if we do not realize it. In this petition, we pray for forgiveness so that we recognize and accept this gift from God. We need this petition so that our conscience will be strengthened in the struggle against sin. The phrase “as we forgive those who sin against us” is added so that we will extend God’s gracious forgiveness to others who sin against us. By doing so we exhibit God’s forgiveness to us.
-
 [85] And forgive us our trespasses as we forgive those who trespass against us.
 
 [86] This part now applies to our poor miserable life. Although we have and believe God’s Word, do and submit to His will, and are supported by His gifts and blessings, our life is still not sinless. We still stumble daily and transgress because we live in the world among people. They do us much harm and give us reasons for impatience, anger, revenge, and such.
@@ -234,8 +222,6 @@ Note: God forgives our sins, even if we do not realize it. In this petition, we 
 
 THE SIXTH PETITION
 
-Note: In this petition, Luther sets forth the three-fold source of temptation: our sinful human flesh, the world around us, and the devil. Luther identifies our sinful human nature as the “old Adam,” a biblical metaphor for our sinful flesh, as opposed to the “new man,” which we have been given by the new Adam, Christ. Luther distinguishes between feeling temptation to sin and giving in to sin. We all are tempted in various ways, according to our age and situation in life. We pray in this petition that the Lord will provide a way out of temptation and graciously help us so that we do not sin.
-
 [99] And lead us not into temptation.
 
 [100] We have now heard enough about what toil and labor is needed to keep all that we pray for and to persevere. This, however, is not done without weakness and stumbling. Although we have received forgiveness and a good conscience and are entirely acquitted, yet our life is of such a nature that we stand today, and tomorrow we fall [Isaiah 40:6–8]. Therefore, even though we are godly now and stand before God with a good conscience, we must pray again that He would not allow us to fall again and yield to trials and temptations.
@@ -263,8 +249,6 @@ Note: In this petition, Luther sets forth the three-fold source of temptation: o
 [111] If you try to help yourself by your own thoughts and counsel, you will only make the matter worse and give the devil more space. For he has a serpent’s head [Revelation 12:9]. If it finds an opening into which it can slip, the whole body will follow without stopping. But prayer can prevent him and drive him back.
 
 THE SEVENTH AND LAST PETITION
-
-Note: Luther rightly notes that the original Greek says, “Deliver us from the evil one.” The devil is the sum of all evil. In this petition, we pray that God will rescue us from any and all forms of the devil’s tricks and plots to make us sin and fall away from God. Luther had a very vivid and realistic view of the devil’s active presence and power in this world. The Bible speaks of the devil prowling around like a roaring lion, seeking people to devour. We should note that Luther does not offer an explanation for the common conclusion to the Lord’s Prayer familiar to most Protestant Christians: “For Thine is the kingdom . . .” (1 Chronicles 29:11–13). These words are not necessarily part of the original text of the Lord’s Prayer and may have been inserted into later copies of the Gospel (perhaps in the second century). Nevertheless, they are fine and appropriate words. But the Lord’s Prayer, as prayed in Luther’s time and still often among Roman Catholics today, concludes simply with this Seventh Petition. Amen is a hearty “Yes! May it be so!” that we say in faith, believing that God will hear and answer our prayer in and through Christ.
 
 [112] But deliver us from evil. Amen.
 

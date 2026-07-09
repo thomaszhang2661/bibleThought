@@ -52,3 +52,9 @@ Almighty and ever-living God, You fulfilled Your promise by sending the gift of 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord XI 94–96
+
+[94] So much for the controversial articles that have been discussed for many years among the theologians of the Augsburg Confession. Some have erred and severe controversies, that is, religious disputes, have arisen in these articles.
+
+[95] From our explanation, friends and enemies and, therefore, everyone, may clearly see that we have no intention of yielding any part of God’s eternal, immutable truth for the sake of temporal peace, tranquility, and unity (which is not in our power to do anyway). Such peace and unity would have no permanence, since it is devised against the truth and for its suppression. We are even less willing to adorn and conceal a corruption of the pure doctrine and clear, condemned errors.
+
+[96] We do yearn with heartfelt pleasure and love for unity. On our part, we are sincerely willing and anxious to advance that unity (according to our utmost power) by which God’s glory remains unharmed. We willingly advance unity where nothing of the divine truth of the Holy Gospel is surrendered, no room is given to the least error, and poor sinners are brought to true, genuine repentance, raised up by faith, confirmed in new obedience, and justified and eternally saved alone through the sole merit of Christ.

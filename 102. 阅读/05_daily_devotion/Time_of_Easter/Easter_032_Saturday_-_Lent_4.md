@@ -51,3 +51,23 @@ Lord Jesus Christ, Your body was anointed with holy oil by the woman at the hous
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord III 44–53
+
+[44] Let this be enough, according to the plan of this document, as a summary explanation of the doctrine of justification by faith. For this is described at length in the above-mentioned writings. From these, the antitheses (i.e., the false contrary doctrines) also are clear. In other words, in addition to the errors listed above, the following and similar errors must be rebuked, exposed, and rejected, since they conflict with the explanation now published, as when it is taught:
+
+[45] 1. Our love or good works are a merit or cause of justification before God, either entirely or at least in part.
+
+[46] 2. Or by good works a person must make himself worthy and fit so that Christ’s merit may be given to him.
+
+[47] 3. Our real righteousness before God is the love or renewal the Holy Spirit works in us and which is in us.
+
+[48] 4. Or two things or parts belong to the righteousness of faith before God: (a) the gracious forgiveness of sins, and then, (b) renewal or sanctification.
+
+[49] 5. Faith justifies only initially, either in part or primarily, and that our newness or love justifies even before God, either completely or secondarily.
+
+[50] 6. Believers are justified before God, or are righteous before God, both by credit and by beginning to act righteous at the same time, or partly by the credit of Christ’s righteousness and partly by the beginning of new obedience.
+
+[51] 7. The application of the promise of grace happens both by faith of the heart and confession of the mouth, and also by other virtues. This means that faith makes righteous for this reason alone, that righteousness is begun in us by faith, or (in this way) that faith takes the first step in justification. Nevertheless, renewal and love also belong to our righteousness before God. However, love belongs in such a way that it is not the chief cause of our righteousness. But our righteousness before God is not entire and complete without such love and renewal. Likewise, believers are justified and righteous before God at the same time by the righteousness given by Christ and the initial, new obedience, or in part by the crediting of Christ’s righteousness and in part by beginning new obedience. Likewise, the promise of grace is gained for us by faith in the heart and confession made with the mouth, and by other virtues.
+
+[52] This is incorrect—a person must be saved in some other way or through something other than justification before God. So we are indeed justified before God through faith alone, without works. But it is impossible to be saved without works or obtain salvation without works.
+
+[53] This is false because it is directly opposed to the declaration of Paul, “[Blessed is] the one to whom God counts righteousness apart from works” (Romans 4:6). Paul’s reason is that we receive both salvation and righteousness in one and the same way. In fact, when we are justified through faith, we receive adoption at the same time and are made heirs of eternal life and salvation. For this reason Paul uses and emphasizes the exclusive terms, that is, those words by which works and our own merits are entirely excluded. He uses “by grace,” “apart from works,” as forcibly in the article about salvation as in the article about righteousness.

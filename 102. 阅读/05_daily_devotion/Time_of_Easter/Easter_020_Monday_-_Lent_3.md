@@ -34,3 +34,29 @@ Lord Jesus Christ, our support and defense in every need, continue to preserve Y
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord II 48–54
+
+[48] For this reason we will now explain further from God’s Word how (a) a person is converted to God; (b) how and through what means (namely, through the oral Word and the holy Sacraments) the Holy Spirit wants to be effective in us, to work and bestow in our hearts true repentance, faith, and new spiritual power and the ability to do good; and (c) how we should respond to these means and use them.
+
+[49] It is not God’s will that anyone should be damned, but that all people should be converted to Him and be saved eternally [2 Peter 3:9].
+
+Say to them, As I live, declares the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live. (Ezekiel 33:11)
+
+For God so loved the world, that He gave His only Son, that whoever believes in Him should not perish but have eternal life. [John 3:16]
+
+[50] Out of His immense goodness and mercy, God provides for the public preaching of His divine eternal Law and His wonderful plan for our redemption, that of the holy, only saving Gospel of His eternal Son, our only Savior and Redeemer, Jesus Christ. By this preaching He gathers an eternal Church for Himself from the human race and works in people’s hearts true repentance, knowledge of sins, and true faith in God’s Son, Jesus Christ. By this means, and in no other way (i.e., through His holy Word, when people hear it preached or read it, and through the holy Sacraments when they are used according to His Word), God desires to call people to eternal salvation. He desires to draw them to Himself and convert, regenerate, and sanctify them.
+
+[51] For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe. (1 Corinthians 1:21)
+
+[Peter] will tell you what you must do. (Acts 10:6)
+
+So faith comes from the preaching (der Predigt) and preaching through the Word of Christ (Romans 10:17 Luther).
+
+Sanctify them in the truth; Your word is truth.... I do not ask for these only, but also for those who will believe in Me through their word. (John 17:17–20)
+
+The eternal Father calls down from heaven about His dear Son and about all who preach repentance and forgiveness of sins in His name, “Listen to Him” (Matthew 17:5).
+
+[52] All who want to be saved ought to listen to this preaching. For the preaching and hearing of God’s Word are the Holy Spirit’s instruments. By, with, and through these instruments the Spirit desires to work effectively, to convert people to God, and to work in them both to will and to do [Philippians 2:13].
+
+[53] A person can hear and read this Word outwardly, even though he is not yet converted to God and regenerate. As said above, a person even since the fall has a free will to a certain extent in these outward things. So he can go to church and listen or not listen to the sermon.
+
+[54] God works through this means (i.e., the preaching and hearing of His Word). He breaks our hearts [Jeremiah 4:3–4] and draws us to Him [John 6:44]. Through the preaching of the Law, a person comes to know his sins and God’s wrath. He experiences in his heart true terrors, contrition, and sorrow. Through the preaching of, and reflection on, the Holy Gospel about the gracious forgiveness of sins in Christ, a spark of faith is kindled in him. This faith accepts the forgiveness of sins for Christ’s sake and comforts itself with the Gospel promise. So the Holy Spirit (who does all this) is sent into the heart [Galatians 4:6].

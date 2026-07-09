@@ -39,3 +39,19 @@ Lord Jesus, You took our illnesses and bore our diseases, bringing hope to the s
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 116–123
+
+[116] 5. Or, they are no more than tokens or memorials of Christ’s absent body. By these signs, as an external pledge, we should be assured that faith turns from the Supper and ascends beyond all heavens. There above a person truly partakes of Christ’s body and blood as he truly receives the outward signs with the mouth in the Supper. So the assurance and confirmation of our faith happen in the Supper only through the outward signs and not through Christ’s true, present body and blood offered to us.
+
+[117] 6. Or, in the Supper the power, effectiveness, and merit of Christ’s far-absent body are distributed only to those who have faith. We become partakers of His absent body. In this way just mentioned, the sacramental union is to be understood with respect to the analogy of the sign and what is signified. This means the bread and wine have a resemblance to Christ’s body and blood.
+
+[118] 7. Or, Christ’s body and blood can only be received and partaken of spiritually, through faith.
+
+[119] 8. It is taught that because of His ascension into heaven, Christ is enclosed and restricted by His body in a definite place in heaven. He cannot or will not be truly present with us in the Supper, which is celebrated according to Christ’s institution on earth. But He is as far and remote from it as heaven and earth are from each other. Some Sacramentarians have willfully and wickedly falsified the text “Christ must occupy heaven” (see Acts 3:21) for the confirmation of their error. Instead of this translation they have rendered it “Christ must be received or be restricted and enclosed by heaven or in heaven,” so that in His human nature He can or will in no way be with us on earth.
+
+[120] 9. Christ has not promised the true, essential presence of His body and blood in His Supper. He cannot and will not give it, because the nature and property of His received human nature could not allow or permit it.
+
+[121] 10. It is taught that not only Christ’s Word and omnipotence, but also faith makes Christ’s body present in the Supper. For this reason the words of institution in the administration of the Supper are omitted by some. The papistic consecration is rightly rebuked and rejected, in which the power to produce a Sacrament is credited to the speaking as the priest’s work. Yet the words of institution can or should in no way be left out of the administration of the Supper, as is shown in the preceding declaration.
+
+[122] 11. Believers are not to seek, by reason of the words of Christ’s institution, Christ’s body with the bread and wine of the Supper. Instead, they are directed with their faith away from the bread of the Supper to heaven, to the place where the Lord Christ is with His body, that they should become partakers of it there.
+
+[123] 12. We reject the teaching about unbelieving and impenitent, wicked Christians who bear Christ in name only, but do not have the right, true, living, and saving faith. Some teach that they do not receive Christ’s body and blood in the Supper, but only bread and wine. And since there are only two kinds of guests found at this heavenly meal, the worthy and the unworthy, we reject the distinction made among the unworthy. Some assert that when using the Holy Supper the godless Epicureans and scoffers at God’s Word (who are in the Church’s outward fellowship) do not receive Christ’s body and blood for condemnation, but they only receive bread and wine.

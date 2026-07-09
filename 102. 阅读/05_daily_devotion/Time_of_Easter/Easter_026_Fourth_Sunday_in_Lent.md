@@ -44,3 +44,21 @@ Almighty God, our heavenly Father, Your mercies are new every morning; and thoug
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord III 1–7
+
+[1] The third controversy that has arisen among some theologians of the Augsburg Confession is about the righteousness of Christ or of faith, which God credits by grace, through faith, to poor sinners for righteousness.
+
+[2] One side has contended that the righteousness of faith, which the apostle calls God’s righteousness, is God’s essential righteousness. They say this is Christ Himself as God’s true, natural, and essential Son, who dwells in the elect by faith and moves them to do right. And so He is their righteousness. Compared with this great ocean of righteousness, the sins of all people are like a drop of water.
+
+[3] Against this, others have held and taught that Christ is our righteousness according to His human nature alone.
+
+[4] In opposition to both these groups it has been unanimously taught by the other teachers of the Augsburg Confession that Christ is our righteousness not according to His divine nature alone, nor according to His human nature alone, but according to both natures. For He has redeemed, justified, and saved us from our sins as God and man, through His complete obedience. Therefore, the righteousness of faith is the forgiveness of sins, reconciliation with God, and our adoption as God’s children only on account of Christ’s obedience. Christ’s obedience alone —out of pure grace—is credited for righteousness through faith alone to all true believers. They are absolved from all their unrighteousness by this obedience.
+
+[5] Besides this controversy, other disputes have been caused and stirred up because of the Interim. Other disputes about the article of justification will be explained in antitheses, that is, listing the errors that are contrary to the pure teaching in this article. [Latin: praecipuus locus; German: höchsten vornehmslen Artickel]
+
+## [JUSTIFICATION BY FAITH]
+
+[6] This article about justification by faith (as the Apology says) is the chief article [see Ap IV 2–3] in all Christian doctrine. Without this teaching no poor conscience can have any firm consolation or truly know the riches of Christ’s grace. Dr. Luther also has written about this:
+
+If this one teaching stands in its purity, then Christendom will also remain pure and good, undivided and unseparated; for this alone, and nothing else, makes and maintains Christendom.... Where this falls, it is impossible to ward off any error or sectarian spirit. [LW 14:37]
+
+[7] Paul says especially about this article, “a little leaven leavens the whole lump” [1 Corinthians 5:6]. Therefore, in this article he zealously and earnestly urges the use of exclusive terms [particulas exclusivas], that is, words that exclude people’s works from justification (i.e., “apart from works of the law,” “apart from works,” “by grace” [Romans 3:28; 4:6; Ephesians 2:8–9]). These show how highly necessary it is that in this article, along with the pure doctrine, the antithesis (i.e., all contrary doctrine) be stated separately, exposed, and rejected by this method.

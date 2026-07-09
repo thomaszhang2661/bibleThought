@@ -48,3 +48,11 @@ O God, You see that of ourselves we have no strength. By Your mighty power defen
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord II 1–4
+
+[1] A division about free will has arisen not only between the papists and us, but also among some theologians of the Augsburg Confession themselves. Therefore, we will, first of all, show exactly the points in controversy.
+
+[2] Mankind’s free will is found and can be considered in four unique conditions. The question now is not what the condition of mankind was before the fall, or what he is able to do in outward things (which apply to this earthly life) since the fall and before his conversion. Also, the question is not what sort of a free will he will have in spiritual things after he has been regenerated and is controlled by God’s Spirit, or when he rises from the dead. The chief question is only this and this alone: What is the intellect and will of the unregenerate person able to do in his conversion and regeneration from his own powers remaining after the fall? Is he able, when God’s Word is preached and God’s grace is offered, to prepare himself for grace, accept the same, and agree with it? This is the question about which there has been a controversy among some theologians in the churches of the Augsburg Confession for quite a number of years now.
+
+[3] One side has held and taught that a person cannot from his own powers fulfill God’s command or truly trust in God, or fear and love Him, without the Holy Spirit’s grace. Nevertheless, a person still has enough of his natural powers left before regeneration that he is able to prepare himself to a certain extent for grace and to agree (although weakly). However, he cannot accomplish anything by these powers, but must give up in the struggle if the Holy Spirit’s grace is not added.
+
+[4] Both the ancient and modern enthusiasts have taught that God converts people and leads them to the saving knowledge of Christ through His Spirit, without any created means and instrument; in other words, without the outward preaching and hearing of God’s Word.

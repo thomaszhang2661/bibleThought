@@ -39,3 +39,15 @@ Lord Jesus, Your kingdom continues to be in our midst as You come to us now thro
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord X 26–31
+
+[26] 1. We reject and condemn as wrong when human rules in themselves are regarded as a service or part of God’s service.
+
+2. We also reject and condemn as wrong cases when these rules are forced on God’s Church as necessary by coercion.
+
+[28] 3. We also reject and condemn as wrong the opinion of those who hold that during persecution we may comply with the enemies of the Holy Gospel (which leads to the detriment of the truth) by restoring such adiaphora, or come to an agreement with them.
+
+[29] 4. We likewise regard it as a sin that deserves to be rebuked when during persecution anything is done that is contrary and opposed to the Christian confession. This includes indifferent matters or doctrine and what otherwise applies to religion, for the sake of the enemies of the Gospel, in word and act.
+
+[30] 5. We also reject and condemn abolishing these adiaphora as though the community of God [Latin: the churches of God] at any time and place in any land was not free to use one or more ceremonies in Christian liberty, according to its circumstances, as may be most useful to the Church.
+
+[31] So the churches will not condemn one another because of differences in ceremonies when, in Christian liberty, one has less or more of them. This applies as long as they are otherwise agreed with one another in the doctrine and all its articles, and also in the right use of the holy Sacraments. This fits the well-known saying, “Disagreement in fasting does not destroy agreement in the faith.”

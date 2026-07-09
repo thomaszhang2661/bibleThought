@@ -43,3 +43,35 @@ Almighty and everlasting God, increase in us Your gifts of faith, hope, and love
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 91–103
+
+[91] Let us consider the Sacramentarians’ various imaginary reasons and futile counter-arguments about the human body’s essential and natural attributes, about Christ’s ascension, about His departure from this world, and the like. These have one and all been refuted thoroughly and in detail, from God’s Word, by Dr. Luther in his polemical writings: Against the Heavenly Prophets, That These Words, “This Is My Body," Still Stand Firm. Likewise, he refutes them in his Large and Brief Confession concerning the Holy Supper and in his other writings. Since his death, nothing new has been advanced by the factious spirits. Therefore, for the sake of brevity we would direct the Christian reader to these writings and refer to them.
+
+[92] We neither will, nor can, nor should allow ourselves to be led away by thoughts of human wisdom. No matter what outward appearance or authority they may have, they cannot lead us away from the simple, distinct, and clear sense of Christ’s Word and testament to a strange opinion, other than what the words read. According to what is stated above, we understand and believe the words simply. Our reasons are those that Dr. Luther himself presented. Upon them we have rested in this matter ever since the controversy about this article arose.
+
+[93] In the very beginning, these reasons were presented against the Sacramentarians in the following words (Dr. Luther in his Confession concerning Christ’s Supper):
+
+My grounds, on which I rest in this matter, are as follows:
+
+[94] The first is this article of our faith, that Jesus Christ is essential, natural, true, complete God and man in one person, undivided and inseparable.
+
+[95] The second, that the right hand of God is everywhere.
+
+[96] The third, that the Word of God is not false or deceitful.
+
+[97] The fourth, that God has and knows various ways to be present at a certain place, not only the single one of which the fanatics prattle, which the philosophers call “local.” [LW 37:214]
+
+[98] ‹Luther also says:›
+
+Thus the one body of Christ has a threefold existence, or all three modes of being at a given place.
+
+[99] First, the circumscribed corporeal mode of presence, as when He walked bodily on earth, when He occupied and yielded space according to His size. He can still employ this mode of presence when He wills to do so, as He did after His resurrection and as He will do on the Last Day, as Paul says in 1 Timothy [6:15], “Whom the blessed God will reveal,” and Colossians 3[:4], “When Christ your life reveals Himself.” He is not in God or with the Father or in heaven according to this mode, as this mad spirit dreams, for God is not a corporeal space or place. The passages which the spiritualists adduce concerning Christ’s leaving the world and going to the Father speak of this mode of presence.
+
+[100] Secondly, the uncircumscribed, spiritual mode of presence according to which He neither occupies nor yields space but passes through everything created as He wills. To use some crude illustrations, my vision passes through and exists in air, light, or water and does not occupy or yield any space; a sound or tone passes through and exists in air or water or a board and a wall and neither occupies nor yields space; likewise light and heat go through and exist in air, water, glass, or crystals and the like, but without occupying or yielding space, and many more like these. He employed this mode of presence when He left the closed grave and came through closed doors, in the bread and wine in the Supper, and, as people believe, when He was born in His mother.
+
+[101] Thirdly, since He is one person with God, the divine, heavenly mode, according to which all created things are indeed much more permeable and present to Him than they are according to the second mode. For if according to the second mode He can be present in and with created things in such a way that they do not feel, touch, measure, or circumscribe him, how much more marvelously will He be present in all created things according to this exalted third mode, where they cannot measure or circumscribe Him but where they are present to Him so that He measures and circumscribes them. You must place this existence of Christ, which constitutes Him one person with God, far, far beyond things created, as far as God transcends them; and on the other hand, place it as deep in and as near to all created things as God is in them. For He is one indivisible person with God, and wherever God is, He must be also, otherwise our faith is false.
+
+[102] But who can explain or even conceive how this occurs? We know indeed that it is so, that He is in God beyond all created things, and is one person with God. But how this happens, we do not know; it transcends nature and reason, even the comprehension of all the angels in heaven, and is known only to God. Since this is true, even though unknown to us, we should not give the lie to His words until we know how to prove certainly that the body of Christ cannot in any circumstances be where God is and that this mode of being is a fiction. Let the fanatics prove it! They will give it up.
+
+[103] I do not wish to have denied by the foregoing that God may have and know still other modes whereby Christ’s body can be in a given place. My only purpose was to show what crass fools our fanatics are when they concede only the first, circumscribed mode of presence to the body of Christ although they are unable to prove that even this mode is contrary to our view. For I do not want to deny in any way that God’s power is able to make a body be simultaneously in many places, even in a corporeal and circumscribed manner. For who wants to try to prove that God is unable to do that? Who has seen the limits of His power? The fanatics may indeed think that God is unable to do it, but who will believe their speculations? How will they establish the truth of that kind of speculation? [LW 37:222–24]
+
+Thus far Luther.

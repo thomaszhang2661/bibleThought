@@ -33,3 +33,11 @@ Almighty and everlasting God, You sent Your Son, our Savior Jesus Christ, to tak
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord IV 37–40
+
+[37] Fourth, regarding the idea that good works are harmful to salvation, we explain ourselves clearly as follows: If anyone wants to drag good works into the article of justification, rest his righteousness or trust for salvation on them, and merit God’s grace and be saved by them, St. Paul himself answers, not us. He says and repeats it three times (Philippians 3:7–8)—such a person’s works are not only useless and a hindrance, but are also harmful. This is not the fault of the good works themselves, but of the false confidence placed in the works, contrary to God’s clear Word.
+
+[38] However, it by no means follows that we are to say simply and flatly: “Good works are harmful to believers’ salvation.” In believers good works are signs of salvation when they are done from true causes and for true ends. That is, in the sense in which God requires them of the regenerate (Philippians 1:20). It is God’s will and clear command that believers should do good works. The Holy Spirit works this in believers, and God is pleased with good works for Christ’s sake. He promises a glorious reward for good works in this life and the life to come.
+
+[39] For this reason, too, this idea is rebuked and rejected in our churches. As a flat statement it is false and offensive. Discipline and decency might be impaired by it, and a barbarous, loose, secure, Epicurean life be introduced and strengthened. A person should avoid what is harmful to his salvation with the greatest diligence.
+
+[40] Christians should not be frightened away from good works, but should be admonished and urged to do them most diligently. Therefore, this bare proposition cannot and must not be tolerated, used, or defended in the Church.

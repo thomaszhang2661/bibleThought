@@ -8,8 +8,6 @@ We may be able to discuss the following articles with learned and reasonable peo
 
 ## Sin
 
-Note: The major point of this article is to make sure that original sin is clearly seen as the root cause of all sin. Roman doctrine denied that even the very inclination to sin (concupiscence) is itself sin. By teaching that within a person there remains an ability to grasp and respond to grace, Rome effectively denies the absolute necessity and total sufficiency of Christ’s sacrificial death to merit our salvation. They, of course, vigorously deny this, but by making a person’s response to grace part of salvation, a denial of Christ’s sufficiency is precisely the result. (See AC II and XIX; FC Ep I and FC SD I.)
-
 [1] Here we must confess, as Paul says in Romans 5:12, that sin originated from one man, Adam. By his disobedience, all people were made sinners and became subject to death and the devil. This is called original or the chief sin.
 
 [2] The fruit of this sin are the evil deeds that are forbidden in the Ten Commandments [Galatians 5:19–21]. These include unbelief, false faith, idolatry, being without the fear of God, pride, despair, utter blindness, and, in short, not knowing or regarding God. Also lying, abusing God’s name, not praying, not calling on God, not regarding God’s Word, being disobedient to parents, murdering, being unchaste, stealing, deceiving, and such.
@@ -36,8 +34,6 @@ Note: The major point of this article is to make sure that original sin is clear
 
 ## The Law
 
-Note: The Lutheran Reformation restored the proper biblical understanding of the chief purpose of the Law: to reveal mankind’s total corruption because of sin, driving people to seek salvation only in Christ. While the Law does hold outward sin (that is, gross outbursts of sin) in check, its chief purpose is to lead mankind to realize the damning consequences of original sin. The Roman Church had leaned far too heavily on pagan philosophy in developing its doctrine about sin. It had accepted the unscriptural notion that a person could truly keep the Law by means of his or her own abilities. This article also summarizes well the three different reactions of sinners to the Law.
-
 [1] Here we hold that the Law was given by God, first, to restrain sin by threats and the dread of punishment and by the promise and offer of grace and benefit. All this failed because of the evil that sin has worked in humanity.
 
 [2] For by the Law some people were made worse sinners, those who are hostile to the Law because it forbids what they like to do and commands what they do not like to do [Romans 3:20; 7:7–9]. Wherever they can escape punishment, they do more against the Law than they did before. Those are the unrestrained and wicked, who do evil wherever they have the opportunity.
@@ -51,8 +47,6 @@ Note: The Lutheran Reformation restored the proper biblical understanding of the
 ## ARTICLE III
 
 ## Repentance
-
-Note: Luther puts forward the proper biblical teaching about repentance, which is the interplay between the Law and the Gospel. The Law reveals sin and drives us to cling to Christ alone. The Gospel, imparted by means of Word and Sacrament, comforts and soothes consciences. This interplay of the Law revealing sin and the Gospel forgiving and restoring is what true repentance is all about.
 
 Luther condemns Rome’s false teaching about repentance, which assumes that original sin has not totally corrupted all human spiritual abilities. Roman theologians held that God bestows His grace on those who do as much as they can on the basis of their own free will. Rome’s entire penitential and sacramental system—in fact, the entire papal system—is based on this false view of human abilities in spiritual matters. They turn repentance into something other than what it is according to God’s Word; namely, repenting of sin and being turned again to Christ alone. In the Roman system of “penance” or repentance, not only must sorrow be present, but also satisfaction must be made for sin. This robs Christ of His place as full and complete satisfaction for all sins.
 
@@ -158,15 +152,11 @@ Later, by his representatives to the countries, the pope issued ‹his golden ye
 
 ## The Gospel
 
-Note: Luther details how the Gospel comes to us: through the preached Word of forgiveness. God lavishly and generously gives His gifts, providing the Gospel in other forms as well, including Holy Baptism, the Lord’s Supper, and the Gospel shared among Christians who console and comfort one another with the Word of Christ. Through each of these means God grants us forgiveness, life, and salvation.
-
 We will now return to the Gospel, which does not give us counsel and aid against sin in only one way. God is superabundantly generous in His grace: First, through the spoken Word, by which the forgiveness of sins is preached in the whole world [Luke 24:45–47]. This is the particular office of the Gospel. Second, through Baptism. Third, through the holy Sacrament of the Altar. Fourth, through the Power of the Keys. Also through the mutual conversation and consolation of brethren, “Where two or three are gathered” (Matthew 18:20) and other such verses [especially Romans 1:12].
 
 ## ARTICLE V
 
 ## Baptism
-
-Note: Echoing the language he uses in his Small Catechism, Luther emphasizes that the power and promise of Holy Baptism are located entirely in the life-giving Word of mercy and grace. Therefore, he rejects any notion that the water by itself or the actions in the ritual have any spiritual power. Rather, God’s Word is the key to Baptism’s strength and blessing. Certainly infants and children should be baptized, for they are just as much a part of Christ’s redeeming work and God’s kingdom as anyone else. (See AC IX; SC IV; LC IV.)
 
 [1] Baptism is nothing other than God’s Word in the water, commanded by His institution. As Paul says, it is a “washing . . . with the word” [Ephesians 5:26]. As Augustine says, “When the Word is joined to the element or natural substance, it becomes a Sacrament.”
 
@@ -179,8 +169,6 @@ Note: Echoing the language he uses in his Small Catechism, Luther emphasizes tha
 ## ARTICLE VI
 
 ## The Sacrament of the Altar
-
-Note: In the most vivid and realistic language about the Lord’s Supper found in the Book of Concord, Luther asserts that the bread and wine are the body and blood of Christ. They are present, distributed, and received by all who commune. Both bread and wine are to be given to communicants. The theory of transubstantiation is rejected as deceptive reasoning. The plain sense of Scripture is all that matters here, because it is the word and promise of Christ. (See AC X and XXII; SC VI; LC V; FC Ep VII; FC SD VII.)
 
 [1] Of the Sacrament of the Altar, we hold that the bread and wine in the Supper are Christ’s true body and blood. These are given and received not only by the godly but also by wicked Christians [1 Corinthians 11:29–30].
 
@@ -196,8 +184,6 @@ Note: In the most vivid and realistic language about the Lord’s Supper found i
 
 ## The Keys
 
-Note: The authority to bind sins and not forgive them, or to loose sins by forgiving them, is an office and power entrusted by Christ to His Church, not just to the pope and the papal hierarchy.
-
 [1] The Keys are an office and power given by Christ to the Church for binding and loosing sin [Matthew 16:19]. This applies not only to gross and well-known sins, but also the subtle, hidden sins that are known only to God. As it is written, “Who can discern his errors?” (Psalm 19:12). And St. Paul himself complains that “with my flesh I serve the law of sin” (Romans 7:25).
 
 [2] It is not in our power to judge which, how great, and how many the sins are. This belongs to God alone. As it is written, “Enter not into judgment with Your servant, for no one living is righteous before You” (Psalm 143:2).
@@ -207,8 +193,6 @@ Note: The authority to bind sins and not forgive them, or to loose sins by forgi
 ## ARTICLE VIII
 
 ## Confession
-
-Note: Luther never intended to abolish private Confession and Absolution, only to do away with the errors and abuses that had come to be associated with it. A particularly great abuse was the requirement for a complete enumeration of sins. Luther insists on the biblical view of God’s mercy and grace, which comes by the external, objective, and outward Word.
 
 Radical reformers taught that people should seek God outside of His Word, looking instead to their inner feelings, thoughts, and other so-called spiritual experiences. (Luther calls them enthusiasts or Schwärmer, a German word for the buzzing of bees.) Many make the same claims today! This error is rooted deeply in all people as a result of the fall. It must be battled constantly. It is also the root source of papal errors. Luther makes this key point, “God does not wish to deal with us in any other way than through the spoken Word and the Sacraments.” He speaks; we listen. At His speaking, it is done. (See AC XI and XXV; SC V; Appendix B, Brief Exhortation to Confession.)
 
@@ -242,15 +226,11 @@ Radical reformers taught that people should seek God outside of His Word, lookin
 
 ## Excommunication
 
-Note: Luther’s remarks here are especially interesting since he had been placed under the pope’s ban and had lived under it since 1521. Luther rejects any suggestion that the pope can ban people from both Church and society. Ministers have no authority to mix civil penalties with excommunication from the Church. However, Luther clearly does acknowledge biblical excommunication, that is, preventing openly unrepentant sinners from receiving Holy Communion and other fellowship in the Church until they repent and turn from their sin.
-
 The greater excommunication, as the pope calls it, we regard only as a civil penalty, and it does not concern us ministers of the Church. But the lesser, truly Christian excommunication, is this: Open and hard-hearted sinners are not admitted to the Sacrament and other communion of the Church until they amend their lives and avoid sin [1 Corinthians 5]. Ministers should not mingle secular punishments with this punishment from the Church, or excommunication.
 
 ## ARTICLE X
 
 ## Ordination and the Call
-
-Note: Luther is willing to permit the role of bishops if they would do the work the Bible prescribes for them, namely, serve the Church for the sake of the Gospel. He rejects any notion that ordination from a bishop is necessary for a pastor to have a valid and legitimate call to ministry. He points out how the bishops of his day had fallen terribly far from the biblical understanding of episcopal oversight. Luther insists that the authority and right to ordain is to be used within the Church, with or without the bishops’ consent. Theologically and personally well-qualified men are to be ordained (1 Timothy 3:1–2; 2 Timothy 2:2, 15). Even the practice of the early Church demonstrates that pastors can, and should, ordain other men to be pastors, without bishops. (See AC XIV; SA III X.)
 
 [1] If the bishops would be true bishops and would devote themselves to the Church and the Gospel, we might grant them to ordain and confirm us and our preachers. This would be for the sake of love and unity, but not because it was necessary. However, they would have to give up all comedies and spectacular display of unchristian parade and pomp.
 
@@ -262,8 +242,6 @@ Note: Luther is willing to permit the role of bishops if they would do the work 
 
 ## The Marriage of Priests
 
-Note: The fact that priests were denied marriage under the pope is a clear indication of the anti-Christian nature of the papacy. Just as we cannot make a man a woman, or a woman a man, so the Church cannot forbid what God has created and ordained: marriage. It is a doctrine of demons to teach otherwise. (See AC XXIII.)
-
 [1] They have neither the authority nor the right to ban marriage and to burden the divine order of priests with perpetual celibacy. They have acted like anti-Christian, tyrannical, desperate scoundrels, and by this have caused all kinds of horrible, outrageous, innumerable sins of unchastity ‹depraved lusts›, in which they themselves still wallow.
 
 [2] Now, neither we nor they have been given the power to make a woman out of a man or a man out of a woman, or to nullify either sex. So they have had no authority to separate such creatures of God, or to forbid them from living honestly in marriage with one another.
@@ -274,8 +252,6 @@ Note: The fact that priests were denied marriage under the pope is a clear indic
 
 ## The Church
 
-Note: In his writings, Luther would often refer to a young child as capable of understanding doctrine better than theologians. Here Luther presents a seven-year-old child as knowing very simply and clearly that the Church consists of those who hear and follow the voice of the Good Shepherd. The Church’s holiness is not found in man-made rituals and decorations, but only in the Word of God, which creates and calls forth true faith in Christ. (See AC VII/VIII; LC II, The Third Article.)
-
 [1] We do not agree with them that they are the Church. They are not the Church. Nor will we listen to those things that, under the name of Church, they command or forbid.
 
 [2] Thank God, ‹today› a seven-year-old child knows what the Church is, namely, the holy believers and lambs who hear the voice of their Shepherd [John 10:11–16].
@@ -285,8 +261,6 @@ Note: In his writings, Luther would often refer to a young child as capable of u
 ## ARTICLE XIII
 
 ## How One Is Justified before God and Does Good Works
-
-Note: As Luther approaches the end of his Confession, he asserts once more, very plainly, the doctrine of justification. This teaching cannot be changed in the least. Saving faith and renewal produces in us a harvest of good works. The entire person is declared righteous. All is covered over in the mercy of Christ, including our sinful and flawed “good works.” It follows, then, that a person in whom there are no good works does not in fact have true faith. Works do not save; they are the fruit of salvation, not its cause. (See AC IV, VI, XX; FC Ep III–VI and FC SD III–VI.)
 
 [1] I do not know how to change in the least what I have previously and constantly taught about justification. Namely, that through faith, as St. Peter says, we have a new and clean heart [Acts 15:9–11], and God will and does account us entirely righteous and holy for the sake of Christ, our Mediator [1 Timothy 2:5]. Although sin in the flesh has not yet been completely removed or become dead [Romans 7:18], yet He will not punish or remember it.
 
@@ -300,8 +274,6 @@ Note: As Luther approaches the end of his Confession, he asserts once more, very
 
 ## Monastic Vows
 
-Note: As in the article on marriage, Luther is speaking here autobiographically, as a former monk. He asserts very plainly that monastic vows are, in fact, blasphemy against God.
-
 [1] Since monastic vows directly conflict with the first chief article, they must be absolutely abolished. It is about them that Christ says, “Many will come in my name, saying, ‘I am the Christ,’ and they will lead many astray” (Matthew 24:5, 23–24).
 
 [2] He who makes a vow to live as a monk believes that he will enter upon a way of life holier than ordinary Christians lead. He wants to earn heaven by his own works, not only for himself, but also for others.
@@ -311,8 +283,6 @@ Note: As in the article on marriage, Luther is speaking here autobiographically,
 ## ARTICLE XV
 
 ## Human Traditions
-
-Note: Luther concludes his confession by rejecting any suggestion that human traditions produce the forgiveness of sins. He also asserts how strongly he feels about these articles of faith. For Luther, none of these teachings could be compromised. In one final condemnation of a whole host of superstitious Roman practices, he indicates we should have nothing to do with them. (See AC XV; FC Ep X and FC SD X.)
 
 [1] The declaration of the papists that human traditions serve for the forgiveness of sins or merit salvation is unchristian and condemned. As Christ says, “In vain do they worship Me, teaching as doctrines the commandments of men” [Matthew 15:9]. Again, “the commands of people who turn away from the truth” [Titus 1:14].
 

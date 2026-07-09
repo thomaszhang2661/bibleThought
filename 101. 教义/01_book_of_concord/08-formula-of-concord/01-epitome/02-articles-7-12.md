@@ -2,8 +2,6 @@
 
 ## VII. THE HOLY SUPPER OF CHRIST
 
-Note: On the basis of the Word and promise of Christ, Lutherans believe that the true body and true blood of Jesus are actually present (under the bread and wine), distributed, and orally received in Holy Communion. All who commune receive Christ’s body and blood: worthy or unworthy, believing or unbelieving, godly or godless. Reformed Christians, deriving their theology from the teachings of Ulrich Zwingli and John Calvin, deny that Christ is truly present in, with, and under the bread and wine. They speak of His spiritual or symbolic presence. This article also rejects many false views held by the Roman Catholic Church. When it comes to the Lord’s Supper, the clear Word of God must take captive our human reason. This applies to all matters of Christian doctrine and is a comment that echoes Martin Luther’s famous words in 1521 at the Diet of Worms. When he was ordered to recant his teachings Luther said, “My conscience is captive to the Word of God.” (See also AC X; AC XXII; Ap X; Ap XXII; SA III VI; SC VI; LC V; FC SD VII.)
-
 [1] The Zwinglian teachers are not to be counted among the theologians who receive ‹acknowledge and profess› the Augsburg Confession. They separated from our theologians at the very time when this Confession was presented. Yet they are advancing themselves and are attempting—under the name of this Christian Confession—to spread their error. Therefore, we also intend to make a necessary statement about this controversy ‹in which we have judged that the Church of Christ should be instructed›.
 
 ## STATUS OF THE CONTROVERSY
@@ -102,8 +100,6 @@ Contrary, Condemned Teachings of the Sacramentarians
 
 ## VIII. THE PERSON OF CHRIST
 
-Note: Many objections to the Lutheran doctrine of the Lord’s Supper are based on faulty understandings. These misunderstandings concern the relationship of Christ’s divine and human natures. The issue confronting the writers of the Formula of Concord was this: Does the human nature of Christ share in the divine attributes so that Christ, according to both natures, is present everywhere, even under the bread and wine of the Lord’s Supper? The biblical position, explained in this article, is clearly Yes. The doctrine of the incarnation—Christ the Son of God taking on human flesh—is a powerful comfort and treasure for Christians, and Article VIII explains why. Many ancient heresies about Christ are rejected by this article, and along with them the Christological errors of Reformed theology. Appended to many editions of the Book of Concord was a listing of various quotations from Scripture and Early Church Fathers demonstrating that the Lutheran doctrine concerning Christ’s two natures is the same as that of the Early Church. A translation of this document, The Catalog of Testimonies, is included with this edition (pp. 623–48). (See also Apostles’ Creed; Nicene Creed; Athanasian Creed; AC III; Ap III; SA I; SA II I; SC II; LC II; FC SD VIII.)
-
 From the controversy about the Holy Supper a disagreement has arisen between the pure theologians of the Augsburg Confession and the Calvinists. The Calvinists have also confused some other theologians about the person of Christ and the two natures in Christ and their properties.
 
 ## STATUS OF THE CONTROVERSY
@@ -196,8 +192,6 @@ Contrary False Doctrine about the Person of Christ
 
 ## IX. THE DESCENT OF CHRIST TO HELL
 
-Note: This article attests that Christ descended into hell to proclaim and announce His victory over sin, death, and the devil; not as part of His atonement for the sins of the world. It put an end to the squabbling that had arisen among Lutherans over the meaning of Christ’s descent to hell, and it based its conclusions on one of Luther’s sermons discussing this issue. (See also Apostles’ Creed; Nicene Creed; Athanasian Creed; SA I; SC II; LC II; FC SD IX.)
-
 ## STATUS OF THE CONTROVERSY
 
 THE CHIEF CONTROVERSY ABOUT THIS ARTICLE
@@ -213,8 +207,6 @@ THE CHIEF CONTROVERSY ABOUT THIS ARTICLE
 ## X. CHURCH PRACTICES
 
 WHICH ARE CALLED ADIAPHORA OR MATTERS OF INDIFFERENCE
-
-Note: This article addresses matters that Scripture neither commands nor forbids. Adiaphora is a Greek word. It does not mean that something makes no difference or doesn’t matter. In certain situations, keeping practices, or omitting them, can be a grave obstacle and offense to the Gospel and may even lead to its contradiction and denial. This article contains a key insight that agreement in doctrine and all its articles is necessary for Church fellowship, not complete unity in external practices. This is no “bare minimum” approach to Church teaching or fellowship. It explains and interprets Article VII of the Augsburg Confession, which refers to the Gospel rightly and unanimously preached according to the pure understanding of it. This article has in view territorial churches, not simply individual congregations, when it talks about making changes in the Church’s ceremonies. At the time the Formula of Concord was written there were groupings of pastors and congregations known as consistories. The consistory would agree on a particular order of worship, rites, ceremonies, and other practices. The superintendent of the consistory, among his other duties, would be responsible for assuring that pastors and congregations were using the agreed-upon church order. (Martin Chemnitz, for example, was the superintendent of the Consistory of Braunschweig.)
 
 (See also AC XIV; AC XXIV; AC XXVI; AC XXVIII; Ap XIV; Ap XV; Ap XXIV; Ap XXVIII; SA III XV; FC SD X.)
 
@@ -255,8 +247,6 @@ False Teaching about This Article
 [12] 4. When these outward ceremonies and adiaphora are abolished as though the community of God ‹the churches of God› were not free to use one or more ceremonies in Christian freedom, according to its circumstances, as may be most useful at any time for the Church ‹for edification›.
 
 ## XI. GOD’S ETERNAL FOREKNOWLEDGE ‹PREDESTINATION› AND ELECTION
-
-Note: Although this article was not written in response to a specific controversy among Lutherans, it was wisely included. John Calvin and his followers had developed a teaching commonly known as “double predestination.” This crass and horrible teaching states that God has foreordained and predestined some people to go to hell, no matter what, while others He has foreordained and predestined to go to heaven. Article XI clearly dismantles this dreadful and nonbiblical teaching and exposes it as a great error. The Bible’s teachings about election are meant only for Christians. The doctrine of election is meant to comfort Christians during hard and difficult trials. Our salvation in Christ is so sure and certain that our relationship with God was known by Him before the foundation of the world. Only those who believe in Christ trouble themselves about their election. Those who truly are unbelievers, or who have fallen away from the Christian faith, are not concerned about such things. When we are tempted in this life, this article points us to God’s gracious Gospel promise, which is delivered and sealed to us in the Word and Sacraments. (See also SC II; FC SD XI.)
 
 [1] No public disagreement has arisen among the theologians of the Augsburg Confession about this article. But since election is a comforting article—if treated properly—and to prevent offensive disputes about it in the future, it is also explained in this writing.
 
@@ -315,8 +305,6 @@ This is the brief and simple explanation of the disputed articles. For a time, t
 ## [XII.] OTHER FACTIONS ‹HERESIES› AND SECTS
 
 THAT NEVER EMBRACED THE AUGSBURG CONFESSION
-
-Note: This article lists and condemns a host of false teachings, and the groups promoting them, as potentially damning. Review the points made here by the writers of the Formula of Concord and compare them to the teachings of religions today. Through such comparisons, one may agree that “there is nothing new under the sun” (Ecclesiastes 1:9). Modern errors, false teachings, and heresies are merely recycled from the past, repackaged with attractive gimmicks, and sold to new, unsuspecting “customers.” (See also FC SD XII.)
 
 [1] In order that ‹heresies and sects› may not be pinned on us silently (for in the preceding explanation, we have made no mention of them), we intend at the end ‹of this writing› simply to make a list. The list will show the articles in which ‹the heretics of our time› err and teach contrary to our Christian faith and confession (to which we have often referred).
 

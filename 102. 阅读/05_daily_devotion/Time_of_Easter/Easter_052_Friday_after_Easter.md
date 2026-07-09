@@ -41,3 +41,33 @@ Almighty God, You show those in error the light of Your truth so that they may r
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 17–27
+
+[17] In the following year, the chief theologians of the Augsburg Confession assembled from all Germany at Smalcald and deliberated about what to present in the Council about this doctrine of the Church. By common consent the Smalcald Articles were composed by Dr. Luther and signed by all the theologians, jointly and severally. In these articles the proper and true meaning is clearly expressed in short, plain words. They agree most accurately with Christ’s words. Every device and loophole is barred to the Sacramentarians.
+
+[18] (They had interpreted the Formula Concordiae—the abovementioned articles of union, framed the preceding year—to their advantage. They perverted them to say that Christ’s body is offered with the bread in no other way than as it is offered, together with all His benefits, by the Word of the Gospel. And by the “sacramental union” only the spiritual presence of the Lord Christ by faith is meant).
+
+[19] Here is what [the Smalcald Articles III VI 1] declare:
+
+The bread and wine in the Supper are Christ’s true body and blood. These are given and received not only by the godly but also by wicked Christians. [1 Corinthians 11:29–30]
+
+[20] Dr. Luther has also more fully expounded and confirmed this opinion from God’s Word in the Large Catechism [V 8], where it is written:
+
+“Now, what is the Sacrament of the Altar?” Answer, “It is the true body and blood of our Lord Jesus Christ, in and under the bread and wine, which we Christians are commanded by Christ’s Word to eat and to drink.”
+
+[21] And shortly after [LC V 10]:
+
+It is the Word, I say, that makes and sets this Sacrament apart. So it is not mere bread and wine, but is, and is called, Christ’s body and blood (1 Corinthians 11:23–27).
+
+[22] Again [V 12–19]:
+
+With this Word you can strengthen your conscience and say, “If a hundred thousand devils, together with all fanatics, should rush forward, crying, ‘How can bread and wine be Christ’s body and blood?’ and such, I know that all spirits and scholars together are not as wise as is the Divine Majesty in His little finger” [see 1 Corinthians 1:25]. Now here stands Christ’s Word, “Take, eat; this is My body....Drink of it, all of you; this is My blood of the new testament,” and so on. Here we stop to watch those who will call themselves His masters and make the matter different from what He has spoken.
+
+[23] It is true, indeed, that if you take away the Word or regard the Sacrament without the words, you have nothing but mere bread and wine. But if the words remain with them, as they shall and must, then, by virtue of the words, it is truly Christ’s body and blood. What Christ’s lips say and speak, so it is. He can never lie or deceive [Titus 1:2].
+
+[24] It is easy to reply to all kinds of questions about which people are troubled at the present time, such as this one: “Can even a wicked priest serve at and administer the Sacrament?” And whatever other questions like this there may be. For here we conclude and say, “Even though an imposter takes or distributes the Sacrament, a person still receives the true Sacrament, that is, Christ’s true body and blood, just as truly as a person who receives or administers it in the most worthy way.” For the Sacrament is not founded upon people’s holiness, but upon God’s Word. Just as no saint on earth, indeed, no angel in heaven, can make bread and wine be Christ’s body and blood, so also no one can change or alter it, even though it is misused.
+
+[25] The Word by which it became a Sacrament and was instituted does not become false because of the person or his unbelief. For Christ does not say, “If you believe or are worthy, you receive My body and blood.” No, He says, “Take, eat and drink; this is My body and blood.”
+
+[26] Likewise, He says, “Do this” (i.e., what I now do, institute, give, and ask you, take). That is like saying, “No matter whether you are worthy or unworthy, you have here His body and blood by virtue of these words that are added to the bread and wine.” Note and remember this well. For upon these words rest all our foundation, protection, and defense against all errors and deception that have ever come or may yet come.
+
+[27] This is what the Large Catechism says, in which the true presence of Christ’s body and blood in the Holy Supper is established from God’s Word. This ‹presence› is understood to be received not only by the believing and worthy, but also by the unbelieving and unworthy.

@@ -38,3 +38,29 @@ Merciful Father, Your patience and loving-kindness toward us have no end. Grant 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord II 61–66
+
+[61] For this reason it is not correct to say that a person can do something good and helpful in divine things before his conversion. Because a person is “dead in [his] trespasses” (Ephesians 2:5) before his conversion, there can be no power to work anything good in divine things in him. Therefore, he has no way of doing something good and helpful in divine things.
+
+[62] When we talk about how God works in a person, ‹it is true that God has› one way of working in him, as in a rational creature. He has another way of working in some other irrational creature, or in a stone or block. Yet, before a man’s conversion, nothing at all can be credited to him for doing good in spiritual matters.
+
+[63] When a person has been converted, and is thus enlightened, and his will is renewed, then a person wants to do what is good (so far as he is regenerate or a new man). Then that person will “delight in the law of God, in [his] inner being” (Romans 7:22) and from that time forward does good to such an extent and as long as he is moved by God’s Spirit, as Paul says [in Romans 8:14], “For all who are led by the Spirit of God are sons of God.”
+
+[64] This moving by the Holy Spirit is not a coercion. The converted person does good spontaneously, as David says [in Psalm 110:3], “Your people will offer themselves freely on the day of your power.” Nevertheless, ‹the conflict between the flesh and spirit› remains in the regenerate. St. Paul wrote about this in Romans 7:21–23:
+
+So I find it to be a law that when I want to do right, evil lies close at hand. For I delight in the law of God, in my inner being, but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members.
+
+So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin. (Romans 7:25)
+
+For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do. (Galatians 5:17)
+
+[65] From this evidence the following is certain: as soon as the Holy Spirit has begun His work of regeneration and renewal in us through the Word and holy Sacraments, we can and should cooperate through His power, although still in great weakness. This cooperation does not come from our fleshly natural powers, but from the new powers and gifts that the Holy Spirit has begun in us in conversion.
+
+[66] St. Paul clearly and eagerly encourages that “working together with Him, then, we appeal to you not to receive the grace of God in vain” [2 Corinthians 6:1]. But this is to be understood in no other way than the following: the converted person does good to such an extent and as long as God by His Holy Spirit rules, guides, and leads him. As soon as God would withdraw His gracious hand from that person, he could not for a moment keep obeying God. But ‹if anyone would take St. Paul’s words in this sense—› the converted person cooperates with the Holy Spirit the way two horses draw a wagon together—this could not be allowed in any way without damaging the divine truth.
+
+‹Working together with him, then, we appeal to you not to receive the grace of God in vain. (2 Corinthians 6:1)
+
+For we are God’s fellow workers. You are God’s field, God’s building.(1 Corinthians 3:9)
+
+But by the grace of God I am what I am, and His grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God that is with me. (1 Corinthians 15:10)
+
+What agreement has the temple of God with idols? For we are the temple of the living God; as God said, “I will make My dwelling among them and walk among them, and I will be their God, and they shall be My people.” (2 Corinthians 6:16)>

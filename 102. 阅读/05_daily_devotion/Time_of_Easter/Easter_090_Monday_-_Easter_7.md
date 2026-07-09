@@ -43,3 +43,29 @@ O Lord, stir up the hearts of Your faithful people to welcome and joyfully recei
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord XI 14–26
+
+[14] In other words, the entire teaching about God’s purpose, counsel, will, and ordination belongs to our redemption, call, justification, and salvation. They should be treated together the way Paul treats them and has explained this article (Romans 8:29–30; Ephesians 1:4–10) and as Christ treated it in the parable of Matthew 22:1–14; namely, that God in His purpose and counsel ordained the following:
+
+[15] 1. The human race is truly redeemed and reconciled with God through Christ. By His faultless obedience, suffering, and death, Christ merited for us the righteousness that helps us before God and also merits eternal life.
+
+[16] 2. Such merit and benefits of Christ are presented, offered, and distributed to us through His Word and Sacraments.
+
+[17] 3. By His Holy Spirit, through the Word, when it is preached, heard, and pondered, Christ will be effective and active in us, will convert hearts to true repentance and preserve them in the true faith.
+
+[18] 4. The Spirit will justify all those who in true repentance receive Christ by a true faith. He will receive them into grace, the adoption of sons, and the inheritance of eternal life [Galatians 3:19].
+
+[19] 5. He will also sanctify in love those who are justified, as St. Paul says (Ephesians 1:4).
+
+[20] 6. He also will protect them in their great weakness against the devil, the world, and the flesh. He will rule and lead them in His ways [Deuteronomy 8:6], raise them again when they stumble [Proverbs 4:11–12], comfort them under the cross and in temptation [2 Corinthians 1:3–5], and preserve them for life eternal [John 12:25].
+
+[21] 7. He will also strengthen, increase, and support to the end the good work that He has begun in them [Philippians 1:6], if they cling to God’s Word, pray diligently, abide in God’s goodness, and faithfully use the gifts they received [Matthew 25:14–30].
+
+[22] 8. Finally, He will eternally save and glorify in life eternal those whom He has elected, called, and justified.
+
+[23] God has prepared salvation not only in general in this counsel, purpose, and ordination. In grace He has considered and chosen to salvation each and every one of the elect who are to be saved through Christ. He has also ordained that in the way just mentioned He will, by His grace, gifts, and efficacy, bring them to salvation. He will aid, promote, strengthen, and preserve them.
+
+[24] All this, according to the Scriptures, is included in the teaching about God’s eternal election to adoption and eternal salvation, and is to be understood by it. It must never be excluded or omitted when we speak about God’s purpose, predestination, election, and ordination to salvation. When our thoughts about this article are formed according to the Scriptures in this way, we can simply adapt ourselves to it by God’s grace.
+
+[25] The following issue also belongs to the further explanation and saving use of the teaching about God’s foreknowledge to salvation: Only the elect, whose names are written in the book of life [Revelation 21:27], are saved. Therefore, how can we know, or why and how can we perceive who the elect are and who can and should receive this teaching for comfort?
+
+[26] In this matter we should not judge according to our reason, or according to the Law or from any outward appearance. Neither should we attempt to investigate the secret, concealed depth of divine predestination. Instead, we should listen to God’s revealed will. For He has made “known to us the mystery of His will” (Ephesians 1:9) and made it clear through Christ so that it might be preached (2 Timothy 1:9).

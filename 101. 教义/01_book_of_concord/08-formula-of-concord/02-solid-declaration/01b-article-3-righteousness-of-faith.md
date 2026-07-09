@@ -2,8 +2,6 @@
 
 ## III. THE RIGHTEOUSNESS OF FAITH BEFORE GOD
 
-Note: For an annotation on this article, see pp. 479–80. (See also AC IV; Ap IV; SA II I; SA III XIII; FC Ep III.)
-
 ## [THE STATUS OF THE CONTROVERSY]
 
 [1] The third controversy that has arisen among some theologians of the Augsburg Confession is about the righteousness of Christ or of faith, which God credits by grace, through faith, to poor sinners for righteousness.

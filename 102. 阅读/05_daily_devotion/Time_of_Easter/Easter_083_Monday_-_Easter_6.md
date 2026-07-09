@@ -40,3 +40,17 @@ Lord God, our heavenly Father, You stood afar off, waiting to see Your prodigals
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord IX and X 1–4
+
+[1] Even in the Ancient Christian teachers of the Church, as well as among some of our teachers, different explanations of the article about Christ’s descent to hell are found. Therefore, we abide in the simplicity of our Christian faith. Dr. Luther has pointed us to this in a sermon about Christ’s descent to hell, which he delivered in the castle at Torgau in the year 1533. In the Creed we confess, “I believe ... in Jesus Christ, His only Son, our Lord, who . . . was crucified, died and was buried. He descended into hell.” In this Confession Christ’s burial and descent to hell are distinguished as different articles.
+
+[2] We simply believe that the entire person (God and man) descended into hell after the burial, conquered the devil, destroyed hell’s power, and took from the devil all his might.
+
+[3] We should not, however, trouble ourselves with high and difficult thoughts about how this happened. With our reason and our five senses this article can be understood as little as the preceding one about how Christ is placed at the right hand of God’s almighty power and majesty. We are simply to believe it and cling to the Word. So we hold to the substance and consolation that neither hell nor the devil can take captive or injure us and all who believe in Christ.
+
+[1] Some ceremonies and Church practices are neither commanded nor forbidden in God’s Word, but are introduced into the Church with good intention, for the sake of good order and proper custom, or otherwise to maintain Christian discipline. A dispute has arisen among some theologians of the Augsburg Confession about these practices.
+
+[2] One side holds that even during persecution and in a matter of confession, when the enemies of the Gospel are not in agreement with us in doctrine, some ceremonies (that are adiaphora in themselves, and are neither commanded nor forbidden by God) may be reestablished in compliance with the adversaries’ pressure and demand without damage to our conscience. So in such adiaphora (or matters of indifference), we may compromise with our adversaries.
+
+[3] The other side contended that during persecution, in a matter of confession, especially when it is the adversaries’ goal by force and compulsion, or in a sly manner, to suppress the pure doctrine, and gradually to reintroduce their false doctrine into our churches, this can in no way be allowed even in adiaphora without damage to conscience and harm to the divine truth.
+
+[4] To explain this controversy, and by God’s grace finally to settle it, we present to the Christian reader this simple statement about the matter:

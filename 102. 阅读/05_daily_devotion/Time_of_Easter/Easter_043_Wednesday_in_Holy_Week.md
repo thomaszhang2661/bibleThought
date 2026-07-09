@@ -40,3 +40,17 @@ Merciful and everlasting God, You did not spare Your only Son but delivered Him 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord V 11–15
+
+[11] Christ’s Spirit must not only comfort, but also through the office of the Law “convict the world concerning sin” [John 16:8]. In the New Testament, as the prophet says, He must do the work of another (reprove), in order that He may ‹afterward› do His own work, which is to comfort and to preach grace [Isaiah 28:21]. To this end the Spirit was obtained for us through Christ and sent. For this reason He is also called the Comforter, as Dr. Luther has explained in his comments on the Gospel for the Fifth Sunday after Trinity, in the following words:
+
+[12] Anything that preaches about our sins and God’s wrath (let it be done however or whenever it will), that is all a preaching of the Law. Again, the Gospel is such a preaching as shows and gives nothing else than grace and forgiveness in Christ. Yet it is true and right that the apostles and preachers of the Gospel (as Christ Himself also did) confirm the preaching of the Law. They begin the Law with those who do not yet acknowledge their sins nor are terrified at God’s wrath; as Jesus says, “When [the Holy Spirit] comes, he will convict the world concerning sin ... because they do not believe in Me” (John 16:8–9). Yes, what more forceful, more terrible declaration and preaching of God’s wrath against sin is there than the suffering and death of Christ, His Son? But as long as all this preaches God’s wrath and terrifies people, it is not yet the preaching of the Gospel nor Christ’s own preaching, but that of Moses and the Law against the impenitent. For the Gospel and Christ were never ordained and given for the purpose of terrifying and condemning, but for comforting and cheering those who are terrified and timid. [WA 22:87, 3–18]
+
+[13] And again, Luther wrote:
+
+Christ says, “[The Holy Spirit] will convict the world concerning sin” (John 16:8), which cannot be done except through the explanation of the Law. [WA 15:228, 15–17]
+
+[14] So, too, the Smalcald Articles say:
+
+The New Testament keeps and urges the office of the Law, as St. Paul does when he says, “The wrath of God is revealed from heaven against all ungodliness and unrighteousness of men” [Romans 1:18] . . . But to this office of the Law, the New Testament immediately adds the consoling promise of grace through the Gospel. [SA III III 1–4]
+
+[15] The Apology says: “In the preaching of repentance, it is not enough to preach the Law, or the Word that convicts of sin. . . . The Gospel must be added (Ap V 136). Therefore, the two doctrines belong together and should also be taught next to each other, but in a definite order and with a proper distinction. The Antinomians, or nomoclasts [destroyers of the Law], are justly condemned. They abolish the preaching of the Law from the Church and want sins to be rebuked, and repentance and sorrow to be taught, not from the Law, but from the Gospel.

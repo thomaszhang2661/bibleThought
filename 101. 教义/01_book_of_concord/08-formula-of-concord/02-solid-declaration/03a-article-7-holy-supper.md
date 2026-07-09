@@ -2,8 +2,6 @@
 
 ## VII. THE HOLY SUPPER
 
-Note: For an annotation on this article, see p. 487. (See also AC X; AC XXII; Ap X; Ap XXII; SA III VI; SC VI; LC V; FC Ep VII.)
-
 [1] In the opinion of some people, the comments in this article should perhaps not be included in this document. We intend to explain the articles that have been drawn into controversy among the theologians of the Augsburg Confession. (When the Confession was first written and presented to the Emperor at Augsburg in 1530, the Sacramentarians soon withdrew entirely and separated. They presented their own Confession.) Still, some theologians and others who boast about the Augsburg Confession have agreed in this article with the Sacramentarians during the last few years. They no longer speak secretly, but partly public. They have labored against their own conscience to force and to pervert the Augsburg Confession to make it entirely in harmony with the Sacramentarian teaching in this article. We neither can nor should leave out our testimony by our confession of the divine truth in this document. We must repeat the true sense and proper understanding of Christ’s words and of the Augsburg Confession on this article. ‹We recognize this to be our duty.› So far as we are able, by God’s help, we shall preserve ‹this pure doctrine› also for posterity. We will faithfully warn our hearers, together with other godly Christians, against this deadly error, which is entirely contrary to the divine Word and the Augsburg Confession, and has been frequently condemned.
 
 ## STATUS OF THE CONTROVERSY

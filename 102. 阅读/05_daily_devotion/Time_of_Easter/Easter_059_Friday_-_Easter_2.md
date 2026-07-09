@@ -50,3 +50,17 @@ Lord Jesus, our Sabbath rest, You called the twelve apostles to go out into all 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 62–68
+
+[62] This spiritual eating is nothing other than faith. It means to hear God’s Word (in which Christ, true God and man, is presented to us, together with all benefits that He has purchased for us by His flesh given into death for us, and by His blood shed for us, namely, God’s grace, the forgiveness of sins, righteousness, and eternal life). It means to receive it with faith and keep it for ourselves. It means that in all troubles and temptations we firmly rely—with sure confidence and trust—and abide in this consolation: we have a gracious God and eternal salvation because of the Lord Jesus Christ.
+
+[63] The other eating of Christ’s body is oral or sacramental, when Christ’s true, essential body and blood are orally received and partaken of in the Holy Supper by all who eat and drink the consecrated bread and wine in the Supper. This is done by the believing as a certain pledge and assurance that their sins are surely forgiven them and that Christ dwells in them and is at work in them. This supper is received by the unbelieving for their judgment and condemnation.
+
+[64] The words of the institution by Christ clearly declare this. At the table and during the Supper He offers His disciples natural bread and natural wine, which He calls His true body and true blood. At the same time He says, “Eat” and “drink.” In view of the circumstances, this command clearly cannot be understood as anything other than oral eating and drinking. However, this is not in a crude, carnal, Capernaitic way, but in a supernatural way, beyond understanding.
+
+[65] Afterward, the other command adds still another spiritual eating, when the Lord Christ says further, “This do in remembrance of Me.” He requires faith.
+
+[66] All the ancient Christian teachers teach clearly and in full agreement with the entire holy Christian Church. According to these words of Christ’s institution and the explanation of St. Paul, Christ’s body is not only received spiritually through faith (which occurs also outside of the Sacrament) but also orally (not only by believing and godly people, but also by unworthy, unbelieving, false, and wicked Christians). Since it is too long to be listed here, we would, for the sake of brevity, have the Christian reader referred to the exhaustive writings of our theologians.
+
+[67] It is clear how unjustly and wickedly the Sacramentarian fanatics (Theodore Beza) ridicule the Lord Christ, St. Paul, and the entire Church. For they call this oral partaking, and that of the unworthy, “two horses’ hairs and a device of which the devil is ashamed.” They also call the doctrine about Christ’s majesty “Satan’s excrement, by which the devil deceives and tricks other people.” In other words, they speak so horribly of it that a godly Christian person should be ashamed to translate it [quotes originally in Latin].
+
+[68] It must also be carefully explained who the unworthy guests of this Supper are. They are those who go to this Sacrament without true repentance and sorrow for their sins, without true faith and the good intention of amending their lives. By their unworthy oral eating of Christ’s body, they load themselves with damnation (i.e., with temporal and eternal punishments) and become guilty of profaning Christ’s body and blood.

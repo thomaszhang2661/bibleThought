@@ -42,3 +42,17 @@ O God, You make the minds of Your faithful to be of one will. Grant that we may 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VIII 46–52
+
+[46] 2. In fulfilling Christ’s office, the person does not act and work in, with, through, or according to only one nature. It works in, according to, with, and through both natures. As the Council of Chalcedon expresses it, one nature works in communion with the other what is a property of each.
+
+[47] Therefore, Christ is our Mediator, Redeemer, King, High Priest, Head, Shepherd, and so on, not according to one nature only (whether it be the divine or the human), but according to both natures. This teaching has been treated more fully in other places.
+
+[48] 3. However, it is a much different thing when the question, declaration, or discussion is about whether the natures in the personal union in Christ have nothing else or nothing more than only their natural, essential properties. It has been mentioned above that they have and keep these.
+
+[49] Regarding the divine nature in Christ, in God there is no change (James 1:17). His divine nature, in its essence and properties, suffered no subtraction or addition by the incarnation. It was not, in or by itself, either diminished or increased by it.
+
+[50] Regarding the received human nature in the person of Christ, some have wished to argue that even in the personal union with divinity it has nothing else and nothing more than only its natural, essential properties according to which it is in all things like its brethren [Hebrews 2:17]. On this account, they argue that nothing should or could be attributed to the human nature in Christ that is beyond, or contrary to, its natural properties, even though the testimony of Scripture speaks that way.
+
+[51] This opinion is false and incorrect. This is so clear from God’s Word that even their own associates rebuke and reject this error. For the Holy Scriptures and the Ancient Fathers from the Scriptures forcefully testify: The human nature has been personally united with the divine nature in Christ. It was glorified and exalted to the right hand of God’s majesty and power. After the form of a servant and humiliation had been laid aside, the human nature did receive—apart from, and over and above its natural, essential, permanent properties— special, high, great, supernatural, mysterious, indescribable, heavenly privileges and excellences in majesty, glory, power, and might above everything that can be named. It has them not only in this world, but also in that which is to come [Ephesians 1:21]. So we conclude about the work of Christ’s office: the human nature in Christ is equally used [at the same time] in its measure and mode. It also has its power and efficacy. This is true not only from, and according to, its natural, essential attributes, or only so far as their ability extends, but chiefly from, and according to, the majesty, glory, power, and might that it has received through the personal union, glorification, and exaltation.
+
+[52] Today, even the adversaries can or dare scarcely deny this. Except they still dispute and contend that those are only created gifts or finite qualities, as in the saints, with which the human nature in Christ is endowed and adorned. According to their thoughts or from their own argumentations or proofs, they want to measure and calculate what the human nature in Christ could or should be capable of or incapable of without becoming annihilated.

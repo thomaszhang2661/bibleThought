@@ -45,3 +45,13 @@ Almighty God, merciful Father, since You have wakened from death the Shepherd of
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 124–128
+
+[124] 13. We reject the teaching that worthiness comes not only from true faith, but also from a person’s own preparation.
+
+[125] 14. We reject this teaching: even true believers, who have and keep a right, true, living faith, and yet lack the so-called sufficient preparation of their own, could receive this Sacrament to condemnation, just like the unworthy guests.
+
+[126] 15. It is taught that the elements or the visible species or forms of the consecrated bread and wine must be adored. However, no one—unless he is an Arian heretic—can and will deny that Christ Himself, true God and man, is truly and essentially present in the Supper. Christ should be adored in spirit and in truth in the true use of the Sacrament, as He is in all other places, especially where His congregation is assembled.
+
+[127] 16. We reject and condemn also all daring, frivolous, blasphemous questions and expressions that are presented in a crude, fleshly, Capernaitic way about the supernatural, heavenly mysteries of this Supper.
+
+[128] Other additional antitheses, or rejected contrary doctrines, have been rebuked and rejected in the preceding explanation. For the sake of brevity, we will not repeat them here. Whatever other condemnable or erroneous opinions there may still be, over and above those just stated, can be easily gathered and named from the preceding explanation. We reject and condemn everything that is not in agreement with, but contrary and opposed to, the teaching recorded above and thoroughly grounded in God’s Word.

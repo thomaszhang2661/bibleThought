@@ -54,3 +54,37 @@ Almighty and eternal God, Your Son Jesus triumphed over the prince of demons and
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord I 16–32
+
+[16] This doctrine must be kept and guarded so that it may not turn either to the Pelagian or the Manichaean side. For this reason the contrary doctrine about this article, which is condemned and rejected in our churches, should also be briefly stated.
+
+[17] 1. First, in opposition to the old and the new Pelagians, the following false opinions and dogmas are condemned and rejected: original sin is only guilt, because of what has been committed by another person, without any corruption of our nature.
+
+[18] 2. Sinful, evil lusts are not sins, but states or created and essential characteristics of the nature.
+
+[19] 3. Or the teaching that the above-mentioned defect and evil are not properly and truly sin before God, because of which a person without Christ must be a child of wrath and damnation, also in the dominion and under Satan’s power ‹unless he is grafted into Christ and is delivered through Him›.
+
+[20] 4. The following and similar Pelagian errors are also condemned and rejected: nature, even since the fall, is said to be uncorrupt and that especially in spiritual things it is entirely good and pure. In its natural powers it is said to be perfect.
+
+[21] 5. Original sin is only outward—a slight, insignificant spot sprinkled or a stain dashed on the nature of mankind. Or it is a corruption only in some outward things. Under and with original sin, human nature still possesses and retains its integrity and power even in spiritual things.
+
+[22] 6. Original sin is not a spoiling or a lack, but only an outward difficulty for these spiritual good powers. It is like when a magnet is smeared with garlic juice. Its natural power is not removed by the juice, but only hindered. Nor can this stain of original sin be washed away easily, like a spot from the face, or paint from the wall.
+
+[23] 7. Those who teach that human nature has been greatly weakened and corrupted through the fall, but that it still has not entirely lost all good in divine, spiritual things are also rebuked and rejected. They teach that what is sung in our churches, “Through Adam’s fall is all corrupt, Nature and essence human,” is not true, but from natural birth human nature still has something good in it, even though it is small, little, and slight. They suggest human nature has a capacity, skill, aptness, or ability to begin, to effect, or to help effect something in spiritual things.
+
+[24] About outward, temporal, worldly things and transactions, which are subject to reason, there will be an explanation in the following article.
+
+[25] These and similar contrary doctrines are condemned and rejected because God’s Word teaches that the corrupt human nature, of and by itself, has no power for anything good in spiritual, divine things, not even for the smallest things, such as good thoughts. Not only is this true, but the corrupt nature can do nothing in God’s sight of and by itself. It can only sin (Genesis 6:5; 8:21).
+
+[26] In the same way this doctrine must also be guarded on the other side against Manichaean errors. So the following erroneous doctrines are rejected and so are similar doctrines: in the beginning, human nature was created pure and good, but after the fall original sin is infused and mixed with the nature from outside itself by Satan (as something essential). It is like when poison is mingled with wine.
+
+[27] Human nature was originally created pure, good, and holy in Adam and Eve. Sin did not enter their nature through the fall in the way enthusiastically taught by the Manichaeans, as though Satan had created or made some evil substance and mixed it with their nature. By Satan’s seduction through the fall, Adam lost his created state of hereditary righteousness according to God’s judgment and sentence. Human nature is perverted and corrupted as a punishment, by this deprivation or deficiency, want, and injury, that was caused by Satan. So now human nature is passed down (together with this defect and corruption) to all people, who are conceived and born in a natural way from father and mother.
+
+[28] Since the fall, human nature is not created pure and good at first, but only afterward corrupted by original sin. In the first moment of our conception the seed from which a person is formed is sinful and corrupt [Psalm 51:5]. Furthermore, original sin is not something by itself, existing independently in, or apart from, the nature of the corrupt person. It is neither the real essence, body, or soul of the corrupt person or the person himself.
+
+[29] Original sin and human nature (corrupted by original sin) cannot and should not be distinguished as though the nature were pure, good, holy, and uncorrupted before God, while original sin alone (which dwells in human nature) is evil.
+
+[30] Augustine writes that the Manichaeans teach that it is not the corrupt person who sins because of inborn original sin, but something different and foreign in a person. And so, God does not accuse and condemn by the Law human nature as corrupt by sin, but only original sin in it. For, as stated above in the thesis (i.e., in the explanation of the pure doctrine about original sin), the person’s entire nature, which is born in the natural way from father and mother, is entirely and to the farthest extent corrupted and perverted by original sin. Human nature is corrupt in body and soul, in all its powers, as regards and concerns the goodness, truth, holiness, and righteousness created with it in Paradise. Nevertheless, human nature is not entirely exterminated or changed into another substance, which could be called unlike our nature according to its essence and, therefore, cannot be of one essence with us.
+
+[31] Because of this corruption, a person’s entire corrupt nature is accused and condemned by the Law unless the sin is forgiven for Christ’s sake [Galatians 3:10–11].
+
+[32] The Law accuses and condemns our nature, not because we have been created human by God, but because we are sinful and wicked. Since the fall, human nature is condemned, not because its essence is God’s work and creation in us, but because and so far as it has been poisoned and corrupted by sin.

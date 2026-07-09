@@ -39,3 +39,19 @@ Merciful Lord, through the angels You called the women at the tomb to remember t
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord XII 39–40
+
+[39] These and similar articles, one and all, with what belongs to them and follows from them, we reject and condemn as wrong, false, heretical, and contrary to God’s Word, the three Creeds, the Augsburg Confession and Apology, the Smalcald Articles, and Luther’s Catechisms. All godly Christians should beware of these articles to the extent that the welfare and salvation of their souls is dear to them.
+
+[40] In the sight of God and of all Christendom ‹the entire Church of Christ›, we want to testify to those now living and those who will come after us. This declaration presented here about all the controverted articles mentioned and explained above—and no other—is our faith, doctrine, and confession. By God’s grace, with intrepid hearts, we are willing to appear before the judgment seat of Christ with this Confession and give an account of it [1 Peter 4:5]. We will not speak or write anything contrary to this Confession, either publicly or privately. By the strength of God’s grace we intend to abide by it. Therefore, after mature deliberation, we have, in the fear of God and by calling on His name, attached our signatures with our own hands.
+
+Jacob Andreae
+
+Nicolas Selnecker
+
+Andrew Musculus
+
+Christopher Cornerus
+
+David Chytraeus
+
+Martin Chemnitz

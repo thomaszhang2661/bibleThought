@@ -43,3 +43,23 @@ O God, You have prepared for those who love You such good things as surpass our 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 107–115
+
+[107] With heart and mouth we reject and condemn as false, erroneous, and misleading all errors that do not agree with but contradict and oppose the doctrine mentioned above and founded on God’s Word, such as these:
+
+[108] 1. The papistic transubstantiation. It is taught that the consecrated or blessed bread and wine in the Holy Supper entirely lose their substance and essence. They are changed into the substance of Christ’s body and blood in such a way that only the mere form of bread and wine is left, or the accidents without the object. The bread is no longer bread. According to their assertion it has lost its natural essence. Christ’s body is present under the form of the bread even apart from the administration of the Holy Supper [e.g., when the bread is enclosed in the pyx or is carried about for display and adoration). For nothing can be a Sacrament without God’s command and the appointed use for which it is instituted in God’s Word, as was shown above.
+
+[109] 2. We likewise reject and condemn all other papistic abuses of this Sacrament, like the abomination of the sacrifice of the Mass for the living and dead.
+
+[110] 3. Also, contrary to Christ’s public command and institution only one form of the Sacrament is administered to the laity. These papistic abuses have been thoroughly refuted by means of God’s Word and the testimonies of the Ancient Church, in the common Confession and the Apology of our churches, the Smalcald Articles, and our theologians’ other writings.
+
+[111] However, in this document we have tried to present only our confession and explanation about the true presence of Christ’s body and blood especially against the Sacramentarians. Some of them shamelessly sneak into our churches under the name of the Augsburg Confession. Therefore, we will also state and list here especially the Sacramentarians’ errors, in order to warn our hearers to guard against and look out for them.
+
+[112] With heart and mouth we reject and condemn as false, erroneous, and misleading all Sacramentarian opinions and teachings. These do not agree with, but contradict and oppose, the doctrine presented above, founded on God’s Word:
+
+[113] 1. They assert that the words of institution are not to be understood simply in their proper meaning, as they read, about the true, essential presence of Christ’s body and blood in the Supper. Instead, they are to be twisted, by turns of phrases or figurative interpretations, to a new, strange sense. We reject all such Sacramentarian opinions and self-contradictory notions ‹some of which even conflict with one another!>, however many and various they may be.
+
+[114] 2. The oral partaking of Christ’s body and blood in the Supper is denied ‹by the Sacramentarians›. On the contrary, it is taught that Christ’s body in the Supper is partaken of only spiritually through faith. So in the Supper our mouth receives only bread and wine.
+
+[115] 3. It is taught that bread and wine in the Supper should be regarded as nothing more than tokens by which Christians are to recognize one another.
+
+4. Or, they are only figures, comparisons, and representations of Christ’s far-absent body. Just as bread and wine are the outward food of our body, so also Christ’s absent body, with His merit, is our souls’ spiritual food.

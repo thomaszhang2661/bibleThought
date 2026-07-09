@@ -39,3 +39,31 @@ Almighty and merciful God, defend Your Church from all false teaching and error 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord II 14–17
+
+[14] In a word, what God’s Son says remains eternally true, “For apart from Me you can do nothing” [John 15:5].
+
+Paul says, “For it is God who works in you, both to will and to work for His good pleasure” [Philippians 2:13].
+
+To all godly Christians who feel and experience in their hearts a small spark or longing for divine grace and eternal salvation this precious passage is very comforting. For they know that God has kindled in their hearts this beginning of true godliness. He will further strengthen and help them in their great weakness to persevere in true faith unto the end [1 Peter 5:10].
+
+[15] Here belong also all the prayers of the saints in which they ask that they may be taught, enlightened, and sanctified by God. By this very act they declare that they cannot get those things that they ask of God from their own natural powers. For example, in Psalm 119 alone, David prays more than ten times that God would give him understanding, that he might rightly comprehend and learn the divine teaching. Similar prayers are in Paul’s writings (Ephesians 1:17; Colossians 1:9; Philippians 1:9). These prayers and passages about our ignorance and inability have been written for us. They are not written to make us idle and remiss in reading, hearing, and meditating on God’s Word, but that we should first thank God from the heart that by His Son He has delivered us from the darkness of ignorance and the captivity of sin and death [Ephesians 4:8]. Through Baptism and the Holy Spirit He has regenerated and illumined us.
+
+[16] After God (through the Holy Spirit in Baptism) has kindled and caused a beginning of the true knowledge of God and faith, we should pray to Him without ceasing [1 Thessalonians 5:17]. We should ask that through the same Spirit and His grace, by means of the daily exercise of reading and doing God’s Word, He would preserve in us faith and His heavenly gifts, strengthen us from day to day, and keep us to the end. For unless God Himself is our schoolmaster, we can study and learn nothing that is acceptable to Him and helpful to ourselves and others.
+
+[17] Second, God’s Word testifies that the intellect, heart, and will of the natural, unregenerate person in divine things are not only turned entirely away from God, but also are turned and perverted against God to every evil. Also, a person is not only weak, incapable, unfit, and dead to good, but is also sadly perverted, infected, and corrupted by original sin so that he is entirely evil, perverse, and hostile to God by his disposition and nature. He is very strong, alive, and active in everything that is displeasing and contrary to God.
+
+For the intention of man’s heart is evil from his youth. (Genesis 8:21)
+
+The heart is deceitful above all things, and desperately sick; who can understand it? (Jeremiah 17:9)
+
+St. Paul explains this passage from Jeremiah, writing,
+
+For the mind that is set on the flesh is hostile to God. (Romans 8:7)
+
+For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other. (Galatians 5:17)
+
+For we know that the law is spiritual, but I am of the flesh, sold under sin. (Romans 7:14)
+
+For I know that nothing good dwells in me, that is, in my flesh. (Romans 7:18)
+
+For I delight in the law of God, in my inner being, but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members. (Romans 7:22–23)

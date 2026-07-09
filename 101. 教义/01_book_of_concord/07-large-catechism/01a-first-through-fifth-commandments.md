@@ -4,8 +4,6 @@ PART 1
 
 THE FIRST COMMANDMENT
 
-Note: Luther spends more time on the First Commandment than on any other portion of the catechism, explaining how essential it is to know, trust, and believe in the true God and to let nothing take His place. Luther was convinced that where this commandment was being kept, all other commandments would follow. A right relationship with God produces right relationships with fellow human beings.
-
 You shall have no other gods.
 
 [1] What this means: You shall have Me alone as your God. What is the meaning of this, and how is it to be understood? What does it mean to have a god? Or, what is God?
@@ -108,8 +106,6 @@ You shall have no other gods.
 
 THE SECOND COMMANDMENT
 
-Note: The First Commandment instructs our heart toward God. This commandment guides our lips. Using God’s name to cover up lies or spread falsehood is a great evil and sin, and it happens in many ways in life. There is no greater sin against the Second Commandment than using God’s name to preach, teach, and spread false doctrine. Luther explains how to use God’s name properly and how to take an oath without sin. By faith, our hearts and our mouths honor God by confessing Him and His Word purely. Notice how Luther recommends beginning and ending each day, and each meal, by making the sign of the cross and commending ourselves to God. Making the sign of the cross is not a “Roman Catholic” practice, but has its roots in the earliest years of the Church. It is a visible way to remind ourselves whose we are and how we have been redeemed by the cross of Jesus Christ.
-
 [49] You shall not take the name of the Lord, your God, in vain.
 
 [50] The First Commandment has instructed the heart and taught the faith. This commandment now leads us forward and directs the mouth and tongue to God. For the first things that spring from the heart and show themselves are words [Matthew 12:34]. I have taught above how to answer the question “What does it mean to have a god?” Now you must simply learn to understand the meaning of this commandment and all the commandments, and to apply it to yourself.
@@ -170,8 +166,6 @@ Note: The First Commandment instructs our heart toward God. This commandment gui
 
 THE THIRD COMMANDMENT
 
-Note: Luther begins by defining “holy day” and by explaining how by Christ’s time the true understanding of the Sabbath had been corrupted. Because the Third Commandment describes Jewish practice in the Old Testament, Luther plainly states that the external form of this law does not apply to Christians. It is an error to say that Sunday is the New Testament Sabbath. Christians should regularly devote themselves to a day when they can hear and learn God’s Word, so that they do not despise it. For this reason Luther commends worship on Sunday for the sake of good order. In this sense, every day for the Christian should be a “holy day” consecrated by God’s Word. Luther presents a clever play on words when he suggests there is only one “holy thing.” The German word for “holy things” (Heiligtum) was often used to refer to relics, items believed to have belonged to the apostles and other saints. Yet Luther says the only true “holy thing” is God’s Word, which consecrates all things and apart from which nothing we do or say is holy.
-
 [78] You shall sanctify the holy day.
 
 [79] The word holiday is used for the Hebrew word sabbath, which properly means “to rest,” that is, to cease from labor. Therefore, we usually say, “to stop working.” Or “Sanctify the Sabbath.”
@@ -223,8 +217,6 @@ Note: Luther begins by defining “holy day” and by explaining how by Christ�
 [102] And even though no other interest or necessity moves us, this truth ought to urge everyone to the Word, because thereby the devil is put to flight and driven away [James 4:7]. Besides, this commandment is fulfilled and this exercise in the Word is more pleasing to God than any work of hypocrisy, however brilliant.
 
 The Fourth Commandment
-
-Note: Commandments four through ten describe relationships with our fellow humans. Here Luther’s understanding of “vocation” is apparent. Vocation comes from the Latin vocare, meaning “to call.” God calls everyone to certain roles, or stations, in life. In this commandment, Luther describes our duty before God to honor father and mother, that is, to respect authority. God instituted all forms of authority as an extension of parental authority, for our good. There are various parental authorities, or “fathers,” in our lives, including pastors, teachers, and government officials. Another insight by Luther is about the life of good works to which Christians are called. We should not regard “Church work” as more holy than the other things in life that we routinely do. Rather, all callings and stations in life serve God and are opportunities for us to obey God’s commandments and to serve our neighbor. The key observation Luther offers is this: faith is what makes a person holy. Faith alone. Good works serve God by serving other people.
 
 [103] So far we have learned the first three commandments, which relate to God: (a) With our whole heart we trust in Him and fear and love Him throughout all our lives. (b) We do not misuse His holy name in support of falsehood or any bad work, but use it to praise God and for the profit and salvation of our neighbor and ourselves. (c) On holidays and when at rest we diligently use and encourage the use of God’s Word, so that all our actions and our entire life is guided by it. Now follow the other seven commandments, which relate to our neighbor. Among them is the first and greatest:
 
@@ -381,8 +373,6 @@ But the godly and obedient have this blessing: they live long in pleasant quietn
 [178] Let this be enough encouragement. To draw this out further belongs to another time.
 
 THE FIFTH COMMANDMENT
-
-Note: Luther distinguishes between spiritual and civil government and authority, which we commonly refer to as the doctrine of the two kingdoms. God takes care of us in the Church through the ministry of Word and Sacraments, the means of grace. In our homes He cares for us through our parents. In the world, he cares for us by means of civil government. God gives to the civil government the authority to punish criminals and, when necessary, to execute them. The spiritual meaning of this commandment is that we are not to “kill” our neighbor in our hearts with our thoughts, with our words, or with our hands. No one has the right, on his or her own authority, to murder another person. Only God may take a human life, and He entrusts this authority to civil rulers. So Christians can in good conscience wage war and punish and execute criminals under rightful government authority. Luther goes on to explain that we break the Fifth Commandment not only by acting against it but also when we fail to protect our neighbor. To explain this commandment, Luther relies on the Sermon on the Mount, particularly Matthew 5:46–47.
 
 [179] You shall not murder.
 

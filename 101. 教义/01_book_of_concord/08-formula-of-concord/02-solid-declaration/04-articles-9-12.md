@@ -2,8 +2,6 @@
 
 ## IX. THE DESCENT OF CHRIST TO HELL
 
-Note: For an annotation on this article, see p. 495. (See also Apostles' Creed; Nicene Creed; Athanasian Creed; SA I; SC II; LC II; FC Ep IX.)
-
 [1] Even in the Ancient Christian teachers of the Church, as well as among some of our teachers, different explanations of the article about Christ’s descent to hell are found. Therefore, we abide in the simplicity of our Christian faith. Dr. Luther has pointed us to this in a sermon about Christ’s descent to hell, which he delivered in the castle at Torgau in the year 1533. In the Creed we confess, “I believe ... in Jesus Christ, His only Son, our Lord, who . . . was crucified, died and was buried. He descended into hell.” In this Confession Christ’s burial and descent to hell are distinguished as different articles.
 
 [2] We simply believe that the entire person (God and man) descended into hell after the burial, conquered the devil, destroyed hell’s power, and took from the devil all his might.
@@ -13,8 +11,6 @@ Note: For an annotation on this article, see p. 495. (See also Apostles' Creed; 
 ## X. CHURCH PRACTICES
 
 Called Adiaphora, or Indifferent Things
-
-Note: For an annotation on this article, see p. 496. (See also AC XIV; AC XXIV; AC XXVI; AC XXVIII; Ap XIV; Ap XV; Ap XXIV; Ap XXVIII; SA III XV; FC Ep X.)
 
 ## [STATUS OF THE CONTROVERSY]
 
@@ -109,8 +105,6 @@ This being the case, all Christians should beware of participating in the godles
 [31] So the churches will not condemn one another because of differences in ceremonies when, in Christian liberty, one has less or more of them. This applies as long as they are otherwise agreed with one another in the doctrine and all its articles, and also in the right use of the holy Sacraments. This fits the well-known saying, “Disagreement in fasting does not destroy agreement in the faith.”
 
 ## XI. GOD’S ETERNAL FOREKNOWLEDGE AND ELECTION
-
-Note: For an annotation on this article, see pp. 497–98. (See also SC II; FC Ep XI.)
 
 ## [PREVENTING DISAGREEMENT]
 
@@ -371,8 +365,6 @@ But when this consolation and hope are weakened or entirely removed by Scripture
 ## XII. OTHER FACTIONS AND SECTS
 
 That Never Confessed the Augsburg Confession
-
-Note: For an annotation on this article, see p. 500. (See also FC Ep XII.)
 
 ## [INTRODUCTION]
 

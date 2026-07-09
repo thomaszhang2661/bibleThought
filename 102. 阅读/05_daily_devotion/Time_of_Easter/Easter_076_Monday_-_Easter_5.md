@@ -44,3 +44,19 @@ Lord Jesus, by Your Spirit, You give us faith to cast out all fear of confessing
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VIII 53–60
+
+[53] The best, most certain, and surest way in this controversy is this: according to His received human nature through the personal union, Christ has glorification, or exaltation. What His received human nature is capable of beyond the natural properties, without becoming annihilated, no one can know better or more thoroughly than the Lord Christ Himself. He has revealed this in His Word, as much as is needful for us to know about it in this life. We must simply believe everything for which we have clear, certain testimonies in the Scriptures in this matter. We should in no way argue against it, as though the human nature in Christ could not be capable of the same.
+
+[54] What has been said about the created gifts that have been given and imparted to the human nature in Christ is indeed correct and true. The nature possesses them in or of itself. But these do not reach the majesty that the Scriptures, and the Ancient Fathers from Scripture, attribute to the received human nature in Christ.
+
+[55] To make alive, to have all judgment and all power in heaven and on earth, to have all things in His hands, to have all things subject beneath His feet, to cleanse from sin, and so on, are not created gifts. These are divine, infinite properties. Yet, according to the declaration of Scripture, these have been given and communicated to the man Christ. (See John 5:27; 6:39; Matthew 28:18; Daniel 7:14; John 3:35; 13:3; Matthew 11:27; Ephesians 1:22; Hebrews 2:8; 1 Corinthians 15:27; John 1:3.)
+
+[56] This communication is not to be understood as a phrase or way of speaking, or just words about the person according to the divine nature alone, but according to the received human nature. The following three strong, irrefutable arguments and reasons show this:
+
+[57] 1. First, here is a unanimously received rule of the entire ancient orthodox Church. Holy Scripture testifies that what Christ received in time He did not receive according to the divine nature. (According to this nature He has everything from eternity.) But the person of Christ has received attributes in time by reason of and with respect to the received human nature.
+
+[58] 2. Second, the Scriptures testify clearly (John 5:21, 27; 6:39–40) that the power to give life and to execute judgment has been given to Christ because He is the Son of Man and since He has flesh and blood.
+
+[59] 3. Third, the Scriptures speak not merely in general of the Son of Man, but also indicate clearly His received human nature, “the blood of Jesus His Son cleanses us from all sin” (1 John 1:7). This is true not only according to the merit ‹of Christ’s blood› that was once attained on the cross. But in this place John means that in the work or act of justification, not only the divine nature in Christ but also His blood actually cleanses us from all sins [1 John 1:7]. So in John 6:48–58 Christ’s flesh is a life-giving food. The Council of Ephesus also concluded from this statement that Christ’s flesh has power to give life. Many other glorious testimonies of the ancient orthodox Church about this article are cited elsewhere.
+
+[60] Now Christ, according to His human nature, has received this. It has been given and communicated to the received human nature in Christ. We shall and must believe this according to the Scriptures. But, as said above, the two natures in Christ are united in such a way that they are not mingled with each other or changed one into the other. Each retains its natural, essential property, so that the properties of one nature never become properties of the other nature. Therefore, this doctrine must be rightly explained and diligently guarded against all heresies.

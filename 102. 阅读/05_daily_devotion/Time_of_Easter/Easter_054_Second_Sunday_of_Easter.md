@@ -42,3 +42,19 @@ Almighty God, grant that we who have celebrated the Lord’s resurrection may by
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 35–41
+
+[35] In addition to Christ’s and St. Paul’s expressions (the bread in the Supper is the body of Christ or the communion of the body of Christ), the following forms are also used: under the bread, with the bread, in the bread. With these words the papistic transubstantiation may be rejected and the sacramental union of the bread’s unchanged essence and Christ’s body may be shown.
+
+[36] In the same way, the expression “the Word became flesh” [John 1:14] is repeated and explained by the equivalent expressions “the Word . . . dwelt among us” [John 1:14]; likewise, “in Him the whole fullness of deity dwells bodily” [Colossians 2:9]; likewise, “God was with Him” [Acts 10:38]; likewise, “in Christ God was” [2 Corinthians 5:19], and the like. These show that the divine essence is not changed into the human nature. But the two natures, unchanged, are personally united.
+
+[37] Many eminent ancient teachers, such as Justin, Cyprian, Augustine, Leo, Gelasius, Chrysostom, and others, use this comparison about the words of Christ’s testament, “This is My body.” Just as in Christ two distinct, unchanged natures are inseparably united, so in the Holy Supper the two substances—the natural bread and Christ’s true natural body—are present together here on earth in the appointed administration of the Sacrament.
+
+[38] This union of Christ’s body and blood with the bread and wine is not a personal union (as that of the two natures in Christ). But Dr. Luther and our theologians, in the frequently mentioned Articles of Agreement ‹Formula Concordiae› in the year 1536 and in other places, call it a sacramental union. By this they wish to show that, although they use these distinct modes of speech: in the bread, under the bread, with the bread, yet they have received Christ’s words properly. They read, and have understood the proposition that the words of Christ’s testament (“This is My body”) are not a figurative, allegorical expression or comment, but are a unique expression.
+
+[39] Justin says:
+
+This we receive not as common bread and common drink. We receive them as Jesus Christ, our Savior, who through the Word of God became flesh. For the sake of our salvation He also had flesh and blood. So we believe that the food blessed by Him through the Word and prayer is the body and blood of our Lord Jesus Christ.
+
+[40] Likewise, Dr. Luther also in his Large Catechism, especially in his last Confession, about the Lord’s Supper, with great seriousness and zeal defends the very form of expression that Christ used at the first Supper [LW 37:161–372; LW 38:287–319].
+
+[41] Dr. Luther is to be regarded as the chief teacher of the churches that confess the Augsburg Confession. His entire doctrine in sum and substance is embraced in the articles of the frequently mentioned Augsburg Confession, which was presented to Emperor Charles V. Therefore, the proper meaning and sense of the oft-mentioned Augsburg Confession can and should be derived from no other source more properly and correctly than from the doctrinal and polemical writings of Dr. Luther.

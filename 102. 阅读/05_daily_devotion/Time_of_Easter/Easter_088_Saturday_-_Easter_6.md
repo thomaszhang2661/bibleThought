@@ -47,3 +47,25 @@ O Lord, almighty and everlasting God, You have commanded us to pray and have pro
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord XI 1–7
+
+[1] Among the theologians of the Augsburg Confession there has not yet arisen any public dispute at all about the eternal election of God’s children that has caused offense and has become widespread. Yet this article has been brought into very painful controversy in other places. Even among our theologians there has been some agitation about it. Furthermore, the theologians did not always use the same expressions. By the help of divine grace, we want to prevent disagreement and separation in the future among our successors on account of this teaching. Therefore, as much as in us lies, we want to present an explanation of this teaching here. Then everyone may know what our unanimous doctrine, faith, and confession is also on this article.
+
+[2] For the teaching about this article— if taught from, and according to, the pattern of the divine Word—neither can nor should be regarded as useless or unnecessary, much less as offensive or harmful. For the Holy Scriptures not just in one place or randomly, but in many places, thoroughly discuss and explain this teaching.
+
+[3] Furthermore, we should not neglect or reject the teaching of the divine Word because of abuse or misunderstanding. But for that very reason, the true meaning should and must be explained from the foundation of the Scriptures in order to turn away all abuse and misunderstanding. The plain summary and substance of this article are presented in the following points:
+
+## [AFFIRMATIVE STATEMENTS]
+
+[4] First, the distinction between God’s eternal foreknowledge and the eternal election of His children to eternal salvation is to be made carefully. Foreknowledge or prevision means that God sees and knows everything before it happens. This is called God’s foreknowledge, which extends over all creatures, good and bad. In other words, He foresees and foreknows everything that is or will be, that is happening or will happen, whether it is good or bad. For all things, whether they are past or future, are clear and present before God. This is written in Matthew 10:29:
+
+Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father.
+
+Your eyes saw my unformed substance; in Your book were written, every one of them, the days that were formed for me, when as yet there were none of them. (Psalm 139:16)
+
+I know your sitting down and your going out and coming in, and your raging against Me. (Isaiah 37:28)
+
+[5] God’s eternal election, or predestination, means God’s preordaining to salvation. It does not include both the godly and the wicked, but only God’s children, who were elected and ordained to eternal life before the world’s foundation was laid. As Paul says in Ephesians 1:4–5, “He chose us in Him He predestined us for adoption through Jesus Christ.”
+
+[6] God’s foreknowledge foresees and foreknows what is evil, yet not in the sense that it is God’s gracious will that evil should happen. Everything that the perverse, wicked will of the devil and of people wants and desires to try and do, God sees and knows before it happens. His foreknowledge preserves order also in wicked acts or works, since a limit and measure is fixed by God for the evil that God does not will. He limits how far it should go, how long it should last, and when and how He will hinder and punish it. God the Lord rules over all [Psalm 103:19] of this so that it must flow to the glory of the divine name and to the salvation of His elect, and for that reason the godless must be astonished [1 Corinthians 2:7–8].
+
+[7] The beginning and cause of evil is not God’s foreknowledge. (For God does not create and do evil, neither does He help or promote it.) The cause of this evil is the wicked, perverse will of the devil and of people, as it is written in Hosea 13:9, “He destroys you, O Israel, for you are against Me, against your helper.”Also, “For You are not a God who delights in wickedness” (Psalm 5:4).

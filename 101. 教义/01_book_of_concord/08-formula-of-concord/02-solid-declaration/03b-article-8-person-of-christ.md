@@ -2,8 +2,6 @@
 
 ## VIII. THE PERSON OF CHRIST
 
-Note: For an annotation on this article, see p. 491. (See also Apostles' Creed; Nicene Creed; Athanasian Creed; AC III; Ap III; SA I; SA II I; SC II; LC II; FC Ep VIII.)
-
 ## [STATUS OF THE CONTROVERSY]
 
 [1] A controversy has also arisen among the theologians of the Augsburg Confession about the person of Christ. This did not arise among them first but sprang originally from the Sacramentarians.

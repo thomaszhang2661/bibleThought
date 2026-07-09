@@ -44,3 +44,49 @@ Lord Jesus, Bread of Life, in Your great compassion You fed the multitudes with 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord II 24–26
+
+[24] Before a person is enlightened, converted, regenerated, renewed, and drawn by the Holy Spirit, he can by himself and by his own natural powers begin, work, or agree to work in spiritual things and in his own conversion or regeneration as little as a stone, a block, or a lump of clay. He can control the outward members of his body and hear the Gospel. To a certain extent he can meditate on it and discuss it, as is to be seen in the Pharisees and hypocrites [Matthew 23:25–28]. Nevertheless, he regards it as foolishness and cannot believe it. In this respect he acts even worse than a block. For he is rebellious and hostile to God’s will, unless the Holy Spirit is effective on him and kindles and works in him faith and other abilities pleasing to God, and obedience.
+
+[25] Third, in this way, too, the Holy Scriptures do not credit the human powers of the natural free will with conversion, faith in Christ, regeneration, renewal, and all that belongs to their effective beginning and end. They do not credit free will the whole way, half way, or in any way, even in the smallest or most trivial way. They credit conversion solely and completely to the Holy Spirit’s divine work, as also the Apology teaches.
+
+[26] Reason and free will are able to live an outwardly decent life to a certain extent. But only the Holy Spirit causes a person to be born anew [John 3:5] and to have inwardly another heart, mind, and natural desire. He opens the mind and heart to understand the Scriptures and to listen to the Word, as it is written in Luke 24:45, “Then He opened their minds to understand the Scriptures.”
+
+One who heard us was a woman named Lydia, from the city of Thyatira, a seller of purple goods, who was a worshiper of God. The Lord opened her heart to pay attention to what was said by Paul. (Acts 16:14)
+
+For it is God who works in you, both to will and to work for His good pleasure. (Philippians 2:13)
+
+God exalted Him at His right hand as Leader and Savior, to give repentance to Israel and forgiveness of sins. (Acts 5:31)
+
+God may perhaps grant them repentance leading to a knowledge of the truth. (2 Timothy 2:25)
+
+For it has been granted to you that for the sake of Christ you should not only believe in Him but also suffer for His sake. (Philippians 1:29)
+
+For by grace you have been saved through faith. And this is not your own doing; it is the gift of God. (Ephesians 2:8)
+
+Jesus answered them, “This is the work of God, that you believe in Him whom He has sent.” (John 6:29)
+
+But to this day the LORD has not given you a heart to understand or eyes to see or ears to hear. (Deuteronomy 29:4; see also Matthew 13:15)
+
+He saved us, not because of works done by us in righteousness, but according to His own mercy, by the washing of regeneration and renewal of the Holy Spirit, whom He poured out on us richly through Jesus Christ our Savior. (Titus 3:5–6)
+
+And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh, that they may walk in My statutes and keep My rules and obey them. (Ezekiel 11:19–20; see also Deuteronomy 30:6; Psalm 51:10)
+
+For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them. (Ephesians 2:10)
+
+Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come. (2 Corinthians 5:17; see also Galatians 6:15)
+
+Every good gift and every perfect gift is from above. (James 1:17)
+
+No one can come to Me unless the Father who sent Me draws him. (John 6:44)
+
+No one knows the Father except the Son and anyone to whom the Son chooses to reveal Him. (Matthew 11:27)
+
+No one can say “Jesus is Lord” except in the Holy Spirit. (1 Corinthians 12:3)
+
+For apart from Me you can do nothing. (John 15:5)
+
+Not that we are sufficient in ourselves to claim anything as coming from us, but our sufficiency is from God. (2 Corinthians 3:5)
+
+What do you have that you did not receive? If then you received it, why do you boast as if you did not receive it? (1 Corinthians 4:7)
+
+St. Augustine writes about this passage in particular. By it he was convinced that he must lay aside his former wrong opinion, when he had believed the following in his treatise On Predestination, chapter 3: “I erred in this matter. I believed that God’s grace consists only of this: God reveals His will in the preaching of the truth. But our faith in the preached Gospel is our own work and is within our own powers.” Likewise, St. Augustine writes further, “[I erred when] I said that it is within our own power to believe the Gospel and to will. But it is God’s work to give the power to do something to those who believe and will.”

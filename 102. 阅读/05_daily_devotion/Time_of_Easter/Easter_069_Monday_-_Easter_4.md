@@ -46,3 +46,17 @@ O God, in the glorious transfiguration of Your beloved Son You confirmed the mys
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VIII 1–6
+
+[1] A controversy has also arisen among the theologians of the Augsburg Confession about the person of Christ. This did not arise among them first but sprang originally from the Sacramentarians.
+
+[2] In opposition to the Sacramentarians, Dr. Luther maintained the true, essential presence of Christ’s body and blood in the Supper with solid arguments from the words of institution. The objection was raised against him by the Zwinglians that, if Christ’s body were present at the same time in heaven and on earth in the Holy Supper, it could be no real, true human body. For such majesty was said to be peculiar to God alone. They said Christ’s body was not capable of it.
+
+[3] Dr. Luther contradicted and effectively refuted this, as his doctrinal and polemical writings about the Holy Supper show. We publicly confess ‹approve› these writings, as well as his doctrinal writings ‹and we wish this fact to be publicly attested›.
+
+[4] After Luther’s death, some theologians of the Augsburg Confession sought—though still unwilling to do so publicly and clearly—to confess that they were in agreement with the Sacramentarians about the Lord’s Supper. Nevertheless, they introduced and used precisely the same “basic argument” [reference to Crypto-Calvinist tract Grundfeste] about Christ’s person by which the Sacramentarians dared to remove the true, essential presence of Christ’s body and blood from His Supper. They said that nothing should be credited to the human nature in the person of Christ that is above or contrary to its natural, essential property. On account of this they have accused Dr. Luther’s doctrine (and all those who follow it because it conforms with God’s Word) of almost all the ancient monstrous heresies.
+
+## [AFFIRMATIVE STATEMENTS]
+
+[5] We want to explain this controversy in a Christian way, in conformity with God’s Word, according to the guidance of our simple Christian faith. By God’s grace we want to entirely settle this. Therefore, our unanimous doctrine, faith, and confession are as follows:
+
+[6] We believe, teach, and confess that God’s Son from eternity has been a particular, distinct, entire, divine person. Yet He is true, essential, perfect God with the Father and the Holy Spirit. In the fullness of time He received also the human nature into the unity of His person. He did not do this in such a way that there are now two persons or two Christs. Christ Jesus is now in one person at the same time true, eternal God, born of the Father from eternity, and a true man, born of the most blessed Virgin Mary. This is written in Romans 9:5, “from their race, according to the flesh, is the Christ who is God over all, blessed forever.”

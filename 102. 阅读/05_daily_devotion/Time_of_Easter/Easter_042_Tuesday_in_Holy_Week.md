@@ -36,3 +36,11 @@ Almighty and everlasting God, grant us by Your grace so to pass through this hol
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord V 7–10
+
+[7] Likewise, the term repentance is not used in the Holy Scriptures in one and the same sense. In some passages of Holy Scripture it is used and taken to mean a person’s entire conversion. For example, “Unless you repent, you will all likewise perish” (Luke 13:5). And, “There will be more joy in heaven over one sinner who repents” (Luke 15:7).
+
+[8] But in this passage (Mark 1:15) and elsewhere, when repentance and faith in Christ (Acts 20:21), or repentance and forgiveness of sins (Luke 24:46–47), are mentioned as distinct, to repent means nothing other than to truly acknowledge sins, to be heartily sorry for them, and to stop doing them.
+
+[9] This knowledge comes from the Law. It is not enough for saving conversion to God if faith in Christ is not added. The comforting preaching of the Holy Gospel offers His merits to all penitent sinners who are terrified by the preaching of the Law. The Gospel proclaims the forgiveness of sins, not to coarse and self-secure hearts, but to the bruised or penitent (Luke 4:18). The preaching of the Gospel must be added so that the repentance may lead to salvation and not to the Law’s contrition or terrors (2 Corinthians 7:10).
+
+[10] Merely preaching the Law, without Christ, either makes proud people, who imagine that they can fulfill the Law by outward works, or forces them utterly to despair. Therefore, Christ takes the Law into His hands and explains it spiritually (Matthew 5:21–48; Romans 7:14; 1:18). He reveals His wrath from heaven on all sinners and shows how great it is. In this teaching sinners are directed to the Law, and from it they first learn to know their sins correctly—a confession that Moses could never wrestle out of them. For as the apostle testifies (2 Corinthians 3:14–15), even though Moses is read, the veil he put over his face is never lifted. So they cannot understand the Law spiritually, and what great things it requires of us, and how severely it curses and condemns us because we cannot keep or fulfill it. “But when one turns to the Lord, the veil is removed” (2 Corinthians 3:16).

@@ -40,3 +40,25 @@ Almighty God, through Your only-begotten Son, Jesus Christ, You overcame death a
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 9–16
+
+[9] Against the Sacramentarians’ opinion, this is what is taught in the Augsburg Confession from God’s Word about the Lord’s Supper: “That the body and blood of Christ are truly present and distributed to those who eat the Lord’s Supper” [AC X 1]. The contrary doctrine is rejected (namely, that of the Sacramentarians, who presented their own confession at the same time at Augsburg. They said that the body of Christ, because He has ascended to heaven, is not truly and essentially present here on earth in the Sacrament).
+
+[10] This opinion is clearly expressed in Luther’s Small Catechism in the following words:
+
+What is the Sacrament of the Altar? Answer: It is the true body and blood of our Lord Jesus Christ, under the bread and wine, for us Christians to eat and to drink, instituted by Christ Himself. [SC VI 1–2]
+
+[11] In the Apology this is not only explained still more clearly, but is also established by the passage from Paul (1 Corinthians 10:16) and by the testimony of Cyril, in the following words:
+
+Article X has been approved, in which we confess the following: We believe that in the Lord’s Supper Christ’s body and blood are truly and substantially present and are truly administered with those things that are seen (bread and wine) to those who receive the Sacrament. . . . Since Paul says, “The bread that we break, is it not a participation in the body of Christ?” (1 Corinthians 10:16), it would follow, that if the Lord’s body were not truly present, the bread is not a communion of the body, but only of Christ’s spirit. We have determined that not only the Roman Church affirms Christ’s bodily presence. The Greek Church also now believes, and formerly believed, the same. [Ap X 54–55; Quarto]
+
+Testimony is produced from Cyril that Christ dwells also bodily in us in the Holy Supper by the communication of His flesh.
+
+[12] Afterward, the people at Augsburg who delivered their own Confession about this article seemed to be willing to approve the Confession of our churches. Then the following Formula Concordiae (i.e., articles of Christian agreement) between the Saxon theologians and those of Upper Germany was composed and signed at Wittenberg in 1536 by Dr. Martin Luther and other theologians on both sides:
+
+[13] We have heard how Mr. Martin Bucer explained his own opinion and the opinion of the other preachers who came with him from the cities. About the Holy Sacrament of the body and blood of Christ, they taught the following:
+
+[14] They confess, according to the words of Irenaeus, that in this Sacrament there are two things, a heavenly and an earthly. So they hold and teach that with the bread and wine the body and blood of Christ are truly and essentially present, offered, and received. They do not believe in transubstantiation (i.e., an essential transformation of the bread and wine into the body and blood of Christ). Nor do they hold that the body and blood of Christ are included in the bread locally [localiter] (i.e., otherwise permanently united with the bread and wine even after the use of the Sacrament). Yet they concede that through the sacramental union the bread is the body of Christ, and such.
+
+[15] For apart from the use, when the bread is laid aside and preserved in the sacramental vessel ‹the pyx›, or is carried about in the procession and exhibited, as is done in popery, they do not hold that the body of Christ is present.
+
+[16] Second, they hold that the institution of this Sacrament made by Christ is effective in Christendom, and that it does not depend on the worthiness or unworthiness of the minister who offers the Sacrament, or of the one who receives it. Since St. Paul says even the unworthy partake of the Sacrament, they hold that the body and blood of Christ are also truly offered to the unworthy, and the unworthy truly receive them. This happens if the institution and command of the Lord Christ are observed. But such persons receive them to condemnation, as St. Paul says. For they misuse the holy Sacrament, because they receive it without true repentance and without faith. For it was instituted for this purpose, that it might testify that the grace and benefits of Christ are here applied to those who truly repent and comfort themselves by faith in Christ. They are incorporated into Christ and are washed by His blood.

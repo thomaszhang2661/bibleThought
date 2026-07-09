@@ -38,8 +38,6 @@
 
 The Awe-Inspiring Articles on the Divine Majesty
 
-Note: Luther repeats the historic creedal formulas that confess God the Holy Trinity and the two natures in Christ. He concludes by indicating how these articles are the historic Confession of the Christian Church. When Luther uses the word catechism he is not referring to his Small Catechism but to the historic teaching of the faith in the Western Church: the Ten Commandments, the Lord’s Prayer, and the Apostles’ Creed. The Romanists and Lutherans agreed on these points of biblical, orthodox Christianity, so there was no need for Luther to elaborate on them. (See the Apostles’, Nicene, and Athanasian Creeds; AC I; SC II; LC II.)
-
 [2] 1. The Father, Son, and Holy Spirit, three distinct persons in one divine essence and nature [Matthew 28:19], are one God, who has created heaven and earth [1 Corinthians 8:6].
 
 2. The Father is begotten of no one; the Son is begotten of the Father [John 1:14]; the Holy Spirit proceeds from the Father and the Son [John 15:26].
@@ -57,8 +55,6 @@ The Articles That Refer to the Office and Work of Jesus Christ; That Is, Our Red
 ## ARTICLE I
 
 ## The Chief Article
-
-Note: Agreeing on the content of the historic Christian Creed is one thing. Agreeing on what it means is quite another. Luther launches immediately into the “chief article” of the Christian faith: Christ’s saving work can never be given up, or compromised, for the sake of peace and unity in the Church. This teaching is the very heart of the Gospel itself; therefore, it must be kept pure and free from error and proclaimed boldly and thoroughly. Luther returns to this chief article over and over again throughout the rest of the Smalcald Articles, demonstrating how the various errors and abuses in the Church of his day originate from false teaching about justification by grace through faith. (See the Apostles’, Nicene, and Athanasian Creeds; AC III; SC II; LC II; FC Ep VIII and FC SD VIII.)
 
 The first and chief article is this:
 
@@ -85,8 +81,6 @@ Upon this article everything that we teach and practice depends, in opposition t
 ## ARTICLE II
 
 ## The Mass
-
-Note: Nowhere was Rome’s corruption of the doctrine of justification more clearly seen than in the abuses and errors associated with the celebration of Holy Communion (the Mass; see article, p. 219). Luther forcefully calls the Roman Mass a “horrible abomination” because it thoroughly contradicts the chief article of the faith, justification. Notice how, over and over again, Luther takes his stand against the corruptions of the Mass by showing that God did not command the Church to perform these corrupt ceremonies. (See AC XXI and XXIV; FC Ep X and FC SD X.)
 
 [1] The Mass in the papacy has to be the greatest and most horrible abomination, since it directly and powerfully conflicts with this chief article. Above and before all other popish idolatries the Mass has been the chief and most false. For this sacrifice or work of the Mass is thought to free people from sins, both in this life and also in purgatory. It does so even when offered by a wicked scoundrel. Yet only the Lamb of God can and will do this [John 1:29], as said above. Nothing of this article is to be surrendered or conceded, because the first article does not allow it.
 
@@ -154,8 +148,6 @@ All these things are unbearable. They are not only without God’s Word, are unn
 
 ## Chapters and Cloisters
 
-Note: Reflecting on his own experiences as a monk, Luther rejects the Roman system of monastic life. By making monasticism meritorious for eternal life, Rome contradicted the chief article of the Christian faith. Monasteries were originally founded as institutions of education. Luther advocates returning them to that noble purpose; otherwise they should be destroyed.
-
 [1] Monastic chapters and cloisters were formerly founded with the good intention of educating learned men and virtuous women. They should be used for that again. They could produce pastors, preachers, and other ministers for the churches. They could also produce essential personnel for the secular government in cities and countries, as well as well-educated young women for mothers, housekeepers, and such.
 
 [2] If these institutions will not serve this purpose, it is better to abandon them or tear them down than have their blasphemous, humanly invented services regarded as something better than the ordinary Christian life and the offices and callings ordained by God. This too is contrary to the chief article on the redemption through Jesus Christ. Like all other human inventions, these religious institutions have not been commanded. They are needless and useless. They are also occasions for dangerous ‹annoyances› and empty works [Isaiah 29:20], what the Hebrew prophets call Aven (i.e., pain and labor).
@@ -163,8 +155,6 @@ Note: Reflecting on his own experiences as a monk, Luther rejects the Roman syst
 ## ARTICLE IV
 
 ## The Papacy
-
-Note: This article contains the most vigorous rejection of the papacy in the Book of Concord. Luther flatly asserts that the pope is truly the Antichrist, a statement that may sound outrageous to most modern ears. The Bishop of Rome is no more than a pastor of God’s people in Rome and of all those who voluntarily attach themselves to him—he is nothing more than this. The institution of the papacy developed on the basis of false claims to an authority that Christ had never bestowed. Luther points out how the papacy, as it existed in his time, did not exist for nearly five hundred years in the West and never was received by the Eastern Church (the “Greek” Church).
 
 Luther’s harsh words about the papacy are motivated by his passion for the chief article of the Christian faith: salvation by God’s grace alone, through faith alone, on account of Christ alone. The Roman papacy in Luther’s day was engaged not only in spiritual warfare against the truth of the Scripture regarding Christ, but it also took up arms to kill and destroy those who adhered faithfully to the article of justification. Today the papacy continues to insist that salvation is not by grace alone, through faith alone, and thus continues to set itself against the central teaching of the Christian faith. Melanchthon has much more to say about this point in the Treatise on the Power and Primacy of the Pope (pp. 294–306). (See also AC XXVIII; SC Table of Duties.)
 

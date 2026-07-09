@@ -47,3 +47,15 @@ O Lord, absolve Your people from their offenses that from the bonds of our sins,
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 59–61
+
+[59] We unanimously abide by this simple, well-founded explanation of this glorious testimony (1 Corinthians 10). We are truly shocked that some are now so bold that they venture to quote the passage below. Previously, even they attributed this to the Sacramentarians, as a foundation for their error. Now they say that in the Supper Christ’s body is only partaken of spiritually.
+
+The bread is the communion of Christ’s body. In other words, it is that by which we have fellowship with Christ’s body, which is the Church. Or it is the means by which we believers are united with Christ, just as the Word of the Gospel, received by faith, is a means through which we are spiritually united to Christ and built into Christ’s body, which is the Church.
+
+[60] It is not only godly, pious, and believing Christians who orally receive Christ’s ‹true› body and blood in the Sacrament. So do unworthy, godless hypocrites, like Judas and his ilk, who have no spiritual communion with Christ, and who go to the Lord’s Table without true repentance and conversion to God. St. Paul teaches clearly that by their unworthy eating and drinking they grievously sin against Christ’s body and blood. For he says:
+
+Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner [sins not merely against the bread and wine, not merely against the signs or symbols and emblems of the body and blood, but] will be guilty of profaning the body and blood of the Lord. (1 Corinthians 11:27)
+
+Such a person dishonors, abuses, and disgraces the body and blood, like the Jewish people, who by their actions violated Christ’s body and killed Him. The Ancient Christian Fathers and Church teachers have unanimously understood and explained this passage in this way.
+
+[61] There is a twofold eating of Christ’s flesh. One is spiritual, which Christ describes especially in John 6:54. This “eating” happens in no other way than with the Spirit and faith, in preaching and meditation on the Gospel, as well as in the Lord’s Supper. By itself this is useful and helpful, and necessary for all Christians, at all times, for salvation. Without this spiritual participation the sacramental or oral eating in the Supper is not only not helpful, but is even harmful and damning.

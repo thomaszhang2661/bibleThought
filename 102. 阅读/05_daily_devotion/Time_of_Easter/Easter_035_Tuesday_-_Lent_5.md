@@ -44,3 +44,13 @@ Lord Jesus Christ, the temple of Your body was destroyed on the cross and three 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord IV 1–5
+
+[1] A disagreement about good works has arisen among the theologians of the Augsburg Confession. One side uses the following words and way of speaking: “Good works are necessary for salvation; it is impossible to be saved without good works.” Likewise, “No one has been saved without good works.” They say good works are required of true believers as the fruit of faith, and faith without love is dead, although such love is no cause of salvation.
+
+[2] The other side argued that good works are indeed necessary—however, not for salvation, but for other reasons. The expressions mentioned above are not to be tolerated in the Church. (They are not in accord with the form of sound doctrine and with the Word, and have always been and still are used by the papists to oppose the doctrine of our Christian faith, in which we confess that faith alone justifies and saves.) This is argued in order that the merit of Christ, our Savior, may not be diminished, and the promise of salvation may be and remain firm and certain to believers.
+
+[3] In this controversy the following disputed proposition, or expression, was also used by a few people, “Good works are harmful to salvation.” Some have also argued that good works are not necessary, but are voluntary. They are not forced by fear and the penalty of the Law, but are to be done from a voluntary spirit and a joyful heart. Over against this the other side argued that good works are necessary.
+
+[4] This ‹latter› controversy was originally caused by the words necessary and free, because the word necessary means not only the eternal, unchangeable order according to which all people are obliged and duty bound to obey God, but sometimes also refers to a coercion, by which the Law forces people to do good works.
+
+[5] Later there was a dispute in which not only the words, but the doctrine itself was attacked in the most violent manner. It was argued that the new obedience in the regenerate is not necessary because of the abovementioned divine order.

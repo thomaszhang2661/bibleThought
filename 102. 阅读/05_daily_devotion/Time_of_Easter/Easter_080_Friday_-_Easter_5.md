@@ -48,3 +48,23 @@ O Lord, You have called us to enter Your kingdom through the narrow door. Guide 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VIII 77–84
+
+[77] We do not understand these testimonies to mean that only Christ’s divinity is present with us in the Christian Church and congregation, and that such presence does not apply to Christ according to His humanity in no way whatever. For in that way Peter, Paul, and all the saints in heaven—since divinity, which is everywhere present, dwells in them— would also be with us on earth. However, the Holy Scriptures say this only about Christ, and no other man.
+
+[78] We hold that by these words the majesty of the man Christ is declared. Christ has received this majesty, according to His humanity, at the right hand of God’s majesty and power. So also, according to His received human nature and with the same, He can be, and also is, present where He wants to be. He is present especially in His Church and congregation on earth as Mediator, Head, King, and High Priest. This presence is not a part, or only one half of Him. Christ’s entire person is present, to which both natures belong, the divine and the human—not only according to His divinity, but also according to, and with, His received human nature. He is our Brother [Hebrews 2:17], and we are flesh of His flesh and bone of His bone [Genesis 2:23].
+
+[79] He has instituted His Holy Supper for the certain assurance and confirmation of this, so that He will be with us, and dwell, work, and be effective in us also according to that nature from which He has flesh and blood.
+
+[80] Upon this firm foundation Dr. Luther, of blessed memory, has also written about Christ’s majesty according to His human nature.
+
+[81] In the Confession concerning Christ’s Supper he writes this about the person of Chris
+
+Now, since He [Christ] is a man who is supernaturally one person with God, and apart from this man there is no God, it must follow that according to the third supernatural mode, He is and can be wherever God is and that everything is full of Christ through and through, even according to His humanity—not according to the first, corporeal, circumscribed mode, but according to the supernatural, divine mode.
+
+[82] Here you must take your stand and say that wherever Christ is according to His divinity, He is there as a natural, divine person and He is also naturally and personally there, as His conception in His mother’s womb proves conclusively. For if He was the Son of God, He had to be in His mother’s womb naturally and personally and become man. But if He is present naturally and personally wherever He is, then He must be man there, too, since He is not two separate persons but a single person. Wherever this person is, it is the single, indivisible person, and if you can say, “Here is God,” then you must also say, “Christ the man is present too.”
+
+And if you could show me one place where God is and not the man, then the person is already divided and I could at once say truthfully, “Here is God who is not man and has never become man.”
+
+[83] But no God like that for me! For it would follow from this that space and place had separated the two natures from one another and thus had divided the person, even though death and all the devils had been unable to separate and tear them apart.
+
+[84] This would leave me a poor sort of Christ, if He were present only at one single place, as a divine and human person, and if at all other places He had to be nothing more than a mere isolated God and a divine person without the humanity. No, comrade, wherever you place God for me, you must also place the humanity for me. They simply will not let themselves be separated and divided from each other. He has become one person and does not separate the humanity from Himself. [LW 37:218–19]

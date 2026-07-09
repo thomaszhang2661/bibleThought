@@ -42,3 +42,25 @@ O God, the helper of all who call on You, have mercy on us and give us eyes of f
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord II 74–83
+
+[74] 1. First, the folly of the Stoics and Manichaeans, who asserted that everything that happens must happen in this way, that a person does everything from coercion. And even in outward works a person’s will has no freedom or ability to perform (to a certain extent) outward righteousness and respectable behavior. A person cannot avoid outward sins and vices. A person’s will is coerced to do outward wicked deeds, unchastity, robbery, murder, and such.
+
+[75] 2. Second, the error of the gross Pelagians, that the free will, from its own natural powers, without the Holy Spirit, can turn to God and believe the Gospel. People can be obedient to God’s Law from the heart, and by this voluntary obedience the heart can merit the forgiveness of sins and eternal life.
+
+[76] 3. Third, the error of the papists and scholastics, who have acted in a somewhat more crafty way. They have taught that a person from his own natural powers can begin to do good and to convert himself. Then, because a person is too weak to bring it to completion, the Holy Spirit comes to the aid of the good begun from a person’s own natural powers.
+
+[77] 4. Fourth, the teaching of the Synergists, who pretend that a person is not absolutely dead to good in spiritual things, but is badly wounded and half dead. The free will is too weak to make a beginning and to convert itself to God by its own powers. It can’t be obedient to God’s Law from the heart. Nevertheless, when the Holy Spirit makes a beginning, calls us through the Gospel, and offers His grace, the forgiveness of sins, and eternal salvation, then the free will, from its own natural powers, can meet God. To a certain extent, although feebly, the will can do something toward salvation; it can help and cooperate in it and can qualify itself for it. The will can apply itself to grace, can grasp and accept it, and can believe the Gospel. It can also cooperate, by its own powers, with the Holy Spirit, in the continuation and maintenance of this work.
+
+[78] Against this teaching, it has been shown at length above that the power known to qualify one’s self for grace naturally does not come from our own natural powers, but only from the Holy Spirit’s work.
+
+[79] 5. Likewise, we reject the following teaching of the popes and monks: after regeneration a person can completely fulfill God’s Law in this life, and through this fulfillment of the Law he is righteous before God and merits eternal life.
+
+[80] 6. On the other hand, the enthusiasts should be rebuked with great seriousness and zeal. They should not be tolerated in any way in God’s Church. They imagine that God, without any means, without the hearing of the divine Word, and without the use of the holy Sacraments, draws people to Himself, enlightens, justifies, and saves them.
+
+[81] 7. We should also rebuke those who imagine that in conversion and regeneration God creates a new heart and new person in such a way that the substance and essence of the old Adam, and especially the rational soul, are completely destroyed, and a new essence of the soul is created out of nothing. St. Augustine clearly rebukes this error in ‹his comments on› Psalm 25, where he quotes the passage from Paul [in Ephesians 4:22], “Put off your old self . . .” Augustine explains this in the following words:
+
+Lest anyone might think that the substance or essence of a person is to be laid aside, he himself explains what it is to lay aside the old man, and to put on the new, when he says in the following words: “Putting away lying, speak the truth.” Behold, that is to put off the old man and to put on the new.
+
+[82] 8. Likewise, the following expressions should not be used without being explained: the human will before, in, and after conversion resists the Holy Spirit, and the Holy Spirit is given to those who resist Him.
+
+[83] The preceding explanation makes this matter clear. Where (a) no change at all in intellect, will, and heart happens through the Holy Spirit to what is good, and (b) a person does not at all believe the promise (and is not made fit by God for grace, but entirely resists the Word), there no conversion takes place or can exist. For conversion is the kind of change through the Holy Spirit’s work in a person’s intellect, will, and heart that by the Holy Spirit’s work a person can receive the offered grace. Indeed, all those who stubbornly and persistently resist the Holy Spirit’s works and movements—which take place through the Word—do not receive, but grieve and lose the Holy Spirit.

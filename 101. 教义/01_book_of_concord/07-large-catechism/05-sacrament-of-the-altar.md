@@ -4,8 +4,6 @@
 
 The Sacrament of the Altar
 
-Note: In this Sacrament, we cling to and trust God’s Word alone. Jesus does not lie to us or deceive us. Therefore, when He tells us the bread and wine are His body and blood, they are what He says. The key to understanding the benefit of the Sacrament is Christ’s words “for you.” What we receive in this Sacrament is a great “treasure”: the forgiveness of sins. The whole Gospel is comprehended in this Sacrament and is offered to us through the Word, which promises that in and under the bread and wine we receive the body and blood that was sacrificed on the cross for our salvation. Those who believe the Words of promise receive the forgiveness this Sacrament promises. Luther urges Christians to receive the Sacrament frequently. Those who realize the enormity of their sin, how many dangers abound, and how great Christ’s gifts are that are given in the Sacrament will receive the Lord’s Supper as often as possible. This is precisely why the early Lutheran congregations began to offer the Lord’s Supper every Lord’s Day and on other festival days to those wishing to receive it. (See AC X; SA III VI; FC Ep VII and FC SD VII.)
-
 [1] Just as we have heard about Holy Baptism, so we must also speak about the other Sacrament, in these same three points: What is it? What are its benefits? and Who is to receive it? And all these points are established through the words by which Christ has instituted this Sacrament.
 
 [2] Everyone who desires to be a Christian and go to this Sacrament should know them. For it is not our intention to let people come to the Sacrament and administer it to them if they do not know what they seek or why they come. The words, however, are these:

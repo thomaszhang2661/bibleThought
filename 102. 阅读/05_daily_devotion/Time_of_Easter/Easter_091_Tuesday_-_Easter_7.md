@@ -39,3 +39,41 @@ Lord God, heavenly Father, as we struggle here below with divisions among us, se
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord XI 27–32
+
+[27] This is revealed to us in the way Paul says “those whom He predestined [elected and foreordained] He also called” (Romans 8:30). God does not call without means, but through the Word. For He has commanded “that repentance and forgiveness of sins should be proclaimed in His name” [Luke 24:47]. St. Paul also testifies in a similar way when he writes, “Therefore, we are ambassadors for Christ, God making His appeal through us. We implore you on behalf of Christ, be reconciled to God” (2 Corinthians 5:20). The King calls the guests that He wants to have at His Son’s wedding through the ministers He sends out (Matthew 22:2–14). He sends some at the first and some at the second, third, sixth, ninth, and even at the eleventh hour (Matthew 20:3–6).
+
+[28] If we want to think about our eternal election to salvation helpfully, we must in every way hold strongly and firmly to this truth: just as the preaching of repentance is universal, so also the promise of the Gospel is universal, that is, it belongs to all people. For this reason Christ has given these commands:
+
+Repentance and forgiveness of sins should be proclaimed in His name to all nations. (Luke 24:47)
+
+For God so loved the world, that He gave His only Son. (John 3:16)
+
+Behold, the Lamb of God, who takes away the sin of the world! (John 1:29)
+
+The bread that I will give for the life of the world is My flesh. (John 6:51)
+
+The blood of Jesus His Son cleanses us from all sin. (1 John 1:7)
+
+[Jesus] is the propitiation for our sins, and not for ours only but also for the sins of the whole world. (1 John 2:2)
+
+Come to Me, all who labor and are heavy laden, and I will give you rest. (Matthew 11:28)
+
+For God has consigned all to disobedience, that He may have mercy on all. (Romans 11:32)
+
+Not wishing that any should perish, but that all should reach repentance. (2 Peter 3:9)
+
+The same Lord is Lord of all, bestowing His riches on all who call on Him. (Romans 10:12)
+
+The righteousness of God through faith in Jesus Christ [is] for all who believe. (Romans 3:22)
+
+For this is the will of My Father, that everyone who looks on the Son and believes in Him should have eternal life. (John 6:40)
+
+It is Christ’s command that this promise of the Gospel also should be offered to everyone in common to whom repentance is preached (Luke 24:47; Mark 16:15).
+
+[29] We should not think of this call of God, which is made through the preaching of the Word, as a juggler’s act. But we should know that God reveals His will by this call. He will work through the Word in the people He calls, so that they may be enlightened, converted, and saved. For the Word, by which we are called, is a ministry of the Spirit, which gives the Spirit, or by which the Spirit is given (2 Corinthians 3:8). It is God’s power unto salvation (Romans 1:16). The Holy Spirit wants to be effective through the Word, and to strengthen and give power and ability. It is God’s will that we should receive the Word, believe it, and obey it.
+
+[30] For this reason the elect are described as follows: “My sheep hear My voice, and I know them, and they follow Me. I give them eternal life” (John 10:27–28). “In Him we have obtained an inheritance, having been predestined according to the purpose of Him who works all things according to the counsel of His will” (Ephesians 1:11). They hear the Gospel, believe in Christ, pray and give thanks, are sanctified in love, have hope, patience, and comfort under the cross. (See Ephesians 1:13; Romans 8:25.) Although all this is very weak in them, they hunger and thirst for righteousness (Matthew 5:6).
+
+[31] “The Spirit Himself bears witness with our spirit that we are children of God. . . . The Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit Himself intercedes for us with groanings too deep for words” (Romans 8:16–26).
+
+[32] Holy Scripture also testifies that God, who has called us, is faithful. So when He has begun the good work in us, He will also preserve it to the end and perfect it, if we ourselves do not turn from Him, but firmly hold on to the work begun to the end. He has promised His grace for this very purpose. (See 1 Corinthians 1:9; Philippians 1:6; 1 Peter 5:10; 2 Peter 3:9; Hebrews 3:2.)

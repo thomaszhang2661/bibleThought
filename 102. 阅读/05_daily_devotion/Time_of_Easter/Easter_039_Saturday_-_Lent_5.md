@@ -46,5 +46,25 @@ Almighty God, through the resurrection of Your Son You have secured peace for ou
 
 ## Suggested Reading from the Book of Concord
 
-Solid Declaration of the Formula of Concord IV 33–36 Consider the price of this ransom, look carefully at this captive. He is the Son of God who is greater than all creation. How will you respond when you hear that such a priceless ransom was paid for your sins? Will you still want to offer your works done under the Law? What is the works of all men, the suffering of the martyrs, and the obedience of the holy angels compared with what the Son of God has given in His death, even death on a cross?
+Solid Declaration of the Formula of Concord IV 33–36
+
+Consider the price of this ransom, look carefully at this captive. He is the Son of God who is greater than all creation. How will you respond when you hear that such a priceless ransom was paid for your sins? Will you still want to offer your works done under the Law? What is the works of all men, the suffering of the martyrs, and the obedience of the holy angels compared with what the Son of God has given in His death, even death on a cross?
 —Martin Luther
+
+[33] The Apology provides an excellent model that shows how and when exhortations to good works can be made without darkening the doctrine of faith and of the article of justification. In Article XX (90), on the passage 2 Peter 1:10,“Be all the more diligent to make your calling and election sure,” it says:
+
+Peter speaks of works following the forgiveness of sins and teaches why they should be done. They should be done so that the calling may be sure, that is, should they fall from their calling if they sin again. Do good works in order that you may persevere in your calling, in order that you do not lose the gifts of your calling. They were given to you before, and not because of works that follow, and which now are kept through faith. Faith does not remain in those who lose the Holy Spirit and reject repentance.
+
+[34] On the other hand, this does not mean that faith lays hold of righteousness and salvation only in the beginning and then resigns its office to works as though they had to sustain faith, the righteousness received, and salvation. It means that the promise, not only of receiving, but also of retaining righteousness and salvation, is firm and sure to us. St. Paul (Romans 5:2) ascribes to faith not only the entrance to grace, but says that we stand in grace and boast of the future glory. In other words, he credits the beginning, middle, and end to faith alone.
+
+They were broken off because of their unbelief, but you stand fast through faith. (Romans 11:20)
+
+[He will] present you holy and blameless and above reproach before Him, if indeed you continue in the faith. (Colossians 1:22–23)
+
+By God’s power [you] are being guarded through faith for a salvation. (1 Peter 1:5)
+
+Obtaining the outcome of your faith, the salvation of your souls. [1 Peter 1:9]
+
+[35] It is clear from God’s Word that faith is the proper and only means through which righteousness and salvation are not only received, but also preserved by God. Therefore, it is right to reject the Council of Trent’s decree, and whatever elsewhere is set forth with the same meaning. For they say our good works preserve salvation, or the righteousness of faith that has been received, or even faith itself. They say it is either entirely or in part kept and preserved by our works.
+
+[36] Before this controversy quite a few pure teachers used similar expressions to explain the Holy Scriptures. However, they in no way intended to confirm the above-mentioned errors of the papists. Still, a controversy arose over such expressions, from which all sorts of offensive distractions followed. Therefore, according to St Paul’s admonition (2 Timothy 1:13) it is safe to hold fast both to “the pattern of the sound words” and to the pure doctrine itself. In this way, much unnecessary wrangling may be cut off and the Church preserved from many scandals.

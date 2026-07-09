@@ -37,3 +37,29 @@ Almighty God, You exalted Your Son to the place of all honor and authority. Enli
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord III 8–17
+
+[8] We want to explain this controversy in a Christian way by means of God’s Word, and settle it by His grace. Therefore, this is our doctrine, faith, and confession:
+
+We unanimously believe, teach, and confess the following about the righteousness of faith before God, in accordance with the comprehensive summary of our faith and confession presented above. A poor sinful person is justified before God, that is, absolved and declared free and exempt from all his sins and from the sentence of well-deserved condemnation, and is adopted into sonship and inheritance of eternal life, without any merit or worth of his own. This happens without any preceding, present, or subsequent works, out of pure grace, because of the sole merit, complete obedience, bitter suffering, death, and resurrection of our Lord Christ alone. His obedience is credited to us for righteousness.
+
+[10] These treasures are brought to us by the Holy Spirit in the promise of the Holy Gospel. Faith alone is the only means through which we lay hold on, accept, apply, and take them for ourselves.
+
+[11] This faith is God’s gift [Ephesians 2:8–9], by which we truly learn to know Christ, our Redeemer, in the Word of the Gospel and trust in Him. We trust that for the sake of His obedience alone we have the forgiveness of sins by grace, are regarded as godly and righteous by God the Father, and are eternally saved.
+
+[12] Therefore, it is considered and understood to be the same thing when Paul says (a) we are “justified by faith” (Romans 3:28) or (b) “faith is counted as righteousness” (Romans 4:5) and when he says (c) “by the one man’s obedience the many will be made righteous” (Romans 5:19) or (d) “so one act of righteousness leads to justification and life for all men” (Romans 5:18).
+
+[13] Faith justifies not because it is such a good work or because it is so beautiful a virtue. It justifies because it lays hold of and accepts Christ’s merit in the promise of the Holy Gospel. For this merit must be applied and become ours through faith, if we are to be justified by it.
+
+[14] Therefore, the righteousness that is credited to faith or to the believer out of pure grace is Christ’s obedience, suffering, and resurrection, since He has made satisfaction for us to the Law and paid for ‹expiated› our sins.
+
+[15] Christ is not man alone, but God and man in one undivided person. Therefore, He was hardly subject to the Law (because He is the Lord of the Law), just as He didn’t have to suffer and die for His own sake. For this reason, then, His obedience (not only in His suffering and dying, but also because He was voluntarily made under the Law in our place and fulfilled the Law by this obedience) is credited to us for righteousness. So, because of this complete obedience, which He rendered to His heavenly Father for us by doing and suffering and in living and dying, God forgives our sins. He regards us as godly and righteous, and He eternally saves us.
+
+[16] This righteousness is brought to us by the Holy Spirit through the Gospel and in the Sacraments. It is applied, taken, and received through faith. Therefore, believers have reconciliation with God, forgiveness of sins, God’s grace, sonship, and are heirs of eternal life.
+
+[17] The word justify here means to declare righteous and free from sins and to absolve a person from eternal punishment for the sake of Christ’s righteousness, which is credited by God to faith (Philippians 3:9). This use and understanding of this word is common in the Holy Scriptures of the Old and the New Testament.
+
+He who justifies the wicked and he who condemns the righteous are both alike an abomination to the LORD. (Proverbs 17:15)
+
+[Woe to those] who acquit the guilty for a bribe, and deprive the innocent of his right! (Isaiah 5:23)
+
+Who shall bring any charge against God’s elect? It is God who justifies [that is, absolves from sins and acquits]. (Romans 8:33)

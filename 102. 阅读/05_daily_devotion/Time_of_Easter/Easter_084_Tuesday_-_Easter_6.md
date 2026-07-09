@@ -48,3 +48,23 @@ O Lord, keep Your Church in Your perpetual mercy; and because without You we can
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord X 5–12
+
+[5] Under the title and excuse of outward adiaphora, things are proposed that are in principle contrary to God’s Word, although painted another color. These ceremonies are not to be regarded as adiaphora, in which one is free to do as he wants. They must be avoided as things prohibited by God. In a similar way in such a situation ceremonies should not be regarded as genuine free adiaphora, or matters of indifference. This is because they make a show or pretend that our religion and that of the papists are not far apart in order to avoid persecution, or they pretend that the papist’s ceremonies are not at least highly offensive to us. When ceremonies are intended for this purpose, and are required and received (as though through them contrary religions are reconciled and became one body), we cannot regard them as adiaphora. When returning to the papacy and departing from the Gospel’s pure doctrine and true religion should happen or gradually follow from such ceremonies, we cannot regard them as adiaphora.
+
+[6] For in this case what Paul writes shall and must win out:
+
+Do not be unequally yoked with unbelievers. For what partnership has righteousness with lawlessness? Or what fellowship has light with darkness? ... Therefore go out from their midst, and be separate from them. (2 Corinthians 6:14–17)
+
+[7] Likewise, when there are useless, foolish displays that are not profitable for good order, Christian discipline, or evangelical practice in the Church, these also are not genuine adiaphora, or matters of indifference.
+
+[8] Regarding genuine adiaphora, or matters of indifference (as explained before), we believe, teach, and confess the following: such ceremonies, in and of themselves, are not worship of God, nor any part of it. They must be properly distinguished from ceremonies that are. As it is written, “in vain do they worship Me, teaching as doctrines the commandments of men”(Matthew 15:9).
+
+[9] We believe, teach, and confess that the community of God in every place and every time has, according to its circumstances, the good right, power, and authority to change and decrease or increase ceremonies ‹that are truly adiaphora›. They should do this thoughtfully and without giving offense, in an orderly and appropriate way, whenever it is considered most profitable, most beneficial, and best for good order, Christian discipline, and the Church’s edification. Furthermore, we can yield and give in with a good conscience to the weak in faith in such outward adiaphora. Paul teaches this in Romans 14 and proves it by his example (see Acts 16:3; 21:26; 1 Corinthians 9:19).
+
+[10] We also believe, teach, and confess that at a time of confession, when the enemies of God’s Word want to suppress the pure doctrine of the Holy Gospel, God’s entire church, indeed, every single Christian, but especially the ministers of the Word, as the directors of the community of God ‹God’s church›, is bound by God’s Word to confess the doctrine freely and openly. They are bound to confess every aspect of ‹pure› religion, not only in words, but also in works and actions. In this case, even in adiaphora, they must not yield to the adversaries or permit these adiaphora to be forced on them by their enemies, whether by violence or cunning, to the detriment of the true worship of God and the introduction and sanction of idolatry. For it is written:
+
+[11] For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery. (Galatians 5:1)
+
+Yet because of false brothers secretly brought in—who slipped in to spy out our freedom that we have in Christ Jesus, so that they might bring us into slavery—to them we did not yield in submission even for a moment, so that the truth of the gospel might be preserved for you. (Galatians 2:4–5)
+
+[12] ‹In this place Paul speaks about circumcision, which at that time had become an adiaphoron (1 Corinthians 7:18–19). At other times circumcision was observed by Paul (in Christian and spiritual freedom, Acts 16:3). The false apostles pushed circumcision (Acts 15:1) in order to establish their false doctrine that the works of the Law were necessary for righteousness and salvation [2 Corinthians 11:13]. They misused circumcision to confirm their error in people’s minds. Therefore, Paul says that he would not yield even for an hour, in order that the truth of the Gospel might continue unimpaired [Galatians 2:5].>

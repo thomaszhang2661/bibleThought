@@ -2,8 +2,6 @@
 
 ## THE LARGE CATECHISM
 
-Note: For a detailed introduction to the catechisms, see pages 309–11.
-
 In his preface to the Small Catechism, Luther expresses his frustration over laypeople’s abusing the freedom of the Gospel. However, in this preface he also focuses on the clergy’s faults and failings. He chastises and rebukes lazy pastors who do as little as possible when it comes to preaching and teaching, and who are lax in their own personal prayer and meditation on God’s Word. As usual, Luther doesn’t tread lightly when expressing his concerns. He laments that people regard learning the Ten Commandments, the Creed, and the Lord’s Prayer as childish. He explains how he daily recites these texts and studies them. Luther takes pastors to the woodshed for neglecting to teach their congregations carefully. He provides many reasons for continued and careful reading and studying of the Bible.
 
 ## Preface

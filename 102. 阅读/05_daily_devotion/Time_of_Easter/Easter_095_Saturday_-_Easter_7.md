@@ -56,3 +56,27 @@ Almighty and ever-living God, You fulfilled Your promise by sending the gift of 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the formula of Concord xi 53–64
+
+[53] Our curiosity always has greater pleasure in giving itself to these matters than with what God has revealed to us about this matter in His Word. We cannot harmonize God’s revelation with our reason, which we have not been commanded to do anyway.
+
+[54] There is no doubt that God foresaw before the time of the world, and still knows, exactly, which people who are called will believe and which will not believe. He also knows which of the converted will persevere and which will not persevere. He knows which will return after a fall and which will fall into stubbornness. He also knows the number of how many there are of these on either side. Beyond all doubt this is perfectly known to God.
+
+[55] However, God has reserved this mystery for His wisdom. He has revealed nothing to us about it in His Word, much less commanded us to investigate it with our thoughts. Instead, He has seriously discouraged us from that (Romans 11:33–35). Therefore, we should not reason in our thoughts, draw conclusions, or inquire curiously into these matters, but we should cling to His revealed Word, to which He points us.
+
+[56] Without any doubt God also knows and has determined for everyone the time and hour of his call and conversion. But this time has not been revealed to us. Therefore, we have the command always to keep proclaiming the Word, entrusting the time and hour ‹of conversion› to God (Acts 1:7).
+
+[57] We see that God gives His Word at one place, but not at another. He removes it from one place and allows it to remain at another. Also, one person is hardened, blinded, given over to a depraved mind, while another, who is indeed in the same guilt, is converted again, and so on.
+
+[58] In these and similar questions Paul [Romans 11:22–24] fixes a certain limit to show us how far we should go. In part, we should recognize God’s judgment. They are well-deserved penalties for sins when God punishes a land or nation for despising His Word so that the punishment extends also to their descendants, as is seen among the Jewish people [Exodus 20:5].
+
+[59] By these punishments, in some lands and persons, God shows His severity to those who are His ‹in order to point out› what we all would have well deserved and would be worthy and worth. For we act wickedly in opposition to God’s Word. We often grieve the Holy Spirit terribly (Ephesians 4:30]. God shows His punishment in order that we may live in fear of Him and acknowledge and praise His goodness, to the exclusion of, and contrary to, our merit in and with us. He gives His Word to us and leaves it, and He does not harden and reject us.
+
+[60] Because our nature has been corrupted by sin, and is worthy of and subject to God’s wrath and condemnation, God does not owe us the Word, the Spirit, or grace. When He graciously bestows these gifts, we often thrust them from us and make ourselves unworthy of everlasting life (Acts 13:46). Therefore, He displays His righteous, well-deserved judgment in some countries, nations, and persons. And when we are placed alongside of them and compared with them, we may learn to recognize and praise God’s pure, unmerited grace in the vessels of mercy [Romans 9:23] more diligently.
+
+[61] No injustice is done to those who are punished and receive the wages of their sins. But to the rest—to those whom God gives and preserves His Word, by which people are enlightened, converted, and preserved—God commends His pure grace and mercy, without their merit.
+
+[62] When we get this far in this article, we remain on the right way, as it is written in Hosea 13:9, “He destroys you, O Israel, for you are against Me, against your helper.”
+
+[63] Regarding the things in this dispute that would soar too high and beyond these limits, we should, with Paul, place a finger on our lips, and remember and say, “Who are you, O man, to answer back to God?” [Romans 9:20].
+
+[64] We neither can nor should investigate and fathom everything in this article, the great apostle Paul declares. After having argued much about this article from God’s revealed Word, as soon as he comes to the point where he shows what God has reserved for His hidden wisdom about this mystery, he suppresses and cuts it off with the following words, “Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are His judgments and how inscrutable His ways! For who has known the mind of the Lord?” [Romans 11:33–34]. In other words, we cannot know about matters outside of and beyond what God has revealed to us in His Word.

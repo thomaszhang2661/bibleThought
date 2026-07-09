@@ -43,3 +43,17 @@ O Lord, by Your bountiful goodness release us from the bonds of our sins, which 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord III 30–35
+
+[30] Troubled hearts should have a firm, sure consolation. Also, due honor should be given to Christ’s merit and God’s grace. Therefore, the Scriptures teach that the righteousness of faith before God stands only in the gracious reconciliation or the forgiveness of sins, which is presented to us out of pure grace, only for the sake of the merit of the Mediator, Christ. This is received through faith alone in the Gospel promise. In the same way also, in justification before God, faith relies neither on contrition nor on love or other virtues. Faith relies on Christ alone and on His complete obedience by which He has fulfilled the Law for us. This obedience is credited to believers for righteousness.
+
+[31] Furthermore, neither contrition nor love nor any other virtue, but faith alone is the only means and instrument by which, and through which, we can receive and accept God’s grace, Christ’s merit, and the forgiveness of sins, which are brought to us in the Gospel promise.
+
+[32] It is also correct to say that believers who have been justified through faith in Christ first have the righteousness of faith credited to them in this life. Then, they also have the initial righteousness of the new obedience or of good works. But these two types of righteousness must not be mixed with each other or both be injected into the article of justification by faith before God. For this initial righteousness or renewal in us is incomplete and impure in this life because of the flesh. A person cannot stand with and ‹on the ground of this righteousness› before God’s court. Before God’s court only the righteousness of Christ’s obedience, suffering, and death—which is credited to faith—can stand. So only for the sake of this obedience is the person pleasing and acceptable to God and received into adoption and made an heir of eternal life. (This is true even after his renewal, when he has already many good works and lives the best life.)
+
+[33] Here belongs also what St. Paul writes in Romans 4:3. Abraham was justified before God through faith alone, for the sake of the Mediator, without the cooperation of his works. This was true not only when Abraham was first converted from idolatry and had no good works, but also afterward, when he had been renewed by the Holy Spirit and adorned with many excellent good works (Genesis 15:6; Hebrews 11:8). Paul asks the following question in Romans 4:1–3: At that time, on what did Abraham’s righteousness before God rest for everlasting life, by which he had a gracious God and was pleasing and acceptable to Him?
+
+[34] He answers:
+
+To the one who does not work but trusts Him who justifies the ungodly, his faith is counted as righteousness, just as David also [Psalm 32:1] speaks of the blessing of the one to whom God counts righteousness apart from works. [Romans 4:5–6]
+
+[35] Therefore, even though people who are converted and believe ‹in Christ› have the beginning of renewal, sanctification, love, virtue, and good works, these cannot and should not be drawn into, or mixed with, the article of justification before God. This is so the honor due to Christ may remain with Christ the Redeemer and tempted consciences may have a sure consolation, since our new obedience is incomplete and impure.

@@ -43,3 +43,21 @@ Lord Jesus Christ, You released many from their bondage to sin, death, and the d
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord IV 6–13
+
+[6] In order to explain this disagreement in a Christian way and according to the guidance of God’s Word, and by His grace to settle it completely, our doctrine, faith, and confession are as follows:
+
+[7] First, there is no controversy among our theologians about the following points in this article: it is God’s will, order, and command that believers should walk in good works. Truly good works are not those that everyone does himself from a good intention, or which are done according to human traditions, but those that God Himself has prescribed and commanded in His Word. Also, truly good works are done not by our own natural powers, but in this way: when a person is reconciled with God through faith and renewed by the Holy Spirit. Or, as Paul says, a person is “created in Christ Jesus for good works” [Ephesians 2:10].
+
+[8] Nor is there a controversy about how and why the good works of believers are pleasing and acceptable to God (although in this flesh they are impure and incomplete). They are acceptable for the sake of the Lord Christ, through faith, because the person is acceptable to God. There are works that apply to maintaining of external discipline. These are also done by, and required of, the unbelieving and unconverted. These works are commendable before the world and rewarded by God in this world with temporal blessings. Nevertheless, they do not come from true faith. Therefore, in God’s sight they are sins, that is, stained with sin, and are regarded by God as sins and impure because of the corrupt nature and because the person is not reconciled with God. “A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit” [Matthew 7:18], as it is also written, “for whatever does not proceed from faith is sin” (Romans 14:23). A person must first be accepted by God, for the sake of Christ alone, if that person’s works are to please Him.
+
+[9] Faith must be the mother and source of works that are truly good and well pleasing to God, which God will reward in this world and in the world to come. This is why St. Paul calls them true fruit of faith, also fruit of the Spirit
+
+[10] [Galatians 5:22–23]. For, as Dr. Luther writes in the Preface to St. Paul’s Epistle to the Romans:
+
+Faith, however, is a divine work in us that changes us and makes us to be born anew of God, John 1[:12—13]. It kills the old Adam and makes us altogether different men, in heart and spirit and mind and powers; it brings with it the Holy Spirit. O, it is a living, busy, active, mighty thing, this faith. It is impossible for it not to be doing good works incessantly.
+
+[11] It does not ask whether good works are to be done, but before the question is asked, it has already done them, and is constantly doing them. Whoever does not do such works, however, is an unbeliever. He gropes and looks around for faith and good works, but knows neither what faith is nor what good works are. Yet he talks and talks, with many words, about faith and good works.
+
+[12] Faith is a living, daring confidence in God’s grace, so sure and certain that the believer would stake his life on it a thousand times. This knowledge of and confidence in God’s grace makes men glad and bold and happy in dealing with God and all creatures. And this is the work that the Holy Spirit performs in faith. Because of it, without compulsion, a person is ready and glad to do good to everyone, to serve everyone, to suffer everything, out of love and praise to God, who has shown him this grace. Thus it is impossible to separate works from faith, quite as impossible as to separate heat and light from fire. [LW 35:370–71]
+
+[13] Since there is no controversy on these points among our theologians, we will not treat them here at length. We will only explain ourselves, part against part, in a simple and plain manner about the controversial points.

@@ -53,3 +53,21 @@ Lord Jesus, the two swords of the disciples were enough to show themselves as si
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord XI 87–93
+
+[87] This doctrine and explanation of the eternal and saving choice of God’s elect children entirely gives God all the glory. In Christ He saves us out of pure mercy, without any merits or good works of ours. He does this according to the purpose of His will, as it is written, “He predestined us for adoption through Jesus Christ, according to the purpose of His will, to the praise of His glorious grace, with which He has blessed us in the Beloved” (Ephesians 1:5–6).
+
+[88] Therefore, it is false and wrong when it is taught that not only God’s mercy and Christ’s most holy merit, but also something in us is a cause of God’s election, on account of which God has chosen us to eternal life. Before we had done anything good, also before we were born, yes, even before the foundations of the world were laid, He elected us in Christ. And “in order that God’s purpose of election might continue, not because of works but because of His call—she was told, ‘The older will serve the younger.’ As it is written, ‘Jacob I loved, but Esau I hated’” (Romans 9:11–13; see also Genesis 25:23; Malachi 1:2–3).
+
+[89] Furthermore, this teaching gives no one a cause either for despair or for a shameless, loose life. By this teaching, people are taught that they must seek eternal election in Christ and His Holy Gospel, as in the Book of Life. This excludes no penitent sinner, but beckons and calls all poor, heavy-laden, and troubled sinners to repentance and the knowledge of their sins. It calls them to faith in Christ and promises the Holy Spirit for purification and renewal.
+
+[90] It gives the most enduring consolation to all troubled, afflicted people, so that they know their salvation is not placed in their own hands. Otherwise they would lose their salvation much more easily than was the case with Adam and Eve in Paradise, yes, every hour and moment. But salvation is in God’s gracious election, which He has revealed to us in Christ, out of whose hand no person shall snatch us (John 10:28; 2 Timothy 2:19).
+
+[91] If anyone presents the teaching about God’s gracious election in such a way that troubled Christians cannot get comfort out of it, but are pushed to despair; or if anyone teaches it so that the impenitent are confirmed in their sinfulness, then it is undoubtedly sure and true that such a doctrine is not taught according to God’s Word and will. It is taught according to ‹human› reason and the instigation of the devil.
+
+[92] For, as the apostle testifies:
+
+Whatever was written in former days was written for our instruction, that through endurance and through the encouragement of the Scriptures we might have hope. (Romans 15:4)
+
+But when this consolation and hope are weakened or entirely removed by Scripture, it is certain that it is understood and explained contrary to the Holy Spirit’s will and meaning.
+
+[93] This simple, correct, useful explanation has a firm and good foundation in God’s revealed will. We abide by it. We flee from, and shun, all lofty, difficult questions and disputes. We reject and condemn whatever is contrary to these simple, useful explanations.

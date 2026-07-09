@@ -57,3 +57,29 @@ Almighty God, as Your only-begotten Son, our Lord Jesus Christ, ascended into th
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord X 19–25
+
+[19] The Smalcald Articles (On the Church) speak about this as follows:
+
+We do not agree with them [the papal bishops] that they are the Church. They are not the Church. Nor will we listen to those things that, under the name of Church, they command or forbid. Thank God, today a seven-year- old child knows what the Church is, namely, the holy believers and lambs who hear the voice of their Shepherd [John 10:11–16]. [SA III XII 1–2]
+
+And shortly before this (“Ordination and the Call”):
+
+If the bishops would be true bishops and would devote themselves to the Church and the Gospel, we might grant them to ordain and confirm us and our preachers. This would be for the sake of love and unity, but not because it was necessary. However, they would have to give up all comedies and spectacular display of unchristian parade and pomp. But they do not even want to be true bishops, but worldly lords and princes, who will neither preach, nor teach, nor baptize, nor administer the Lord’s Supper, nor perform any work or office of the Church. Furthermore, they persecute and condemn those who do discharge these functions, having been called to do so. So the Church should not be deprived of ministers because of the bishops. [SA III X 1–2]
+
+[20] In the article “The Papacy,” the Smalcald Articles say
+
+Therefore, just as we cannot worship the devil himself as Lord and God, so we cannot endure his apostle—the pope or Antichrist—in his rule as head or lord. For what his papal government really consists of . . . is to lie and kill and destroy body and soul eternally. [SA II IV 14]
+
+[21] In the Treatise on the Power and Primacy of the Pope, which is appended to the Smalcald Articles and was also signed by the theologians present with their own hands, are these words:
+
+Do not let them burden the Church with traditions. Do not let the authority of anyone prevail more than God’s Word. [Tr 11]
+
+[22] And shortly afterward:
+
+This being the case, all Christians should beware of participating in the godless doctrine, blasphemies, and unjust cruelty of the pope. They should desert and condemn the pope with his followers as the kingdom of Antichrist, just as Christ has commanded, “Beware of false prophets” [Matthew 7:15]. Paul commands that godless teachers should be avoided and condemned as cursed [Galatians 1:8; Titus 3:10]. And he says, “Do not be unequally yoked with unbelievers. . . . What fellowship has light with darkness?” (2 Corinthians 6:14). [Tr 41]
+
+[23] To want to separate one’s self from so many lands and nations and to profess a separate doctrine is a serious matter. But here stands God’s command that everyone should beware and not agree with those who hold false doctrine or who think of supporting it through cruelty.
+
+[24] Dr. Luther, too, has fully instructed God’s Church in a special treatise about what should be thought of ceremonies in general, and especially of adiaphora (A Report to a Good Friend on Both Kinds in the Sacrament, in Regard to the Mandate of the Bishop of Meissen [1528] [WA 26:560–618]). This was also done in 1530, and can be seen in several of his letters [LW 34:9–61].
+
+[25] From this explanation everyone can understand what every Christian community and every Christian person are to do or to leave undone, without injury to conscience, with respect to adiaphora. This applies most of all to preachers. In this way God may not be angered, love may not be injured, the enemies of God’s Word may not be strengthened, nor the weak in faith offended.

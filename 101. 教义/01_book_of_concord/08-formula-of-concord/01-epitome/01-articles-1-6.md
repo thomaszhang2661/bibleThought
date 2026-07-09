@@ -4,8 +4,6 @@
 
 ## ACCORDING TO WHICH ALL TEACHINGS SHOULD BE JUDGED AND THE ERRONEOUS TEACHINGS THAT HAVE OCCURRED SHOULD BE DECIDED AND EXPLAINED IN A CHRISTIAN WAY
 
-Note: What is the sole source of doctrine in the Church? The Bible, and the Bible alone. God’s Word is the pure fountain and source of God’s truth. Church creeds and confessions, however, function as witnesses to that truth. As such, they are accepted standards by which we can discern between true and false teaching. Churches can, do, and should insist that called pastors and other Church workers pledge themselves unconditionally to the Church’s confession. In this way, the Church’s confession safeguards the pure teaching of God’s Word. Does this contradict the statement that the Bible alone is the source and norm of doctrine? No. Confessions are not the source of doctrine, but are a standard or norm by which preaching and teaching are evaluated, because they are based on God’s Word. This may be a fine nuance, but it is an important one. Today, in authentically Lutheran churches, pastors and other church workers pledge to faithfully teach and practice according to the Scriptures and the Lutheran Confessions, just as they have done for nearly five hundred years.
-
 [1] 1. We believe, teach, and confess that the only rule and norm according to which all teachings, together with ‹all› teachers, should be evaluated and judged [2 Timothy 3:15–17] are the prophetic and apostolic Scriptures of the Old and New Testament alone. For it is written in Psalm 119:105, “Your word is a lamp to my feet and a light to my path.” St. Paul has written, “even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed” (Galatians 1:8).
 
 [2] However, other writings by ancient or modern teachers—no matter whose name they bear—must not be regarded as equal to the Holy Scriptures. All of them are subject to the Scriptures [1 Corinthians 14:32]. Other writings should not be received in any other way or as anything more than witnesses that show how this ‹pure› doctrine of the prophets and apostles was preserved after the time of the apostles, and at what places.
@@ -23,8 +21,6 @@ Note: What is the sole source of doctrine in the Church? The Bible, and the Bibl
 [8] The other symbols and writings mentioned above are not judges like the Holy Scriptures. They are only a testimony and declaration of the faith. They show how the Holy Scriptures have been understood and explained in regard to controversial articles in God’s Church by those living at that time. Also, they show how the opposite teaching was rejected and condemned ‹by what arguments the dogmas conflicting with the Holy Scriptures were rejected and condemned›.
 
 ## I. ORIGINAL SIN
-
-Note: Is sin part of mankind’s very essence? No, for if it were, God could be accused of creating sin. However, sin is a very deep and thorough corruption of our human nature—a horrible and terrible corruption. No one except Christ Jesus, our Lord, can overcome this corruption for us and save us from it. Because of this sin, spiritually we are utterly and completely dead. But there is hope! As Christ raised Lazarus from the dead, so today He brings us to life again through His Gospel in Word and Sacraments. The biblical position on this issue is explained in Articles I and II. (See also AC II; Ap II; SA III I; FC SD I.)
 
 ## STATUS OF THE CONTROVERSY
 
@@ -92,8 +88,6 @@ Rejection of the False, Opposite Teachings
 
 ## II. FREE WILL
 
-Note: Since the fall into sin, the will of mankind is so blind and corrupt that we can chose only to do evil. We are spiritually dead by nature, enemies of God and naturally hostile toward Him. While we are free to choose in earthly matters, we have no power, ability, or free will in spiritual matters. Before conversion we are entirely incapable—in any way—of responding to or cooperating with God’s grace. After conversion and because of Christ, the new man in us does in fact respond to and cooperate with God the Holy Spirit. (See also AC XVIII; Ap XVIII; FC SD II.)
-
 ## STATUS OF THE CONTROVERSY
 
 THE CHIEF QUESTIONS IN THIS CONTROVERSY
@@ -145,8 +139,6 @@ Contrary False Teaching
 [19] There are only two efficient causes for a person’s conversion: (1) the Holy Spirit and (2) God’s Word, as the instrument of the Holy Spirit, by which He works conversion. A person must hear this Word. However, it is not by that person’s own powers, but only through the grace and working of the Holy Spirit that he trusts the Word and receives it.
 
 ## III. THE RIGHTEOUSNESS OF FAITH BEFORE GOD
-
-Note: This article repeats the very heart of the Gospel. We are justified by God’s grace alone, through faith alone, which receives the righteousness of Christ. This article addresses precisely how this happens. The entire Christ, God and man, is our righteousness. Our righteousness before God consists in forgiveness in Christ, without our works, and God’s application of Christ’s righteousness to us. Faith is the means, or instrument, by which we receive Christ’s righteousness, not the cause of our righteousness in Christ. The Holy Spirit, working through the means of grace, bestows the gift of faith. We are saved by God’s grace in Christ through faith alone, but that does not mean that faith is ever alone. Good works are the fruit of justifying faith. Those who willfully, knowingly, and continually choose to commit sins show they no longer possess saving faith. For such people the Law must drive them to despair over their dire circumstances and the sure prospect of hell, and the Gospel must cleanse, pardon, and renew them through faith in Christ. King David’s repentance of adultery and murder, and the prophet Nathan’s comforting absolution, is used to illustrate this truth. (See also AC IV; Ap IV; SA II I; SA III XIII; FC SD III.)
 
 ## STATUS OF THE CONTROVERSY
 
@@ -208,8 +200,6 @@ Contrary Teaching Rejected
 
 ## IV. GOOD WORKS
 
-Note: It is wrong to say that good works are necessary for salvation. It is also wrong to say that they are harmful for salvation. Just as wrong, however, is to avoid the discussion of good works altogether. Perhaps the best analogy for good works—and a biblical one at that—is to think of them as fruit on a tree (Matthew 7:17). A living tree bears fruit. A dead tree bears no fruit. A person who is alive through faith in Christ will do good works. On the other hand, a person who is spiritually dead, that is, without faith in Christ, may perform certain outward actions, but they are not good works. While good works play no role in our salvation, they are very much part of our lives as God’s children. Good works in the Christian life do not result from our fearing God’s punishment. Rather, they result from God loving us. God’s perfect love in Christ drives out all fear and replaces it with a heart, soul, and mind that love Him and serve our neighbor. (See also AC VI; AC XX; Ap V; Ap XX; SA III XIII; FC SD IV.)
-
 ## STATUS OF THE CONTROVERSY
 
 THE CHIEF QUESTION IN THE CONTROVERSY ABOUT GOOD WORKS
@@ -262,8 +252,6 @@ False Contrary Doctrine
 
 ## V. THE LAW AND THE GOSPEL
 
-Note: How one defines Law and Gospel is key to keeping both teachings properly distinguished. This article provides a careful definition of these two terms, both in a narrow sense and in a wide sense. Strictly speaking, the Gospel is entirely and only about the good news of our salvation in Christ: what He has done for us through His life, death, and resurrection. When Law and Gospel are properly distinguished, it is the narrow definition of each that is being discussed. A person who claims, therefore, that the Gospel is about what we are to do confuses both Law and Gospel. (See also SA III II and IV; FC SD V.)
-
 ## STATUS OF THE CONTROVERSY
 
 THE CHIEF QUESTION IN THIS CONTROVERSY
@@ -299,8 +287,6 @@ Contrary Doctrine That Is Rejected
 [11] We reject and regard as incorrect and harmful the teaching that the Gospel, strictly speaking, is a preaching of repentance or rebuke and not just a preaching of grace. For by this misuse the Gospel is converted into a teaching of the Law. Christ’s merit and Holy Scripture are hidden, Christians are robbed of true consolation, and the door is opened again to ‹the errors and superstitions of› the papacy.
 
 ## VI. THE THIRD USE OF GOD’S LAW
-
-Note: God uses His Law in three ways: to maintain external discipline in society, to lead us to recognize our sin, and to guide Christians so that they will know what is pleasing to Him. These three functions, or uses, of the Law are often described as a curb, mirror, and a rule. Because the old sinful flesh clings to us until we die, we Christians need the Law as a guide for works that are pleasing to God and are appointed by God for us to do. Otherwise, we would simply dream up or imagine things pleasing to God. There are not three Laws, but one Law with three functions. God uses His Law among us in three distinct ways to accomplish His will. (See also SC, Morning Prayer and The Table of Duties; FC SD VI.)
 
 ## STATUS OF THE CONTROVERSY
 

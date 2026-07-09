@@ -46,3 +46,39 @@ Almighty God, Your Son willingly endured the agony and shame of the cross for ou
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord II 27–38
+
+[28] This teaching is founded on God’s Word and conforms to the Augsburg Confession and other writings mentioned above, as the following testimonies prove.
+
+[29] In Article XX (29–32) the Augsburg Confession says as follows:
+
+The Holy Spirit is received through faith, hearts are renewed and given new affections, and then they are able to bring forth good works. . . . Without the Holy Spirit people are full of ungodly desires. They are too weak to do works that are good in God’s sight [John 15:5]. Besides, they are in the power of the devil, who pushes human beings into various sins, ungodly opinions, and open crimes. [From 1531 Quarto edition]
+
+And a little afterward (XX 36):
+
+Without faith and without Christ, human nature and ability are much too weak to do good works.
+
+[30] These passages clearly testify that the Augsburg Confession does not at all recognize the human will in spiritual things as free. But it says that a person is the devil’s captive. How, then, is a person able to turn himself to the Gospel or Christ by his own powers?
+
+[31] The Apology (Article XVIII [70–73]) teaches this about free will:
+
+We do not deny freedom to the human will. The human will has freedom in the choice of works and things that reason understands by itself. . . . For without the Holy Spirit, human hearts lack the fear of God. Without trust ‹toward God›, they do not believe that they are heard, forgiven, helped, and preserved by God.
+
+[32] Therefore, they are godless. For “a diseased tree [cannot] bear good fruit” [Matthew 7:18]. And “without faith it is impossible to please [God]” [Hebrews 11:6]. Although we admit that free will has the freedom and power to perform the extreme works of the Law, nevertheless we do not assign spiritual matters to free will. [1531 German translation]
+
+Here it is clearly seen that the Apology credits no ability to the human will, either for beginning good or for working by itself.
+
+[33] In the Smalcald Articles (Sin [; III I 5]) the following errors about the free will are also rejected, “A person has a free will to do good and not to do evil,” and so on. And shortly afterward [III I 10] it is also rejected as an error when people teach, “Scripture does not teach that the Holy Spirit with His grace is necessary for a good work.”
+
+[34] Furthermore, we read the following in the Smalcald Articles (Repentance [; III III 40]):
+
+In Christians, this repentance continues until death. For through one’s entire life, repentance contends with the sin remaining in the flesh. Paul testifies that he wars with the law in his members (Romans 7:14–25) not by his own powers, but by the gift of the Holy Spirit that follows the forgiveness of sins [Romans 8:1–17]. This gift daily cleanses and sweeps out the remaining sins and works to make a person truly pure and holy.
+
+[35] These words say nothing at all about our will, or that even in regenerate people our will does anything by itself. But they credit this work to the gift of the Holy Spirit, who cleanses a person and makes him daily more godly and holy [1 Corinthians 6:11]. Our own powers are entirely excluded from this work.
+
+[36] In Dr. Luther’s Large Catechism [II 52–53], this is written:
+
+I am also a part and member of this same group, a sharer and joint owner of all the goods it possesses [Romans 8:1–17]. I am brought to it and incorporated into it by the Holy Spirit through having heard and continuing to hear God’s Word [Galatians 3:1–2], which is the beginning of entering it.
+
+[37] In the past, before we had attained to this, we were altogether of the devil, knowing nothing about God and about Christ [Romans 3:10–12]. So, until the Last Day, the Holy Spirit abides with the holy congregation or Christendom [John 14:17]. Through this congregation He brings us to Christ and He teaches and preaches to us the Word [John 14:26]. By the Word He works and promotes sanctification, causing this congregation daily to grow and to become strong in the faith and its fruit, which He produces [Galatians 5].
+
+[38] In this passage the Catechism does not mention with a single word our free will or cooperation. It credits everything to the Holy Spirit who, through the preaching office, brings us into the Christian Church, sanctifies us in the Church, and causes us to grow daily in faith and good works.

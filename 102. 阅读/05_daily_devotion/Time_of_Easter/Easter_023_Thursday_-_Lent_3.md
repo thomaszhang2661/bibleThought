@@ -39,3 +39,21 @@ Lord Jesus Christ, whose grace always precedes and follows us, help us to forsak
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord II 67–73
+
+[67] There is a great difference between baptized and unbaptized people. According to the teaching of St. Paul in Galatians 3:27, “For as many of you as were baptized into Christ have put on Christ,” and are made truly regenerate. They now have a freed will. As Christ says, they have been made free again [John 8:36]. Therefore, they are able not only to hear the Word, but also to agree with it and accept it, although in great weakness.
+
+[68] We receive in this life only the firstfruits of the Spirit [Romans 8:23]. The new birth is not complete, but only begun in us. The combat and struggle of the flesh against the spirit remains even in the elect and truly regenerate people [Galatians 5:17]. For a great difference can be seen among Christians. Not only is it true that one is weak and another strong in the spirit, but each Christian also experiences differences in himself. At one time he is joyful in spirit, and at another fearful and alarmed. At one time he is intense in love, strong in faith and hope, and at another time he is cold and weak.
+
+[69] When the baptized act against their conscience, allowing sin to rule in them, they grieve the Holy Spirit in them and lose Him [Ephesians 4:30]. They do not need to be rebaptized. But they must be converted again, as has been said well enough before.
+
+[70] This is certainly true: in genuine conversion a change, new emotion, and movement in the intellect, will, and heart must take place. The heart must perceive sin, dread God’s wrath, turn from sin, see and accept the promise of grace in Christ, have good spiritual thoughts, have a Christian purpose and diligence, and fight against the flesh. Where none of these happen or are present, there is no true conversion.
+
+[71] But the question is about the effective cause. Who works this in us? How does a person have this? How does he get it? Therefore, this teaching informs us that, since the natural powers of mankind cannot do anything or help toward it (1 Corinthians 2:14; 2 Corinthians 3:5), God, out of His infinite goodness and mercy, comes first to us. He causes His Holy Gospel to be preached. The Holy Spirit desires to work and accomplish this conversion and renewal in us. Through preaching and meditation on His Word God kindles faith and other godly virtues in us. They are the Holy Spirit’s gifts and works alone.
+
+[72] Therefore, this teaching directs us to the means that the Holy Spirit desires to begin and do this. It also teaches us about how those gifts are preserved, strengthened, and increased. It warns us that we should not let God’s grace be bestowed on us in vain, but diligently use it and ponder how great a sin it is to hinder and resist such works of the Holy Spirit [Acts 7:51].
+
+[73] From this thorough explanation of the entire teaching about free will, we can now judge, at last, the questions about which, for quite a number of years, there has been controversy in the churches of the Augsburg Confession:
+
+Does a person before, in, or after his conversion resist the Holy Spirit? Does he do nothing whatsoever, but only allow what God works in him ‹purely passive›? In conversion does a person act like—and is he—a block? Is the Holy Spirit given to those who resist Him? Does conversion happen by coercion, so that God makes people convert by force against their wills?
+
+Now we can see, expose, censure, and reject the following opposite dogmas and errors:

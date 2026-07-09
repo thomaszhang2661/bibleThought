@@ -55,3 +55,21 @@ O merciful Lord, You did not spare Your only Son but delivered Him up for us all
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VIII 88–96
+
+[88] We unanimously reject and condemn, with mouth and heart, all errors not in accordance with the teaching presented. These are contrary to the prophetic and apostolic Scriptures, the pure symbols, and our Christian Augsburg Confession:
+
+[89] 1. When it is believed or taught by anyone that on account of the personal union the human nature is mingled with the divine or is changed into it.
+
+[90] 2. The human nature in Christ is everywhere present in the same way as the divinity, as an infinite essence, by essential power and property of its nature.
+
+[91] 3. The human nature in Christ has become equal to and like the divine nature in its substance and essence or in its essential properties.
+
+[92] 4. Christ’s humanity is locally extended in all places of heaven and earth. This should not be attributed even to the divinity. But Christ—by His divine omnipotence—wherever He will, can be present with His body, which He has placed at the right hand of God’s majesty and power. This is especially the case where He has, in His Word, promised His presence (as in the Holy Supper). His omnipotence and wisdom can well accomplish this without change or abolition of His true human nature.
+
+[93] 5. Christ’s mere human nature has suffered for us and redeemed us, with which God’s Son is said to have had no communion whatever in suffering.
+
+[94] 6. Christ is present with us on earth in the Word preached and in the right use of the holy Sacraments only according to His divinity. This presence of Christ does not in any way apply to His received human nature.
+
+[95] 7. The received human nature in Christ has (in deed and truth) no communion whatever with the divine power, might, wisdom, majesty, and glory, but has in common only the mere title and name.
+
+[96] These errors, and all that are contrary and opposed to the doctrine presented above, we reject and condemn as contrary to God’s pure Word, the Scriptures of the holy prophets and apostles, and our Christian faith and confession. Since in the Holy Scriptures Christ is called a mystery upon which all heretics dash their heads, we admonish all Christians not to arrogantly indulge their reason in crafty investigations about such mysteries. With the beloved apostles, they should simply believe. They should close the eyes of their reason and bring their understanding into captivity to the obedience of Christ [2 Corinthians 10:5], and rejoice without ceasing in the fact that our flesh and blood is placed so high at the right hand of God’s majesty and almighty power. In this way we will certainly find constant consolation in every difficulty and remain well guarded against deadly error.

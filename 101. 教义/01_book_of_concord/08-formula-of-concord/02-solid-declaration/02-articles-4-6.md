@@ -120,8 +120,6 @@ Obtaining the outcome of your faith, the salvation of your souls. [1 Peter 1:9]
 
 ## V. THE LAW AND THE GOSPEL
 
-Note: For an annotation on this article, see p. 484. (See also SA III II and IV; FC Ep V.)
-
 ## [STATEMENT OF THE CONTROVERSY]
 
 [1] The distinction between the Law and the Gospel is a particularly brilliant light. It serves the purpose of rightly dividing God’s Word [2 Timothy 2:15] and properly explaining and understanding the Scriptures of the holy prophets and apostles. We must guard this distinction with special care, so that these two doctrines may not be mixed with each other, or a law be made out of the Gospel. When that happens, Christ’s merit is hidden and troubled consciences are robbed of comfort, which they otherwise have in the Holy Gospel when it is preached genuinely and purely. For by the Gospel they can support themselves in their most difficult trials against the Law’s terrors.
@@ -193,8 +191,6 @@ Because unbelief is the root and wellspring of ‹all sins that must be rebuked 
 [27] The doctrines of the Law and the Gospel may not be mixed and confused with each other. What belongs to the one may not be applied to the other. When that happens Christ’s merit and benefits are easily hidden and the Gospel is again turned into a doctrine of the Law, as happened in the papacy. For then Christians are deprived of the true comfort they have in the Gospel against the Law’s terrors, and the door is again opened in God’s Church to the papacy. Therefore, the true and proper distinction between the Law and the Gospel must be taught and preserved with all diligence. Whatever causes confusion between the Law and the Gospel should be diligently prevented (i.e., by which the two doctrines, Law and Gospel, may be confused and mixed into one doctrine). It is, therefore, dangerous and wrong to convert the Gospel (properly so called, as distinguished from the Law) into a preaching of repentance or rebuke. Otherwise, if understood in a general sense of the entire doctrine, the Apology says also several times that the Gospel is a preaching of repentance and the forgiveness of sins. Meanwhile, the Apology also shows that the Gospel is properly the promise of the forgiveness of sins and of justification through Christ, and the Law is a doctrine that reproves sins and condemns.
 
 ## VI. THE THIRD USE OF GOD’S LAW
-
-Note: For an annotation on this article, see pp. 485–86. (See also SC Morning Prayer and Table of Duties; FC Ep VI.)
 
 ## [STATUS OF THE CONTROVERSY]
 

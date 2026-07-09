@@ -46,3 +46,27 @@ Lord Jesus Christ, in Your deep compassion You rescue us from whatever may hurt 
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VIII 23–30
+
+[23] On account of this personal union and communion of the natures, Mary, the most blessed Virgin, did not bear a mere man. But, as the angel ‹Gabriel› testifies, she bore a man who is truly the Son of the most high God [Luke 1:35]. He showed His divine majesty even in His mother’s womb, because He was born of a virgin, without violating her virginity. Therefore, she is truly the mother of God and yet has remained a virgin.
+
+[25] He did all His miracles by the power of this personal union. He showed His divine majesty, according to His pleasure, when and as He willed. He did this not just after His resurrection and ascension, but also in His state of humiliation. For example:
+
+(a) At the wedding at Cana of Galilee [John 2:1–11]
+
+(b) When He was twelve years old, among the learned [Luke 2:42–50]
+
+(c) In the garden, when with a word He cast His enemies to the ground [John 18:6]
+
+(d) In death, when He died not simply as any other man, but in and with His death conquered sin, death, devil, hell, and eternal damnation [Colossians 2:13–15]
+
+The human nature alone would not have been able to do these miracles if it had not been personally united and had communion with the divine nature.
+
+[26] The human nature, after the resurrection from the dead, is exalted above all creatures in heaven and on earth. This is nothing other than that He entirely laid aside the form of a servant [Philippians 2:7–11]. He did not lay aside His human nature, but retains it to eternity. He has the full possession and use of the divine majesty according to His received human nature. However, He had this majesty immediately at His conception, even in His mother’s womb. As the apostle testifies [Philippians 2:7], He laid it aside. As Dr. Luther explains, He kept it concealed in the state of His humiliation and did not always use it, but only when He wanted to use it [LW 15:291].
+
+[27] Now He has ascended to heaven, not merely as any other saint, but as the apostle testifies [Ephesians 4:10], above all heavens. He also truly fills all things, being present everywhere, not only as God, but also as man. He rules from sea to sea and to the ends of the earth, as the prophets predict [Psalm 8:1, 6; 93:1–4; Zechariah 9:10] and the apostles testify [Mark 16:20]. He did this everywhere with them and confirmed their word with signs.
+
+[28] This did not happen in an earthly way. As Dr. Luther explains, this happened according to the way things are done at God’s right hand [LW 37:55–58; 37:228]. “God’s right hand” is no set place in heaven, as the Sacramentarians assert without any ground in the Holy Scriptures. It is nothing other than God’s almighty power, which fills heaven and earth. Christ is installed according to His humanity (in deed and truth), without confusing or equalizing the two natures in their essence and essential properties.
+
+[29] By this communicated ‹divine› power, according to the words of His testament, He can be and is truly present with His body and blood in the Holy Supper. He has pointed this out for us by His Word. This is possible for no other man, because no man is united with the divine nature the way Jesus, the Son of Mary, is. No man is installed in such divine almighty majesty and power through and in the personal union of the two natures in Christ.
+
+[30] For in Him the divine and the human nature are personally united with each other. So in Christ “the whole fullness of deity dwells bodily” (Colossians 2:9). In this personal union the two natures have such a grand, intimate, indescribable communion that even the angels are astonished by it. As St. Peter testifies, they have their delight and joy in looking into it [1 Peter 1:12]. All of this will soon be explained in order and somewhat more fully.

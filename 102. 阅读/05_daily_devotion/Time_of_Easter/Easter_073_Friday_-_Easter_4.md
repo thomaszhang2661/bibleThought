@@ -39,3 +39,17 @@ O Lord, let Your merciful ears be attentive to the prayers of Your servants, and
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VIII 31–37
+
+[31] This personal union, as it has been stated and explained above, is the basis of a further teaching. Another doctrine flows from the way in which the divine and the human nature in the person of Christ are united with each other. The two natures not only have the names in common, but they also have communion with each other (in deed and truth) without commingling or equalizing their essences. From this point flows teaching about the true communion of the properties of the natures. More will be said about this below.
+
+[32] This is certainly true: properties do not leave their subjects. In other words, each nature keeps its essential properties. These are not separated from the nature and poured into the other nature, as water from one vessel into another. So there could not be any communion of properties if the personal union or communion of the natures in the person of Christ were not true.
+
+[33] Next to the article of the Holy Trinity this is the greatest mystery in heaven and on earth. Paul says, “Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh” (1 Timothy 3:16).
+
+[34] The apostle Peter testifies in clear words [2 Peter 1:4] that we also, in whom Christ dwells only by grace, on account of that great mystery, are “partakers of the divine nature” in Christ. Therefore, what kind of communion of the divine nature must that be of which the apostle says, “in [Christ] the whole fullness of deity dwells bodily” so that God and man are one person?
+
+[35] It is highly important that this doctrine about the communion of the properties of both natures be treated and explained with proper discrimination. There are many ways and modes of speaking about the person of Christ and of its natures and properties. When these are used without proper distinction, the doctrine becomes confused and the simple reader is easily led astray. Therefore, the following explanation should be carefully noted. For the purpose of making it plainer and simpler, it may be organized under three headings:
+
+[36] 1. In Christ two distinct natures exist and remain unchanged and unconfused in their natural essence and properties. Yet there is only one person consisting of both natures. Therefore, that which is an attribute of only one nature is attributed not to that nature alone, as separate. It is attributed to the entire person, who is at the same time God and man (whether the person is called God or man).
+
+[37] In this way of speaking, it does not make sense that what is attributed to the person is at the same time a property of both natures. But its nature is distinctively explained by what is ascribed to the person. So “His Son . . . was descended from David according to the flesh” (Romans 1:3). Also: Christ was “put to death in the flesh” (1 Peter 3:18) and “suffered in the flesh” (1 Peter 4:1).

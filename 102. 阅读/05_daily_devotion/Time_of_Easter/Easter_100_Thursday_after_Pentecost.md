@@ -51,3 +51,59 @@ Almighty and everlasting God and Father, You sent Your Son to take our nature up
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord XII 1–27
+
+[1] The sects and factions that have never confessed the Augsburg Confession, and that have not been directly mentioned in our explanation, are groups such as the Anabaptists, Schwenkfeldians, New Arians, and Antitrinitarians.
+
+[2] Their errors have been unanimously condemned by all churches of the Augsburg Confession. We have not wanted to make particular and special mention of them in this explanation because at the present time this explanation has been our only aim.
+
+[3] Our opponents have shameless mouths that have shouted allegations throughout the whole world against our churches and teachers. They claimed that you cannot find two preachers who agree about each and every article of the Augsburg Confession, but that they are torn apart and separated from one another to such an extent that they themselves no longer know what the Augsburg Confession is and what its proper meaning is.
+
+[4] Therefore, we did not present this common Confession briefly or merely by signing our names, but we wanted to make a pure, clear, distinct declaration about all the disputed articles that have been discussed and argued among the theologians of the Augsburg Confession.
+
+[5] We did this so that everyone may see we do not want to hide or cover up all this in a cunning way, or to come to an agreement only in appearance.
+
+[6] We want to remedy the matter thoroughly, and wanted to set forth our opinion on these matters in such a way that even our adversaries themselves must confess that in all this we abide by the true, simple, natural, and proper sense of the Augsburg Confession. We desire, by God’s grace, to persevere constantly in this confession until our end. And as long as it depends on our ministry, we will not overlook error or be silent, lest anything contrary to the ‹genuine sense of the Augsburg Confession› is introduced into our churches and schools, in which the almighty God and Father of our Lord Jesus Christ has appointed us teachers ‹doctors› and pastors.
+
+[7] However, we do not want the condemned errors of the factions and sects we just mentioned to be silently ascribed to us.
+
+[8] For the most part these groups, as is the nature of such spirits, secretly stole in at certain places. They did this especially at a time when no place or room was given to the pure Word of the Holy Gospel, when all its sincere teachers and confessors were persecuted, and the deep darkness of the papacy still prevailed. Poor, simple people, in their simplicity (who could not help but feel the clear idolatry and false faith of the papacy), embraced whatever was called the Gospel and was not papistic. We cannot avoid testifying against these groups publicly, before all Christendom. We have no part or fellowship with their errors, be they many or few. We reject and condemn them one and all. They are wrong and heretical, and are contrary to the Scriptures of the prophets and apostles and to our Christian Augsburg Confession, which is well grounded in God’s Word.
+
+## ERRONEOUS ARTICLES OF THE ANABAPTISTS
+
+[9] For instance, the erroneous, heretical doctrines of the Anabaptists are not to be tolerated and allowed in the Church or in the commonwealth or in domestic life. For they teach the following:
+
+[10] 1. Our righteousness before God includes not only Christ’s sole obedience and merit, but also our renewal and our own piety in which we walk before God. For the most part, they base this on their own peculiar ordinances and self-chosen spirituality, as a new sort of monasticism.
+
+[11] 2. Children who are not baptized are not sinners before God, but are righteous and innocent, and are saved by their innocence without Baptism. They do not need Baptism. So they deny and reject the entire teaching about original sin and what belongs to it.
+
+[12] 3. Children are not to be baptized until they have gained the use of reason and can confess their faith themselves.
+
+[13] 4. The children of Christians, since they have been born of Christian and believing parents, are holy and God’s children even before and without Baptism. For this reason they do not consider the Baptism of children to be important or encourage it. They do this contrary to the clear words of the promise [Acts 2:38–39], which extends only to those who keep God’s covenant and do not despise it (Genesis 17:9 [; Colossians 2:11–15]).
+
+[14] 5. A congregation in which sinners are still found is no true Christian assembly.
+
+[15] 6. No sermon should be heard or attended in those church buildings in which the papal Masses have previously been said.
+
+[16] 7. No one should have anything to do with those ministers of the Church who preach the Holy Gospel according to the Augsburg Confession and rebuke the errors of Anabaptists. Also, they say that no one should serve or work for them in any way, but should run away from them and shun them as perverters of God’s Word.
+
+[17] 8. Under the New Testament a governmental office is not a godly estate.
+
+[18] 9. A Christian cannot with a good, inviolate conscience hold a governmental office.
+
+[19] 10. A Christian cannot without injury to conscience use a government office against the wicked in matters that may occur; neither can the government’s subjects appeal to its power.
+
+[20] 11. A Christian cannot with a good conscience take an oath before a court or do homage to his prince or hereditary sovereign with an oath.
+
+[21] 12. Officials cannot without injury to conscience take the life of evildoers.
+
+[22] 13. A Christian cannot with a good conscience hold or possess any property, but is duty bound to devote it to the common treasury.
+
+[14] 14. A Christian cannot with a good conscience be an innkeeper, merchant, or a weapon maker.
+
+[15] 15. Married persons may be divorced because of differences in faith. The one may abandon the other and be married to another of his own faith.
+
+[25] 16. Christ did not receive His flesh and blood from the Virgin Mary, but brought them with Him from heaven.
+
+[26] 17. Christ is not true, essential God either, but only has more and higher gifts and glory than other men.
+
+[27] And still more articles of this kind, for they are divided among themselves into many sects. One has more and another fewer errors, and so their entire sect is in reality nothing but a new kind of monasticism.

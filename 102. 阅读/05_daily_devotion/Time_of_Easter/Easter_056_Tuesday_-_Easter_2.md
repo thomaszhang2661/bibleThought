@@ -48,3 +48,11 @@ Lord Jesus, in Your ministry of teaching, casting out demons, and healing the si
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 48–51
+
+[48] All the circumstances of the Holy Supper’s institution testify that these words of our Lord and Savior, Jesus Christ (which in themselves are simple, plain, clear, firm, and beyond doubt), cannot and must not be understood other than in their usual, proper, and common meaning. For Christ gives this command at the table and at supper. There is certainly no doubt that He speaks of real, natural bread and of natural wine. Also, He speaks of oral eating and drinking, so there can be no metaphor (i.e., a change of meaning) in the word bread, as though Christ’s body were a spiritual bread or a spiritual food of souls.
+
+[49] Christ is careful not to use metonymy either. In other words, there is no change of meaning in the word body. He does not speak about a sign for His body, or about ‹a symbol› or figurative body, or about the power of His body and the benefits that He has earned by the sacrifice of His body ‹for us›. Instead, He speaks about His true, essential body (which He delivered into death for us) and about His true, essential blood (which He shed for us on the tree of the cross for the forgiveness of sins).
+
+[50] Surely there is no interpreter of Jesus Christ’s words as faithful and sure as the Lord Christ Himself. He understands best His words and His heart and opinion. He is the wisest and most knowledgeable for explaining them. He does not use allegory to make His last will and testament and His everabiding covenant and union. He does not use allegory elsewhere in ‹presenting and confirming› all articles of faith, and in the institution of all other signs of the covenant and of grace or Sacraments (e.g., circumcision, the various offerings in the Old Testament, and Holy Baptism). He does not use allegorical words, but entirely proper, simple, believable, and clear words. In order that no misunderstanding can take place, He explains them more clearly with the words
+
+[51] “Given for you,” “shed for you.” He also lets His disciples rest in the simple, proper sense, and commands them that they should teach all nations to keep what He had commanded them, the apostles.

@@ -47,3 +47,21 @@ Lord Jesus Christ, in the Garden of Gethsemane You suffered the agony of drinkin
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord III 59–67
+
+[59] We unanimously reject and condemn (besides the above-mentioned) the following and all similar errors, as contrary to God’s Word, the doctrine of the prophets and apostles, and our Christian faith:
+
+[60] 1. When it is taught that Christ is our righteousness before God according to His divine nature alone.
+
+[61] 2. Christ is our righteousness according to His human nature alone.
+
+[62] 3. In the passages from the prophets and apostles, when the righteousness of faith is spoken of, the words justify and to be justified do not mean to declare free from sins and to receive the forgiveness of sins. But they mean actual and real righteousness because of love infused by the Holy Spirit, virtues, and the works following from it.
+
+[63] 4. Faith looks not only to Christ’s obedience, but also to His divine nature as it dwells and works in us. By this indwelling our sins are covered before God.
+
+[64] 5. Faith is the kind of trust in Christ’s obedience that can be and remain in a person even though he has no genuine repentance, even though no love follows, but he continues in sins against his conscience.
+
+[65] 6. God does not dwell in believers, only God’s gifts dwell in them.
+
+[66] These and similar errors, one and all, we unanimously reject as contrary to God’s clear Word. By God’s grace we abide firmly and constantly in the doctrine of the righteousness of faith before God, as it is embodied, expounded, and proved from God’s Word in the Augsburg Confession, and the Apology issued after it.
+
+[67] Concerning what is needed further for the proper explanation of this profound and chief article of justification before God— upon which depends the salvation of our souls—we direct readers to another document. For the sake of brevity we refer everyone to Dr. Luther’s beautiful and glorious commentary on the Epistle of St. Paul to the Galatians [1535]. [LW 26–27]

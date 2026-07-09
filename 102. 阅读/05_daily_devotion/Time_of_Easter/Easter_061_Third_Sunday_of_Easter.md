@@ -40,3 +40,13 @@ O God, through the humiliation of Your Son You raised up the fallen world. Grant
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 73–76
+
+[73] A misunderstanding and disagreement among some teachers of the Augsburg Confession has also happened about consecration and the common rule. Some say that “nothing is a sacrament without the appointed use ‹or divinely instituted act›.”
+
+[74] We have reached a brotherly and unanimous agreement with one another about this matter, declaring it in the following way. The word or work of any man does not produce the true presence of Christ’s body and blood in the Supper. This is true whether we consider the merit or recitation of the minister or the eating, drinking, or faith of the communicants. Christ’s presence should be credited only to Almighty God’s power and our Lord Jesus Christ’s word, institution, and ordination.
+
+[75] Jesus Christ’s true and almighty words, which He spoke at the first institution, were effective not only at the first Supper. They endure, are valid, operate, and are still effective. So in all places where the Supper is celebrated according to Christ’s institution and His words are used, Christ’s body and blood are truly present, distributed, and received, because of the power and effectiveness of the words that Christ spoke at the first Supper. Where His institution is observed and His words are spoken over the bread and cup ‹wine>, and the consecrated bread and cup ‹wine› are distributed, Christ Himself, through the spoken words, is still effective by virtue of the first institution, which He wants to be repeated there through His word.
+
+[76] As Chrysostom says in his Sermon about the Passion:
+
+Christ Himself prepared this table and blesses it. For no man makes the bread and wine set before us into Christ’s body and blood, only Christ Himself, who was crucified for us. The words are spoken by the mouth of the priest. But by God’s power and grace, by the word, where Christ says: “This is My body,” the elements presented are consecrated in the Supper. The declaration “Be fruitful and multiply and fill the earth” [Genesis 1:28] was spoken only once. But it is ever effective in nature, so that it is fruitful and multiplies. So also this declaration ‹,This is My body; this is My blood,› was spoken once. But even to this day and up to His second coming it is effective and works so that in the Supper of the Church His true body and blood are present.

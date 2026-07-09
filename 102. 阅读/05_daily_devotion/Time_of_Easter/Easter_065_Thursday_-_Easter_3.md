@@ -58,3 +58,9 @@ Lord Jesus, Sower of the Seed, the women supported You from their own means duri
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 104–106
+
+[104] From these words of Dr. Luther, it is clear in what sense the word spiritual is used in our churches in this matter. For the Sacramentarians think this word spiritual means nothing other than the spiritual communion, when true believers are incorporated into Christ the Lord in the Spirit and become true spiritual members of His body.
+
+[105] When Dr. Luther or we use the word spiritual in this matter, we understand this: the spiritual, supernatural, heavenly way that Christ is present in the Holy Supper. He works not only consolation and life in the believing, but also condemnation in the unbelieving. By this use, we reject the Capernaitic thoughts of the crude and fleshly presence that is attributed to and forced on our churches by the Sacramentarians against our many public protests. This is also how we ‹want the word spiritually to be understood when we› say that in the Holy Supper Christ’s body and blood are spiritually received, eaten, and drunk. Even though this participation happens with the mouth, the way it happens is spiritual.
+
+[106] Our faith in this article about the true presence of Christ’s body and blood in the Holy Supper is based on the truth and omnipotence of the true, almighty God, our Lord and Savior Jesus Christ. This foundation is strong and firm enough to strengthen and establish our faith in all temptations about this article. They overthrow and refute all the Sacramentarians’ counterarguments and objections, however agreeable and plausible they may be to our reason. A Christian heart can rest securely and rely firmly on these truths.

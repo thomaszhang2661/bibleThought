@@ -42,3 +42,15 @@ O King who comes in the name of the Lord, through Your birth and death, earth an
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord XI 33–37
+
+[33] We should concern ourselves with this revealed will of God. We should follow and diligently think about it. Through the Word, by which He calls us, the Holy Spirit bestows grace, power, and ability for this purpose. We should not sound the depths of God’s hidden predestination, as it is written in Luke 13:23–24, where one asks, “Lord, will those who are saved be few?” and Christ answers, “Strive to enter through the narrow door.” So Luther says:
+
+But you had better follow the order of this epistle [of Romans]. Worry first about Christ and the gospel, that you may recognize your sin and His grace. Then fight your sin, as the first eight chapters here have taught. Then, when you have reached the eighth chapter, and are under the cross and suffering, this will teach you correctly of predestination in chapters 9, 10, and 11, and how comforting it is. [Preface to the Epistle of St. Paul to the Romans (1546); LW 35:378]
+
+[34] “Many are called, but few are chosen” [Matthew 22:14]. This does not stem from the fact that God’s call, which is made through the Word, has the following meaning. It is not as though God said: “Outwardly, through the Word, I indeed call all of you to My kingdom, everyone to whom I give My Word. However, in My heart I do not mean this for everyone, but only for a few. For it is My will that most of those whom I call through the Word shall not be enlightened or converted. Instead, they shall be and remain damned, even though I explain Myself differently to them through the Word, in the call.”
+
+[35] For this would be to assign contradictory wills to God. In this way it would be taught that God, who surely is Eternal Truth, contradicts Himself, when, in fact, God punishes such wickedness in people, when a person states one purpose and thinks and means another in the heart (Psalm 5:9; 12:2–4).
+
+[36] By this notion the necessary basis of comfort is made completely uncertain and void. For we are daily reminded and encouraged that we are to learn and conclude what His will toward us is only from God’s Word, through which He works with us and calls us. We should believe and not doubt what it affirms to us and promises.
+
+[37] For this reason Christ causes the promise of the Gospel not only to be offered in general, but He also seals it through the Sacraments. He attaches them like seals of the promise, and by them He confirms the Gospel to every believer in particular.

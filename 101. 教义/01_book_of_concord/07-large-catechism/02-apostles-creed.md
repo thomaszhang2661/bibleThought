@@ -4,8 +4,6 @@ PART 2
 
 THE APOSTLES’ CREED
 
-Note: The Ten Commandments show us what we are and are not to do, but the Creed shows us the One who creates, redeems, and sanctifies us. Luther broke with long-standing Church tradition by dividing the Creed into three main portions. Prior to Luther’s time the Creed had been divided into twelve parts. This division was based on the legend that each apostle had contributed one part of the Creed. Luther does away with such foolish speculation and focuses properly on each person of the Holy Trinity: Father, Son, and Holy Spirit. (See the Nicene and Athanasian Creeds; AC I and III; SA I; SA II I; SC II; FC Ep VIII and FC SD VIII.)
-
 [1] So far we have heard the first part of Christian doctrine. We have seen all that God wants us to do or not to do. Now there properly follows the Creed, which sets forth to us everything that we must expect and receive from God. To state it quite briefly, the Creed teaches us to know Him fully [Ephesians 3:19].
 
 [2] This is intended to help us do what we ought to do according to the Ten Commandments. For (as said above) the Ten Commandments are set so high that all human ability is far too feeble and weak to keep them. Therefore, it is just as necessary to learn this part of Christian doctrine as to learn the former. Then we may know how to attain what they command, both where and how to receive such power.
@@ -23,8 +21,6 @@ Note: The Ten Commandments show us what we are and are not to do, but the Creed 
 [8] Therefore, three articles or confessions. Let us go over the words briefly.
 
 ## ARTICLE I
-
-Note: Through His Word, God calls forth the words we speak back to Him. In this way, Luther says, the entire Creed is a response to the First Commandment. Since God is the maker of heaven and earth, we realize that all we are, all we will ever become, and all we possess depends entirely on our Creator. All He does for us, all He daily provides—indeed His warding off of dangers of every description—are merely part of His many blessings. For this reason, we are duty bound to love, praise, thank, and devote to Him all the works set forth in the Ten Commandments. Luther laments how few people actually believe what the Creed teaches about our utter dependence on God. However, daily study of this article leads us to recognize God’s fatherly and loving heart. We confess His greatest treasure for us in the Second and Third Articles of the Creed.
 
 [9] I believe in God the Father Almighty, maker of heaven and earth.
 
@@ -60,8 +56,6 @@ Note: Through His Word, God calls forth the words we speak back to Him. In this 
 
 ## ARTICLE II
 
-Note: God withholds nothing from us, but gives all that we need for our life on earth. Even more, He gives us all that we need for eternal life with Him in heaven. Luther focuses on the one phrase he believes is the very essence of this article: “in Jesus Christ, . . . our Lord.” Providing a sweeping description of creation and the fall, Luther notes that the word “we” includes every single person in the horrible drama of the Garden of Eden. In that sin we all fell away from God and were doomed to everlasting damnation. Yet Christ, our Lord, came and snatched us from the jaws of hell. This description of Christ’s victory over Satan would have been very familiar to the people who first read the Large Catechism. Many paintings from that era depict hell with horrifying detail, showing men and women being led into the gaping mouth of a dragonlike creature. Luther uses the biblical motif of Christ as Victor to describe His work of salvation for us. Jesus offered His own precious blood as satisfaction for our sins. This article of the Creed is essential for proper understanding and confession of the Gospel.
-
 [25] And in Jesus Christ, His only Son, our LORD, who was conceived by the Holy Spirit, born of the virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried. He descended into hell. The third day He rose again from the dead. He ascended into heaven and sits at the right hand of God the Father Almighty. From thence He will come to judge the living and the dead.
 
 [26] Here we learn to know the Second Person of the Godhead. We see what we have from God over and above the temporal goods mentioned before. We see how He has completely poured forth Himself [Matthew 26:28] and withheld nothing from us [2 Corinthians 8:9]. Now, this article is very rich and broad. But in order to explain it briefly also and in a childlike way, we shall take up one phrase and sum up the entire article. As we have said, we may learn from this article how we have been redeemed. We shall base this on these words, “In Jesus Christ, our Lord.”
@@ -87,8 +81,6 @@ Note: God withholds nothing from us, but gives all that we need for our life on 
 [33] Yes, the entire Gospel that we preach is based on this point, that we properly understand this article as that upon which our salvation and all our happiness rests. It is so rich and complete that we can never learn it fully.
 
 ## ARTICLE III
-
-Note: The salvation Christ won on the cross has truly come to pass (objective reality). But unless the Holy Spirit applies that salvation to us personally and individually (subjectively), it will remain hidden from us. Sanctification is often understood to refer to our good works. Here Luther uses it, as the Bible often does, to describe the entire work of the Holy Spirit bringing us salvation, including justification. Luther drives home the point that “Church” is, first and foremost, the people the Holy Spirit is gathering together through the preaching of the Gospel. It is not primarily a building or an institution. Luther suggests it is best to understand the “communion of saints” as a “community of saints” or a “holy community.” It is not holy because of their works, but because of the Holy Spirit’s work in their midst. Within the Church the Holy Spirit, through preaching and through “signs” (that is, the Sacraments), forgives us and keeps us in the faith. Therefore, in this sense, it is right to say that outside the Church there is no salvation. This is not because of an infallible papacy, but because of what is going on by the Spirit’s power. He works the forgiveness of sins and continues that work to the very end of time. (See AC VII/VIII; SA III XII.)
 
 [34] I believe in the Holy Spirit, the holy Christian Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. Amen.
 

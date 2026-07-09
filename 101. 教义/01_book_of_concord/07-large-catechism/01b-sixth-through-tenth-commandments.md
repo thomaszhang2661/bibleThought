@@ -2,8 +2,6 @@
 
 The Sixth Commandment
 
-Note: Luther had been married for almost four years when he wrote the Large Catechism. His former life as a monk makes his comments on the Sixth Commandment all the more interesting and powerful. Luther keenly discerns that chastity is not a matter of vowing to live a celibate life, but of honoring God and one’s spouse with one’s whole being: thoughts, words, and actions. Marriage should be cherished and honored as a divine estate. God created this institution before all others and blessed it above all the rest; and since He brings children into the world through it, He provides all other estates for its support and benefit. Luther condemns forced celibacy within the Roman Church, but recognizes that God does exempt some from married life, either because they are unsuited to it or because they possess the supernatural gift of chastity. The Sixth Commandment releases those who have taken a vow of chastity but who have not been given this supernatural gift. For Luther, God intended marriage not only to prevent sin but also as a means by which husbands and wives love and cherish each other. Marriage is a precious good work far superior to the contrived spiritual estates of monks and nuns.
-
 [199] You shall not commit adultery.
 
 [200] The following commandments are easily understood from the explanation of the preceding commandments. For they are all to show that we must avoid doing any kind of harm to our neighbor. But they are arranged in fine order. In the first place, they talk about our neighbor personally. Then they proceed to talk about the person nearest him, or the closest possession next after his body, namely, his wife. She is one flesh and blood with him [Genesis 2:23–24], so that we cannot inflict a higher injury upon him in any good that is his. Therefore, it is clearly forbidden here to bring any disgrace upon our neighbor regarding his wife.
@@ -51,8 +49,6 @@ Note: Luther had been married for almost four years when he wrote the Large Cate
 [221] Here you have again precious, indeed, many and great good works. You can joyfully boast about them, against all churchly estates chosen without God’s Word and commandment.
 
 THE SEVENTH COMMANDMENT
-
-Note: Stealing is not only physically robbing another’s possessions, but it is also taking advantage of other people. Luther was very concerned about unjust business practices. His comments particularly challenge us today, since we live in a culture built on a free-market economy and generally agree that any price charged to people is morally acceptable. On the other hand, Luther points out how working people also steal from their employers by not giving a full day’s work for a full day’s pay. Though written over 475 years ago, Luther’s comments on the Seventh Commandment are amazingly relevant and timely, and they point out the biblical distinction between the two kingdoms. For example, toward the end of this discussion, Luther wisely notes that the duty of the Church is to reprove sin and teach the Word of God. It is the duty of governing authorities to restrain lawlessness. The Church, as a spiritual institution, does not order society or enact societal laws; this is solely the duty of the government.
 
 [222] You shall not steal.
 
@@ -119,8 +115,6 @@ Note: Stealing is not only physically robbing another’s possessions, but it is
 [253] Here, then, you have a rich Lord. He is certainly enough for you. He will not allow you to come up short in anything or to lack [Psalm 37:25]. So you can with a joyful conscience enjoy a hundred times more than you could scrape together with unfaithfulness and wrong. Now, whoever does not desire this blessing will find enough wrath and misfortune.
 
 THE EIGHTH COMMANDMENT
-
-Note: This commandment was given to protect one’s name and reputation. Communicating in ways that do not uphold our neighbor’s name and reputation break this commandment. The greatest violators are false preachers who, by their false doctrine, speak ill of God and His name. If we are aware of something negative about our neighbor, but have no authority to act, we should remain silent and not speak of it. However, when the proper authorities call upon us to speak to the matter, we will do so honestly. Also, if we are aware of something that requires the attention of public authorities, we will share it with them. Luther clearly states that civil magistrates, pastors, and parents must act upon hearing of something requiring their attention. Luther carefully distinguishes between secret sins and open, public sins. Secret sins should not be made public. However, when the error is open we have every right, even the duty, to speak publicly about it and to testify against the person involved. Speaking publicly about another person’s public error or sin is not bearing false witness, nor is it a violation of Matthew 18. Luther concludes that putting “the best construction on everything” is a fine and noble virtue.
 
 [254] You shall not bear false witness against your neighbor.
 
@@ -208,8 +202,6 @@ If you do not trust yourself to stand before the proper authorities and to answe
 
 THE NINTH AND TENTH COMMANDMENTS
 
-Note: Luther says that God gave these two commandments to ensure His people knew that stealing is not only the physical act of taking unjustly from another, but is also the desiring of something that is not ours, such as our neighbor’s wife, servants, or any property belonging to our neighbor. These commandments are not broken with the hand or the mouth but with the heart. They remind people who consider themselves virtuous that they too, by nature, sin. Toward the end of his explanation, Luther offers a powerful and critical theological insight. All the commandments constantly accuse us of sin and reveal to us where we stand under the Law in God’s eyes: guilty! This is the chief purpose of the Law, to show us our sin.
-
 [292] You shall not covet your neighbor’s house.
 
 You shall not covet your neighbor’s wife, or his manservant, or his maidservant, or his cattle, or anything that is his.
@@ -251,8 +243,6 @@ You shall not covet your neighbor’s wife, or his manservant, or his maidservan
 [310] So these commandments are especially directed against envy and miserable greed. God wants to remove all causes and sources from which arises everything by which we harm our neighbor. Therefore, He expresses it in plain words, “You shall not covet,” and so on. For He especially wants us to have a pure heart [Matthew 5:8], although we will never attain to that as long as we live here. So this commandment will remain, like all the rest, one that will constantly accuse us and show how godly we are in God’s sight!
 
 CONCLUSION OF THE TEN COMMANDMENTS
-
-Note: The Ten Commandments always accuse. That is their chief use. They also serve as a rough curb against gross outbreaks of sin. But they also function as the “true fountain” from which all good works must spring. We never have to try to invent or create works to do that are pleasing to God or go beyond what He has given us. In these Ten Commandments we have the guide we need to understand what truly pleases God. Some of Luther’s most powerful remarks about the difference between God’s Ten Commandments and man-made Church rules are found here. Luther thunders against the pomposity and false teaching that certain “Church works” are better in God’s eyes than the simple, humble, lowly works of common life, such as a young girl taking care of a little child. He provides a brief summary of the commandments and again shows how the First Commandment is the fountain for all the rest. God has given us a great treasure by giving us the Ten Commandments.
 
 [311] Now we have the Ten Commandments, a summary of divine teaching about what we are to do in order that our whole life may be pleasing to God. Everything that is to be a good work must arise and flow from and in this true fountain and channel. So apart from the Ten Commandments no work or thing can be good or pleasing to God, no matter how great or precious it is in the world’s eyes.
 

@@ -42,3 +42,47 @@ Almighty God, through the resurrection of Your Son You have secured peace for ou
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VI 21–26
+
+[21] Dr. Luther has fully explained this at greater length in the Summer Part of the Church Postil, on the Epistle for the Nineteenth Sunday after Trinity.
+
+[10] We must also explain clearly what the Gospel does, produces, and works toward the new obedience of believers. We must also explain the Law’s office in this matter, regarding believers’ good works.
+
+[11] The Law indeed says it is God’s will and command that we should walk in a new life [Romans 6:4]. But it does not give the power and ability to begin and to do it. The Holy Spirit renews the heart. He is given and received, not through the Law, but through the preaching of the Gospel (Galatians 3:14).
+
+[12] Thereafter, the Holy Spirit uses the Law in order to teach the regenerate from it and to point out and show them in the Ten Commandments what is the “will of God, what is ‹good and› acceptable and perfect” (Romans 12:2) in what “good works, which God prepared beforehand, that we should walk” (Ephesians 2:10). He encourages them to this. When they are idle, negligent, and rebellious in this matter because of the flesh, He rebukes them through the Law. So the Spirit carries out both offices together: He slays and makes alive [Deuteronomy 32:39]. He leads into hell and brings up again. For His office is not only to comfort, but also to rebuke. For it is written, “when [the Holy Spirit] comes, He will convict the world [which includes also the old Adam] concerning sin and righteousness and judgment” [John 16:8].
+
+[13] Sin is everything that is contrary to God’s Law.
+
+[14] St. Paul says, “All Scripture is breathed out by God and profitable for teaching, for reproof” [2 Timothy 3:16], and to rebuke is the Law’s special office. Therefore, as often as believers stumble, they are rebuked by the Holy Spirit from the Law. By the same Spirit they are raised up and comforted again with the preaching of the Holy Gospel.
+
+[15] As far as possible, all misunderstanding should be prevented, and the distinction between the Law’s works and the Spirit’s works should be properly taught and preserved. Therefore, this is to be noted with special diligence: when we speak of good works that agree with God’s Law (for otherwise they are not good works), then the word Law has only one sense. It means God’s unchangeable will, according to which people are to guide themselves in their lives.
+
+[16] The difference, however, is in the works, because there is a difference in the people who strive to live according to this Law and will of God. For as long as a person is not regenerate and guides himself according to the Law, he does the works because they are commanded. So from fear of punishment or desire for reward, he is still under the Law. His works are properly called by St. Paul “works of the Law” [e.g., Romans 3:20], for they are extorted by the Law, like the works of slaves. These are “saints” after the order of Cain [Jude 11].
+
+[17] When a person is born anew by God’s Spirit, liberated from the Law (i.e., freed from this driver), and led by Christ’s Spirit, he lives according to God’s unchangeable will revealed in the Law. Since he is born anew, he does everything from a free, cheerful spirit. These works are not properly called “works of the Law,” but works and “fruit of the Spirit” [Galatians 5:22]. Or as St. Paul names it, “the law of [the] mind” [Romans 7:23] and the “law of Christ” [1 Corinthians 9:21]. For such people are no longer under the Law, but under grace, as St. Paul says in Romans 8:2.
+
+[18] Believers are not completely renewed in this world. The old Adam clings to them right up to the grave. Therefore, the struggle between the spirit and the flesh remains in them. They delight in God’s Law according to the inner man [Romans 7:22], but the law in their members struggles against the law in their mind. Therefore, they are never without the Law. Nevertheless, they are not under [Romans 6:14], but in the Law. They live and walk in the Law of the Lord, and yet do nothing in the Law because of force.
+
+[19] As far as the old Adam is concerned, which still clings to them, he must be driven not only by the Law, but also by punishments. Nevertheless, he does everything against his will and under coercion, no less than the godless are driven and held in obedience by the Law’s threats (1 Corinthians 9:27; Romans 7:18–19).
+
+[20] This doctrine of the Law is needed by believers in order that they may not make up a holiness and devotion of their own. Using God’s Spirit as an excuse, they must not set up a self-chosen worship, without God’s Word and command. For it is written:
+
+“You shall not do according to ... whatever is right in [your] own eyes,” but “be careful to obey all these words that I command you,” “you shall not add to it or take from it.” (Deuteronomy 12:8, 28, 32)
+
+[21] The doctrine of the Law is also necessary in and with ‹the use of› believers’ good works. Otherwise, a person can easily imagine that his work and life are entirely pure and perfect. But God’s Law prescribes good works to believers in this way: it shows and indicates at the same time, as in a mirror, that in this life works are still imperfect and impure in us. So we must say with the beloved Paul, “I am not aware of anything against myself, but I am not thereby acquitted” [1 Corinthians 4:4]. So Paul, when encouraging the regenerate to do good works, clearly presents to them the Ten Commandments (Romans 13:9). He recognizes from the Law that his good works are imperfect and impure (Romans 7:7–13). And David declares:
+
+I will run in the way of Your commandments. (Psalm 119:32)
+
+[But] enter not into judgment with Your servant, for no one living is righteous before You. (Psalm 143:2)
+
+[22] Although in this life the good works of believers are imperfect and impure because of sin in the flesh, nevertheless they are acceptable and well pleasing to God. However, the Law does not teach how and why the good works of believers are acceptable. It demands a completely perfect, pure obedience if it is to please God. But the Gospel teaches that our spiritual offerings are acceptable to God through faith for Christ’s sake (1 Peter 2:5; Hebrews 11:4; 13:5).
+
+[23] In this way Christians are not under the Law, but under grace (Romans 6:14). For by faith in Christ the persons are freed from the Law’s curse and condemnation. Their good works, although they are still imperfect and impure, are acceptable to God through Christ. Because, in so far as they have been born anew according to the inner man, they do what is pleasing to God. They act not by coercion of the Law, but by the renewing of the Holy Spirit, voluntarily and spontaneously from their hearts. However, they still have a constant struggle against the old Adam.
+
+[24] The old Adam, like an unruly, stubborn ass, is still a part of them. It must be forced to obey Christ. It not only requires the teaching, admonition, force, and threatening of the Law, but it also often needs the club of punishments and troubles. This goes on until the body of sin is entirely put off [Romans 6:6] and a person is perfectly renewed in the resurrection. Then he will need neither the preaching of the Law nor its threats and punishments, just as he will no longer need the Gospel. These belong to this imperfect life.
+
+[25] Just as people will see God face-to-face, so they will—through the power of God’s indwelling Spirit—do the will of God with unmingled joy, voluntarily, unconstrained, without any hindrance, and with entire purity and perfection. They will rejoice in it eternally.
+
+## [NEGATIVE STATEMENT]
+
+[26] We reject and condemn the teaching that the Law, in the above-mentioned way and degree, should not be urged on Christians and the true believers, but only on the unbelieving, unchristians, and impenitent. This is a deadly error and harmful to Christian discipline, and also to true godliness.

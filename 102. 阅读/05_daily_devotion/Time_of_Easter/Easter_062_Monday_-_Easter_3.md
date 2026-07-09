@@ -51,3 +51,23 @@ O God, by Your almighty Word You set in order all things in heaven and on earth.
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VII 77–84
+
+[77] Luther also writes ‹concerning this very subject in the same manner›:
+
+This command and institution of His have the power to accomplish this, that we do not present and receive not simply bread and wine but His body and blood, as His words indicate: “This is My body, this is My blood.” So it is not our work or speaking but the command and ordinance of Christ which make the bread the body and the wine the blood, beginning with the first Lord’s Supper and continuing to the end of the world, and it is administered daily through our ministry or office. [LW 38:199]
+
+[78] Also:
+
+Here, too, if I were to say over all the bread there is, “This is the body of Christ,” nothing would happen, but when we follow His institution and command in the Supper and say, “This is My body,” then it is His body, not because of our speaking or our declarative word, but because of His command in which He has told us so to speak and to do and has attached His own command and deed to our speaking. [LW 37:184]
+
+[79] In the administration of the Holy Supper the words of institution are to be publicly spoken or sung before the congregation distinctly and clearly. They should in no way be left out.
+
+[80] Obedience should be rendered to Christ’s command, “This do.”
+
+[81] The hearers’ faith about the nature and fruit of this Sacrament should be aroused, strengthened, and confirmed by Christ’s Word (about the presence of Christ’s body and blood, about the forgiveness of sins, and about all the benefits that have been purchased by the death and shedding of Christ’s blood that are bestowed on us in Christ’s testament).
+
+[82] And ‹third›, the elements of bread and wine should be consecrated or blessed for this holy use, so that Christ’s body and blood may be administered to us to be eaten and to be drunk, as Paul declares, “the cup of blessing that we bless” [1 Corinthians 10:16]. This indeed happens in no other way than through the repetition and recitation of the words of institution.
+
+[83] However, this blessing, or the recitation of the words of Christ’s institution alone, does not make a Sacrament if the entire action of the Supper, as it was instituted by Christ, is not kept. (For example, it is not kept when the consecrated bread is not distributed, received, and partaken of, but is enclosed, sacrificed, or carried about.) Christ’s command “This do” must be observed unseparated and inviolate.
+
+[84] (This embraces the entire action or administration in this Sacrament. In an assembly of Christians bread and wine are taken, consecrated, distributed, received, eaten, drunk, and the Lord’s death is shown forth at the same time.) St. Paul also places before our eyes this entire action of the breaking of bread or of distribution and reception (1 Corinthians 10:16).

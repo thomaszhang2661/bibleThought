@@ -70,8 +70,6 @@ By Which All Dogmas Should Be Judged according to God’s Word, and the Controve
 
 ## I. ORIGINAL SIN
 
-Note: For an annotation on this article, see p. 474. (See also AC II; Ap II; SA III III; FC Ep I.)
-
 ## [STATUS OF THE CONTROVERSY]
 
 [1] First of all, a controversy about original [German: inherited] sin has arisen among some theologians of the Augsburg Confession. What is it precisely? One side argued this: through Adam’s fall, mankind’s nature, substance, and essence are corrupt. Since the fall, the nature, substance, and essence of a human being (or, the chief, highest part of his essence, i.e., the rational soul in its highest state or chief powers) is original sin itself. This has been called “nature-sin” or “person- sin” because it is not a thought, word, or work, but the nature itself. From original sin, as from a root, spring all other sins. So since the fall, there is now no difference whatever between the nature and essence of mankind and original sin because the nature is corrupt through sin.
@@ -223,8 +221,6 @@ Whether we call original sin a quality or a disease, it is indeed the utmost evi
 And again, on Genesis 3 he writes: “We are infected with the poison of original sin from the bottom of the foot to the top of the head, because this happened to us in a still perfect nature” [see LW 1:163].
 
 ## II. FREE WILL, OR HUMAN POWERS
-
-Note: For an annotation on this article, see p. 477. (See also AC XVIII; Ap XVIII; FC Ep II.)
 
 ## [STATUS OF THE CONTROVERSY]
 

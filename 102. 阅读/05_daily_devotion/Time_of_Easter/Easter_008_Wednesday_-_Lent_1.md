@@ -42,3 +42,35 @@ Almighty and merciful God, of Your bountiful goodness keep from us all things th
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord I 33–42
+
+[33] Original sin is like a spiritual poison and leprosy, as Luther says [LW 7:233]. It has poisoned and corrupted the whole human nature. So we cannot show and point out to the eye human nature by itself or original sin by itself. Nevertheless, there is the corrupt nature, or essence of the corrupt person (body and soul—the person himself) whom God has created. (Original sin dwells in a person. It also corrupts the nature and essence of the entire person.) And there is original sin, which dwells in human nature or essence and corrupts it. They are not one and the same thing. For example, in outward leprosy the body that is leprous and the leprosy on or in the body are not one thing, properly speaking. But a distinction must also be maintained between our nature as created and preserved by God (in which sin is indwelling) and original sin (which dwells in the nature). These two things can, and must, be considered, taught, and believed separately according to Holy Scripture.
+
+[34] Furthermore, the chief articles of our Christian faith drive and compel us to preserve this distinction. For instance, in the article of creation, Scripture testifies that God has created human nature not only before the fall, but that it is God’s creature and work also since the fall. (See Deuteronomy 32:6; Isaiah 45:11; 54:5; 64:8; Acts 17:25; Revelation 4:11.)
+
+[35] Job says:
+
+Your hands fashioned and made me, and now You have destroyed me altogether. Remember that You have made me like clay; and will You return me to the dust? Did You not pour me out like milk and curdle me like cheese? You clothed me with skin and flesh, and knit me together with bones and sinews. You have granted me life and steadfast love, and Your care has preserved my spirit. [Job 10:8–12]
+
+[36] David says:
+
+I praise You for I am fearfully and wonderfully made. Wonderful are Your works; my soul knows it very well. My frame was not hidden from You, when I was being made in secret, intricately woven in the depths of the earth. Your eyes saw my unformed substance; in Your book were written, every one of them, the days that were formed for me, when as yet there were none of them. (Psalm 139:14–16)
+
+[37] In the Ecclesiastes of Solomon it is written, “And the dust returns to the earth as it was, and the spirit returns to God who gave it” (Ecclesiastes 12:7).
+
+[38] These passages clearly testify that God, even since the fall, is the creator of mankind. He creates his body and soul. Therefore, corrupt mankind cannot, without any distinction, be sin itself. Otherwise, God would be a creator of sin. Our Small Catechism also confesses this in the explanation of the First Article, where it is written:
+
+I believe that God has made me and all creatures. He has given me my body and soul, eyes, ears, and all my members, my reason, and all my senses, and still preserves them.
+
+Likewise, in the Large Catechism it is written:
+
+This is what I mean and believe, that I am God’s creature. I mean that He has given and constantly preserves for me my body, soul, and life, my members great and small, all my senses, reason, and understanding.
+
+Nevertheless, this same creature and work of God is sadly corrupted by sin. For the material from which God now forms and makes man was corrupted and perverted in Adam and is thus passed along by inheritance to us.
+
+[39] Here pious Christian hearts justly ought to consider God’s unspeakable goodness. God does not immediately cast from Himself this corrupt, perverted, sinful material into hellfire. No, He forms and makes the present human nature from it (which is sadly corrupted by sin) in order that He may cleanse it from all sin, sanctify, and save it by His dear Son.
+
+[40] From this article, the distinction is now clearly and indisputably found. Original sin does not come from God. God is not sin’s creator or author. Nor is original sin God’s creature or work, but it is the devil’s work.
+
+[41] If there was no difference at all between the nature or essence of our body and soul (which is corrupted by original sin) and original sin (by which the nature is corrupted) one of the following would be true: because God is the creator of our nature, He also created and made original sin, which would also be His work and creature. Or, because sin is the devil’s work, Satan would be the creator of our nature, of our body and soul. They would also have to be Satan’s work or creation if, without any distinction, our corrupt nature was thought to be sin itself. Both of these teachings are contrary to the article of our Christian faith.
+
+[42] Therefore, in order that God’s creation and work in mankind may be distinguished from the devil’s work, we say that it is God’s creation that a person has body and soul. Also, it is God’s work that a person can think, speak, do, and work anything. For “in Him we live and move and have our being” (Acts 17:28). But human nature is corrupt. Its thoughts, words, and works are wicked. This is originally Satan’s work, who has corrupted God’s work in Adam through sin. From Adam, sin is passed down to us by inheritance [Romans 5:12].

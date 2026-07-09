@@ -56,3 +56,17 @@ Blessed Lord, since You have caused all Holy Scriptures to be written for our le
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord I 43–49
+
+[43] Second, in the article of Redemption the Scriptures testify forcefully that God’s Son received our human nature without sin. So He was in all ways—sin excluded—made like us, His brethren (Hebrews 2:14–17). Therefore, all the old orthodox teachers have maintained that Christ, according to His received humanity, is of one essence with us, His brothers. For He has received His human nature, which in all respects (sin alone excluded) is like our human nature in its essence and all essential attributes. They have condemned the contrary doctrine as obvious heresy.
+
+[44] If there were no distinction between the nature or essence of corrupt mankind and original sin, one of the following must be true: Christ did not receive our nature, because He did not receive sin. Or because Christ received our nature, He also received sin. Both of these ideas are contrary to the Scriptures. God’s Son received our nature, and not original sin. Therefore, it is clear from this fact that human nature (even since the fall) and original sin are not one and the same thing. They must be distinguished.
+
+[45] Third, in the article of Sanctification Scripture testifies that God cleanses, washes, and sanctifies mankind from sin [1 Corinthians 6:11; 1 John 1:7] and that Christ saves His people from their sins [Matthew 1:21]. Sin, therefore, cannot be a person himself. For God receives a person into grace for Christ’s sake. But God remains hostile to sin eternally. Therefore, it is unchristian and horrible to hear that original sin is baptized in the name of the Holy Trinity, sanctified and saved, and other similar expressions found in the writings of the recent Manichaeans. We will not offend simpleminded people with further examples.
+
+[46] Fourth, in the article of the Resurrection Scripture testifies that precisely the substance of our flesh, but without sin, will rise again [1 Corinthians 15:42, 54–57]. In eternal life we shall have and keep precisely this soul, but without sin.
+
+[47] If there was no difference at all between our corrupt body and soul and original sin, one of the following would be true (contrary to this article of the Christian faith): our flesh will not rise again at the Last Day, and in eternal life we shall not have the present essence of our body and soul, but another substance (or another soul), because then we shall be without sin. Or ‹at the Last Day› sin will also rise again and will be and remain in the elect in eternal life.
+
+[48] It is clear that this teaching (with all that depends on it and follows from it) must be rejected. For it is asserted and taught that original sin is the nature, substance, essence, body, or soul itself of corrupt mankind. It is taught that between our corrupt nature, substance, and essence and original sin there is no distinction whatever. For the chief articles of our Christian faith forcefully and emphatically testify why a distinction should and must be maintained between mankind’s nature or substance (which is corrupted by sin) and the sin (with which and by which mankind is corrupted).
+
+[49] A simple statement of the doctrine and the contrary teaching (in theses and antitheses) in this controversy is enough in this place for the chief issue itself. The subject is not argued at length, but only the principal points are treated, article by article.

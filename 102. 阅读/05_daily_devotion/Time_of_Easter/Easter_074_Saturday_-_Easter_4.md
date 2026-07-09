@@ -56,3 +56,29 @@ Lord Jesus, You are the Stronger Man who plundered Satan’s house by casting ou
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VIII 38–45
+
+[38] However, beneath the words—when it is said that what is peculiar to one nature is attributed to the entire person—secret and open Sacramentarians conceal their deadly error. They do this by naming the entire person, but meaning only the one nature, and entirely excluding the other nature. They speak as though the mere human nature had suffered for us, as Dr. Luther in his Confession concerning Christ’s Supper has written about the alloeosis of Zwingli. We will present here Luther’s own words, in order that God’s Church may be guarded in the best way against this error:
+
+[39] [Zwingli] calls it alloeosis when something is said about the divinity of Christ which after all belongs to His humanity, or vice versa—for example, in Luke 24[:26], “Was it not necessary that the Christ should suffer these things and so enter into His glory?” Here he [Zwingli] performs a sleight- of-hand trick and substitutes the human nature for Christ.
+
+[40] Beware, beware, I say, of this alloeosis, for it is the devil’s mask since it will finally construct a kind of Christ after whom I would not want to be a Christian, that is, a Christ who is and does no more in His passion and His life than any other ordinary saint. For if I believe that only the human nature suffered for me, then Christ would be a poor Savior for me, in fact, He Himself would need a Savior. In short, it is indescribable what the devil attempts with this alloeosis! [LW 37:209–10]
+
+[41] And shortly afterward:
+
+Now if the old witch, Lady Reason, alloeosis’ grandmother, should say that the Deity surely cannot suffer and die, then you must answer and say: That is true, but since the divinity and humanity are one person in Christ, the Scriptures ascribe to the divinity, because of this personal union, all that happens to humanity, and vice versa. And in reality it is so.
+
+[42] Indeed, you must say that the person (pointing to Christ) suffers, and dies. But this person is truly God, and therefore it is correct to say: the Son of God suffers. Although, so to speak, the one part (namely, the divinity) does not suffer, nevertheless the person, who is God, suffers in the other part (namely, in the humanity). [LW 37:210]
+
+For the Son of God truly is crucified for us, i.e., this person who is God. For that is what He is—this person, I say, is crucified according to His humanity. [LW 37:211]
+
+[43] And again, shortly afterward:
+
+If Zwingli’s alloeosis stands, then Christ will have to be two persons, one a divine and the other a human person, since Zwingli applies all the texts concerning the passion only to the human nature and completely excludes them from the divine nature. But if the works are divided and separated, the person will also have to be separated, since all the doing and suffering are not ascribed to natures but to persons. It is the person who does and suffers everything, the one thing according to this nature and the other thing according to the other nature, all of which scholars know perfectly well. Therefore we regard our Lord Christ as God and man in one person, “neither confusing the natures nor dividing the person.” [LW 37:212–13]
+
+[44] Dr. Luther also says in his book On the Councils and the Church [1539]:
+
+We Christians should know that if God is not in the scale to give it weight, we, on our side, sink to the ground. I mean it this way: if it cannot be said that God died for us, but only a man, we are lost; but if God’s death and a dead God lie in the balance, His side goes down and ours goes up like a light and empty scale. Yet He can also readily go up again, or leap out of the scale! But He could not sit on the scale unless He become a man like us, so that it could be called God’s dying, God’s martyrdom, God’s blood, and God’s death. For God in His own nature cannot die; but now that God and man are united in one person, it is called God’s death when the man dies who is one substance or one person with God. [LW 41:103–4]
+
+[45] Thus far Luther.
+
+It is clear that it is incorrect to say or write that the above-mentioned expressions (“God suffered, God died”) are only verbal assertions, that is, mere words, and that it is not so in fact. For our simple Christian faith proves that God’s Son, who became man, suffered for us, died for us and redeemed us with His blood.

@@ -50,3 +50,21 @@ Lord of all power and might, author and giver of all good things, graft into our
 ## Suggested Reading from the Book of Concord
 
 Solid Declaration of the Formula of Concord VIII 7–15
+
+[7] We believe, teach, and confess that now, in this one undivided person of Christ, there are two distinct natures: the divine, which is from eternity, and the human, which in time was received into the unity of the person of God’s Son. These two natures in the person of Christ are never either separated from or mingled with each other. Nor are they changed into each other. Each one abides in its nature and essence in the person of Christ to all eternity.
+
+[8] We believe, teach, and confess also that both natures mentioned remain unmingled and undestroyed in their nature and essence. Each keeps its natural, essential properties to all eternity and does not lay them aside. Neither do the essential properties of the one nature ever become the essential properties of the other nature.
+
+[9] We believe, teach, and confess that it is the property of the divine nature to be almighty, eternal, infinite, everywhere present at the same time, and all-knowing. In other words, it agrees with the properties of [the divine] nature and its natural essence. These are essential attributes of the divine nature. Never in eternity do they become essential properties of the human nature.
+
+[10] On the other hand, these are properties of the human nature: being a bodily creation or creature, flesh and blood, finite and located in one place; it suffers, dies, ascends, and descends; it moves from one place to another, suffers hunger, thirst, cold, heat, and the like. These properties never become properties of the divine nature.
+
+[11] We believe, teach, and confess that now, since the incarnation, each nature in Christ does not exist by itself so that each is, or makes up, a separate person. These two natures are so united that they make up one single person, in which the divine and the received human nature are and exist at the same time. So now, since the incarnation, there belongs to the entire person of Christ personally not only His divine nature, but also His received human nature. So without His divinity, and also without His humanity, the person of Christ or the incarnate Son of God is not complete. We mean the Son of God who has received flesh and become man [John 1:14]. Therefore, Christ is not two distinct persons, but one single person, even though two distinct natures are found in Him, unconfused in their natural essence and properties.
+
+[12] We also believe, teach, and confess that the received human nature in Christ has and retains its natural, essential properties. But over and above these, through the personal union with the Deity, and afterward through glorification, Christ’s human nature has been exalted to the right hand of majesty, power, and might, over everything that can be named, not only in this world, but also in that which is to come [Ephesians 1:21].
+
+[13] Consider this majesty, to which Christ has been exalted according to His humanity. He did not first receive it when He rose from the dead and ascended into heaven. He received it when He was conceived in His mother’s womb and became man, and the divine and human natures were personally united with each other.
+
+[14] However, this personal union is not to be understood (as some incorrectly explain it) as though the two natures, the divine and the human, were united with each other, like two boards are glued together. Some say that (in deed and truth) they have no communion whatsoever with each other.
+
+[15] This was the error and heresy of Nestorius and Samosatenus. As Suidas and Theodore, presbyter of Raithu, testify, they taught and held that the two natures have no communion whatsoever with each other. In this way, the natures are separated from each other, and the two Christs are constituted. So Christ is one, and God the Word (who dwells in Christ) is another.
