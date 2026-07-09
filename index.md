@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2366 篇文章
+共 2376 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -2467,6 +2467,19 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/09_巨婴国_武志红/07_第六章_无回应即绝境">07_第六章_无回应即绝境</a>
 <a class="tree-file" href="102. 阅读/09_巨婴国_武志红/08_第七章_从龙成为人">08_第七章_从龙成为人</a>
 <a class="tree-file" href="102. 阅读/09_巨婴国_武志红/09_后记">09_后记</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励">
+<summary class="tree-dir">10_福音激励<a class="anchor-link" href="#102-阅读-10-福音激励">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音">01_上帝在基督里爱和赦免的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/02_死亡和生命的福音">02_死亡和生命的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音">03_义的奴隶的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/04_真灵性的福音">04_真灵性的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/05_新造的人的福音">05_新造的人的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音">06_上帝怎么看新造的人的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/07_上帝的国的福音">07_上帝的国的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音">08_圣礼中的福音；光明的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/09_永生的福音">09_永生的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/10_我们在基督里团契的福音；彼此代祷">10_我们在基督里团契的福音；彼此代祷</a>
 </details>
 <details class="tree-folder" id="102-阅读-365-Through-Faith-Alone">
 <summary class="tree-dir">365 Through Faith Alone<a class="anchor-link" href="#102-阅读-365-Through-Faith-Alone">#</a></summary>
