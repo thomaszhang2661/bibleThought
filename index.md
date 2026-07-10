@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2391 篇文章
+共 2394 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -2498,6 +2498,9 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音">08_圣礼中的福音；光明的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/09_永生的福音">09_永生的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/10_我们在基督里团契的福音；彼此代祷">10_我们在基督里团契的福音；彼此代祷</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/11_特例一">11_特例一</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二">12_特例二</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/13_结论">13_结论</a>
 </details>
 <details class="tree-folder" id="102-阅读-365-Through-Faith-Alone">
 <summary class="tree-dir">365 Through Faith Alone<a class="anchor-link" href="#102-阅读-365-Through-Faith-Alone">#</a></summary>
