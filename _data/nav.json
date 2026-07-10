@@ -15738,14 +15738,126 @@
     "title": "09_后记",
     "prev_url": "102. 阅读/09_巨婴国_武志红/08_第七章_从龙成为人",
     "prev_title": "08_第七章_从龙成为人",
+    "next_url": "102. 阅读/10_Gospel_Motivation/00_Foreword",
+    "next_title": "00_Foreword"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/00_Foreword.md",
+    "title": "00_Foreword",
+    "prev_url": "102. 阅读/09_巨婴国_武志红/09_后记",
+    "prev_title": "09_后记",
+    "next_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ",
+    "next_title": "01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ.md",
+    "title": "01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/00_Foreword",
+    "prev_title": "00_Foreword",
+    "next_url": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life",
+    "next_title": "02_The_Gospel_of_Death_and_Life"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life.md",
+    "title": "02_The_Gospel_of_Death_and_Life",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ",
+    "prev_title": "01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ",
+    "next_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness",
+    "next_title": "03_The_Gospel_of_Slavery_to_Righteousness"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness.md",
+    "title": "03_The_Gospel_of_Slavery_to_Righteousness",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life",
+    "prev_title": "02_The_Gospel_of_Death_and_Life",
+    "next_url": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality",
+    "next_title": "04_The_Gospel_of_True_Spirituality"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality.md",
+    "title": "04_The_Gospel_of_True_Spirituality",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness",
+    "prev_title": "03_The_Gospel_of_Slavery_to_Righteousness",
+    "next_url": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation",
+    "next_title": "05_The_Gospel_of_a_New_Creation"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation.md",
+    "title": "05_The_Gospel_of_a_New_Creation",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality",
+    "prev_title": "04_The_Gospel_of_True_Spirituality",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations",
+    "next_title": "06_The_Gospel_of_How_God_Views_New_Creations"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations.md",
+    "title": "06_The_Gospel_of_How_God_Views_New_Creations",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation",
+    "prev_title": "05_The_Gospel_of_a_New_Creation",
+    "next_url": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom",
+    "next_title": "07_The_Gospel_of_the_Kingdom"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom.md",
+    "title": "07_The_Gospel_of_the_Kingdom",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations",
+    "prev_title": "06_The_Gospel_of_How_God_Views_New_Creations",
+    "next_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light",
+    "next_title": "08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light.md",
+    "title": "08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom",
+    "prev_title": "07_The_Gospel_of_the_Kingdom",
+    "next_url": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life",
+    "next_title": "09_The_Gospel_of_Eternal_Life"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life.md",
+    "title": "09_The_Gospel_of_Eternal_Life",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light",
+    "prev_title": "08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light",
+    "next_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ",
+    "next_title": "10_The_Gospel_of_Our_Fellowship_in_Christ"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ.md",
+    "title": "10_The_Gospel_of_Our_Fellowship_in_Christ",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life",
+    "prev_title": "09_The_Gospel_of_Eternal_Life",
+    "next_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1",
+    "next_title": "11_Special_Examples_Part_1"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1.md",
+    "title": "11_Special_Examples_Part_1",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ",
+    "prev_title": "10_The_Gospel_of_Our_Fellowship_in_Christ",
+    "next_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2",
+    "next_title": "12_Special_Examples_Part_2"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2.md",
+    "title": "12_Special_Examples_Part_2",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1",
+    "prev_title": "11_Special_Examples_Part_1",
+    "next_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion",
+    "next_title": "13_Conclusion"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/13_Conclusion.md",
+    "title": "13_Conclusion",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2",
+    "prev_title": "12_Special_Examples_Part_2",
     "next_url": "102. 阅读/10_福音激励/00_前言",
     "next_title": "00_前言"
   },
   {
     "path": "102. 阅读/10_福音激励/00_前言.md",
     "title": "00_前言",
-    "prev_url": "102. 阅读/09_巨婴国_武志红/09_后记",
-    "prev_title": "09_后记",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion",
+    "prev_title": "13_Conclusion",
     "next_url": "102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音",
     "next_title": "01_上帝在基督里爱和赦免的福音"
   },

@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2377 篇文章
+共 2391 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -2467,6 +2467,23 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/09_巨婴国_武志红/07_第六章_无回应即绝境">07_第六章_无回应即绝境</a>
 <a class="tree-file" href="102. 阅读/09_巨婴国_武志红/08_第七章_从龙成为人">08_第七章_从龙成为人</a>
 <a class="tree-file" href="102. 阅读/09_巨婴国_武志红/09_后记">09_后记</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation">
+<summary class="tree-dir">10_Gospel_Motivation<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/00_Foreword">00_Foreword</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ">01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life">02_The_Gospel_of_Death_and_Life</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness">03_The_Gospel_of_Slavery_to_Righteousness</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality">04_The_Gospel_of_True_Spirituality</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation">05_The_Gospel_of_a_New_Creation</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations">06_The_Gospel_of_How_God_Views_New_Creations</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom">07_The_Gospel_of_the_Kingdom</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light">08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life">09_The_Gospel_of_Eternal_Life</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ">10_The_Gospel_of_Our_Fellowship_in_Christ</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1">11_Special_Examples_Part_1</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2">12_Special_Examples_Part_2</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/13_Conclusion">13_Conclusion</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励">
 <summary class="tree-dir">10_福音激励<a class="anchor-link" href="#102-阅读-10-福音激励">#</a></summary>
