@@ -2587,7 +2587,7 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励-04-真灵性的福音">
 <summary class="tree-dir">04_真灵性的福音<a class="anchor-link" href="#102-阅读-10-福音激励-04-真灵性的福音">#</a></summary>
-<a class="tree-file" href="102. 阅读/10_福音激励/04_真灵性的福音/01_罗马书 7:1-6">01_罗马书 7:1-6</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/04_真灵性的福音/01_罗马书 7：1-6">01_罗马书 7：1-6</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励-05-新造的人的福音">
 <summary class="tree-dir">05_新造的人的福音<a class="anchor-link" href="#102-阅读-10-福音激励-05-新造的人的福音">#</a></summary>
