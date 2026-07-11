@@ -15842,38 +15842,14 @@
     "title": "00_Foreword",
     "prev_url": "102. 阅读/09_巨婴国_武志红/09_后记",
     "prev_title": "09_后记",
-    "next_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ",
-    "next_title": "01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ"
-  },
-  {
-    "path": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ.md",
-    "title": "01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/00_Foreword",
-    "prev_title": "00_Foreword",
-    "next_url": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life",
-    "next_title": "02_The_Gospel_of_Death_and_Life"
-  },
-  {
-    "path": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life.md",
-    "title": "02_The_Gospel_of_Death_and_Life",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ",
-    "prev_title": "01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ",
-    "next_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness",
-    "next_title": "03_The_Gospel_of_Slavery_to_Righteousness"
-  },
-  {
-    "path": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness.md",
-    "title": "03_The_Gospel_of_Slavery_to_Righteousness",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life",
-    "prev_title": "02_The_Gospel_of_Death_and_Life",
     "next_url": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality",
     "next_title": "04_The_Gospel_of_True_Spirituality"
   },
   {
     "path": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality.md",
     "title": "04_The_Gospel_of_True_Spirituality",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness",
-    "prev_title": "03_The_Gospel_of_Slavery_to_Righteousness",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/00_Foreword",
+    "prev_title": "00_Foreword",
     "next_url": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation",
     "next_title": "05_The_Gospel_of_a_New_Creation"
   },
@@ -15882,78 +15858,302 @@
     "title": "05_The_Gospel_of_a_New_Creation",
     "prev_url": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality",
     "prev_title": "04_The_Gospel_of_True_Spirituality",
-    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations",
-    "next_title": "06_The_Gospel_of_How_God_Views_New_Creations"
-  },
-  {
-    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations.md",
-    "title": "06_The_Gospel_of_How_God_Views_New_Creations",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation",
-    "prev_title": "05_The_Gospel_of_a_New_Creation",
     "next_url": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom",
     "next_title": "07_The_Gospel_of_the_Kingdom"
   },
   {
     "path": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom.md",
     "title": "07_The_Gospel_of_the_Kingdom",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations",
-    "prev_title": "06_The_Gospel_of_How_God_Views_New_Creations",
-    "next_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light",
-    "next_title": "08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light"
-  },
-  {
-    "path": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light.md",
-    "title": "08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom",
-    "prev_title": "07_The_Gospel_of_the_Kingdom",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation",
+    "prev_title": "05_The_Gospel_of_a_New_Creation",
     "next_url": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life",
     "next_title": "09_The_Gospel_of_Eternal_Life"
   },
   {
     "path": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life.md",
     "title": "09_The_Gospel_of_Eternal_Life",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light",
-    "prev_title": "08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light",
-    "next_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ",
-    "next_title": "10_The_Gospel_of_Our_Fellowship_in_Christ"
+    "prev_url": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom",
+    "prev_title": "07_The_Gospel_of_the_Kingdom",
+    "next_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big",
+    "next_title": "01_The_gospel_is_big"
   },
   {
-    "path": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ.md",
-    "title": "10_The_Gospel_of_Our_Fellowship_in_Christ",
+    "path": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big.md",
+    "title": "01_The_gospel_is_big",
     "prev_url": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life",
     "prev_title": "09_The_Gospel_of_Eternal_Life",
-    "next_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1",
-    "next_title": "11_Special_Examples_Part_1"
+    "next_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ",
+    "next_title": "02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ"
   },
   {
-    "path": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1.md",
-    "title": "11_Special_Examples_Part_1",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ",
-    "prev_title": "10_The_Gospel_of_Our_Fellowship_in_Christ",
-    "next_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2",
-    "next_title": "12_Special_Examples_Part_2"
+    "path": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ.md",
+    "title": "02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big",
+    "prev_title": "01_The_gospel_is_big",
+    "next_url": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life/01_Romans_61-13",
+    "next_title": "01_Romans_61-13"
   },
   {
-    "path": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2.md",
-    "title": "12_Special_Examples_Part_2",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1",
-    "prev_title": "11_Special_Examples_Part_1",
-    "next_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion",
-    "next_title": "13_Conclusion"
+    "path": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life/01_Romans_61-13.md",
+    "title": "01_Romans_61-13",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ",
+    "prev_title": "02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ",
+    "next_url": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life/02_Other_places_in_Scripture",
+    "next_title": "02_Other_places_in_Scripture"
   },
   {
-    "path": "102. 阅读/10_Gospel_Motivation/13_Conclusion.md",
-    "title": "13_Conclusion",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2",
-    "prev_title": "12_Special_Examples_Part_2",
+    "path": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life/02_Other_places_in_Scripture.md",
+    "title": "02_Other_places_in_Scripture",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life/01_Romans_61-13",
+    "prev_title": "01_Romans_61-13",
+    "next_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/01_Romans_614-23",
+    "next_title": "01_Romans_614-23"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/01_Romans_614-23.md",
+    "title": "01_Romans_614-23",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life/02_Other_places_in_Scripture",
+    "prev_title": "02_Other_places_in_Scripture",
+    "next_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/02_Thoughts_on_head_and_heart_knowledge",
+    "next_title": "02_Thoughts_on_head_and_heart_knowledge"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/02_Thoughts_on_head_and_heart_knowledge.md",
+    "title": "02_Thoughts_on_head_and_heart_knowledge",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/01_Romans_614-23",
+    "prev_title": "01_Romans_614-23",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/01_Introduction",
+    "next_title": "01_Introduction"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/01_Introduction.md",
+    "title": "01_Introduction",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/02_Thoughts_on_head_and_heart_knowledge",
+    "prev_title": "02_Thoughts_on_head_and_heart_knowledge",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/02_Our_relationship_with_God_and_our_lives_of_service",
+    "next_title": "02_Our_relationship_with_God_and_our_lives_of_service"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/02_Our_relationship_with_God_and_our_lives_of_service.md",
+    "title": "02_Our_relationship_with_God_and_our_lives_of_service",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/01_Introduction",
+    "prev_title": "01_Introduction",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/03_Forgiveness",
+    "next_title": "03_Forgiveness"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/03_Forgiveness.md",
+    "title": "03_Forgiveness",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/02_Our_relationship_with_God_and_our_lives_of_service",
+    "prev_title": "02_Our_relationship_with_God_and_our_lives_of_service",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/04_Children_of_God",
+    "next_title": "04_Children_of_God"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/04_Children_of_God.md",
+    "title": "04_Children_of_God",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/03_Forgiveness",
+    "prev_title": "03_Forgiveness",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/05_Jesus'_disciples",
+    "next_title": "05_Jesus'_disciples"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/05_Jesus'_disciples.md",
+    "title": "05_Jesus'_disciples",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/04_Children_of_God",
+    "prev_title": "04_Children_of_God",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/06_People_in_whom_Jesus_lives",
+    "next_title": "06_People_in_whom_Jesus_lives"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/06_People_in_whom_Jesus_lives.md",
+    "title": "06_People_in_whom_Jesus_lives",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/05_Jesus'_disciples",
+    "prev_title": "05_Jesus'_disciples",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/07_We_remain_in_Jesus'_love",
+    "next_title": "07_We_remain_in_Jesus'_love"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/07_We_remain_in_Jesus'_love.md",
+    "title": "07_We_remain_in_Jesus'_love",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/06_People_in_whom_Jesus_lives",
+    "prev_title": "06_People_in_whom_Jesus_lives",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/08_We_are_righteous_in_Christ",
+    "next_title": "08_We_are_righteous_in_Christ"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/08_We_are_righteous_in_Christ.md",
+    "title": "08_We_are_righteous_in_Christ",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/07_We_remain_in_Jesus'_love",
+    "prev_title": "07_We_remain_in_Jesus'_love",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/09_God's_love_is_complete_in_us",
+    "next_title": "09_God's_love_is_complete_in_us"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/09_God's_love_is_complete_in_us.md",
+    "title": "09_God's_love_is_complete_in_us",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/08_We_are_righteous_in_Christ",
+    "prev_title": "08_We_are_righteous_in_Christ",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/10_We_will_have_peace_with_God_on_the_Last_Day",
+    "next_title": "10_We_will_have_peace_with_God_on_the_Last_Day"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/10_We_will_have_peace_with_God_on_the_Last_Day.md",
+    "title": "10_We_will_have_peace_with_God_on_the_Last_Day",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/09_God's_love_is_complete_in_us",
+    "prev_title": "09_God's_love_is_complete_in_us",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/11_It_is_clear_that_we_are_justified",
+    "next_title": "11_It_is_clear_that_we_are_justified"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/11_It_is_clear_that_we_are_justified.md",
+    "title": "11_It_is_clear_that_we_are_justified",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/10_We_will_have_peace_with_God_on_the_Last_Day",
+    "prev_title": "10_We_will_have_peace_with_God_on_the_Last_Day",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/12_Our_lives_of_service_and_eternal_life",
+    "next_title": "12_Our_lives_of_service_and_eternal_life"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/12_Our_lives_of_service_and_eternal_life.md",
+    "title": "12_Our_lives_of_service_and_eternal_life",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/11_It_is_clear_that_we_are_justified",
+    "prev_title": "11_It_is_clear_that_we_are_justified",
+    "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/13_God's_reward_on_our_lives_of_service",
+    "next_title": "13_God's_reward_on_our_lives_of_service"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/13_God's_reward_on_our_lives_of_service.md",
+    "title": "13_God's_reward_on_our_lives_of_service",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/12_Our_lives_of_service_and_eternal_life",
+    "prev_title": "12_Our_lives_of_service_and_eternal_life",
+    "next_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/01_The_gospel_in_Baptism",
+    "next_title": "01_The_gospel_in_Baptism"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/01_The_gospel_in_Baptism.md",
+    "title": "01_The_gospel_in_Baptism",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/13_God's_reward_on_our_lives_of_service",
+    "prev_title": "13_God's_reward_on_our_lives_of_service",
+    "next_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/02_The_gospel_in_the_Lord's_Supper",
+    "next_title": "02_The_gospel_in_the_Lord's_Supper"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/02_The_gospel_in_the_Lord's_Supper.md",
+    "title": "02_The_gospel_in_the_Lord's_Supper",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/01_The_gospel_in_Baptism",
+    "prev_title": "01_The_gospel_in_Baptism",
+    "next_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/03_The_gospel_of_light",
+    "next_title": "03_The_gospel_of_light"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/03_The_gospel_of_light.md",
+    "title": "03_The_gospel_of_light",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/02_The_gospel_in_the_Lord's_Supper",
+    "prev_title": "02_The_gospel_in_the_Lord's_Supper",
+    "next_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/01_Our_fellowship_in_Christ",
+    "next_title": "01_Our_fellowship_in_Christ"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/01_Our_fellowship_in_Christ.md",
+    "title": "01_Our_fellowship_in_Christ",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/03_The_gospel_of_light",
+    "prev_title": "03_The_gospel_of_light",
+    "next_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/02_Prayers_for_one_another",
+    "next_title": "02_Prayers_for_one_another"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/02_Prayers_for_one_another.md",
+    "title": "02_Prayers_for_one_another",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/01_Our_fellowship_in_Christ",
+    "prev_title": "01_Our_fellowship_in_Christ",
+    "next_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/01_Examples",
+    "next_title": "01_Examples"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/01_Examples.md",
+    "title": "01_Examples",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/02_Prayers_for_one_another",
+    "prev_title": "02_Prayers_for_one_another",
+    "next_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/02_What_is_practical",
+    "next_title": "02_What_is_practical"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/02_What_is_practical.md",
+    "title": "02_What_is_practical",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/01_Examples",
+    "prev_title": "01_Examples",
+    "next_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/03_Examples,_continued",
+    "next_title": "03_Examples,_continued"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/03_Examples,_continued.md",
+    "title": "03_Examples,_continued",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/02_What_is_practical",
+    "prev_title": "02_What_is_practical",
+    "next_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/01_Introduction",
+    "next_title": "01_Introduction"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/01_Introduction.md",
+    "title": "01_Introduction",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/03_Examples,_continued",
+    "prev_title": "03_Examples,_continued",
+    "next_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/02_Colossians_220-317",
+    "next_title": "02_Colossians_220-317"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/02_Colossians_220-317.md",
+    "title": "02_Colossians_220-317",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/01_Introduction",
+    "prev_title": "01_Introduction",
+    "next_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/03_2_Corinthians_8_and_9",
+    "next_title": "03_2_Corinthians_8_and_9"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/03_2_Corinthians_8_and_9.md",
+    "title": "03_2_Corinthians_8_and_9",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/02_Colossians_220-317",
+    "prev_title": "02_Colossians_220-317",
+    "next_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/04_Ephesians_429-510",
+    "next_title": "04_Ephesians_429-510"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/04_Ephesians_429-510.md",
+    "title": "04_Ephesians_429-510",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/03_2_Corinthians_8_and_9",
+    "prev_title": "03_2_Corinthians_8_and_9",
+    "next_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/05_1_Peter_113-224",
+    "next_title": "05_1_Peter_113-224"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/05_1_Peter_113-224.md",
+    "title": "05_1_Peter_113-224",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/04_Ephesians_429-510",
+    "prev_title": "04_Ephesians_429-510",
+    "next_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion/01_Applications_to_the_Ministry_and_Christian_Service",
+    "next_title": "01_Applications_to_the_Ministry_and_Christian_Service"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/13_Conclusion/01_Applications_to_the_Ministry_and_Christian_Service.md",
+    "title": "01_Applications_to_the_Ministry_and_Christian_Service",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/05_1_Peter_113-224",
+    "prev_title": "05_1_Peter_113-224",
+    "next_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion/02_Study_Questions",
+    "next_title": "02_Study_Questions"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/13_Conclusion/02_Study_Questions.md",
+    "title": "02_Study_Questions",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion/01_Applications_to_the_Ministry_and_Christian_Service",
+    "prev_title": "01_Applications_to_the_Ministry_and_Christian_Service",
     "next_url": "102. 阅读/10_福音激励/00_前言",
     "next_title": "00_前言"
   },
   {
     "path": "102. 阅读/10_福音激励/00_前言.md",
     "title": "00_前言",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion",
-    "prev_title": "13_Conclusion",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion/02_Study_Questions",
+    "prev_title": "02_Study_Questions",
     "next_url": "102. 阅读/10_福音激励/04_真灵性的福音",
     "next_title": "04_真灵性的福音"
   },

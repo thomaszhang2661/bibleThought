@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2431 篇文章
+共 2456 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -2489,19 +2489,71 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation">
 <summary class="tree-dir">10_Gospel_Motivation<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/00_Foreword">00_Foreword</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ">01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life">02_The_Gospel_of_Death_and_Life</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness">03_The_Gospel_of_Slavery_to_Righteousness</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality">04_The_Gospel_of_True_Spirituality</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation">05_The_Gospel_of_a_New_Creation</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations">06_The_Gospel_of_How_God_Views_New_Creations</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom">07_The_Gospel_of_the_Kingdom</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light">08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life">09_The_Gospel_of_Eternal_Life</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ">10_The_Gospel_of_Our_Fellowship_in_Christ</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1">11_Special_Examples_Part_1</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2">12_Special_Examples_Part_2</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/13_Conclusion">13_Conclusion</a>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-01-The-Gospel-of-Gods-Love-and-Forgiveness-in-Christ">
+<summary class="tree-dir">01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-01-The-Gospel-of-Gods-Love-and-Forgiveness-in-Christ">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big">01_The_gospel_is_big</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ">02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-02-The-Gospel-of-Death-and-Life">
+<summary class="tree-dir">02_The_Gospel_of_Death_and_Life<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-02-The-Gospel-of-Death-and-Life">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life/01_Romans_61-13">01_Romans_61-13</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/02_The_Gospel_of_Death_and_Life/02_Other_places_in_Scripture">02_Other_places_in_Scripture</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-03-The-Gospel-of-Slavery-to-Righteousness">
+<summary class="tree-dir">03_The_Gospel_of_Slavery_to_Righteousness<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-03-The-Gospel-of-Slavery-to-Righteousness">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/01_Romans_614-23">01_Romans_614-23</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/02_Thoughts_on_head_and_heart_knowledge">02_Thoughts_on_head_and_heart_knowledge</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-06-The-Gospel-of-How-God-Views-New-Creations">
+<summary class="tree-dir">06_The_Gospel_of_How_God_Views_New_Creations<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-06-The-Gospel-of-How-God-Views-New-Creations">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/01_Introduction">01_Introduction</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/02_Our_relationship_with_God_and_our_lives_of_service">02_Our_relationship_with_God_and_our_lives_of_service</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/03_Forgiveness">03_Forgiveness</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/04_Children_of_God">04_Children_of_God</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/05_Jesus'_disciples">05_Jesus'_disciples</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/06_People_in_whom_Jesus_lives">06_People_in_whom_Jesus_lives</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/07_We_remain_in_Jesus'_love">07_We_remain_in_Jesus'_love</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/08_We_are_righteous_in_Christ">08_We_are_righteous_in_Christ</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/09_God's_love_is_complete_in_us">09_God's_love_is_complete_in_us</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/10_We_will_have_peace_with_God_on_the_Last_Day">10_We_will_have_peace_with_God_on_the_Last_Day</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/11_It_is_clear_that_we_are_justified">11_It_is_clear_that_we_are_justified</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/12_Our_lives_of_service_and_eternal_life">12_Our_lives_of_service_and_eternal_life</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/13_God's_reward_on_our_lives_of_service">13_God's_reward_on_our_lives_of_service</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-08-The-Gospel-in-the-Sacraments-The-Gospel-of-Light">
+<summary class="tree-dir">08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-08-The-Gospel-in-the-Sacraments-The-Gospel-of-Light">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/01_The_gospel_in_Baptism">01_The_gospel_in_Baptism</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/02_The_gospel_in_the_Lord's_Supper">02_The_gospel_in_the_Lord's_Supper</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/03_The_gospel_of_light">03_The_gospel_of_light</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-10-The-Gospel-of-Our-Fellowship-in-Christ">
+<summary class="tree-dir">10_The_Gospel_of_Our_Fellowship_in_Christ<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-10-The-Gospel-of-Our-Fellowship-in-Christ">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/01_Our_fellowship_in_Christ">01_Our_fellowship_in_Christ</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/02_Prayers_for_one_another">02_Prayers_for_one_another</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-11-Special-Examples-Part-1">
+<summary class="tree-dir">11_Special_Examples_Part_1<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-11-Special-Examples-Part-1">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/01_Examples">01_Examples</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/02_What_is_practical">02_What_is_practical</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/11_Special_Examples_Part_1/03_Examples,_continued">03_Examples,_continued</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-12-Special-Examples-Part-2">
+<summary class="tree-dir">12_Special_Examples_Part_2<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-12-Special-Examples-Part-2">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/01_Introduction">01_Introduction</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/02_Colossians_220-317">02_Colossians_220-317</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/03_2_Corinthians_8_and_9">03_2_Corinthians_8_and_9</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/04_Ephesians_429-510">04_Ephesians_429-510</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/12_Special_Examples_Part_2/05_1_Peter_113-224">05_1_Peter_113-224</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-13-Conclusion">
+<summary class="tree-dir">13_Conclusion<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-13-Conclusion">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/13_Conclusion/01_Applications_to_the_Ministry_and_Christian_Service">01_Applications_to_the_Ministry_and_Christian_Service</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/13_Conclusion/02_Study_Questions">02_Study_Questions</a>
+</details>
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励">
 <summary class="tree-dir">10_福音激励<a class="anchor-link" href="#102-阅读-10-福音激励">#</a></summary>

@@ -1,4 +1,4 @@
-# Conclusion: Applications to the Ministry and Christian Service
+# Applications to the Ministry and Christian Service
 
 This book has had one goal. It has looked at how Jesus and the New Testament writers encourage us to live lives in service to the Lord.
 
