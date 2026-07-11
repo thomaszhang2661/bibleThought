@@ -1,6 +1,4 @@
-# Chapter 4: The Gospel of True Spirituality
-
-Romans 7:1-6
+# Romans 7:1-6
 
 In Galatians 5:16 Paul writes, “Live by the Spirit, and you will not gratify the desires of the sinful nature.” This is a very powerful and far-reaching statement. It offers complete victory over the sinful nature. The only thing we need to know is what it means to “live by the Spirit.”
 

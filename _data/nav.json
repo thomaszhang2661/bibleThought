@@ -15842,46 +15842,14 @@
     "title": "00_Foreword",
     "prev_url": "102. 阅读/09_巨婴国_武志红/09_后记",
     "prev_title": "09_后记",
-    "next_url": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality",
-    "next_title": "04_The_Gospel_of_True_Spirituality"
-  },
-  {
-    "path": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality.md",
-    "title": "04_The_Gospel_of_True_Spirituality",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/00_Foreword",
-    "prev_title": "00_Foreword",
-    "next_url": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation",
-    "next_title": "05_The_Gospel_of_a_New_Creation"
-  },
-  {
-    "path": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation.md",
-    "title": "05_The_Gospel_of_a_New_Creation",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality",
-    "prev_title": "04_The_Gospel_of_True_Spirituality",
-    "next_url": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom",
-    "next_title": "07_The_Gospel_of_the_Kingdom"
-  },
-  {
-    "path": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom.md",
-    "title": "07_The_Gospel_of_the_Kingdom",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation",
-    "prev_title": "05_The_Gospel_of_a_New_Creation",
-    "next_url": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life",
-    "next_title": "09_The_Gospel_of_Eternal_Life"
-  },
-  {
-    "path": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life.md",
-    "title": "09_The_Gospel_of_Eternal_Life",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom",
-    "prev_title": "07_The_Gospel_of_the_Kingdom",
     "next_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big",
     "next_title": "01_The_gospel_is_big"
   },
   {
     "path": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big.md",
     "title": "01_The_gospel_is_big",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life",
-    "prev_title": "09_The_Gospel_of_Eternal_Life",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/00_Foreword",
+    "prev_title": "00_Foreword",
     "next_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ",
     "next_title": "02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ"
   },
@@ -15922,14 +15890,30 @@
     "title": "02_Thoughts_on_head_and_heart_knowledge",
     "prev_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/01_Romans_614-23",
     "prev_title": "01_Romans_614-23",
+    "next_url": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality/01_Romans_71-6",
+    "next_title": "01_Romans_71-6"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality/01_Romans_71-6.md",
+    "title": "01_Romans_71-6",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/02_Thoughts_on_head_and_heart_knowledge",
+    "prev_title": "02_Thoughts_on_head_and_heart_knowledge",
+    "next_url": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation/01_The_Gospel_of_a_New_Creation",
+    "next_title": "01_The_Gospel_of_a_New_Creation"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation/01_The_Gospel_of_a_New_Creation.md",
+    "title": "01_The_Gospel_of_a_New_Creation",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality/01_Romans_71-6",
+    "prev_title": "01_Romans_71-6",
     "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/01_Introduction",
     "next_title": "01_Introduction"
   },
   {
     "path": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/01_Introduction.md",
     "title": "01_Introduction",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/02_Thoughts_on_head_and_heart_knowledge",
-    "prev_title": "02_Thoughts_on_head_and_heart_knowledge",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation/01_The_Gospel_of_a_New_Creation",
+    "prev_title": "01_The_Gospel_of_a_New_Creation",
     "next_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/02_Our_relationship_with_God_and_our_lives_of_service",
     "next_title": "02_Our_relationship_with_God_and_our_lives_of_service"
   },
@@ -16026,14 +16010,22 @@
     "title": "13_God's_reward_on_our_lives_of_service",
     "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/12_Our_lives_of_service_and_eternal_life",
     "prev_title": "12_Our_lives_of_service_and_eternal_life",
+    "next_url": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom/01_The_Gospel_of_the_Kingdom",
+    "next_title": "01_The_Gospel_of_the_Kingdom"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom/01_The_Gospel_of_the_Kingdom.md",
+    "title": "01_The_Gospel_of_the_Kingdom",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/13_God's_reward_on_our_lives_of_service",
+    "prev_title": "13_God's_reward_on_our_lives_of_service",
     "next_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/01_The_gospel_in_Baptism",
     "next_title": "01_The_gospel_in_Baptism"
   },
   {
     "path": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/01_The_gospel_in_Baptism.md",
     "title": "01_The_gospel_in_Baptism",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/13_God's_reward_on_our_lives_of_service",
-    "prev_title": "13_God's_reward_on_our_lives_of_service",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom/01_The_Gospel_of_the_Kingdom",
+    "prev_title": "01_The_Gospel_of_the_Kingdom",
     "next_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/02_The_gospel_in_the_Lord's_Supper",
     "next_title": "02_The_gospel_in_the_Lord's_Supper"
   },
@@ -16050,14 +16042,22 @@
     "title": "03_The_gospel_of_light",
     "prev_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/02_The_gospel_in_the_Lord's_Supper",
     "prev_title": "02_The_gospel_in_the_Lord's_Supper",
+    "next_url": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life/01_The_Gospel_of_Eternal_Life",
+    "next_title": "01_The_Gospel_of_Eternal_Life"
+  },
+  {
+    "path": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life/01_The_Gospel_of_Eternal_Life.md",
+    "title": "01_The_Gospel_of_Eternal_Life",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/03_The_gospel_of_light",
+    "prev_title": "03_The_gospel_of_light",
     "next_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/01_Our_fellowship_in_Christ",
     "next_title": "01_Our_fellowship_in_Christ"
   },
   {
     "path": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/01_Our_fellowship_in_Christ.md",
     "title": "01_Our_fellowship_in_Christ",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/03_The_gospel_of_light",
-    "prev_title": "03_The_gospel_of_light",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life/01_The_Gospel_of_Eternal_Life",
+    "prev_title": "01_The_Gospel_of_Eternal_Life",
     "next_url": "102. 阅读/10_Gospel_Motivation/10_The_Gospel_of_Our_Fellowship_in_Christ/02_Prayers_for_one_another",
     "next_title": "02_Prayers_for_one_another"
   },
@@ -16154,46 +16154,14 @@
     "title": "00_前言",
     "prev_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion/02_Study_Questions",
     "prev_title": "02_Study_Questions",
-    "next_url": "102. 阅读/10_福音激励/04_真灵性的福音",
-    "next_title": "04_真灵性的福音"
-  },
-  {
-    "path": "102. 阅读/10_福音激励/04_真灵性的福音.md",
-    "title": "04_真灵性的福音",
-    "prev_url": "102. 阅读/10_福音激励/00_前言",
-    "prev_title": "00_前言",
-    "next_url": "102. 阅读/10_福音激励/05_新造的人的福音",
-    "next_title": "05_新造的人的福音"
-  },
-  {
-    "path": "102. 阅读/10_福音激励/05_新造的人的福音.md",
-    "title": "05_新造的人的福音",
-    "prev_url": "102. 阅读/10_福音激励/04_真灵性的福音",
-    "prev_title": "04_真灵性的福音",
-    "next_url": "102. 阅读/10_福音激励/07_上帝的国的福音",
-    "next_title": "07_上帝的国的福音"
-  },
-  {
-    "path": "102. 阅读/10_福音激励/07_上帝的国的福音.md",
-    "title": "07_上帝的国的福音",
-    "prev_url": "102. 阅读/10_福音激励/05_新造的人的福音",
-    "prev_title": "05_新造的人的福音",
-    "next_url": "102. 阅读/10_福音激励/09_永生的福音",
-    "next_title": "09_永生的福音"
-  },
-  {
-    "path": "102. 阅读/10_福音激励/09_永生的福音.md",
-    "title": "09_永生的福音",
-    "prev_url": "102. 阅读/10_福音激励/07_上帝的国的福音",
-    "prev_title": "07_上帝的国的福音",
     "next_url": "102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/01_福音是大的",
     "next_title": "01_福音是大的"
   },
   {
     "path": "102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/01_福音是大的.md",
     "title": "01_福音是大的",
-    "prev_url": "102. 阅读/10_福音激励/09_永生的福音",
-    "prev_title": "09_永生的福音",
+    "prev_url": "102. 阅读/10_福音激励/00_前言",
+    "prev_title": "00_前言",
     "next_url": "102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/02_借着上帝在基督里爱和赦免的福音激励",
     "next_title": "02_借着上帝在基督里爱和赦免的福音激励"
   },
@@ -16234,14 +16202,30 @@
     "title": "02_头脑的思想和心的知识",
     "prev_url": "102. 阅读/10_福音激励/03_义的奴隶的福音/01_罗马书 6：14-23",
     "prev_title": "01_罗马书 6：14-23",
+    "next_url": "102. 阅读/10_福音激励/04_真灵性的福音/01_罗马书 7:1-6",
+    "next_title": "01_罗马书 7:1-6"
+  },
+  {
+    "path": "102. 阅读/10_福音激励/04_真灵性的福音/01_罗马书 7:1-6.md",
+    "title": "01_罗马书 7:1-6",
+    "prev_url": "102. 阅读/10_福音激励/03_义的奴隶的福音/02_头脑的思想和心的知识",
+    "prev_title": "02_头脑的思想和心的知识",
+    "next_url": "102. 阅读/10_福音激励/05_新造的人的福音/01_新造的人的福音",
+    "next_title": "01_新造的人的福音"
+  },
+  {
+    "path": "102. 阅读/10_福音激励/05_新造的人的福音/01_新造的人的福音.md",
+    "title": "01_新造的人的福音",
+    "prev_url": "102. 阅读/10_福音激励/04_真灵性的福音/01_罗马书 7:1-6",
+    "prev_title": "01_罗马书 7:1-6",
     "next_url": "102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/01_引言",
     "next_title": "01_引言"
   },
   {
     "path": "102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/01_引言.md",
     "title": "01_引言",
-    "prev_url": "102. 阅读/10_福音激励/03_义的奴隶的福音/02_头脑的思想和心的知识",
-    "prev_title": "02_头脑的思想和心的知识",
+    "prev_url": "102. 阅读/10_福音激励/05_新造的人的福音/01_新造的人的福音",
+    "prev_title": "01_新造的人的福音",
     "next_url": "102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/02_我们与上帝的关系和我们服事的生活",
     "next_title": "02_我们与上帝的关系和我们服事的生活"
   },
@@ -16338,14 +16322,22 @@
     "title": "13_上帝对我们服事生活的奖赏",
     "prev_url": "102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/12_我们服事的生活和永生",
     "prev_title": "12_我们服事的生活和永生",
+    "next_url": "102. 阅读/10_福音激励/07_上帝的国的福音/01_上帝的国的福音",
+    "next_title": "01_上帝的国的福音"
+  },
+  {
+    "path": "102. 阅读/10_福音激励/07_上帝的国的福音/01_上帝的国的福音.md",
+    "title": "01_上帝的国的福音",
+    "prev_url": "102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/13_上帝对我们服事生活的奖赏",
+    "prev_title": "13_上帝对我们服事生活的奖赏",
     "next_url": "102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/01_洗礼中的福音",
     "next_title": "01_洗礼中的福音"
   },
   {
     "path": "102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/01_洗礼中的福音.md",
     "title": "01_洗礼中的福音",
-    "prev_url": "102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/13_上帝对我们服事生活的奖赏",
-    "prev_title": "13_上帝对我们服事生活的奖赏",
+    "prev_url": "102. 阅读/10_福音激励/07_上帝的国的福音/01_上帝的国的福音",
+    "prev_title": "01_上帝的国的福音",
     "next_url": "102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/02_圣餐中的福音",
     "next_title": "02_圣餐中的福音"
   },
@@ -16362,14 +16354,22 @@
     "title": "03_光明的福音",
     "prev_url": "102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/02_圣餐中的福音",
     "prev_title": "02_圣餐中的福音",
+    "next_url": "102. 阅读/10_福音激励/09_永生的福音/01_永生的福音",
+    "next_title": "01_永生的福音"
+  },
+  {
+    "path": "102. 阅读/10_福音激励/09_永生的福音/01_永生的福音.md",
+    "title": "01_永生的福音",
+    "prev_url": "102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/03_光明的福音",
+    "prev_title": "03_光明的福音",
     "next_url": "102. 阅读/10_福音激励/10_我们在基督里团契的福音；彼此代祷/01_我们在基督里的团契",
     "next_title": "01_我们在基督里的团契"
   },
   {
     "path": "102. 阅读/10_福音激励/10_我们在基督里团契的福音；彼此代祷/01_我们在基督里的团契.md",
     "title": "01_我们在基督里的团契",
-    "prev_url": "102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/03_光明的福音",
-    "prev_title": "03_光明的福音",
+    "prev_url": "102. 阅读/10_福音激励/09_永生的福音/01_永生的福音",
+    "prev_title": "01_永生的福音",
     "next_url": "102. 阅读/10_福音激励/10_我们在基督里团契的福音；彼此代祷/02_彼此代祷",
     "next_title": "02_彼此代祷"
   },

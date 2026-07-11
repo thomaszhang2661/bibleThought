@@ -2489,10 +2489,6 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation">
 <summary class="tree-dir">10_Gospel_Motivation<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/00_Foreword">00_Foreword</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality">04_The_Gospel_of_True_Spirituality</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation">05_The_Gospel_of_a_New_Creation</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom">07_The_Gospel_of_the_Kingdom</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life">09_The_Gospel_of_Eternal_Life</a>
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-01-The-Gospel-of-Gods-Love-and-Forgiveness-in-Christ">
 <summary class="tree-dir">01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-01-The-Gospel-of-Gods-Love-and-Forgiveness-in-Christ">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big">01_The_gospel_is_big</a>
@@ -2507,6 +2503,14 @@ body_class: index-page
 <summary class="tree-dir">03_The_Gospel_of_Slavery_to_Righteousness<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-03-The-Gospel-of-Slavery-to-Righteousness">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/01_Romans_614-23">01_Romans_614-23</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/03_The_Gospel_of_Slavery_to_Righteousness/02_Thoughts_on_head_and_heart_knowledge">02_Thoughts_on_head_and_heart_knowledge</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-04-The-Gospel-of-True-Spirituality">
+<summary class="tree-dir">04_The_Gospel_of_True_Spirituality<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-04-The-Gospel-of-True-Spirituality">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/04_The_Gospel_of_True_Spirituality/01_Romans_71-6">01_Romans_71-6</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-05-The-Gospel-of-a-New-Creation">
+<summary class="tree-dir">05_The_Gospel_of_a_New_Creation<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-05-The-Gospel-of-a-New-Creation">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/05_The_Gospel_of_a_New_Creation/01_The_Gospel_of_a_New_Creation">01_The_Gospel_of_a_New_Creation</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-06-The-Gospel-of-How-God-Views-New-Creations">
 <summary class="tree-dir">06_The_Gospel_of_How_God_Views_New_Creations<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-06-The-Gospel-of-How-God-Views-New-Creations">#</a></summary>
@@ -2524,11 +2528,19 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/12_Our_lives_of_service_and_eternal_life">12_Our_lives_of_service_and_eternal_life</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/13_God's_reward_on_our_lives_of_service">13_God's_reward_on_our_lives_of_service</a>
 </details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-07-The-Gospel-of-the-Kingdom">
+<summary class="tree-dir">07_The_Gospel_of_the_Kingdom<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-07-The-Gospel-of-the-Kingdom">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/07_The_Gospel_of_the_Kingdom/01_The_Gospel_of_the_Kingdom">01_The_Gospel_of_the_Kingdom</a>
+</details>
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-08-The-Gospel-in-the-Sacraments-The-Gospel-of-Light">
 <summary class="tree-dir">08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-08-The-Gospel-in-the-Sacraments-The-Gospel-of-Light">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/01_The_gospel_in_Baptism">01_The_gospel_in_Baptism</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/02_The_gospel_in_the_Lord's_Supper">02_The_gospel_in_the_Lord's_Supper</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/03_The_gospel_of_light">03_The_gospel_of_light</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-09-The-Gospel-of-Eternal-Life">
+<summary class="tree-dir">09_The_Gospel_of_Eternal_Life<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-09-The-Gospel-of-Eternal-Life">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/09_The_Gospel_of_Eternal_Life/01_The_Gospel_of_Eternal_Life">01_The_Gospel_of_Eternal_Life</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-10-The-Gospel-of-Our-Fellowship-in-Christ">
 <summary class="tree-dir">10_The_Gospel_of_Our_Fellowship_in_Christ<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-10-The-Gospel-of-Our-Fellowship-in-Christ">#</a></summary>
@@ -2558,10 +2570,6 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-10-福音激励">
 <summary class="tree-dir">10_福音激励<a class="anchor-link" href="#102-阅读-10-福音激励">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_福音激励/00_前言">00_前言</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/04_真灵性的福音">04_真灵性的福音</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/05_新造的人的福音">05_新造的人的福音</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/07_上帝的国的福音">07_上帝的国的福音</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/09_永生的福音">09_永生的福音</a>
 <details class="tree-folder" id="102-阅读-10-福音激励-01-上帝在基督里爱和赦免的福音">
 <summary class="tree-dir">01_上帝在基督里爱和赦免的福音<a class="anchor-link" href="#102-阅读-10-福音激励-01-上帝在基督里爱和赦免的福音">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/01_福音是大的">01_福音是大的</a>
@@ -2576,6 +2584,14 @@ body_class: index-page
 <summary class="tree-dir">03_义的奴隶的福音<a class="anchor-link" href="#102-阅读-10-福音激励-03-义的奴隶的福音">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音/01_罗马书 6：14-23">01_罗马书 6：14-23</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音/02_头脑的思想和心的知识">02_头脑的思想和心的知识</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-04-真灵性的福音">
+<summary class="tree-dir">04_真灵性的福音<a class="anchor-link" href="#102-阅读-10-福音激励-04-真灵性的福音">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/04_真灵性的福音/01_罗马书 7:1-6">01_罗马书 7:1-6</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-05-新造的人的福音">
+<summary class="tree-dir">05_新造的人的福音<a class="anchor-link" href="#102-阅读-10-福音激励-05-新造的人的福音">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/05_新造的人的福音/01_新造的人的福音">01_新造的人的福音</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励-06-上帝怎么看新造的人的福音">
 <summary class="tree-dir">06_上帝怎么看新造的人的福音<a class="anchor-link" href="#102-阅读-10-福音激励-06-上帝怎么看新造的人的福音">#</a></summary>
@@ -2593,11 +2609,19 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/12_我们服事的生活和永生">12_我们服事的生活和永生</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/13_上帝对我们服事生活的奖赏">13_上帝对我们服事生活的奖赏</a>
 </details>
+<details class="tree-folder" id="102-阅读-10-福音激励-07-上帝的国的福音">
+<summary class="tree-dir">07_上帝的国的福音<a class="anchor-link" href="#102-阅读-10-福音激励-07-上帝的国的福音">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/07_上帝的国的福音/01_上帝的国的福音">01_上帝的国的福音</a>
+</details>
 <details class="tree-folder" id="102-阅读-10-福音激励-08-圣礼中的福音；光明的福音">
 <summary class="tree-dir">08_圣礼中的福音；光明的福音<a class="anchor-link" href="#102-阅读-10-福音激励-08-圣礼中的福音；光明的福音">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/01_洗礼中的福音">01_洗礼中的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/02_圣餐中的福音">02_圣餐中的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/03_光明的福音">03_光明的福音</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-09-永生的福音">
+<summary class="tree-dir">09_永生的福音<a class="anchor-link" href="#102-阅读-10-福音激励-09-永生的福音">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/09_永生的福音/01_永生的福音">01_永生的福音</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励-10-我们在基督里团契的福音；彼此代祷">
 <summary class="tree-dir">10_我们在基督里团契的福音；彼此代祷<a class="anchor-link" href="#102-阅读-10-福音激励-10-我们在基督里团契的福音；彼此代祷">#</a></summary>
