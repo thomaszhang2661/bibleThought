@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2430 篇文章
+共 2431 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -524,6 +524,7 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/基督徒如何做人生选择">基督徒如何做人生选择</a>
 <a class="tree-file" href="101. 教义/00_教义问答/如何理解三位一体">如何理解三位一体</a>
 <a class="tree-file" href="101. 教义/00_教义问答/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
+<a class="tree-file" href="101. 教义/00_教义问答/美国独立战争是义战吗">美国独立战争是义战吗</a>
 <a class="tree-file" href="101. 教义/00_教义问答/自杀的信徒能否得救">自杀的信徒能否得救</a>
 <details class="tree-folder" id="101-教义-00-教义问答-旧约时代的人如何得救">
 <summary class="tree-dir">旧约时代的人如何得救<a class="anchor-link" href="#101-教义-00-教义问答-旧约时代的人如何得救">#</a></summary>
@@ -1062,7 +1063,7 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/两个国度/路德的两个国度教义及其对美国建国二百周年的意义/01_第一讲_两个国度与两种治理">01_第一讲_两个国度与两种治理</a>
 <a class="tree-file" href="101. 教义/两个国度/路德的两个国度教义及其对美国建国二百周年的意义/02_第二讲_改教家如何将原则付诸实践">02_第二讲_改教家如何将原则付诸实践</a>
 <a class="tree-file" href="101. 教义/两个国度/路德的两个国度教义及其对美国建国二百周年的意义/03_第三讲_纪念建国二百周年">03_第三讲_纪念建国二百周年</a>
-<a class="tree-file" href="101. 教义/两个国度/路德的两个国度教义及其对美国建国二百周年的意义/04_注释书目与脚注">04_注释书目与脚注</a>
+<a class="tree-file" href="101. 教义/两个国度/路德的两个国度教义及其对美国建国二百周年的意义/04_注释书目">04_注释书目</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-使徒信经">
@@ -2516,12 +2517,12 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励-02-死亡和生命的福音">
 <summary class="tree-dir">02_死亡和生命的福音<a class="anchor-link" href="#102-阅读-10-福音激励-02-死亡和生命的福音">#</a></summary>
-<a class="tree-file" href="102. 阅读/10_福音激励/02_死亡和生命的福音/01_罗马书 6:1-13">01_罗马书 6:1-13</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/02_死亡和生命的福音/01_罗马书 6：1-13">01_罗马书 6：1-13</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/02_死亡和生命的福音/02_圣经里的其它地方">02_圣经里的其它地方</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励-03-义的奴隶的福音">
 <summary class="tree-dir">03_义的奴隶的福音<a class="anchor-link" href="#102-阅读-10-福音激励-03-义的奴隶的福音">#</a></summary>
-<a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音/01_罗马书 6:14-23">01_罗马书 6:14-23</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音/01_罗马书 6：14-23">01_罗马书 6：14-23</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音/02_头脑的思想和心的知识">02_头脑的思想和心的知识</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励-06-上帝怎么看新造的人的福音">
@@ -2560,10 +2561,10 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-10-福音激励-12-特例二">
 <summary class="tree-dir">12_特例二<a class="anchor-link" href="#102-阅读-10-福音激励-12-特例二">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/01_引言">01_引言</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/02_歌罗西书 2:20-3:17">02_歌罗西书 2:20-3:17</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/02_歌罗西书 2：20-3：17">02_歌罗西书 2：20-3：17</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/03_哥林多后书 8-9">03_哥林多后书 8-9</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/04_以弗所书 4:29-5:10">04_以弗所书 4:29-5:10</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/05_彼得前书 1:13-2:24">05_彼得前书 1:13-2:24</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/04_以弗所书 4：29-5：10">04_以弗所书 4：29-5：10</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/05_彼得前书 1：13-2：24">05_彼得前书 1：13-2：24</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励-13-结论">
 <summary class="tree-dir">13_结论<a class="anchor-link" href="#102-阅读-10-福音激励-13-结论">#</a></summary>
