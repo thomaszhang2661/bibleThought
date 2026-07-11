@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2394 篇文章
+共 2420 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1046,6 +1046,10 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/两个国度/路德宗政治抵抗理论-1550年马德堡认信与下级执政官教义/04_马德堡认信内容">04_马德堡认信内容</a>
 <a class="tree-file" href="101. 教义/两个国度/路德宗政治抵抗理论-1550年马德堡认信与下级执政官教义/05_对认信主张的分析">05_对认信主张的分析</a>
 <a class="tree-file" href="101. 教义/两个国度/路德宗政治抵抗理论-1550年马德堡认信与下级执政官教义/06_抵抗辩护_今日启示_结论">06_抵抗辩护_今日启示_结论</a>
+</details>
+<details class="tree-folder" id="101-教义-两个国度-路德的两个国度教义及其对美国建国二百周年的意义">
+<summary class="tree-dir">路德的两个国度教义及其对美国建国二百周年的意义<a class="anchor-link" href="#101-教义-两个国度-路德的两个国度教义及其对美国建国二百周年的意义">#</a></summary>
+<a class="tree-file" href="101. 教义/两个国度/路德的两个国度教义及其对美国建国二百周年的意义/00_大纲">00_大纲</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-使徒信经">
@@ -2488,19 +2492,71 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-10-福音激励">
 <summary class="tree-dir">10_福音激励<a class="anchor-link" href="#102-阅读-10-福音激励">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_福音激励/00_前言">00_前言</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音">01_上帝在基督里爱和赦免的福音</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/02_死亡和生命的福音">02_死亡和生命的福音</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音">03_义的奴隶的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/04_真灵性的福音">04_真灵性的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/05_新造的人的福音">05_新造的人的福音</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音">06_上帝怎么看新造的人的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/07_上帝的国的福音">07_上帝的国的福音</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音">08_圣礼中的福音；光明的福音</a>
 <a class="tree-file" href="102. 阅读/10_福音激励/09_永生的福音">09_永生的福音</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/10_我们在基督里团契的福音；彼此代祷">10_我们在基督里团契的福音；彼此代祷</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/11_特例一">11_特例一</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二">12_特例二</a>
-<a class="tree-file" href="102. 阅读/10_福音激励/13_结论">13_结论</a>
+<details class="tree-folder" id="102-阅读-10-福音激励-01-上帝在基督里爱和赦免的福音">
+<summary class="tree-dir">01_上帝在基督里爱和赦免的福音<a class="anchor-link" href="#102-阅读-10-福音激励-01-上帝在基督里爱和赦免的福音">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/01_福音是大的">01_福音是大的</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/02_借着上帝在基督里爱和赦免的福音激励">02_借着上帝在基督里爱和赦免的福音激励</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-02-死亡和生命的福音">
+<summary class="tree-dir">02_死亡和生命的福音<a class="anchor-link" href="#102-阅读-10-福音激励-02-死亡和生命的福音">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/02_死亡和生命的福音/01_罗马书 6:1-13">01_罗马书 6:1-13</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/02_死亡和生命的福音/02_圣经里的其它地方">02_圣经里的其它地方</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-03-义的奴隶的福音">
+<summary class="tree-dir">03_义的奴隶的福音<a class="anchor-link" href="#102-阅读-10-福音激励-03-义的奴隶的福音">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音/01_罗马书 6:14-23">01_罗马书 6:14-23</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/03_义的奴隶的福音/02_头脑的思想和心的知识">02_头脑的思想和心的知识</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-06-上帝怎么看新造的人的福音">
+<summary class="tree-dir">06_上帝怎么看新造的人的福音<a class="anchor-link" href="#102-阅读-10-福音激励-06-上帝怎么看新造的人的福音">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/01_引言">01_引言</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/02_我们与上帝的关系和我们服事的生活">02_我们与上帝的关系和我们服事的生活</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/03_饶恕">03_饶恕</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/04_上帝的儿女">04_上帝的儿女</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/05_耶稣的门徒">05_耶稣的门徒</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/06_耶稣住在里面的人">06_耶稣住在里面的人</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/07_我们住在耶稣的爱里">07_我们住在耶稣的爱里</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/08_我们在基督里是义的">08_我们在基督里是义的</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/09_上帝在我们里面的爱是完全的">09_上帝在我们里面的爱是完全的</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/10_在末日我们将拥有与上帝的和平">10_在末日我们将拥有与上帝的和平</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/11_很明显，我们被称义了">11_很明显，我们被称义了</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/12_我们服事的生活和永生">12_我们服事的生活和永生</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/06_上帝怎么看新造的人的福音/13_上帝对我们服事生活的奖赏">13_上帝对我们服事生活的奖赏</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-08-圣礼中的福音；光明的福音">
+<summary class="tree-dir">08_圣礼中的福音；光明的福音<a class="anchor-link" href="#102-阅读-10-福音激励-08-圣礼中的福音；光明的福音">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/01_洗礼中的福音">01_洗礼中的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/02_圣餐中的福音">02_圣餐中的福音</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/08_圣礼中的福音；光明的福音/03_光明的福音">03_光明的福音</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-10-我们在基督里团契的福音；彼此代祷">
+<summary class="tree-dir">10_我们在基督里团契的福音；彼此代祷<a class="anchor-link" href="#102-阅读-10-福音激励-10-我们在基督里团契的福音；彼此代祷">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/10_我们在基督里团契的福音；彼此代祷/01_我们在基督里的团契">01_我们在基督里的团契</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/10_我们在基督里团契的福音；彼此代祷/02_彼此代祷">02_彼此代祷</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-11-特例一">
+<summary class="tree-dir">11_特例一<a class="anchor-link" href="#102-阅读-10-福音激励-11-特例一">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/11_特例一/01_例子">01_例子</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/11_特例一/02_什么是实用？">02_什么是实用？</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/11_特例一/03_接下来的例子">03_接下来的例子</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-12-特例二">
+<summary class="tree-dir">12_特例二<a class="anchor-link" href="#102-阅读-10-福音激励-12-特例二">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/01_引言">01_引言</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/02_歌罗西书 2:20-3:17">02_歌罗西书 2:20-3:17</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/03_哥林多后书 8-9">03_哥林多后书 8-9</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/04_以弗所书 4:29-5:10">04_以弗所书 4:29-5:10</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/12_特例二/05_彼得前书 1:13-2:24">05_彼得前书 1:13-2:24</a>
+</details>
+<details class="tree-folder" id="102-阅读-10-福音激励-13-结论">
+<summary class="tree-dir">13_结论<a class="anchor-link" href="#102-阅读-10-福音激励-13-结论">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/13_结论/01_对事工和基督徒服事的应用">01_对事工和基督徒服事的应用</a>
+<a class="tree-file" href="102. 阅读/10_福音激励/13_结论/02_研习问题">02_研习问题</a>
+</details>
 </details>
 <details class="tree-folder" id="102-阅读-365-Through-Faith-Alone">
 <summary class="tree-dir">365 Through Faith Alone<a class="anchor-link" href="#102-阅读-365-Through-Faith-Alone">#</a></summary>
