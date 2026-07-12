@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2457 篇文章
+共 2462 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -3120,6 +3120,16 @@ body_class: index-page
 <details class="tree-folder" id="200-乱七八糟">
 <summary class="tree-dir">200. 乱七八糟<a class="anchor-link" href="#200-乱七八糟">#</a></summary>
 <a class="tree-file" href="200. 乱七八糟/艺术赏析">艺术赏析</a>
+<details class="tree-folder" id="200-乱七八糟-超级喜欢的文字风格">
+<summary class="tree-dir">超级喜欢的文字风格<a class="anchor-link" href="#200-乱七八糟-超级喜欢的文字风格">#</a></summary>
+<a class="tree-file" href="200. 乱七八糟/超级喜欢的文字风格/我偷东西那晚,倒了大霉,遇到一个不按套路出牌的怪人">我偷东西那晚,倒了大霉,遇到一个不按套路出牌的怪人</a>
+<details class="tree-folder" id="200-乱七八糟-超级喜欢的文字风格-知乎-凯竹嘉措">
+<summary class="tree-dir">知乎 凯竹嘉措<a class="anchor-link" href="#200-乱七八糟-超级喜欢的文字风格-知乎-凯竹嘉措">#</a></summary>
+<a class="tree-file" href="200. 乱七八糟/超级喜欢的文字风格/知乎 凯竹嘉措/如果快要饿死了，去基督教堂偷吃几十个煎饼会被判什么罪？">如果快要饿死了，去基督教堂偷吃几十个煎饼会被判什么罪？</a>
+<a class="tree-file" href="200. 乱七八糟/超级喜欢的文字风格/知乎 凯竹嘉措/我谈谈智商80以下的人会怎样感知世界吧。">我谈谈智商80以下的人会怎样感知世界吧。</a>
+<a class="tree-file" href="200. 乱七八糟/超级喜欢的文字风格/知乎 凯竹嘉措/有哪些让人不慎暴露身份的行为？">有哪些让人不慎暴露身份的行为？</a>
+</details>
+</details>
 </details>
 
 <details class="tree-folder" id="201-傻乎乎的诗">
@@ -3175,6 +3185,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/05_忍耐：他偷了银器还撒了谎，主教为什么还要送他两支蜡烛台">05_忍耐：他偷了银器还撒了谎，主教为什么还要送他两支蜡烛台</a>
 <a class="tree-file" href="302.公众号洗稿/05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春">05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春</a>
 <a class="tree-file" href="302.公众号洗稿/5. 被倒出去的酒—苦难与奠祭">5. 被倒出去的酒—苦难与奠祭</a>
+<a class="tree-file" href="302.公众号洗稿/11. 诺亚方舟">11. 诺亚方舟</a>
 <a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
 <a class="tree-file" href="302.公众号洗稿/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
