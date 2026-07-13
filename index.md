@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2482 篇文章
+共 2498 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1273,9 +1273,31 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="101-教义-鬼附和心理疾病">
 <summary class="tree-dir">鬼附和心理疾病<a class="anchor-link" href="#101-教义-鬼附和心理疾病">#</a></summary>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/关怀那受关怀者_Gottschalk_2022">关怀那受关怀者_Gottschalk_2022</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/圣灵与灵恩复兴_Gerlach_1974">圣灵与灵恩复兴_Gerlach_1974</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/圣经中的驱魔与今日的驱魔_Koepsell_1974">圣经中的驱魔与今日的驱魔_Koepsell_1974</a>
 <a class="tree-file" href="101. 教义/鬼附和心理疾病/基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge">基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/灵恩运动_Becker_1974">灵恩运动_Becker_1974</a>
 <a class="tree-file" href="101. 教义/鬼附和心理疾病/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/灵恩运动与今日的传福音_Koelpin">灵恩运动与今日的传福音_Koelpin</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/狭窄的路德宗中道_Horn_2019">狭窄的路德宗中道_Horn_2019</a>
 <a class="tree-file" href="101. 教义/鬼附和心理疾病/经文与今日的驱魔_Frank_1975">经文与今日的驱魔_Frank_1975</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/联合主义_1967">联合主义_1967</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/魔鬼与邪灵：其权能与限制_Smith_1987">魔鬼与邪灵：其权能与限制_Smith_1987</a>
+<details class="tree-folder" id="101-教义-鬼附和心理疾病-信心在基督里-Jensen-2015">
+<summary class="tree-dir">信心在基督里_Jensen_2015<a class="anchor-link" href="#101-教义-鬼附和心理疾病-信心在基督里-Jensen-2015">#</a></summary>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/信心在基督里_Jensen_2015/01_导论与文献综述">01_导论与文献综述</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/信心在基督里_Jensen_2015/02_格属含义与保罗书信上">02_格属含义与保罗书信上</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/信心在基督里_Jensen_2015/03_保罗书信下与结论">03_保罗书信下与结论</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/信心在基督里_Jensen_2015/04_哈巴谷与教父见证">04_哈巴谷与教父见证</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/信心在基督里_Jensen_2015/05_义性与附录AB">05_义性与附录AB</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/信心在基督里_Jensen_2015/06_附录CDEFGH">06_附录CDEFGH</a>
+</details>
+<details class="tree-folder" id="101-教义-鬼附和心理疾病-被占据之地-Hollmann-2019">
+<summary class="tree-dir">被占据之地_Hollmann_2019<a class="anchor-link" href="#101-教义-鬼附和心理疾病-被占据之地-Hollmann-2019">#</a></summary>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/被占据之地_Hollmann_2019/01_导论与鬼魔证明">01_导论与鬼魔证明</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/被占据之地_Hollmann_2019/02_成因解救与结论">02_成因解救与结论</a>
+</details>
 </details>
 </details>
 
