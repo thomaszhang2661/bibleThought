@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2462 篇文章
+共 2479 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -479,18 +479,20 @@ body_class: index-page
 <a class="tree-file" href="99. 讲道/路加福音17_1-10 信心成就不可能的饶恕">路加福音17_1-10 信心成就不可能的饶恕</a>
 <a class="tree-file" href="99. 讲道/20260527三位一体主日">20260527三位一体主日</a>
 <details class="tree-folder" id="99-讲道-00-Bork牧师">
-<summary class="tree-dir">00_Bork牧师<a class="anchor-link" href="#99-讲道-00-Bork牧师">#</a></summary>
+<summary class="tree-dir">00.Bork牧师<a class="anchor-link" href="#99-讲道-00-Bork牧师">#</a></summary>
 <details class="tree-folder" id="99-讲道-00-Bork牧师-00-丰盛生命系列讲道">
-<summary class="tree-dir">00_丰盛生命系列讲道<a class="anchor-link" href="#99-讲道-00-Bork牧师-00-丰盛生命系列讲道">#</a></summary>
-<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/01_结出丰盛的果实_灵魂的园艺">01_结出丰盛的果实_灵魂的园艺</a>
-<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/02_结出爱的果子">02_结出爱的果子</a>
-<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/03_喜乐_查经">03_喜乐_查经</a>
-<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/03_喜乐人生">03_喜乐人生</a>
-<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/04_活出果子的生命-平安">04_活出果子的生命-平安</a>
-<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/04_活出果子的生命-平安_查经">04_活出果子的生命-平安_查经</a>
-<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/05_ Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience">05_ Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience</a>
-<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/05_忍耐：他偷了银器还撒了谎，主教为什么还要送他两支蜡烛台">05_忍耐：他偷了银器还撒了谎，主教为什么还要送他两支蜡烛台</a>
-<a class="tree-file" href="99. 讲道/00_Bork牧师/00_丰盛生命系列讲道/05_结出忍耐的果子—神的忍耐与我们的忍耐**">05_结出忍耐的果子—神的忍耐与我们的忍耐**</a>
+<summary class="tree-dir">00.丰盛生命系列讲道<a class="anchor-link" href="#99-讲道-00-Bork牧师-00-丰盛生命系列讲道">#</a></summary>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/01_结出丰盛的果实_灵魂的园艺">01_结出丰盛的果实_灵魂的园艺</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/02_结出爱的果子">02_结出爱的果子</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/03_喜乐_查经">03_喜乐_查经</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/03_喜乐人生">03_喜乐人生</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/04_活出果子的生命-平安">04_活出果子的生命-平安</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/04_活出果子的生命-平安_查经">04_活出果子的生命-平安_查经</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/05_ Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience">05_ Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/05_忍耐：他偷了银器还撒了谎，主教为什么还要送他两支蜡烛台">05_忍耐：他偷了银器还撒了谎，主教为什么还要送他两支蜡烛台</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/05_结出忍耐的果子—神的忍耐与我们的忍耐**">05_结出忍耐的果子—神的忍耐与我们的忍耐**</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/06_Living a Life of Kindness">06_Living a Life of Kindness</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/06_活出恩慈的生命">06_活出恩慈的生命</a>
 </details>
 </details>
 <details class="tree-folder" id="99-讲道-罪就伏在我们门前">
@@ -522,7 +524,9 @@ body_class: index-page
 <details class="tree-folder" id="101-教义-00-教义问答">
 <summary class="tree-dir">00_教义问答<a class="anchor-link" href="#101-教义-00-教义问答">#</a></summary>
 <a class="tree-file" href="101. 教义/00_教义问答/基督徒如何做人生选择">基督徒如何做人生选择</a>
+<a class="tree-file" href="101. 教义/00_教义问答/好人是不是永远打不过坏人—兼谈基督徒如何面对邪恶的权柄">好人是不是永远打不过坏人—兼谈基督徒如何面对邪恶的权柄</a>
 <a class="tree-file" href="101. 教义/00_教义问答/如何理解三位一体">如何理解三位一体</a>
+<a class="tree-file" href="101. 教义/00_教义问答/如何面对邪恶权柄？">如何面对邪恶权柄？</a>
 <a class="tree-file" href="101. 教义/00_教义问答/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
 <a class="tree-file" href="101. 教义/00_教义问答/美国独立战争是义战吗">美国独立战争是义战吗</a>
 <a class="tree-file" href="101. 教义/00_教义问答/自杀的信徒能否得救">自杀的信徒能否得救</a>
@@ -2648,6 +2652,20 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/10_福音激励/13_结论/02_研习问题">02_研习问题</a>
 </details>
 </details>
+<details class="tree-folder" id="102-阅读-11-意志的捆绑-Luther-Packer">
+<summary class="tree-dir">11_意志的捆绑_Luther_Packer<a class="anchor-link" href="#102-阅读-11-意志的捆绑-Luther-Packer">#</a></summary>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/00_译者说明_Translators_Note">00_译者说明_Translators_Note</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/01_历史与神学导论_Introduction">01_历史与神学导论_Introduction</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/02_一_导论">02_一_导论</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/03_二_评伊拉斯谟的序言">03_二_评伊拉斯谟的序言</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/04_三_评伊拉斯谟的导言">04_三_评伊拉斯谟的导言</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/05_四_评伊拉斯谟为自由意志的论证">05_四_评伊拉斯谟为自由意志的论证</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/06_五_评否定自由意志的经文_上">06_五_评否定自由意志的经文_上</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/07_六_评否定自由意志的经文_下">07_六_评否定自由意志的经文_下</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/08_七_圣经论意志的捆绑">08_七_圣经论意志的捆绑</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/09_八_结论">09_八_结论</a>
+<a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/README_意志的捆绑">README_意志的捆绑</a>
+</details>
 <details class="tree-folder" id="102-阅读-365-Through-Faith-Alone">
 <summary class="tree-dir">365 Through Faith Alone<a class="anchor-link" href="#102-阅读-365-Through-Faith-Alone">#</a></summary>
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/从扫罗学到什么存谦卑的心-与你的神同行">从扫罗学到什么存谦卑的心-与你的神同行</a>
@@ -3150,6 +3168,7 @@ body_class: index-page
 <a class="tree-file" href="202. 意象系统/5. 被倒出去的酒—苦难与奠祭">5. 被倒出去的酒—苦难与奠祭</a>
 <a class="tree-file" href="202. 意象系统/10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻">10. 从阴暗走入阳光的死亡-教父中维托之死的象征和隐喻</a>
 <a class="tree-file" href="202. 意象系统/11. 诺亚方舟">11. 诺亚方舟</a>
+<a class="tree-file" href="202. 意象系统/12. 神的仆人">12. 神的仆人</a>
 <a class="tree-file" href="202. 意象系统/我从埃及召出我的儿子-一句奇怪的引用背后的救赎结构">我从埃及召出我的儿子-一句奇怪的引用背后的救赎结构</a>
 <a class="tree-file" href="202. 意象系统/拿撒勒人是什么意思">拿撒勒人是什么意思</a>
 <a class="tree-file" href="202. 意象系统/肖申克的救赎与约瑟">肖申克的救赎与约瑟</a>
@@ -3186,6 +3205,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春">05_马丁·路德简易祷告法写给理发师彼得·拜斯肯多夫的信-1535年春</a>
 <a class="tree-file" href="302.公众号洗稿/5. 被倒出去的酒—苦难与奠祭">5. 被倒出去的酒—苦难与奠祭</a>
 <a class="tree-file" href="302.公众号洗稿/11. 诺亚方舟">11. 诺亚方舟</a>
+<a class="tree-file" href="302.公众号洗稿/12. 神的仆人">12. 神的仆人</a>
 <a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
 <a class="tree-file" href="302.公众号洗稿/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
