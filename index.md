@@ -524,7 +524,7 @@ body_class: index-page
 <details class="tree-folder" id="101-教义-00-教义问答">
 <summary class="tree-dir">00_教义问答<a class="anchor-link" href="#101-教义-00-教义问答">#</a></summary>
 <a class="tree-file" href="101. 教义/00_教义问答/基督徒如何做人生选择">基督徒如何做人生选择</a>
-<a class="tree-file" href="101. 教义/00_教义问答/好人是不是永远打不过坏人—兼谈基督徒如何面对邪恶的权柄">好人是不是永远打不过坏人—兼谈基督徒如何面对邪恶的权柄</a>
+<a class="tree-file" href="101. 教义/00_教义问答/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄">好人是不是永远打不过坏人—基督徒如何面对作恶的权柄</a>
 <a class="tree-file" href="101. 教义/00_教义问答/如何理解三位一体">如何理解三位一体</a>
 <a class="tree-file" href="101. 教义/00_教义问答/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
 <a class="tree-file" href="101. 教义/00_教义问答/美国独立战争是义战吗">美国独立战争是义战吗</a>
