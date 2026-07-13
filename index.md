@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2478 篇文章
+共 2482 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -1271,6 +1271,12 @@ body_class: index-page
 <summary class="tree-dir">钥匙职<a class="anchor-link" href="#101-教义-钥匙职">#</a></summary>
 <a class="tree-file" href="101. 教义/钥匙职/研究笔记">研究笔记</a>
 </details>
+<details class="tree-folder" id="101-教义-鬼附和心理疾病">
+<summary class="tree-dir">鬼附和心理疾病<a class="anchor-link" href="#101-教义-鬼附和心理疾病">#</a></summary>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge">基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/经文与今日的驱魔_Frank_1975">经文与今日的驱魔_Frank_1975</a>
+</details>
 </details>
 
 <details class="tree-folder" id="102-阅读">
@@ -2491,7 +2497,10 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation">
 <summary class="tree-dir">10_Gospel_Motivation<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation">#</a></summary>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/00_Foreword">00_Foreword</a>
+<details class="tree-folder" id="102-阅读-10-Gospel-Motivation-00-Foreword">
+<summary class="tree-dir">00_Foreword<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-00-Foreword">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/00_Foreword/01_Foreword">01_Foreword</a>
+</details>
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-01-The-Gospel-of-Gods-Love-and-Forgiveness-in-Christ">
 <summary class="tree-dir">01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-01-The-Gospel-of-Gods-Love-and-Forgiveness-in-Christ">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big">01_The_gospel_is_big</a>
@@ -2572,7 +2581,10 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="102-阅读-10-福音激励">
 <summary class="tree-dir">10_福音激励<a class="anchor-link" href="#102-阅读-10-福音激励">#</a></summary>
-<a class="tree-file" href="102. 阅读/10_福音激励/00_前言">00_前言</a>
+<details class="tree-folder" id="102-阅读-10-福音激励-00-前言">
+<summary class="tree-dir">00_前言<a class="anchor-link" href="#102-阅读-10-福音激励-00-前言">#</a></summary>
+<a class="tree-file" href="102. 阅读/10_福音激励/00_前言/01_前言">01_前言</a>
+</details>
 <details class="tree-folder" id="102-阅读-10-福音激励-01-上帝在基督里爱和赦免的福音">
 <summary class="tree-dir">01_上帝在基督里爱和赦免的福音<a class="anchor-link" href="#102-阅读-10-福音激励-01-上帝在基督里爱和赦免的福音">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/01_福音是大的">01_福音是大的</a>
@@ -3209,6 +3221,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
 <a class="tree-file" href="302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
+<a class="tree-file" href="302.公众号洗稿/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄">好人是不是永远打不过坏人—基督徒如何面对作恶的权柄</a>
 <a class="tree-file" href="302.公众号洗稿/如何理解三位一体">如何理解三位一体</a>
 <a class="tree-file" href="302.公众号洗稿/我来要把火丢在地上">我来要把火丢在地上</a>
 <a class="tree-file" href="302.公众号洗稿/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>

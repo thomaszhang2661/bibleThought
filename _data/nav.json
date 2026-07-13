@@ -6794,14 +6794,38 @@
     "title": "研究笔记",
     "prev_url": "101. 教义/苦难/为何有苦难韦思敬博士短讲",
     "prev_title": "为何有苦难韦思敬博士短讲",
+    "next_url": "101. 教义/鬼附和心理疾病/基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge",
+    "next_title": "基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge"
+  },
+  {
+    "path": "101. 教义/鬼附和心理疾病/基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge.md",
+    "title": "基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge",
+    "prev_url": "101. 教义/钥匙职/研究笔记",
+    "prev_title": "研究笔记",
+    "next_url": "101. 教义/鬼附和心理疾病/灵恩运动_Warnke_1973",
+    "next_title": "灵恩运动_Warnke_1973"
+  },
+  {
+    "path": "101. 教义/鬼附和心理疾病/灵恩运动_Warnke_1973.md",
+    "title": "灵恩运动_Warnke_1973",
+    "prev_url": "101. 教义/鬼附和心理疾病/基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge",
+    "prev_title": "基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge",
+    "next_url": "101. 教义/鬼附和心理疾病/经文与今日的驱魔_Frank_1975",
+    "next_title": "经文与今日的驱魔_Frank_1975"
+  },
+  {
+    "path": "101. 教义/鬼附和心理疾病/经文与今日的驱魔_Frank_1975.md",
+    "title": "经文与今日的驱魔_Frank_1975",
+    "prev_url": "101. 教义/鬼附和心理疾病/灵恩运动_Warnke_1973",
+    "prev_title": "灵恩运动_Warnke_1973",
     "next_url": "102. 阅读/危险的呼召",
     "next_title": "危险的呼召"
   },
   {
     "path": "102. 阅读/危险的呼召.md",
     "title": "危险的呼召",
-    "prev_url": "101. 教义/钥匙职/研究笔记",
-    "prev_title": "研究笔记",
+    "prev_url": "101. 教义/鬼附和心理疾病/经文与今日的驱魔_Frank_1975",
+    "prev_title": "经文与今日的驱魔_Frank_1975",
     "next_url": "102. 阅读/平凡日子的礼仪",
     "next_title": "平凡日子的礼仪"
   },
@@ -15858,12 +15882,12 @@
     "title": "09_后记",
     "prev_url": "102. 阅读/09_巨婴国_武志红/08_第七章_从龙成为人",
     "prev_title": "08_第七章_从龙成为人",
-    "next_url": "102. 阅读/10_Gospel_Motivation/00_Foreword",
-    "next_title": "00_Foreword"
+    "next_url": "102. 阅读/10_Gospel_Motivation/00_Foreword/01_Foreword",
+    "next_title": "01_Foreword"
   },
   {
-    "path": "102. 阅读/10_Gospel_Motivation/00_Foreword.md",
-    "title": "00_Foreword",
+    "path": "102. 阅读/10_Gospel_Motivation/00_Foreword/01_Foreword.md",
+    "title": "01_Foreword",
     "prev_url": "102. 阅读/09_巨婴国_武志红/09_后记",
     "prev_title": "09_后记",
     "next_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big",
@@ -15872,8 +15896,8 @@
   {
     "path": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big.md",
     "title": "01_The_gospel_is_big",
-    "prev_url": "102. 阅读/10_Gospel_Motivation/00_Foreword",
-    "prev_title": "00_Foreword",
+    "prev_url": "102. 阅读/10_Gospel_Motivation/00_Foreword/01_Foreword",
+    "prev_title": "01_Foreword",
     "next_url": "102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ",
     "next_title": "02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ"
   },
@@ -16170,12 +16194,12 @@
     "title": "02_Study_Questions",
     "prev_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion/01_Applications_to_the_Ministry_and_Christian_Service",
     "prev_title": "01_Applications_to_the_Ministry_and_Christian_Service",
-    "next_url": "102. 阅读/10_福音激励/00_前言",
-    "next_title": "00_前言"
+    "next_url": "102. 阅读/10_福音激励/00_前言/01_前言",
+    "next_title": "01_前言"
   },
   {
-    "path": "102. 阅读/10_福音激励/00_前言.md",
-    "title": "00_前言",
+    "path": "102. 阅读/10_福音激励/00_前言/01_前言.md",
+    "title": "01_前言",
     "prev_url": "102. 阅读/10_Gospel_Motivation/13_Conclusion/02_Study_Questions",
     "prev_title": "02_Study_Questions",
     "next_url": "102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/01_福音是大的",
@@ -16184,8 +16208,8 @@
   {
     "path": "102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/01_福音是大的.md",
     "title": "01_福音是大的",
-    "prev_url": "102. 阅读/10_福音激励/00_前言",
-    "prev_title": "00_前言",
+    "prev_url": "102. 阅读/10_福音激励/00_前言/01_前言",
+    "prev_title": "01_前言",
     "next_url": "102. 阅读/10_福音激励/01_上帝在基督里爱和赦免的福音/02_借着上帝在基督里爱和赦免的福音激励",
     "next_title": "02_借着上帝在基督里爱和赦免的福音激励"
   },
@@ -19490,14 +19514,22 @@
     "title": "在巴比伦河边-咒诅诗的解释与应用",
     "prev_url": "302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调",
     "prev_title": "发现我们的召命-路德改教对基督徒职业观的重新强调",
+    "next_url": "302.公众号洗稿/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄",
+    "next_title": "好人是不是永远打不过坏人—基督徒如何面对作恶的权柄"
+  },
+  {
+    "path": "302.公众号洗稿/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄.md",
+    "title": "好人是不是永远打不过坏人—基督徒如何面对作恶的权柄",
+    "prev_url": "302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用",
+    "prev_title": "在巴比伦河边-咒诅诗的解释与应用",
     "next_url": "302.公众号洗稿/如何理解三位一体",
     "next_title": "如何理解三位一体"
   },
   {
     "path": "302.公众号洗稿/如何理解三位一体.md",
     "title": "如何理解三位一体",
-    "prev_url": "302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用",
-    "prev_title": "在巴比伦河边-咒诅诗的解释与应用",
+    "prev_url": "302.公众号洗稿/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄",
+    "prev_title": "好人是不是永远打不过坏人—基督徒如何面对作恶的权柄",
     "next_url": "302.公众号洗稿/我来要把火丢在地上",
     "next_title": "我来要把火丢在地上"
   },
