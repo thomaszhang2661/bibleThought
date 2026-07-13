@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2479 篇文章
+共 2478 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -526,7 +526,6 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/基督徒如何做人生选择">基督徒如何做人生选择</a>
 <a class="tree-file" href="101. 教义/00_教义问答/好人是不是永远打不过坏人—兼谈基督徒如何面对邪恶的权柄">好人是不是永远打不过坏人—兼谈基督徒如何面对邪恶的权柄</a>
 <a class="tree-file" href="101. 教义/00_教义问答/如何理解三位一体">如何理解三位一体</a>
-<a class="tree-file" href="101. 教义/00_教义问答/如何面对邪恶权柄？">如何面对邪恶权柄？</a>
 <a class="tree-file" href="101. 教义/00_教义问答/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
 <a class="tree-file" href="101. 教义/00_教义问答/美国独立战争是义战吗">美国独立战争是义战吗</a>
 <a class="tree-file" href="101. 教义/00_教义问答/自杀的信徒能否得救">自杀的信徒能否得救</a>
