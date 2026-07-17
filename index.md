@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2509 篇文章
+共 2511 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -542,6 +542,8 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/00. 人得救之后，当圣灵建造信心之后，是否有“自由意志”，是否有选择行善或者行恶的能力？">00. 人得救之后，当圣灵建造信心之后，是否有“自由意志”，是否有选择行善或者行恶的能力？</a>
 <a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/01_协和信条_第二条_论自由意志">01_协和信条_第二条_论自由意志</a>
 <a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/02_路德宗信条中的成圣论_Lange_1997">02_路德宗信条中的成圣论_Lange_1997</a>
+<a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/03_信徒里的新人与旧人_Valleskey_1984">03_信徒里的新人与旧人_Valleskey_1984</a>
+<a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/04_在基督里的生命_神秘联合与神化说_Schmeling">04_在基督里的生命_神秘联合与神化说_Schmeling</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-01-book-of-concord">

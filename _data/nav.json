@@ -2682,14 +2682,30 @@
     "title": "02_路德宗信条中的成圣论_Lange_1997",
     "prev_url": "101. 教义/00_教义问答/07.人得救之后是否有自由意志/01_协和信条_第二条_论自由意志",
     "prev_title": "01_协和信条_第二条_论自由意志",
+    "next_url": "101. 教义/00_教义问答/07.人得救之后是否有自由意志/03_信徒里的新人与旧人_Valleskey_1984",
+    "next_title": "03_信徒里的新人与旧人_Valleskey_1984"
+  },
+  {
+    "path": "101. 教义/00_教义问答/07.人得救之后是否有自由意志/03_信徒里的新人与旧人_Valleskey_1984.md",
+    "title": "03_信徒里的新人与旧人_Valleskey_1984",
+    "prev_url": "101. 教义/00_教义问答/07.人得救之后是否有自由意志/02_路德宗信条中的成圣论_Lange_1997",
+    "prev_title": "02_路德宗信条中的成圣论_Lange_1997",
+    "next_url": "101. 教义/00_教义问答/07.人得救之后是否有自由意志/04_在基督里的生命_神秘联合与神化说_Schmeling",
+    "next_title": "04_在基督里的生命_神秘联合与神化说_Schmeling"
+  },
+  {
+    "path": "101. 教义/00_教义问答/07.人得救之后是否有自由意志/04_在基督里的生命_神秘联合与神化说_Schmeling.md",
+    "title": "04_在基督里的生命_神秘联合与神化说_Schmeling",
+    "prev_url": "101. 教义/00_教义问答/07.人得救之后是否有自由意志/03_信徒里的新人与旧人_Valleskey_1984",
+    "prev_title": "03_信徒里的新人与旧人_Valleskey_1984",
     "next_url": "101. 教义/01_book_of_concord/00-preface-to-the-book-of-concord-1584",
     "next_title": "00-preface-to-the-book-of-concord-1584"
   },
   {
     "path": "101. 教义/01_book_of_concord/00-preface-to-the-book-of-concord-1584.md",
     "title": "00-preface-to-the-book-of-concord-1584",
-    "prev_url": "101. 教义/00_教义问答/07.人得救之后是否有自由意志/02_路德宗信条中的成圣论_Lange_1997",
-    "prev_title": "02_路德宗信条中的成圣论_Lange_1997",
+    "prev_url": "101. 教义/00_教义问答/07.人得救之后是否有自由意志/04_在基督里的生命_神秘联合与神化说_Schmeling",
+    "prev_title": "04_在基督里的生命_神秘联合与神化说_Schmeling",
     "next_url": "101. 教义/01_book_of_concord/01-three-ecumenical-creeds",
     "next_title": "01-three-ecumenical-creeds"
   },
