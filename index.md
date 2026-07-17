@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2498 篇文章
+共 2505 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -520,20 +520,21 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/交帐">交帐</a>
 <a class="tree-file" href="101. 教义/关于祭祖">关于祭祖</a>
 <a class="tree-file" href="101. 教义/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
+<a class="tree-file" href="101. 教义/当人得救之后，当圣灵建造信心之后，人是否有“自由意志”，是否有选择行善或者行恶的能力？">当人得救之后，当圣灵建造信心之后，人是否有“自由意志”，是否有选择行善或者行恶的能力？</a>
 <a class="tree-file" href="101. 教义/耶稣是谁？">耶稣是谁？</a>
 <details class="tree-folder" id="101-教义-00-教义问答">
 <summary class="tree-dir">00_教义问答<a class="anchor-link" href="#101-教义-00-教义问答">#</a></summary>
-<a class="tree-file" href="101. 教义/00_教义问答/基督徒如何做人生选择">基督徒如何做人生选择</a>
-<a class="tree-file" href="101. 教义/00_教义问答/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄">好人是不是永远打不过坏人—基督徒如何面对作恶的权柄</a>
-<a class="tree-file" href="101. 教义/00_教义问答/如何理解三位一体">如何理解三位一体</a>
-<a class="tree-file" href="101. 教义/00_教义问答/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
-<a class="tree-file" href="101. 教义/00_教义问答/美国独立战争是义战吗">美国独立战争是义战吗</a>
-<a class="tree-file" href="101. 教义/00_教义问答/自杀的信徒能否得救">自杀的信徒能否得救</a>
-<details class="tree-folder" id="101-教义-00-教义问答-旧约时代的人如何得救">
-<summary class="tree-dir">旧约时代的人如何得救<a class="anchor-link" href="#101-教义-00-教义问答-旧约时代的人如何得救">#</a></summary>
-<a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
-<a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
-<a class="tree-file" href="101. 教义/00_教义问答/旧约时代的人如何得救/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
+<a class="tree-file" href="101. 教义/00_教义问答/01.如何理解三位一体">01.如何理解三位一体</a>
+<a class="tree-file" href="101. 教义/00_教义问答/02.神爱世人但不是所有人得救">02.神爱世人但不是所有人得救</a>
+<a class="tree-file" href="101. 教义/00_教义问答/03.基督徒如何做人生选择">03.基督徒如何做人生选择</a>
+<a class="tree-file" href="101. 教义/00_教义问答/05.好人是不是永远打不过坏人—基督徒如何面对作恶的权柄">05.好人是不是永远打不过坏人—基督徒如何面对作恶的权柄</a>
+<a class="tree-file" href="101. 教义/00_教义问答/05.美国独立战争是义战吗">05.美国独立战争是义战吗</a>
+<a class="tree-file" href="101. 教义/00_教义问答/06.自杀的信徒能否得救">06.自杀的信徒能否得救</a>
+<details class="tree-folder" id="101-教义-00-教义问答-04-旧约时代的人如何得救">
+<summary class="tree-dir">04.旧约时代的人如何得救<a class="anchor-link" href="#101-教义-00-教义问答-04-旧约时代的人如何得救">#</a></summary>
+<a class="tree-file" href="101. 教义/00_教义问答/04.旧约时代的人如何得救/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
+<a class="tree-file" href="101. 教义/00_教义问答/04.旧约时代的人如何得救/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
+<a class="tree-file" href="101. 教义/00_教义问答/04.旧约时代的人如何得救/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-01-book-of-concord">
@@ -614,8 +615,14 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="101-教义-01-协同书-08-协同式">
 <summary class="tree-dir">08-协同式<a class="anchor-link" href="#101-教义-01-协同书-08-协同式">#</a></summary>
-<a class="tree-file" href="101. 教义/01_协同书/08-协同式/01-第一部摘要">01-第一部摘要</a>
-<a class="tree-file" href="101. 教义/01_协同书/08-协同式/02-第二部宣言全文">02-第二部宣言全文</a>
+<a class="tree-file" href="101. 教义/01_协同书/08-协同式/01-摘要/01-总纲与第1-6条">01-总纲与第1-6条</a>
+<a class="tree-file" href="101. 教义/01_协同书/08-协同式/01-摘要/02-第7-12条">02-第7-12条</a>
+<a class="tree-file" href="101. 教义/01_协同书/08-协同式/02-宣言全文/01-总纲与第1-2条">01-总纲与第1-2条</a>
+<a class="tree-file" href="101. 教义/01_协同书/08-协同式/02-宣言全文/02-第3条-因信称义">02-第3条-因信称义</a>
+<a class="tree-file" href="101. 教义/01_协同书/08-协同式/02-宣言全文/03-第4-6条">03-第4-6条</a>
+<a class="tree-file" href="101. 教义/01_协同书/08-协同式/02-宣言全文/04-第7条-圣晚餐">04-第7条-圣晚餐</a>
+<a class="tree-file" href="101. 教义/01_协同书/08-协同式/02-宣言全文/05-第8条-基督位格">05-第8条-基督位格</a>
+<a class="tree-file" href="101. 教义/01_协同书/08-协同式/02-宣言全文/06-第9-12条">06-第9-12条</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-02-四个关键概念">
