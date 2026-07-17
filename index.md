@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2511 篇文章
+共 2512 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -531,6 +531,7 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/05.好人是不是永远打不过坏人—基督徒如何面对作恶的权柄">05.好人是不是永远打不过坏人—基督徒如何面对作恶的权柄</a>
 <a class="tree-file" href="101. 教义/00_教义问答/05.美国独立战争是义战吗">05.美国独立战争是义战吗</a>
 <a class="tree-file" href="101. 教义/00_教义问答/06.自杀的信徒能否得救">06.自杀的信徒能否得救</a>
+<a class="tree-file" href="101. 教义/00_教义问答/如何理解因信称义">如何理解因信称义</a>
 <details class="tree-folder" id="101-教义-00-教义问答-04-旧约时代的人如何得救">
 <summary class="tree-dir">04.旧约时代的人如何得救<a class="anchor-link" href="#101-教义-00-教义问答-04-旧约时代的人如何得救">#</a></summary>
 <a class="tree-file" href="101. 教义/00_教义问答/04.旧约时代的人如何得救/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
