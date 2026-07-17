@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2505 篇文章
+共 2508 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -212,6 +212,7 @@ body_class: index-page
 <summary class="tree-dir">19. 诗篇<a class="anchor-link" href="#19-诗篇">#</a></summary>
 <a class="tree-file" href="19. 诗篇/Hebrew poetry in the Bible A guide for u">Hebrew poetry in the Bible A guide for u</a>
 <a class="tree-file" href="19. 诗篇/诗篇2">诗篇2</a>
+<a class="tree-file" href="19. 诗篇/诗篇20&21">诗篇20&21</a>
 <a class="tree-file" href="19. 诗篇/诗篇23">诗篇23</a>
 </details>
 
@@ -535,6 +536,11 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/04.旧约时代的人如何得救/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
 <a class="tree-file" href="101. 教义/00_教义问答/04.旧约时代的人如何得救/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
 <a class="tree-file" href="101. 教义/00_教义问答/04.旧约时代的人如何得救/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
+</details>
+<details class="tree-folder" id="101-教义-00-教义问答-07-人得救之后是否有自由意志">
+<summary class="tree-dir">07.人得救之后是否有自由意志<a class="anchor-link" href="#101-教义-00-教义问答-07-人得救之后是否有自由意志">#</a></summary>
+<a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/01_协和信条_第二条_论自由意志">01_协和信条_第二条_论自由意志</a>
+<a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/07. 人得救之后，当圣灵建造信心之后，是否有“自由意志”，是否有选择行善或者行恶的能力？">07. 人得救之后，当圣灵建造信心之后，是否有“自由意志”，是否有选择行善或者行恶的能力？</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-01-book-of-concord">
