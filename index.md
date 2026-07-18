@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2512 篇文章
+共 2515 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -3151,6 +3151,8 @@ body_class: index-page
 <a class="tree-file" href="104. 写作/从郁金香五条看理性的牢笼-英文">从郁金香五条看理性的牢笼-英文</a>
 <a class="tree-file" href="104. 写作/从郁金香五条看理性的牢笼">从郁金香五条看理性的牢笼</a>
 <a class="tree-file" href="104. 写作/信仰的暗号">信仰的暗号</a>
+<a class="tree-file" href="104. 写作/地狱的日常">地狱的日常</a>
+<a class="tree-file" href="104. 写作/地狱的日常_温和版">地狱的日常_温和版</a>
 <a class="tree-file" href="104. 写作/怎样祷告才能合神心意">怎样祷告才能合神心意</a>
 <a class="tree-file" href="104. 写作/无法自圆其说的上帝">无法自圆其说的上帝</a>
 <a class="tree-file" href="104. 写作/根本性的区别来自耶稣">根本性的区别来自耶稣</a>
@@ -3260,6 +3262,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
 <a class="tree-file" href="302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
+<a class="tree-file" href="302.公众号洗稿/地狱的日常_温和版">地狱的日常_温和版</a>
 <a class="tree-file" href="302.公众号洗稿/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄">好人是不是永远打不过坏人—基督徒如何面对作恶的权柄</a>
 <a class="tree-file" href="302.公众号洗稿/如何理解三位一体">如何理解三位一体</a>
 <a class="tree-file" href="302.公众号洗稿/我来要把火丢在地上">我来要把火丢在地上</a>
