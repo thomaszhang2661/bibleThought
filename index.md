@@ -368,15 +368,12 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/威斯康星路德神学院的灵性成长">威斯康星路德神学院的灵性成长</a>
 <a class="tree-file" href="97.论文翻译/我信我奇妙可畏地被造_沙尔夫_2021">我信我奇妙可畏地被造_沙尔夫_2021</a>
 <a class="tree-file" href="97.论文翻译/教义学与虔敬——格哈德圣洁沉思录导论_Brug">教义学与虔敬——格哈德圣洁沉思录导论_Brug</a>
-<a class="tree-file" href="97.论文翻译/教会在促进公民之义中的职能_劳伦茨_1952">教会在促进公民之义中的职能_劳伦茨_1952</a>
 <a class="tree-file" href="97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活">灵性能量管理_避免牧养倦怠_建立健康灵修生活</a>
 <a class="tree-file" href="97.论文翻译/牧师最迫切的五个需要_Koehneke_2019">牧师最迫切的五个需要_Koehneke_2019</a>
 <a class="tree-file" href="97.论文翻译/神学何以为习性_弗吕格_CTQ2025">神学何以为习性_弗吕格_CTQ2025</a>
 <a class="tree-file" href="97.论文翻译/神学作为实践性神赐习性_埃戈尔德_1962">神学作为实践性神赐习性_埃戈尔德_1962</a>
-<a class="tree-file" href="97.论文翻译/自然律法、对神的自然认识与公民之义_劳伦茨_1972">自然律法、对神的自然认识与公民之义_劳伦茨_1972</a>
 <a class="tree-file" href="97.论文翻译/藐视恩典是教会之死">藐视恩典是教会之死</a>
 <a class="tree-file" href="97.论文翻译/认知与情感目标的教学_葛拉赫">认知与情感目标的教学_葛拉赫</a>
-<a class="tree-file" href="97.论文翻译/路德与信条中的律法与福音_舒尔策">路德与信条中的律法与福音_舒尔策</a>
 <details class="tree-folder" id="97-论文翻译-01-重拾路德宗灵修传统">
 <summary class="tree-dir">01_重拾路德宗灵修传统<a class="anchor-link" href="#97-论文翻译-01-重拾路德宗灵修传统">#</a></summary>
 <a class="tree-file" href="97.论文翻译/01_重拾路德宗灵修传统/01_重拾路德宗灵修传统_第一部分_从好消息汲取灵修生活的力量">01_重拾路德宗灵修传统_第一部分_从好消息汲取灵修生活的力量</a>
@@ -548,6 +545,12 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/02_路德宗信条中的成圣论_Lange_1997">02_路德宗信条中的成圣论_Lange_1997</a>
 <a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/03_信徒里的新人与旧人_Valleskey_1984">03_信徒里的新人与旧人_Valleskey_1984</a>
 <a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/04_在基督里的生命_神秘联合与神化说_Schmeling">04_在基督里的生命_神秘联合与神化说_Schmeling</a>
+</details>
+<details class="tree-folder" id="101-教义-00-教义问答-10-公民的义">
+<summary class="tree-dir">10.公民的义<a class="anchor-link" href="#101-教义-00-教义问答-10-公民的义">#</a></summary>
+<a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/教会在促进公民之义中的职能_劳伦茨_1952">教会在促进公民之义中的职能_劳伦茨_1952</a>
+<a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/自然律法、对神的自然认识与公民之义_劳伦茨_1972">自然律法、对神的自然认识与公民之义_劳伦茨_1972</a>
+<a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/路德与信条中的律法与福音_舒尔策">路德与信条中的律法与福音_舒尔策</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-01-book-of-concord">
