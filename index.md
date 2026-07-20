@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2518 篇文章
+共 2589 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -549,6 +549,7 @@ body_class: index-page
 <details class="tree-folder" id="101-教义-00-教义问答-10-公民的义">
 <summary class="tree-dir">10.公民的义<a class="anchor-link" href="#101-教义-00-教义问答-10-公民的义">#</a></summary>
 <a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/教会在促进公民之义中的职能_劳伦茨_1952">教会在促进公民之义中的职能_劳伦茨_1952</a>
+<a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/查经准备">查经准备</a>
 <a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/自然律法、对神的自然认识与公民之义_劳伦茨_1972">自然律法、对神的自然认识与公民之义_劳伦茨_1972</a>
 <a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/路德与信条中的律法与福音_舒尔策">路德与信条中的律法与福音_舒尔策</a>
 </details>
@@ -2721,6 +2722,82 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/08_七_圣经论意志的捆绑">08_七_圣经论意志的捆绑</a>
 <a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/09_八_结论">09_八_结论</a>
 <a class="tree-file" href="102. 阅读/11_意志的捆绑_Luther_Packer/README_意志的捆绑">README_意志的捆绑</a>
+</details>
+<details class="tree-folder" id="102-阅读-12-working-backwards">
+<summary class="tree-dir">12_working_backwards<a class="anchor-link" href="#102-阅读-12-working-backwards">#</a></summary>
+<a class="tree-file" href="102. 阅读/12_working_backwards/00_Title_page">00_Title_page</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/00_contents">00_contents</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/01_Dedication_page">01_Dedication_page</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/02_Contents">02_Contents</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/03_Introduction">03_Introduction</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/04_Part_One_BEING_AMAZONIAN">04_Part_One_BEING_AMAZONIAN</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/05_Introduction_to_Part_One">05_Introduction_to_Part_One</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/06_1_Building_Blocks_Leadership_Principles_and_Mechan">06_1_Building_Blocks_Leadership_Principles_and_Mechan</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/07_2_Hiring_Amazons_Unique_Bar_Raiser_Process">07_2_Hiring_Amazons_Unique_Bar_Raiser_Process</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/08_3_Organizing_Separable_SingleThreaded_Leadership">08_3_Organizing_Separable_SingleThreaded_Leadership</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/09_4_Communicating_Narratives_and_the_SixPager">09_4_Communicating_Narratives_and_the_SixPager</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/10_5_Working_Backwards_Start_with_the_Desired_Custome">10_5_Working_Backwards_Start_with_the_Desired_Custome</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/11_6_Metrics_Manage_Your_Inputs_Not_Your_Outputs">11_6_Metrics_Manage_Your_Inputs_Not_Your_Outputs</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/12_Part_Two_THE_INVENTION_MACHINE_AT_WORK">12_Part_Two_THE_INVENTION_MACHINE_AT_WORK</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/13_Introduction_to_Part_Two">13_Introduction_to_Part_Two</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/14_7_Kindle">14_7_Kindle</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/15_8_Prime">15_8_Prime</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/16_9_Prime_Video">16_9_Prime_Video</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/17_10_AWS">17_10_AWS</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/18_Conclusion_Being_Amazonian_Beyond_Amazon">18_Conclusion_Being_Amazonian_Beyond_Amazon</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/19_Appendix_A_Interview_Feedback_Examples">19_Appendix_A_Interview_Feedback_Examples</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/20_Appendix_B_Sample_Narrative_Tenets_and_FAQs">20_Appendix_B_Sample_Narrative_Tenets_and_FAQs</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/21_Appendix_C_Timeline_of_Events_in_the_Book">21_Appendix_C_Timeline_of_Events_in_the_Book</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/22_Acknowledgments">22_Acknowledgments</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/23_Footnotes">23_Footnotes</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/24_Notes">24_Notes</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/25_Index">25_Index</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/26_About_the_Authors">26_About_the_Authors</a>
+<a class="tree-file" href="102. 阅读/12_working_backwards/27_Copyright_page">27_Copyright_page</a>
+</details>
+<details class="tree-folder" id="102-阅读-12-倒着工作">
+<summary class="tree-dir">12_倒着工作<a class="anchor-link" href="#102-阅读-12-倒着工作">#</a></summary>
+<a class="tree-file" href="102. 阅读/12_倒着工作/00_导言">00_导言</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/01_第一部分介绍">01_第一部分介绍</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/02_第1章_基石：领导力准则和机制">02_第1章_基石：领导力准则和机制</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/03_引言">03_引言</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/03_第2章_亚马逊员工聘用_独特的抬杆人流程">03_第2章_亚马逊员工聘用_独特的抬杆人流程</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/04_第3章_组织结构_可分离和单线程领导力">04_第3章_组织结构_可分离和单线程领导力</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/04_第一部分_成为亚马逊人">04_第一部分_成为亚马逊人</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/05_第4章_沟通_叙事文档和六页文档">05_第4章_沟通_叙事文档和六页文档</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/05_第一部分导言">05_第一部分导言</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/06_第5章_倒着工作_从理想的客户体验开始">06_第5章_倒着工作_从理想的客户体验开始</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/07_第2章_招聘：亚马逊独特的抬杆人流程">07_第2章_招聘：亚马逊独特的抬杆人流程</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/07_第6章_指标_管理你的投入而不是产出">07_第6章_指标_管理你的投入而不是产出</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/08_第3章_组织：可分离的单线程领导">08_第3章_组织：可分离的单线程领导</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/08_第二部分介绍">08_第二部分介绍</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/09_第4章_沟通：叙事与六页纸">09_第4章_沟通：叙事与六页纸</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/09_第7章_Kindle">09_第7章_Kindle</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/10_第5章_倒着工作：从期望的客户体验出发">10_第5章_倒着工作：从期望的客户体验出发</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/10_第8章_Prime">10_第8章_Prime</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/11_第6章_指标：管理你的输入而非输出">11_第6章_指标：管理你的输入而非输出</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/11_第9章_Prime_Video">11_第9章_Prime_Video</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/12_第10章_AWS">12_第10章_AWS</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/12_第二部分_运转中的发明机器">12_第二部分_运转中的发明机器</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/13_第二部分导言">13_第二部分导言</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/13_结论_成为亚马逊人_超越亚马逊">13_结论_成为亚马逊人_超越亚马逊</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/14_第7章_Kindle">14_第7章_Kindle</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/14_附录A_面试反馈示例">14_附录A_面试反馈示例</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/15_第8章_Prime">15_第8章_Prime</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/15_附录B_样本叙事文档、核心原则和常见问题解答">15_附录B_样本叙事文档、核心原则和常见问题解答</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/16_第9章_Prime_Video">16_第9章_Prime_Video</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/16_附录C_书中事件时间表">16_附录C_书中事件时间表</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/17_第10章_AWS">17_第10章_AWS</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/17_致谢">17_致谢</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/18_注释">18_注释</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/18_结语_超越亚马逊的亚马逊之道">18_结语_超越亚马逊的亚马逊之道</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/19_附录A_面试反馈示例">19_附录A_面试反馈示例</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/20_附录B_叙事信条与常见问答示例">20_附录B_叙事信条与常见问答示例</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/21_附录C_书中事件时间线">21_附录C_书中事件时间线</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/22_致谢">22_致谢</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/23_脚注">23_脚注</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/24_注释">24_注释</a>
+<a class="tree-file" href="102. 阅读/12_倒着工作/26_关于作者">26_关于作者</a>
 </details>
 <details class="tree-folder" id="102-阅读-365-Through-Faith-Alone">
 <summary class="tree-dir">365 Through Faith Alone<a class="anchor-link" href="#102-阅读-365-Through-Faith-Alone">#</a></summary>
