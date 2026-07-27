@@ -2690,14 +2690,46 @@
     "title": "06_活出恩慈的生命",
     "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/06_Living a Life of Kindness",
     "prev_title": "06_Living a Life of Kindness",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/07_Oh My Goodness 哦 我的天哪",
+    "next_title": "07_Oh My Goodness 哦 我的天哪"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/07_Oh My Goodness 哦 我的天哪.md",
+    "title": "07_Oh My Goodness 哦 我的天哪",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/06_活出恩慈的生命",
+    "prev_title": "06_活出恩慈的生命",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/07_Oh My Goodness",
+    "next_title": "07_Oh My Goodness"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/07_Oh My Goodness.md",
+    "title": "07_Oh My Goodness",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/07_Oh My Goodness 哦 我的天哪",
+    "prev_title": "07_Oh My Goodness 哦 我的天哪",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/08_Faithfulness",
+    "next_title": "08_Faithfulness"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/08_Faithfulness.md",
+    "title": "08_Faithfulness",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/07_Oh My Goodness",
+    "prev_title": "07_Oh My Goodness",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/08_讲道—信实（圣灵的果子系列）",
+    "next_title": "08_讲道—信实（圣灵的果子系列）"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/08_讲道—信实（圣灵的果子系列）.md",
+    "title": "08_讲道—信实（圣灵的果子系列）",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/08_Faithfulness",
+    "prev_title": "08_Faithfulness",
     "next_url": "99. 讲道/罪就伏在我们门前/查经系列",
     "next_title": "查经系列"
   },
   {
     "path": "99. 讲道/罪就伏在我们门前/查经系列.md",
     "title": "查经系列",
-    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/06_活出恩慈的生命",
-    "prev_title": "06_活出恩慈的生命",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/08_讲道—信实（圣灵的果子系列）",
+    "prev_title": "08_讲道—信实（圣灵的果子系列）",
     "next_url": "99. 讲道/罪就伏在我们门前/罪就伏在我们门前--我们小看了罪，也小看了赦免",
     "next_title": "罪就伏在我们门前--我们小看了罪，也小看了赦免"
   },
