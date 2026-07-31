@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2634 篇文章
+共 2635 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -615,6 +615,10 @@ body_class: index-page
 <details class="tree-folder" id="101-教义-00-教义问答-11-神不在圣道和圣礼之外与我们打交道">
 <summary class="tree-dir">11.神不在圣道和圣礼之外与我们打交道<a class="anchor-link" href="#101-教义-00-教义问答-11-神不在圣道和圣礼之外与我们打交道">#</a></summary>
 <a class="tree-file" href="101. 教义/00_教义问答/11.神不在圣道和圣礼之外与我们打交道/0.简述-若不借着有限的，无限的就不工作">0.简述-若不借着有限的，无限的就不工作</a>
+</details>
+<details class="tree-folder" id="101-教义-00-教义问答-12-正典是如何形成的">
+<summary class="tree-dir">12.正典是如何形成的<a class="anchor-link" href="#101-教义-00-教义问答-12-正典是如何形成的">#</a></summary>
+<a class="tree-file" href="101. 教义/00_教义问答/12.正典是如何形成的/圣经正典的形成：历史过程与路德宗立场">圣经正典的形成：历史过程与路德宗立场</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-01-book-of-concord">
