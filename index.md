@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2666 篇文章
+共 2668 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -590,6 +590,8 @@ body_class: index-page
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/07_Oh My Goodness">07_Oh My Goodness</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/08_Faithfulness">08_Faithfulness</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/08_讲道—信实（圣灵的果子系列）">08_讲道—信实（圣灵的果子系列）</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/09_温柔">09_温柔</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/09_温柔英文">09_温柔英文</a>
 </details>
 </details>
 <details class="tree-folder" id="99-讲道-罪就伏在我们门前">
