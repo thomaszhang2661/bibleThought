@@ -379,7 +379,7 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/基督复活的能力">基督复活的能力</a>
 <a class="tree-file" href="97.论文翻译/威斯康星路德神学院的灵性成长">威斯康星路德神学院的灵性成长</a>
 <a class="tree-file" href="97.论文翻译/我信我奇妙可畏地被造_沙尔夫_2021">我信我奇妙可畏地被造_沙尔夫_2021</a>
-<a class="tree-file" href="97.论文翻译/教义学与虔敬——格哈德圣洁沉思录导论_Brug">教义学与虔敬——格哈德圣洁沉思录导论_Brug</a>
+<a class="tree-file" href="97.论文翻译/教义学与虔敬—格哈德圣洁沉思录导论_Brug">教义学与虔敬—格哈德圣洁沉思录导论_Brug</a>
 <a class="tree-file" href="97.论文翻译/灵性能量管理_避免牧养倦怠_建立健康灵修生活">灵性能量管理_避免牧养倦怠_建立健康灵修生活</a>
 <a class="tree-file" href="97.论文翻译/牧师最迫切的五个需要_Koehneke_2019">牧师最迫切的五个需要_Koehneke_2019</a>
 <a class="tree-file" href="97.论文翻译/神学何以为习性_弗吕格_CTQ2025">神学何以为习性_弗吕格_CTQ2025</a>
@@ -581,9 +581,9 @@ body_class: index-page
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/03_喜乐人生">03_喜乐人生</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/04_活出果子的生命-平安">04_活出果子的生命-平安</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/04_活出果子的生命-平安_查经">04_活出果子的生命-平安_查经</a>
-<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/05_ Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience">05_ Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/05_Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience">05_Bearing the Fruit of Patience_God’s Patience Toward Us and Our Call to Live in Patience</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/05_忍耐：他偷了银器还撒了谎，主教为什么还要送他两支蜡烛台">05_忍耐：他偷了银器还撒了谎，主教为什么还要送他两支蜡烛台</a>
-<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/05_结出忍耐的果子—神的忍耐与我们的忍耐**">05_结出忍耐的果子—神的忍耐与我们的忍耐**</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/05_结出忍耐的果子—神的忍耐与我们的忍耐">05_结出忍耐的果子—神的忍耐与我们的忍耐</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/06_Living a Life of Kindness">06_Living a Life of Kindness</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/06_活出恩慈的生命">06_活出恩慈的生命</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/07_Oh My Goodness 哦 我的天哪">07_Oh My Goodness 哦 我的天哪</a>
@@ -778,7 +778,7 @@ body_class: index-page
 <details class="tree-folder" id="101-教义-Francis-Pieper">
 <summary class="tree-dir">Francis Pieper<a class="anchor-link" href="#101-教义-Francis-Pieper">#</a></summary>
 <a class="tree-file" href="101. 教义/Francis Pieper/基督降在阴间">基督降在阴间</a>
-<a class="tree-file" href="101. 教义/Francis Pieper/论赦罪——施恩具之赦罪形式">论赦罪——施恩具之赦罪形式</a>
+<a class="tree-file" href="101. 教义/Francis Pieper/论赦罪—施恩具之赦罪形式">论赦罪—施恩具之赦罪形式</a>
 <details class="tree-folder" id="101-教义-Francis-Pieper-101-卷一-序言-神学的本质与性格">
 <summary class="tree-dir">101_卷一_序言_神学的本质与性格<a class="anchor-link" href="#101-教义-Francis-Pieper-101-卷一-序言-神学的本质与性格">#</a></summary>
 <a class="tree-file" href="101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/01_我们的立场">01_我们的立场</a>
@@ -786,7 +786,7 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/03_世界上宗教的数目">03_世界上宗教的数目</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/04_两种现存宗教的来源">04_两种现存宗教的来源</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/05_可见基督教内部分裂的原因">05_可见基督教内部分裂的原因</a>
-<a class="tree-file" href="101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/06_基督教——绝对宗教">06_基督教——绝对宗教</a>
+<a class="tree-file" href="101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/06_基督教—绝对宗教">06_基督教—绝对宗教</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/07_基督教宗教与基督教神学">07_基督教宗教与基督教神学</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/08_基督教神学">08_基督教神学</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/101_卷一_序言_神学的本质与性格/09_作为禀赋的神学">09_作为禀赋的神学</a>
@@ -842,9 +842,9 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/08_神的本质与属性（上）">08_神的本质与属性（上）</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/09_神的本质与属性（下）">09_神的本质与属性（下）</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/10_神的全知（正篇）">10_神的全知（正篇）</a>
-<a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/11_神的全知（续）——预知与自由意志问题">11_神的全知（续）——预知与自由意志问题</a>
+<a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/11_神的全知（续）—预知与自由意志问题">11_神的全知（续）—预知与自由意志问题</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/12_神的智慧（Sapientia Dei）">12_神的智慧（Sapientia Dei）</a>
-<a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/13_神意志的属性——导论与分类">13_神意志的属性——导论与分类</a>
+<a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/13_神意志的属性—导论与分类">13_神意志的属性—导论与分类</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/14_神的圣洁（Sanctitas Dei）">14_神的圣洁（Sanctitas Dei）</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/15_神的公义（Iustitia Dei）">15_神的公义（Iustitia Dei）</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/103_卷一_神论/16_神的真实（Veracitas Dei）">16_神的真实（Veracitas Dei）</a>
@@ -910,8 +910,8 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/Francis Pieper/201_卷二_恩典论/02_救恩之恩典的概念">02_救恩之恩典的概念</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/201_卷二_恩典论/03_救恩之恩典的属性">03_救恩之恩典的属性</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/201_卷二_恩典论/04_关于上帝恩典旨意的神学术语">04_关于上帝恩典旨意的神学术语</a>
-<a class="tree-file" href="101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与——概论（上）">05_救恩的施与——概论（上）</a>
-<a class="tree-file" href="101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与——概论（下）">05_救恩的施与——概论（下）</a>
+<a class="tree-file" href="101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与—概论（上）">05_救恩的施与—概论（上）</a>
+<a class="tree-file" href="101. 教义/Francis Pieper/201_卷二_恩典论/05_救恩的施与—概论（下）">05_救恩的施与—概论（下）</a>
 </details>
 <details class="tree-folder" id="101-教义-Francis-Pieper-202-卷二-基督论">
 <summary class="tree-dir">202_卷二_基督论<a class="anchor-link" href="#101-教义-Francis-Pieper-202-卷二-基督论">#</a></summary>
@@ -920,10 +920,10 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/02_基督的真人性">02_基督的真人性</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/03_位格联合（上）">03_位格联合（上）</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/04_位格联合与现代基督论诸说">04_位格联合与现代基督论诸说</a>
-<a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/05_属性相通——导言与第一属（Genus Idiomaticum）">05_属性相通——导言与第一属（Genus Idiomaticum）</a>
+<a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/05_属性相通—导言与第一属（Genus Idiomaticum）">05_属性相通—导言与第一属（Genus Idiomaticum）</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/06_第二属无对等性">06_第二属无对等性</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/07_所有神圣属性皆传达给人性">07_所有神圣属性皆传达给人性</a>
-<a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/08_传通遍在——经文论证续（弗一至太廿八）">08_传通遍在——经文论证续（弗一至太廿八）</a>
+<a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/08_传通遍在—经文论证续（弗一至太廿八）">08_传通遍在—经文论证续（弗一至太廿八）</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/09_基督人性遍在的方式（上）">09_基督人性遍在的方式（上）</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/09_基督人性遍在的方式（下）">09_基督人性遍在的方式（下）</a>
 <a class="tree-file" href="101. 教义/Francis Pieper/202_卷二_基督论/10_传通遍在与圣餐">10_传通遍在与圣餐</a>
@@ -1408,7 +1408,7 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/鬼附和心理疾病/关怀那受关怀者_Gottschalk_2022">关怀那受关怀者_Gottschalk_2022</a>
 <a class="tree-file" href="101. 教义/鬼附和心理疾病/圣灵与灵恩复兴_Gerlach_1974">圣灵与灵恩复兴_Gerlach_1974</a>
 <a class="tree-file" href="101. 教义/鬼附和心理疾病/圣经中的驱魔与今日的驱魔_Koepsell_1974">圣经中的驱魔与今日的驱魔_Koepsell_1974</a>
-<a class="tree-file" href="101. 教义/鬼附和心理疾病/基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge">基督徒，考验你们的教师！——约翰一书4章1-3节讲道研经_Balge</a>
+<a class="tree-file" href="101. 教义/鬼附和心理疾病/基督徒，考验你们的教师！—约翰一书4章1-3节讲道研经_Balge">基督徒，考验你们的教师！—约翰一书4章1-3节讲道研经_Balge</a>
 <a class="tree-file" href="101. 教义/鬼附和心理疾病/灵恩运动_Becker_1974">灵恩运动_Becker_1974</a>
 <a class="tree-file" href="101. 教义/鬼附和心理疾病/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
 <a class="tree-file" href="101. 教义/鬼附和心理疾病/灵恩运动与今日的传福音_Koelpin">灵恩运动与今日的传福音_Koelpin</a>
@@ -1446,7 +1446,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/00_律法和福音/chapters/00_编者前言">00_编者前言</a>
 <a class="tree-file" href="102. 阅读/00_律法和福音/chapters/01_简介">01_简介</a>
 <a class="tree-file" href="102. 阅读/00_律法和福音/chapters/02_第一章_上帝的话语是双重的">02_第一章_上帝的话语是双重的</a>
-<a class="tree-file" href="102. 阅读/00_律法和福音/chapters/03_第二章_律法和福音——完美的对立">03_第二章_律法和福音——完美的对立</a>
+<a class="tree-file" href="102. 阅读/00_律法和福音/chapters/03_第二章_律法和福音—完美的对立">03_第二章_律法和福音—完美的对立</a>
 <a class="tree-file" href="102. 阅读/00_律法和福音/chapters/04_第三章_律法的本质">04_第三章_律法的本质</a>
 <a class="tree-file" href="102. 阅读/00_律法和福音/chapters/05_第四章_福音的本质">05_第四章_福音的本质</a>
 <a class="tree-file" href="102. 阅读/00_律法和福音/chapters/06_第五章_施恩具">06_第五章_施恩具</a>
@@ -2927,9 +2927,9 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/03_好人们：成圣与公共崇拜">03_好人们：成圣与公共崇拜</a>
 <a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/04_家庭前线：婚姻、事工与收养">04_家庭前线：婚姻、事工与收养</a>
 <a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/05_在家教育与人到中年">05_在家教育与人到中年</a>
-<a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/06_附录一_触达罗莎里亚——肯·史密斯牧师">06_附录一_触达罗莎里亚——肯·史密斯牧师</a>
+<a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/06_附录一_触达罗莎里亚—肯·史密斯牧师">06_附录一_触达罗莎里亚—肯·史密斯牧师</a>
 <a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/07_附录三四_罗莎里亚的信与常见问题解答">07_附录三四_罗莎里亚的信与常见问题解答</a>
-<a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/08_附录二_我们共同的旅程——肯特·巴特菲尔德">08_附录二_我们共同的旅程——肯特·巴特菲尔德</a>
+<a class="tree-file" href="102. 阅读/一个不太可能的归信者的内心独白/08_附录二_我们共同的旅程—肯特·巴特菲尔德">08_附录二_我们共同的旅程—肯特·巴特菲尔德</a>
 </details>
 <details class="tree-folder" id="102-阅读-一瘸一拐与神同行">
 <summary class="tree-dir">一瘸一拐与神同行<a class="anchor-link" href="#102-阅读-一瘸一拐与神同行">#</a></summary>
