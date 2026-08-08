@@ -1866,86 +1866,94 @@
     "title": "04_结束的问安（12-13）",
     "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/03_小心提防 不受迷惑（7-11）",
     "prev_title": "03_小心提防 不受迷惑（7-11）",
-    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_Greeting",
-    "next_title": "01_Greeting"
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/00_前言",
+    "next_title": "00_前言"
   },
   {
-    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_Greeting.md",
-    "title": "01_Greeting",
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/00_前言.md",
+    "title": "00_前言",
     "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/04_结束的问安（12-13）",
     "prev_title": "04_结束的问安（12-13）",
-    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_Trials_and_Temptations",
-    "next_title": "02_Trials_and_Temptations"
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_问候",
+    "next_title": "01_问候"
   },
   {
-    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_Trials_and_Temptations.md",
-    "title": "02_Trials_and_Temptations",
-    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_Greeting",
-    "prev_title": "01_Greeting",
-    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_Hearers_and_Doers",
-    "next_title": "03_Hearers_and_Doers"
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_问候.md",
+    "title": "01_问候",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/00_前言",
+    "prev_title": "00_前言",
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_试炼与试探",
+    "next_title": "02_试炼与试探"
   },
   {
-    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_Hearers_and_Doers.md",
-    "title": "03_Hearers_and_Doers",
-    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_Trials_and_Temptations",
-    "prev_title": "02_Trials_and_Temptations",
-    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_Favoritism_and_Love",
-    "next_title": "04_Favoritism_and_Love"
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_试炼与试探.md",
+    "title": "02_试炼与试探",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_问候",
+    "prev_title": "01_问候",
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_听道者与行道者",
+    "next_title": "03_听道者与行道者"
   },
   {
-    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_Favoritism_and_Love.md",
-    "title": "04_Favoritism_and_Love",
-    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_Hearers_and_Doers",
-    "prev_title": "03_Hearers_and_Doers",
-    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_Dead_Faith_and_Real_Faith",
-    "next_title": "05_Dead_Faith_and_Real_Faith"
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_听道者与行道者.md",
+    "title": "03_听道者与行道者",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_试炼与试探",
+    "prev_title": "02_试炼与试探",
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_偏心待人与爱",
+    "next_title": "04_偏心待人与爱"
   },
   {
-    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_Dead_Faith_and_Real_Faith.md",
-    "title": "05_Dead_Faith_and_Real_Faith",
-    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_Favoritism_and_Love",
-    "prev_title": "04_Favoritism_and_Love",
-    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/06_The_Tongue_and_Wisdom",
-    "next_title": "06_The_Tongue_and_Wisdom"
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_偏心待人与爱.md",
+    "title": "04_偏心待人与爱",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_听道者与行道者",
+    "prev_title": "03_听道者与行道者",
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_死的信心与真信心",
+    "next_title": "05_死的信心与真信心"
   },
   {
-    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/06_The_Tongue_and_Wisdom.md",
-    "title": "06_The_Tongue_and_Wisdom",
-    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_Dead_Faith_and_Real_Faith",
-    "prev_title": "05_Dead_Faith_and_Real_Faith",
-    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/07_Submission_and_Humility",
-    "next_title": "07_Submission_and_Humility"
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_死的信心与真信心.md",
+    "title": "05_死的信心与真信心",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_偏心待人与爱",
+    "prev_title": "04_偏心待人与爱",
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/06_舌头与智慧",
+    "next_title": "06_舌头与智慧"
   },
   {
-    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/07_Submission_and_Humility.md",
-    "title": "07_Submission_and_Humility",
-    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/06_The_Tongue_and_Wisdom",
-    "prev_title": "06_The_Tongue_and_Wisdom",
-    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/08_Plans_and_Priorities",
-    "next_title": "08_Plans_and_Priorities"
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/06_舌头与智慧.md",
+    "title": "06_舌头与智慧",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_死的信心与真信心",
+    "prev_title": "05_死的信心与真信心",
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/07_顺服与谦卑",
+    "next_title": "07_顺服与谦卑"
   },
   {
-    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/08_Plans_and_Priorities.md",
-    "title": "08_Plans_and_Priorities",
-    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/07_Submission_and_Humility",
-    "prev_title": "07_Submission_and_Humility",
-    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/09_Patience_and_Prayer",
-    "next_title": "09_Patience_and_Prayer"
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/07_顺服与谦卑.md",
+    "title": "07_顺服与谦卑",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/06_舌头与智慧",
+    "prev_title": "06_舌头与智慧",
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/08_规划与优先",
+    "next_title": "08_规划与优先"
   },
   {
-    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/09_Patience_and_Prayer.md",
-    "title": "09_Patience_and_Prayer",
-    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/08_Plans_and_Priorities",
-    "prev_title": "08_Plans_and_Priorities",
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/08_规划与优先.md",
+    "title": "08_规划与优先",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/07_顺服与谦卑",
+    "prev_title": "07_顺服与谦卑",
+    "next_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/09_忍耐和祷告",
+    "next_title": "09_忍耐和祷告"
+  },
+  {
+    "path": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/09_忍耐和祷告.md",
+    "title": "09_忍耐和祷告",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/08_规划与优先",
+    "prev_title": "08_规划与优先",
     "next_url": "97.论文翻译/00_律法与福音在教会增长运动中",
     "next_title": "00_律法与福音在教会增长运动中"
   },
   {
     "path": "97.论文翻译/00_律法与福音在教会增长运动中.md",
     "title": "00_律法与福音在教会增长运动中",
-    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/09_Patience_and_Prayer",
-    "prev_title": "09_Patience_and_Prayer",
+    "prev_url": "96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/09_忍耐和祷告",
+    "prev_title": "09_忍耐和祷告",
     "next_url": "97.论文翻译/两位牧养教育者_葛拉赫_2004",
     "next_title": "两位牧养教育者_葛拉赫_2004"
   },

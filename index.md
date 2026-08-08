@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2691 篇文章
+共 2692 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -392,15 +392,16 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-雅各书">
 <summary class="tree-dir">雅各书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-雅各书">#</a></summary>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_Greeting">01_Greeting</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_Trials_and_Temptations">02_Trials_and_Temptations</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_Hearers_and_Doers">03_Hearers_and_Doers</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_Favoritism_and_Love">04_Favoritism_and_Love</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_Dead_Faith_and_Real_Faith">05_Dead_Faith_and_Real_Faith</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/06_The_Tongue_and_Wisdom">06_The_Tongue_and_Wisdom</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/07_Submission_and_Humility">07_Submission_and_Humility</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/08_Plans_and_Priorities">08_Plans_and_Priorities</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/09_Patience_and_Prayer">09_Patience_and_Prayer</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/00_前言">00_前言</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_问候">01_问候</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_试炼与试探">02_试炼与试探</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_听道者与行道者">03_听道者与行道者</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_偏心待人与爱">04_偏心待人与爱</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_死的信心与真信心">05_死的信心与真信心</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/06_舌头与智慧">06_舌头与智慧</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/07_顺服与谦卑">07_顺服与谦卑</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/08_规划与优先">08_规划与优先</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/09_忍耐和祷告">09_忍耐和祷告</a>
 </details>
 </details>
 </details>
