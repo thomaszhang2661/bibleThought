@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2682 篇文章
+共 2687 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -389,6 +389,14 @@ body_class: index-page
 <a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/02_遵行真理和爱（4-6）">02_遵行真理和爱（4-6）</a>
 <a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/03_小心提防 不受迷惑（7-11）">03_小心提防 不受迷惑（7-11）</a>
 <a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/04_结束的问安（12-13）">04_结束的问安（12-13）</a>
+</details>
+<details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-雅各书">
+<summary class="tree-dir">雅各书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-雅各书">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_雅各书第1章">01_雅各书第1章</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_雅各书第2章">02_雅各书第2章</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_雅各书第3章">03_雅各书第3章</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_雅各书第4章">04_雅各书第4章</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_雅各书第5章">05_雅各书第5章</a>
 </details>
 </details>
 </details>
