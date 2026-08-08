@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2706 篇文章
+共 2699 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -336,6 +336,55 @@ body_class: index-page
 <a class="tree-file" href="96.大众圣经读本/40.马太福音/27_第二十七章">27_第二十七章</a>
 <a class="tree-file" href="96.大众圣经读本/40.马太福音/28_第二十八章">28_第二十八章</a>
 </details>
+<details class="tree-folder" id="96-大众圣经读本-59-雅各书">
+<summary class="tree-dir">59_雅各书<a class="anchor-link" href="#96-大众圣经读本-59-雅各书">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/00_前言">00_前言</a>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/01_问候">01_问候</a>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/02_试炼与试探">02_试炼与试探</a>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/03_听道者与行道者">03_听道者与行道者</a>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/04_偏心待人与爱">04_偏心待人与爱</a>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/05_死的信心与真信心">05_死的信心与真信心</a>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/06_舌头与智慧">06_舌头与智慧</a>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/07_顺服与谦卑">07_顺服与谦卑</a>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/08_规划与优先">08_规划与优先</a>
+<a class="tree-file" href="96.大众圣经读本/59_雅各书/09_忍耐和祷告">09_忍耐和祷告</a>
+</details>
+<details class="tree-folder" id="96-大众圣经读本-60-彼得前书">
+<summary class="tree-dir">60_彼得前书<a class="anchor-link" href="#96-大众圣经读本-60-彼得前书">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/60_彼得前书/00_前言">00_前言</a>
+<a class="tree-file" href="96.大众圣经读本/60_彼得前书/01_第一圈_活的盼望">01_第一圈_活的盼望</a>
+<a class="tree-file" href="96.大众圣经读本/60_彼得前书/02_第二圈_活石">02_第二圈_活石</a>
+<a class="tree-file" href="96.大众圣经读本/60_彼得前书/03_第三圈_活着的基督">03_第三圈_活着的基督</a>
+</details>
+<details class="tree-folder" id="96-大众圣经读本-61-彼得后书">
+<summary class="tree-dir">61_彼得后书<a class="anchor-link" href="#96-大众圣经读本-61-彼得后书">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/61_彼得后书/00_前言">00_前言</a>
+<a class="tree-file" href="96.大众圣经读本/61_彼得后书/01_活出你所信的">01_活出你所信的</a>
+<a class="tree-file" href="96.大众圣经读本/61_彼得后书/02_确信你所信的">02_确信你所信的</a>
+<a class="tree-file" href="96.大众圣经读本/61_彼得后书/03_警觉假教师">03_警觉假教师</a>
+<a class="tree-file" href="96.大众圣经读本/61_彼得后书/04_等候末日审判">04_等候末日审判</a>
+</details>
+<details class="tree-folder" id="96-大众圣经读本-62-约翰一书">
+<summary class="tree-dir">62_约翰一书<a class="anchor-link" href="#96-大众圣经读本-62-约翰一书">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/62_约翰一书/00_前言">00_前言</a>
+<a class="tree-file" href="96.大众圣经读本/62_约翰一书/01_第一圈_光明中行走">01_第一圈_光明中行走</a>
+<a class="tree-file" href="96.大众圣经读本/62_约翰一书/02_第二圈_知道">02_第二圈_知道</a>
+<a class="tree-file" href="96.大众圣经读本/62_约翰一书/03_第三圈_有爱">03_第三圈_有爱</a>
+</details>
+<details class="tree-folder" id="96-大众圣经读本-63-约翰二书">
+<summary class="tree-dir">63_约翰二书<a class="anchor-link" href="#96-大众圣经读本-63-约翰二书">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/63_约翰二书/00_前言">00_前言</a>
+<a class="tree-file" href="96.大众圣经读本/63_约翰二书/01_遵行真理和爱">01_遵行真理和爱</a>
+<a class="tree-file" href="96.大众圣经读本/63_约翰二书/02_小心提防">02_小心提防</a>
+<a class="tree-file" href="96.大众圣经读本/63_约翰二书/03_结束问安">03_结束问安</a>
+</details>
+<details class="tree-folder" id="96-大众圣经读本-64-约翰三书">
+<summary class="tree-dir">64_约翰三书<a class="anchor-link" href="#96-大众圣经读本-64-约翰三书">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/64_约翰三书/00_前言">00_前言</a>
+<a class="tree-file" href="96.大众圣经读本/64_约翰三书/01_亲爱的该犸">01_亲爱的该犸</a>
+<a class="tree-file" href="96.大众圣经读本/64_约翰三书/02_丢特腓_恶言暴君">02_丢特腓_恶言暴君</a>
+<a class="tree-file" href="96.大众圣经读本/64_约翰三书/03_低米丢_结束问安">03_低米丢_结束问安</a>
+</details>
 <details class="tree-folder" id="96-大众圣经读本-使徒行传">
 <summary class="tree-dir">使徒行传<a class="anchor-link" href="#96-大众圣经读本-使徒行传">#</a></summary>
 <a class="tree-file" href="96.大众圣经读本/使徒行传/00_前言">00_前言</a>
@@ -367,65 +416,6 @@ body_class: index-page
 <a class="tree-file" href="96.大众圣经读本/使徒行传/26_第二十六章">26_第二十六章</a>
 <a class="tree-file" href="96.大众圣经读本/使徒行传/27_第二十七章">27_第二十七章</a>
 <a class="tree-file" href="96.大众圣经读本/使徒行传/28_第二十八章">28_第二十八章</a>
-</details>
-<details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大">
-<summary class="tree-dir">詹姆斯、彼得、约翰、犹大<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大">#</a></summary>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书">彼得前书</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书">彼得后书</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/犹大书">犹大书</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰一书">约翰一书</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书">约翰三书</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书">约翰二书</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书">雅各书</a>
-<details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-彼得前书">
-<summary class="tree-dir">彼得前书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-彼得前书">#</a></summary>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/00_前言">00_前言</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/01_第一圈_活的盼望">01_第一圈_活的盼望</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/02_第二圈_活石">02_第二圈_活石</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/03_第三圈_活着的基督">03_第三圈_活着的基督</a>
-</details>
-<details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-彼得后书">
-<summary class="tree-dir">彼得后书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-彼得后书">#</a></summary>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/00_前言">00_前言</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/01_活出你所信的">01_活出你所信的</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/02_确信你所信的">02_确信你所信的</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/03_警觉假教师">03_警觉假教师</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/04_等候末日审判">04_等候末日审判</a>
-</details>
-<details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰一书">
-<summary class="tree-dir">约翰一书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰一书">#</a></summary>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰一书/00_前言">00_前言</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰一书/01_第一圈_光明中行走">01_第一圈_光明中行走</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰一书/02_第二圈_知道">02_第二圈_知道</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰一书/03_第三圈_有爱">03_第三圈_有爱</a>
-</details>
-<details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰三书">
-<summary class="tree-dir">约翰三书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰三书">#</a></summary>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书/00_前言">00_前言</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书/01_亲爱的该犸">01_亲爱的该犸</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书/02_丢特腓_恶言暴君">02_丢特腓_恶言暴君</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书/03_低米丢_结束问安">03_低米丢_结束问安</a>
-</details>
-<details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰二书">
-<summary class="tree-dir">约翰二书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰二书">#</a></summary>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/00_前言">00_前言</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/01_遵行真理和爱">01_遵行真理和爱</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/02_小心提防">02_小心提防</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/03_结束问安">03_结束问安</a>
-</details>
-<details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-雅各书">
-<summary class="tree-dir">雅各书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-雅各书">#</a></summary>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/00_前言">00_前言</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/01_问候">01_问候</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/02_试炼与试探">02_试炼与试探</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/03_听道者与行道者">03_听道者与行道者</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/04_偏心待人与爱">04_偏心待人与爱</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/05_死的信心与真信心">05_死的信心与真信心</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/06_舌头与智慧">06_舌头与智慧</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/07_顺服与谦卑">07_顺服与谦卑</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/08_规划与优先">08_规划与优先</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/雅各书/09_忍耐和祷告">09_忍耐和祷告</a>
-</details>
 </details>
 </details>
 
