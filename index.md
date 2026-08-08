@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2696 篇文章
+共 2701 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -383,6 +383,14 @@ body_class: index-page
 <a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/01_第一圈_活的盼望">01_第一圈_活的盼望</a>
 <a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/02_第二圈_活石">02_第二圈_活石</a>
 <a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/03_第三圈_活着的基督">03_第三圈_活着的基督</a>
+</details>
+<details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-彼得后书">
+<summary class="tree-dir">彼得后书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-彼得后书">#</a></summary>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/00_前言">00_前言</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/01_活出你所信的">01_活出你所信的</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/02_确信你所信的">02_确信你所信的</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/03_警觉假教师">03_警觉假教师</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得后书/04_等候末日审判">04_等候末日审判</a>
 </details>
 <details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰三书">
 <summary class="tree-dir">约翰三书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰三书">#</a></summary>
