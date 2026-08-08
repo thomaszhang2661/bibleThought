@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2705 篇文章
+共 2704 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -407,10 +407,9 @@ body_class: index-page
 <details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰二书">
 <summary class="tree-dir">约翰二书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰二书">#</a></summary>
 <a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/00_前言">00_前言</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/01_引言（1-3）">01_引言（1-3）</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/02_遵行真理和爱（4-6）">02_遵行真理和爱（4-6）</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/03_小心提防 不受迷惑（7-11）">03_小心提防 不受迷惑（7-11）</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/04_结束的问安（12-13）">04_结束的问安（12-13）</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/01_遵行真理和爱">01_遵行真理和爱</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/02_小心提防">02_小心提防</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰二书/03_结束问安">03_结束问安</a>
 </details>
 <details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-雅各书">
 <summary class="tree-dir">雅各书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-雅各书">#</a></summary>
