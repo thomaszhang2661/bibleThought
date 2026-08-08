@@ -380,9 +380,9 @@ body_class: index-page
 <details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-彼得前书">
 <summary class="tree-dir">彼得前书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-彼得前书">#</a></summary>
 <a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/00_前言">00_前言</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/01_系列一_活的盼望">01_系列一_活的盼望</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/02_系列二_活石">02_系列二_活石</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/03_系列三_活着的基督">03_系列三_活着的基督</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/01_第一圈_活的盼望">01_第一圈_活的盼望</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/02_第二圈_活石">02_第二圈_活石</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/彼得前书/03_第三圈_活着的基督">03_第三圈_活着的基督</a>
 </details>
 <details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰三书">
 <summary class="tree-dir">约翰三书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰三书">#</a></summary>
