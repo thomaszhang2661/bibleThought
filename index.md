@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2704 篇文章
+共 2706 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -402,7 +402,9 @@ body_class: index-page
 <details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰三书">
 <summary class="tree-dir">约翰三书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰三书">#</a></summary>
 <a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书/00_前言">00_前言</a>
-<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书/01_亲爱的该犹（1-8）">01_亲爱的该犹（1-8）</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书/01_亲爱的该犸">01_亲爱的该犸</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书/02_丢特腓_恶言暴君">02_丢特腓_恶言暴君</a>
+<a class="tree-file" href="96.大众圣经读本/詹姆斯、彼得、约翰、犹大/约翰三书/03_低米丢_结束问安">03_低米丢_结束问安</a>
 </details>
 <details class="tree-folder" id="96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰二书">
 <summary class="tree-dir">约翰二书<a class="anchor-link" href="#96-大众圣经读本-詹姆斯、彼得、约翰、犹大-约翰二书">#</a></summary>
