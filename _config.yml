@@ -10,12 +10,12 @@ kramdown:
     laquo_space: "<< "
     raquo_space: " >>"
 
-plugins:
-  - jekyll-relative-links
+# plugins:
+#   - jekyll-relative-links
 
-relative_links:
-  enabled: true
-  collections: true
+# relative_links:
+#   enabled: true
+#   collections: true
 
 defaults:
   - scope:
