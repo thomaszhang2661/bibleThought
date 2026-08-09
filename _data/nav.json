@@ -18378,14 +18378,110 @@
     "title": "非凡的果子",
     "prev_url": "102. 阅读/365 Through Faith Alone/花时间祷告",
     "prev_title": "花时间祷告",
+    "next_url": "102. 阅读/Getting_to_YES/00_前言和致谢",
+    "next_title": "00_前言和致谢"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/00_前言和致谢.md",
+    "title": "00_前言和致谢",
+    "prev_url": "102. 阅读/365 Through Faith Alone/非凡的果子",
+    "prev_title": "非凡的果子",
+    "next_url": "102. 阅读/Getting_to_YES/01_序言和介绍",
+    "next_title": "01_序言和介绍"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/01_序言和介绍.md",
+    "title": "01_序言和介绍",
+    "prev_url": "102. 阅读/Getting_to_YES/00_前言和致谢",
+    "prev_title": "00_前言和致谢",
+    "next_url": "102. 阅读/Getting_to_YES/02_第一章_不在立场上讨价还价",
+    "next_title": "02_第一章_不在立场上讨价还价"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/02_第一章_不在立场上讨价还价.md",
+    "title": "02_第一章_不在立场上讨价还价",
+    "prev_url": "102. 阅读/Getting_to_YES/01_序言和介绍",
+    "prev_title": "01_序言和介绍",
+    "next_url": "102. 阅读/Getting_to_YES/03_第二章_将人与问题分开",
+    "next_title": "03_第二章_将人与问题分开"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/03_第二章_将人与问题分开.md",
+    "title": "03_第二章_将人与问题分开",
+    "prev_url": "102. 阅读/Getting_to_YES/02_第一章_不在立场上讨价还价",
+    "prev_title": "02_第一章_不在立场上讨价还价",
+    "next_url": "102. 阅读/Getting_to_YES/04_第三章_关注利益而非立场",
+    "next_title": "04_第三章_关注利益而非立场"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/04_第三章_关注利益而非立场.md",
+    "title": "04_第三章_关注利益而非立场",
+    "prev_url": "102. 阅读/Getting_to_YES/03_第二章_将人与问题分开",
+    "prev_title": "03_第二章_将人与问题分开",
+    "next_url": "102. 阅读/Getting_to_YES/05_第四章_为互利创造选择方案",
+    "next_title": "05_第四章_为互利创造选择方案"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/05_第四章_为互利创造选择方案.md",
+    "title": "05_第四章_为互利创造选择方案",
+    "prev_url": "102. 阅读/Getting_to_YES/04_第三章_关注利益而非立场",
+    "prev_title": "04_第三章_关注利益而非立场",
+    "next_url": "102. 阅读/Getting_to_YES/06_第五章_坚持使用客观标准",
+    "next_title": "06_第五章_坚持使用客观标准"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/06_第五章_坚持使用客观标准.md",
+    "title": "06_第五章_坚持使用客观标准",
+    "prev_url": "102. 阅读/Getting_to_YES/05_第四章_为互利创造选择方案",
+    "prev_title": "05_第四章_为互利创造选择方案",
+    "next_url": "102. 阅读/Getting_to_YES/07_第六章_如果对方更强大",
+    "next_title": "07_第六章_如果对方更强大"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/07_第六章_如果对方更强大.md",
+    "title": "07_第六章_如果对方更强大",
+    "prev_url": "102. 阅读/Getting_to_YES/06_第五章_坚持使用客观标准",
+    "prev_title": "06_第五章_坚持使用客观标准",
+    "next_url": "102. 阅读/Getting_to_YES/08_第七章_如果对方不配合",
+    "next_title": "08_第七章_如果对方不配合"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/08_第七章_如果对方不配合.md",
+    "title": "08_第七章_如果对方不配合",
+    "prev_url": "102. 阅读/Getting_to_YES/07_第六章_如果对方更强大",
+    "prev_title": "07_第六章_如果对方更强大",
+    "next_url": "102. 阅读/Getting_to_YES/09_第八章_如果对方使用肮脏伎俩",
+    "next_title": "09_第八章_如果对方使用肮脏伎俩"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/09_第八章_如果对方使用肮脏伎俩.md",
+    "title": "09_第八章_如果对方使用肮脏伎俩",
+    "prev_url": "102. 阅读/Getting_to_YES/08_第七章_如果对方不配合",
+    "prev_title": "08_第七章_如果对方不配合",
+    "next_url": "102. 阅读/Getting_to_YES/10_十个常见问题",
+    "next_title": "10_十个常见问题"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/10_十个常见问题.md",
+    "title": "10_十个常见问题",
+    "prev_url": "102. 阅读/Getting_to_YES/09_第八章_如果对方使用肮脏伎俩",
+    "prev_title": "09_第八章_如果对方使用肮脏伎俩",
+    "next_url": "102. 阅读/Getting_to_YES/README",
+    "next_title": "README"
+  },
+  {
+    "path": "102. 阅读/Getting_to_YES/README.md",
+    "title": "README",
+    "prev_url": "102. 阅读/Getting_to_YES/10_十个常见问题",
+    "prev_title": "10_十个常见问题",
     "next_url": "102. 阅读/一个不太可能的归信者的内心独白/01_归信与和平的福音",
     "next_title": "01_归信与和平的福音"
   },
   {
     "path": "102. 阅读/一个不太可能的归信者的内心独白/01_归信与和平的福音.md",
     "title": "01_归信与和平的福音",
-    "prev_url": "102. 阅读/365 Through Faith Alone/非凡的果子",
-    "prev_title": "非凡的果子",
+    "prev_url": "102. 阅读/Getting_to_YES/README",
+    "prev_title": "README",
     "next_url": "102. 阅读/一个不太可能的归信者的内心独白/02_悔改与所多玛的罪",
     "next_title": "02_悔改与所多玛的罪"
   },

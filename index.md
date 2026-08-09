@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2699 篇文章
+共 2711 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -2968,6 +2968,21 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/无言-话语 word 道的祷告">无言-话语 word 道的祷告</a>
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/花时间祷告">花时间祷告</a>
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/非凡的果子">非凡的果子</a>
+</details>
+<details class="tree-folder" id="102-阅读-Getting-to-YES">
+<summary class="tree-dir">Getting_to_YES<a class="anchor-link" href="#102-阅读-Getting-to-YES">#</a></summary>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/00_前言和致谢">00_前言和致谢</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/01_序言和介绍">01_序言和介绍</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/02_第一章_不在立场上讨价还价">02_第一章_不在立场上讨价还价</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/03_第二章_将人与问题分开">03_第二章_将人与问题分开</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/04_第三章_关注利益而非立场">04_第三章_关注利益而非立场</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/05_第四章_为互利创造选择方案">05_第四章_为互利创造选择方案</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/06_第五章_坚持使用客观标准">06_第五章_坚持使用客观标准</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/07_第六章_如果对方更强大">07_第六章_如果对方更强大</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/08_第七章_如果对方不配合">08_第七章_如果对方不配合</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/09_第八章_如果对方使用肮脏伎俩">09_第八章_如果对方使用肮脏伎俩</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/10_十个常见问题">10_十个常见问题</a>
+<a class="tree-file" href="102. 阅读/Getting_to_YES/README">README</a>
 </details>
 <details class="tree-folder" id="102-阅读-一个不太可能的归信者的内心独白">
 <summary class="tree-dir">一个不太可能的归信者的内心独白<a class="anchor-link" href="#102-阅读-一个不太可能的归信者的内心独白">#</a></summary>
