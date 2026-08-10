@@ -3330,14 +3330,30 @@
     "title": "09_温柔英文",
     "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/09_温柔",
     "prev_title": "09_温柔",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/10_self-control 活出自制的生命",
+    "next_title": "10_self-control 活出自制的生命"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/10_self-control 活出自制的生命.md",
+    "title": "10_self-control 活出自制的生命",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/09_温柔英文",
+    "prev_title": "09_温柔英文",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/11_self-control",
+    "next_title": "11_self-control"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/11_self-control.md",
+    "title": "11_self-control",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/10_self-control 活出自制的生命",
+    "prev_title": "10_self-control 活出自制的生命",
     "next_url": "99. 讲道/罪就伏在我们门前/查经系列",
     "next_title": "查经系列"
   },
   {
     "path": "99. 讲道/罪就伏在我们门前/查经系列.md",
     "title": "查经系列",
-    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/09_温柔英文",
-    "prev_title": "09_温柔英文",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/11_self-control",
+    "prev_title": "11_self-control",
     "next_url": "99. 讲道/罪就伏在我们门前/罪就伏在我们门前--我们小看了罪，也小看了赦免",
     "next_title": "罪就伏在我们门前--我们小看了罪，也小看了赦免"
   },
