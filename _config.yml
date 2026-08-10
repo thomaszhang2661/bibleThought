@@ -2,6 +2,13 @@ title: BibleThought
 encoding: utf-8
 markdown: kramdown
 
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
 kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
   typographic_symbols:
