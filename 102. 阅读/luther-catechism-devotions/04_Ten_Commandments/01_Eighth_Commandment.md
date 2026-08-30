@@ -1,0 +1,62 @@
+# 第八诫 不可作假见证
+
+## 核心诫命
+> You shall not bear false witness against your neighbor.
+
+## 英文原文摘录
+
+**Destructive speech**
+
+Look at what sin did to man's use of God's gift of speech. After the fall Adam used this gift, not to offer praise but instead to offer an excuse to his Maker. Toward his wife it was no longer words of affection but words of accusation. A brief glance into the sin shadows of our own lives verifies what we have seen in Eden. For us too sin has perverted the tongue, as James put it, into "a restless evil, full of deadly poison" (3:8). Like some restless snake, speech slithers around, darting and striking without warning, puncturing and paralyzing reputations with its poison.
+
+Need some specifics? Luther offers them as he unfolds God's commandment with the words "tell lies about our neighbor, betray him, or give him a bad name." With the words "false testimony," God couched his commandment in the language of the courts, but Luther shows it covers the whole field of communication with or about our neighbor. Though Luther speaks of telling lies, betraying, giving a bad name, it's really all the same, just from a different viewpoint. He's speaking of any use of speech, whether it tells a lie or the truth, that is intended to damage a fellow human being's reputation. Sometimes it's telling lies in the courtroom in order to help the guilty or frame the innocent. Sometimes it's gossiping about another, with the mistaken notion that tearing him down builds us up. Doesn't that word gossip seem to hiss out the smallness of this sin? Sometimes it's greasing the skids with flattery, as we sweet-talk someone into giving us what we want. Sometimes it's revealing another's sins when it would be far better to conceal them. But always it's trying to damage his reputation.
+
+Why do we do such things? It's not just "tongue trouble" but "heart trouble." The sin in Eden's garden changed not only our vertical relationship with God but also the horizontal one with our neighbor. When sin exiles God from the human heart, our neighbor also loses his worth. When the heart regards God as a nobody, how can our neighbor be somebody? When God's name means little or nothing, what's in a neighbor's name?
+
+Guilty? Of course we are. It's time again to plead in penitence, "God, be merciful to me, a sinner." God will hear and answer. His own living Word of love he placed into a stable and pierced on a cross to cleanse us also from the sins of the tongue. As he plants Christ in our hearts, he also trains our tongues, so that we can use them to help our neighbor.
+
+**Constructive speech**
+
+Tamed and trained by Christ, the tongue talks up for our neighbor's good. When wicked King Saul spoke ill of David, Jonathan reminded his father of the good that David had done for Israel in slaying Goliath. When David had committed adultery and murder and all Israel knew about it, the prophet Nathan went face-to-face with his king, seeking and succeeding in leading him to repentance's road. When's the last time we scotched some gossip by speaking well about the one being scorched? When's the last time we put the kindest spin on another's actions toward us—instead of trumping up something less than noble? When's the last time we hurried in love to one who had sinned against us—instead of harboring resentment against him and heralding to others what he had done?
+
+There's much for us as Christians to do with God's gift of speech, so much that there's no time left for foolishness. We believe in the one who said of himself, "I am the truth." We follow him whose filled cross and emptied tomb guarantees victory over Satan, "the father of lies." What better way of showing this than speaking the truth with one another?
+
+## 中文翻译
+
+**有害的言语**
+
+看一下罪对人类使用上帝言语恩赐的影响。亚当堕落后，他用这份恩赐不是为了献上赞美，反而是向他的造物主提出借口。对他的妻子，言语不再是关爱之语，而是责备之词。只要看一下我们自己生活中的罪恶阴影，就能验证我们在伊甸园看到的情形。对我们而言，罪也同样玷污了我们的舌头，正如雅各书所说的，变成了"是个不止息的恶，满了害死人的毒气"（3:8）。就像某条不宁静的蛇一样，言语到处窜动，不预警地抨击和打击，用它的毒液刺穿并瘫痪他人的声誉。
+
+需要具体的例子吗？路德提供了这些例子，当他展开上帝的诫命时，用这样的措辞："对邻舍说谎、背叛他、或诋毁他的名誉。"在"作假见证"这句话中，上帝用法庭的语言表述了他的诫命，但路德表明它涵盖了与邻舍沟通或关于邻舍的整个领域。虽然路德提到说谎、背叛、诋毁名誉，但从另一个角度看，这些都是同样的事。他说的是任何一种言语使用，无论是说谎还是说真话，只要其目的是损害他人的声誉。有时是在法庭上说谎，以帮助有罪者或陷害无辜者。有时是对另一个人进行闲言碎语，错误地认为贬低他人能提升自己。难道"闲言碎语"这个词似乎不是发出一阵嘘声来表示这一小罪吗？有时是用甜言蜜语来"润滑"，当我们甜言蜜语地劝说某人给我们想要的东西时。有时是揭露他人的罪行，虽然远更好的做法是隐瞒这些罪行。但目的总是试图损害他的声誉。
+
+我们为什么要做这样的事情？这不仅仅是"舌头的问题"，而是"心的问题"。伊甸园中的罪不仅改变了我们与上帝的纵向关系，也改变了与邻舍的横向关系。当罪将上帝逐出人的心灵时，我们的邻舍也失去了他的价值。当心灵把上帝看作无足轻重的人时，邻舍怎样才能是重要的人呢？当上帝的名字毫无意义时，邻舍的名字里有什么呢？
+
+有罪吗？当然有。现在是时候再次悔过地哀求，"上帝啊，怜悯我这个罪人。"上帝会听见并回应。他亲自充满爱的活道——他放在马槽里并钉在十字架上的——来洁净我们舌头的罪。当他把基督植入我们的心中时，他也训练我们的舌头，使我们能用它来帮助邻舍。
+
+**建设性的言语**
+
+被基督驯化和训练的舌头，为邻舍的益处而说话。当邪恶的扫罗王毁谤大卫时，约拿单提醒他的父亲大卫为以色列所做的善事，即击杀歌利亚。当大卫犯了奸淫和谋杀罪，全以色列都知道时，先知拿单面对面见他的王，设法并成功地引导他走向悔改之路。我们最后一次通过说别人的好话来阻止某个被伤害者的闲言碎语是什么时候？我们最后一次对另一个人的行为给予最仁慈的解释是什么时候——而不是编造不那么高尚的东西？我们最后一次带着爱快速冲向得罪了我们的人是什么时候——而不是对他心存怨恨并向他人宣传他所做的事？
+
+作为基督徒，我们用上帝赐予的言语恩赐可以做许多事，以至于没有时间用于愚蠢的事。我们相信那位说"我就是真理"的人（14:6）。我们跟随他，他充满的十字架和空墓保证了对撒但（"谎言之父"）的胜利。还有什么比彼此说真话更能表明这一点呢？
+
+## 应用思考
+
+这一诫命教导我们的首要功课是：我们的言语能力是来自上帝的极其珍贵的恩赐，但由于人的罪性，这份恩赐经常被用来伤害邻舍。第八诫不仅禁止在法庭上作假见证，更广泛地禁止所有任何形式用言语伤害邻舍声誉的行为——说谎、背叛、诋毁、闲言碎语、虚伪的恭维，甚至选择性地揭露他人的过错。
+
+Luther揭示了这一诫命的根源在于"心病"：当罪把上帝逐出人心时，邻舍在我们眼中失去了价值。但基督的救赎之爱医治了这颗病心，使我们能够用言语服侍邻舍的益处。我们应该效法约拿单、拿单先知和基督本身的榜样，在合适的时刻说出真理，帮助他人悔改，为邻舍辩护，用善言扶持弱者。
+
+作为信仰者，我们相信真理本身——耶稣基督。与此相应，我们的言语应当反映这信仰，始终诚实、恩慈、建设性，而非虚假、伤害、毁灭性。
+
+**祷告**
+
+"使我不说那些
+后来需要收回的话语；
+赐我无閒言碎语
+从我的唇间流出。
+但当我所在的地方
+我必须且应当说话时，
+我的言语祈求力量和恩典
+免得我伤害软弱的人。"阿们。（路德宗经典诗歌459:3）
+
+---
+*来源：As Luther Taught the Word of Truth - Devotions on the Small Catechism*
