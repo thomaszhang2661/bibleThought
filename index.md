@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2816 篇文章
+共 2817 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -3094,6 +3094,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/03_Second-Petition-Kingdom">03_Second-Petition-Kingdom</a>
 <a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/04_Third-Petition-Will">04_Third-Petition-Will</a>
 <a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/05_Fourth-Petition-Bread">05_Fourth-Petition-Bread</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/06_Fifth-Petition-Forgiveness">06_Fifth-Petition-Forgiveness</a>
 </details>
 <details class="tree-folder" id="102-阅读-luther-catechism-devotions-05-Lords-Prayer">
 <summary class="tree-dir">05_Lords_Prayer<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-05-Lords-Prayer">#</a></summary>
