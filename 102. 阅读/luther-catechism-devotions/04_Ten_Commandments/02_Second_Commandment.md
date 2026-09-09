@@ -27,6 +27,8 @@ Guilty? Of course we are! If each night we could listen to a recording of all ou
 
 God in grace has carved his name, the one above all other names, on our hearts. God, help us in response to hold that name high above all others in our lives.
 
+**Prayer:** Dear Lord, may I never forget to give you praise and glory for all the great and wonderful things you have done. Amen.
+
 ## 中文翻译
 
 "劳拉"这个名字被刻在登山步道旁的树上。有人在树皮上刻了一个心形，里面写着她的名字。这让人想知道她是谁，她是什么样的人，还有谁那么深情地在那里刻下她的名字。
@@ -51,6 +53,8 @@ God in grace has carved his name, the one above all other names, on our hearts. 
 
 上帝在恩典中把他的名字——万名之上的名字——刻在了我们的心上。上帝啊，帮助我们因此在我们的生活中把那个名字高举在万有之上。
 
+**祷告：**亲爱的主啊，愿我永不忘记为你所成就的一切伟大奇妙的事，将赞美和荣耀归给你。阿们。
+
 ## 应用思考
 
 第二诫教导我们，我们对上帝名字的使用直接反映了我们对上帝本身的态度。当我们咒骂、虚假地起誓、通过违背他的话语而欺骗，或通过伪善来伪装不信时，我们是在贬低上帝。但更重要的是，通过敬拜、祷告、赞美和感谢来正确使用上帝的名字，我们在承认上帝的主权和重要性。
@@ -59,7 +63,7 @@ Luther提出的"正确使用"包括多个方面：在困苦中呼求他的名字
 
 对现代信徒的启示：我们如何在社交媒体、日常交谈和工作场所中使用上帝的名字？我们是否真诚地祈祷，还是流于形式？我们是否通过生活见证上帝的荣耀，还是让虚伪的行为玷污他的名字？基督通过他的十字架为我们所有误用他名字的罪赎价，这应该激励我们用更大的敬虔和感谢来对待他的名字。
 
-**祷告**
+**延伸祷告**（非原书内容）
 
 主啊，赦免我们所有妄用你圣名的罪。求你赐我聪慧，使我在生活的每一刻都能尊重并正确地使用你的名字。请用你的恩典充满我的心，使我的言语、行为和思想都能荣耀你的名。阿们。
 

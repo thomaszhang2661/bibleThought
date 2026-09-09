@@ -23,6 +23,12 @@ What does this say about feeding my family, filing my taxes, filling my offering
 
 Do you remember that a thief was crucified with Jesus? That thief belonged on his cross because of his crimes. But do you remember that Jesus talked to that thief and promised him paradise? Doesn't the fact that the dying Savior would talk to a thief and promise him heaven say something to us? It should. For today the same Savior says to each one of us: "I will make a new person out of you. I will drain the greed out of your heart and life and teach you to love others. I will forgive you your sins, also the sins of stealing. And I will bring you to paradise." It's time today for us thieves to thank Jesus again.
 
+**Prayer:**
+"In sickness, sorrow, want, or care
+May we each other's burdens share;
+May we, where help is needed, there
+Give help as though to you." Amen. (CW 499:5)
+
 ## 中文翻译
 
 看到联系了吗？在第五诫中，上帝保护了生命的存在。在第六诫中，保护了生命的延续。现在在第七诫中，保护了维持生命的手段。如果在伊甸园中没有堕入罪，就不需要第七诫。相反，在爱中我们会使用地上的资源来维持自己并与他人分享。但罪把爱变成了贪婪，把分享变成了自私。
@@ -43,6 +49,12 @@ Do you remember that a thief was crucified with Jesus? That thief belonged on hi
 
 你还记得有一个小偷和耶稣一起被钉死在十字架上吗？那个小偷因他的罪行应该被钉在他自己的十字架上。但你还记得耶稣和那个小偷说话并承诺他天堂吗？垂死的救主和一个小偷说话并承诺他天堂这一事实，难道对我们没有说什么吗？应该有。因为今天同一位救主对我们每一个人说："我会把你变成一个新人。我会把贪婪从你的心和生活中排出，并教你爱他人。我会赦免你的罪，也包括盗窃的罪。我会把你带到天堂。"今天是时候让我们这些小偷再次感谢耶稣了。
 
+**祷告：**
+"在疾病、忧伤、缺乏或挂虑之中，
+愿我们彼此担当重担；
+愿我们在需要帮助之处，
+如同帮助你一般施以援手。"阿们。（CW 499:5）
+
 ## 应用思考
 
 第七诫是十诫中涉及财产权和经济伦理的诫命。Luther的分析深刻地揭示了盗窃的真正根源：不是外在的贫困或必需，而是内心对上帝的不信任和对拥有更多的贪婪。盗窃不仅涉及武装抢劫者这样的明显形式，还包括所有通过欺骗、剥削、疏忽或自私而夺取他人财产或权利的方式。
@@ -53,7 +65,7 @@ Luther特别重视"心"的问题。盗窃反映了一个根本的属灵问题：
 
 对现代信徒的启示：在消费文化中，盗窃的诱惑以许多隐蔽的形式出现。我们必须问自己：我们是否真正信任上帝的供应？我们的金钱和财产是否用来帮助他人并传播救恩信息？还是被用来积累个人财富？基督对与小偷十字架上的对话，表明了他对堕落者无限的同情和救赎的力量。
 
-**祷告**
+**延伸祷告**（非原书内容）
 
 主啊，赦免我们心中的贪婪和对你供应的不信任。求你打开我们的眼睛，使我们看到我们所有的一切都来自你的手。求你改变我们的心，使我们从追求自己的利益转向关切邻舍的需要，从渴望占有更多转向乐于分享和帮助。正如你通过耶稣对十字架上的小偷所做的那样，请也更新我们的心。阿们。
 

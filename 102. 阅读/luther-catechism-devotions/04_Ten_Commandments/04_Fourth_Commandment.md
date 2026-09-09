@@ -25,6 +25,8 @@ What an awesome responsibility to be God's "stand-in." As parents—to hold in o
 
 Thank the loving Father for his Son, Jesus! He put aside heavenly authority to bring us eternal gain. He followed his Father's will perfectly, even to the rough wood of the cross and the raging fires of hell, that we who so often dishonor, disrespect, and disregard authority might look forward with delight to heaven. While still on earth as his pardoned children, whether under or in authority, we can show our delight by the way we deal with each other.
 
+**Prayer:** Heavenly Father, help me in love to honor my earthly superiors so that I will be obedient to you. In Jesus' name. Amen.
+
 ## 中文翻译
 
 确实。现在还有多少人知道"确实"（forsooth）这样的词呢？还是"立刻"（forthwith）或"也许"（perchance）呢？这样的词在我们变化着的英语中已经很少被使用了。但有其他词是每天都在被使用的，虽然似乎很少有人真正理解。比如"权威"和"尊重"这样的词，或者把它们合在一起说，"对权威的尊重"。
@@ -47,6 +49,8 @@ Thank the loving Father for his Son, Jesus! He put aside heavenly authority to b
 
 感谢那位充满爱心的父亲有了他的儿子耶稣！他放弃了天上的权威，为我们带来永恒的收获。他完美地遵从了他父亲的旨意，甚至到了粗糙的十字架木头和地狱的熊熊烈火，使得我们这些经常不尊敬、不尊重和忽视权威的人，可以满心欢喜地期待天堂。在地上作为他饶恕的孩子，无论我们是在权威之下还是掌握权威，我们都能通过我们彼此对待的方式来表现我们的欢喜。
 
+**祷告：**天父啊，求你帮助我以爱心尊敬我在地上的尊长，好使我因此顺服你。奉耶稣的名求。阿们。
+
 ## 应用思考
 
 第四诫开启了"诫命的第二板"——讲述我们对邻舍的爱的诫命。有趣的是，上帝从对权威的尊敬开始，而非从其他形式的爱开始。这表明一个深刻的原则：秩序、权威和尊重是人类社会福祉的基础。Luther强调的关键洞见是：父母、官员、教师等不应因为他们个人的优越性而被尊敬，而是因为他们代表上帝的权威。这使得对权威的尊敬，本质上是对上帝主权的认可。
@@ -55,7 +59,7 @@ Luther同时也指出了权威者的责任：权威不是权力，而是对他�
 
 对现代信徒的启示：我们在多元和反权威的文化中面临挑战。第四诫教导我们，对父母的孝敬、对政府的顺从、对属灵领导的尊重，虽然在道德上有条件限制（当权威要求违背上帝的诫命时除外），但仍然是维持人类尊严和社会福祉的基石。同时，掌握权威者应当明白，他们掌握权威的最终目的是为了他人的福祉，这是一项神圣的责任。
 
-**祷告**
+**延伸祷告**（非原书内容）
 
 主啊，感谢你为我们树立了完美的权威的榜样——你谦卑地降卑自己，为我们的救赎献出生命。求你帮助我用尊敬之心对待那些掌握权威的人，因为他们代表你的权威。也求你赐智慧给掌握权威的人，使他们用爱和真诚的关切对待被他们管理的人。阿们。
 

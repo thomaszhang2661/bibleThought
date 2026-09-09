@@ -21,6 +21,8 @@ Not only do impure actions adulterate human hearts, so do impure words and thoug
 
 So what's the Christian to do? We have to live in a world that uses sex to sell, that portrays sex down to the last panting detail in its publications and productions, that disguises sexual innuendo as bright comedy. Swimming in such a polluted river, how can we avoid swallowing more than a mouthful, not to mention going under? Our chief defense is the Word. It refreshes in our hearts the will of God and the story of the Redeemer's love. It points out God's way and provides the power to walk it. It offers pardon when we fail and power to keep on trying. The more his Word fills our hearts with his great love for us in Christ, the more our lives will respond with Joseph, "How then could I do such a wicked thing and sin against God?" (Genesis 39:9).
 
+**Prayer:** Dear Lord Jesus, help me to be clean in what I think and say and do that I might serve you. Amen.
+
 ## 中文翻译
 
 你认为婚姻对上帝很重要吗？不是他在伊甸园通过把夏娃带给亚当来建立婚姻制度，使两人成为一体吗？不是道成肉身的上帝在迦拿的婚宴上行了他的第一个神迹吗？并且，不是他的灵通过保罗将丈夫与妻子的关系比作基督与教会的联合吗？为了保护他如此恩慈地赐予、且显然对他非常重要的东西，上帝制定了他的第六诫。
@@ -39,6 +41,8 @@ So what's the Christian to do? We have to live in a world that uses sex to sell,
 
 那么基督徒应该做什么呢？我们必须生活在一个用性来销售的世界，一个用最后一口喘息的细节描绘性的世界，在其出版物和作品中，一个把性暗示伪装成明亮喜剧的世界。在这样一条被污染的河中游泳，我们怎样才能避免吞下不止一口，更不用说被淹没呢？我们主要的防卫是话语。它刷新我们心中上帝的旨意和救赎者爱的故事。它指出上帝的道路，并提供走这条路的力量。当我们失败时，它提供赦免，并有力量继续尝试。他的话语用他在基督里对我们的伟大爱填满我们的心越多，我们的生命就会更多地以约瑟的方式回应，"那么我怎么能做这样一件邪恶的事，并得罪上帝呢？"（创世记39:9）。
 
+**祷告：**亲爱的主耶稣啊，求你帮助我在所思、所言、所行上都保持洁净，好使我能服事你。阿们。
+
 ## 应用思考
 
 第六诫触及人类最深层的欲望之一——性欲。Luther的论述表明，上帝对性的态度并非是禁欲或压制，而是对其进行圣化的限制。上帝设立婚姻不是为了束缚人，而是为了赐福人——使性的表达能够在爱、承诺和信任的框架中得到完全的充分。
@@ -47,7 +51,7 @@ Luther强调了一个关键洞见：不纯洁不仅是行为的问题，更是�
 
 对现代基督徒的挑战尤为严峻。我们生活在一个把性视为商品、通过媒体不断轰炸我们视觉的文化中。Luther提供的唯一有效的防卫是上帝的话语。通过不断回到上帝对我们的爱的提醒、基督的救赎故事、以及他对我们生命的美好计划，我们的心才能被更新，从而有力量拒绝诱惑。就像约瑟一样，当面对诱惑时，我们能够说："我怎么能做这样邪恶的事，得罪上帝呢？"
 
-**祷告**
+**延伸祷告**（非原书内容）
 
 主啊，赦免我们在思想、言语和行为中所有的不纯洁。求你洁净我们的心，使我们能够以你对婚姻和性的圣洁目的来看待这些恩赐。求你用你话语中关于基督的爱的真理填满我们的心，使我们能够在这个污染的世界中保持纯洁。阿们。
 

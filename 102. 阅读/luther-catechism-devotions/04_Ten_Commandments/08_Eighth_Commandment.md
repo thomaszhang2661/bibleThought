@@ -1,9 +1,11 @@
 # 第八诫 不可作假见证
 
 ## 核心诫命
-> You shall not bear false witness against your neighbor.
+> "You shall not give false testimony against your neighbor."
 
 ## 英文原文摘录
+
+The gift of speech brings with it much joy. What if we had no ability to say "I love you" or "I care"? What if there'd be no familiar voice on the other end of the long-distance phone call, no first word from a grandchild for our ears to hear? Much sunshine would be lost if the gift of speech were gone. Unfortunately, speech isn't always used to spread sunshine. At times it can fall like hail, denting a reputation, or burn like the desert sun, damaging a good name. Because a good name is a possession people can ill afford to lose and seldom regain, God has set down this commandment.
 
 **Destructive speech**
 
@@ -21,7 +23,19 @@ Tamed and trained by Christ, the tongue talks up for our neighbor's good. When w
 
 There's much for us as Christians to do with God's gift of speech, so much that there's no time left for foolishness. We believe in the one who said of himself, "I am the truth." We follow him whose filled cross and emptied tomb guarantees victory over Satan, "the father of lies." What better way of showing this than speaking the truth with one another?
 
+**Prayer:**
+"Keep me from saying things
+That later need recalling;
+Grant that no idle words
+May from my lips be falling,
+But then, when in my place
+I must and ought to speak,
+My words grant pow'r and grace
+Lest I offend the weak." Amen. (CW 459:3)
+
 ## 中文翻译
+
+言语的恩赐带来许多喜乐。假如我们没有能力说"我爱你"或"我在乎你"，那会怎样？假如长途电话的另一端没有熟悉的声音，我们的耳中听不到孙儿说出的第一个字，那会怎样？倘若言语的恩赐不复存在，许多阳光就会失落。可惜，言语并不总是被用来播撒阳光。有时它像冰雹一样落下，砸伤人的名声；或像沙漠的烈日一样炙烤，损毁人的美名。因为美名是人一旦失去便难以承受、且极少能重新得回的产业，所以上帝定下了这条诫命。
 
 **有害的言语**
 
@@ -39,6 +53,16 @@ There's much for us as Christians to do with God's gift of speech, so much that 
 
 作为基督徒，我们用上帝赐予的言语恩赐可以做许多事，以至于没有时间用于愚蠢的事。我们相信那位说"我就是真理"的人（14:6）。我们跟随他，他充满的十字架和空墓保证了对撒但（"谎言之父"）的胜利。还有什么比彼此说真话更能表明这一点呢？
 
+**祷告：**
+"求你拦阻我，不说
+日后需要收回的话；
+求你使闲言虚语
+不从我口中落下；
+但当我在自己的本分上
+必须、也应当开口时，
+求你赐我言语能力与恩典，
+免得我使软弱的人跌倒。"阿们。（CW 459:3）
+
 ## 应用思考
 
 这一诫命教导我们的首要功课是：我们的言语能力是来自上帝的极其珍贵的恩赐，但由于人的罪性，这份恩赐经常被用来伤害邻舍。第八诫不仅禁止在法庭上作假见证，更广泛地禁止所有任何形式用言语伤害邻舍声誉的行为——说谎、背叛、诋毁、闲言碎语、虚伪的恭维，甚至选择性地揭露他人的过错。
@@ -46,17 +70,6 @@ There's much for us as Christians to do with God's gift of speech, so much that 
 Luther揭示了这一诫命的根源在于"心病"：当罪把上帝逐出人心时，邻舍在我们眼中失去了价值。但基督的救赎之爱医治了这颗病心，使我们能够用言语服侍邻舍的益处。我们应该效法约拿单、拿单先知和基督本身的榜样，在合适的时刻说出真理，帮助他人悔改，为邻舍辩护，用善言扶持弱者。
 
 作为信仰者，我们相信真理本身——耶稣基督。与此相应，我们的言语应当反映这信仰，始终诚实、恩慈、建设性，而非虚假、伤害、毁灭性。
-
-**祷告**
-
-"使我不说那些
-后来需要收回的话语；
-赐我无閒言碎语
-从我的唇间流出。
-但当我所在的地方
-我必须且应当说话时，
-我的言语祈求力量和恩典
-免得我伤害软弱的人。"阿们。（路德宗经典诗歌459:3）
 
 ---
 *来源：As Luther Taught the Word of Truth - Devotions on the Small Catechism*

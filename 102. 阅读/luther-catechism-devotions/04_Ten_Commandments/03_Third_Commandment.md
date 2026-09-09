@@ -23,6 +23,8 @@ One thing kept the downed Air Force pilot going during his months in the Vietcon
 
 Almost every Sunday an elderly believer would voice his concern to me. Sig had refused to join the congregation until after his wife's death. Then he came because he wanted to find the peace she had shown in her struggle with the cancer that ended her life. Walking out of church on Sunday, he would lament to me, "Why was I so foolish? Why did I wait so long? Why did I cheat myself out of so much?" "Gladly," Luther said, "Gladly hear and learn it." Sig agreed. He knew what he had missed and how much he needed it. And he knew where to find Christ's precious rest for his soul—in the Word.
 
+**Prayer:** Lord, "Let your Word e'er be my pleasure and my heart's most precious treasure." Amen. (CW 283:1)
+
 ## 中文翻译
 
 有时候阴影会很有用。比如说，我在晴朗的夏日午后坐在房子后面的露台上，一边听收音机上的棒球比赛，一边放松。突然我听到车道上传来关车门的声音。我不必离开椅子，只需观察房子角落的阴影，就能了解即将到来的人的一些信息。这个阴影告诉我他的身高、体型和性别。当然，一旦访客绕过房子的角落，我就直接看他，而不是看阴影。
@@ -43,13 +45,15 @@ Almost every Sunday an elderly believer would voice his concern to me. Sig had r
 
 几乎每个星期天，一位年迈的信徒都会向我表达他的关切。西格在妻子去世后才拒绝加入教会。后来他来了，因为他想找到她在与癌症的斗争中所表现出来的那种平安——那种夺走了她生命的癌症。每个星期天从教堂走出来，他都会向我哀叹："我为什么那么愚蠢？我为什么等了那么久？我为什么欺骗了自己错失那么多？""欣然地，"路德说，"欣然听取并学习它。"西格同意。他知道他错过了什么，他多么需要它。他也知道在哪里找到基督为他灵魂提供的珍贵安息——在话语中。
 
+**祷告：**主啊，"愿你的道永作我的喜乐，作我心中至宝。"阿们。（CW 283:1）
+
 ## 应用思考
 
 第三诫的核心是邀请我们认识真正的安息的源头——不是来自一周一天的身体休息，而是来自我们与上帝通过耶稣基督所建立的和平关系。Luther的论述揭示了一个深刻的神学真理：旧约的安息日律法是基督的"影子"，当基督——真正的安息赐予者——来临时，我们就不再需要看影子，而是直接享受他所带来的完整安息。
 
 对现代基督徒的启示有二：其一，上帝的话语就是我们得享安息的唯一途径。我们必须像那位坠落的飞行员一样，珍视并反复咀嚼上帝的言语，使其成为我们生命中的喜乐和安慰。其二，真正的敬拜不是被迫的宗教义务，而是对上帝白白赐予的安息的欣然回应。缺乏对上帝话语的亲近和敬拜，就是欺骗了自己最珍贵的属灵财富。
 
-**祷告**
+**延伸祷告**（非原书内容）
 
 主啊，感谢你通过耶稣基督为我们带来的真正安息。求你开启我的耳朵，使我能够欣然听取并学习你的言语。愿你的话语在我心中成为我的喜乐和力量，愿我在生活的每一刻都能经历你所赐予的那平安与安息。阿们。
 

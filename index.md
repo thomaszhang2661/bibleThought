@@ -3096,8 +3096,8 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/06_Sixth_Commandment">06_Sixth_Commandment</a>
 <a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/07_Seventh_Commandment">07_Seventh_Commandment</a>
 <a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/08_Eighth_Commandment">08_Eighth_Commandment</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/09_Ninth_Commandment">09_Ninth_Commandment</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/10_Tenth_Commandment">10_Tenth_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/09_第九与第十诫">09_第九与第十诫</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/10_诫命的结语">10_诫命的结语</a>
 </details>
 <details class="tree-folder" id="102-阅读-luther-catechism-devotions-05-Lords-Prayer">
 <summary class="tree-dir">05_Lords_Prayer<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-05-Lords-Prayer">#</a></summary>

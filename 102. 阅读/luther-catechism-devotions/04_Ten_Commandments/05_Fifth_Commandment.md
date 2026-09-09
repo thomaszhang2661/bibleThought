@@ -27,6 +27,8 @@ Guilty? Of course we are. We haven't loved our neighbor as ourselves. If we did,
 
 Time to say it again—thank God for Jesus. Cleansed by his blood, covered by his grace, we have in him real life, full life, life that never ends.
 
+**Prayer:** Gracious Lord, thank you for the life that now is and that which is to come. Guide me in following the Savior's example in helping those in need. Amen.
+
 ## 中文翻译
 
 说出你最珍贵的地上财产。答案是"耶稣"吗？没有救主，我们真正拥有什么呢？那换个答案呢？难道不应该是"生命"吗？上帝似乎是这样认为的。在第五诫中，他在生命周围放置了一个保护盾——无论是我们自己的还是邻舍的。"别碰，"他说。"别伤害，也别伤害，"他命令说。这是有充分理由的。因为耶稣的恩赐和生命的恩赐之间有一个重要的联系。
@@ -51,6 +53,8 @@ Time to say it again—thank God for Jesus. Cleansed by his blood, covered by hi
 
 再说一遍的时候到了——感谢上帝有耶稣。被他的血洁净，被他的恩典遮盖，我们在他里面拥有真正的生命，充满的生命，永不终结的生命。
 
+**祷告：**施恩的主啊，感谢你赐下今生的生命和那将要来的生命。求你引导我效法救主的榜样，去帮助那些有需要的人。阿们。
+
 ## 应用思考
 
 第五诫围绕一个中心真理展开：生命是上帝的恩赐和专属产业。Luther深入阐述了这一诫命的三个关键层面：上帝赐予生命、上帝保护生命、上帝为生命设定了神圣目的。这表明谋杀远不仅仅是夺取他人生命，而是对上帝权柄和设计的直接冒犯。
@@ -59,7 +63,7 @@ Time to say it again—thank God for Jesus. Cleansed by his blood, covered by hi
 
 对现代基督徒的启示包括两个维度：消极的——避免所有形式伤害邻舍身体、情感和属灵生命的行为；积极的——主动关怀和帮助有需要的人，特别是帮助他们获得永恒的生命。基督对此的救赎示范是终极的：他没有以自卫的名义保护自己的生命，而是自愿献出生命来救赎我们。
 
-**祷告**
+**延伸祷告**（非原书内容）
 
 主啊，赦免我们对生命的所有不尊敬——无论是通过伤害、冷漠还是忽视。求你打开我们的眼睛，使我们看到每个人生命的珍贵价值，因为每个人都是按你的形象所造。帮助我们用你的爱心来关怀和帮助他人，特别是帮助他们认识你并获得永恒的生命。阿们。
 
