@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2817 篇文章
+共 2825 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -643,6 +643,11 @@ body_class: index-page
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/09_温柔英文">09_温柔英文</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/10_self-control 活出自制的生命">10_self-control 活出自制的生命</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/11_self-control">11_self-control</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/12_mercy">12_mercy</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/12_怜悯">12_怜悯</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_harvest of soul">260830_13_harvest of soul</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_灵魂的收成">260830_13_灵魂的收成</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260906_14_享受劳碌的果实">260906_14_享受劳碌的果实</a>
 </details>
 </details>
 <details class="tree-folder" id="99-讲道-罪就伏在我们门前">
@@ -1266,6 +1271,13 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/使徒信经/降在阴间/讲道-基督降入阴间-彼得前书3-18-20讲道研究">讲道-基督降入阴间-彼得前书3-18-20讲道研究</a>
 <a class="tree-file" href="101. 教义/使徒信经/降在阴间/论基督降入阴间 马丁路德">论基督降入阴间 马丁路德</a>
 <a class="tree-file" href="101. 教义/使徒信经/降在阴间/论文-基督降入阴间的时序与使徒信经之关系">论文-基督降入阴间的时序与使徒信经之关系</a>
+</details>
+</details>
+<details class="tree-folder" id="101-教义-关于小教义的查经学习">
+<summary class="tree-dir">关于小教义的查经学习<a class="anchor-link" href="#101-教义-关于小教义的查经学习">#</a></summary>
+<details class="tree-folder" id="101-教义-关于小教义的查经学习-十诫">
+<summary class="tree-dir">十诫<a class="anchor-link" href="#101-教义-关于小教义的查经学习-十诫">#</a></summary>
+<a class="tree-file" href="101. 教义/关于小教义的查经学习/十诫/第一诫">第一诫</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-十诫">
@@ -3031,39 +3043,32 @@ body_class: index-page
 <summary class="tree-dir">luther-catechism-devotions<a class="anchor-link" href="#102-阅读-luther-catechism-devotions">#</a></summary>
 <details class="tree-folder" id="102-阅读-luther-catechism-devotions-01-Creed-Article-1">
 <summary class="tree-dir">01_Creed-Article-1<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-01-Creed-Article-1">#</a></summary>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/00_浪子与父爱的恩典">00_浪子与父爱的恩典</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_meditation">01_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_感恩、赞美与侍奉">01_感恩、赞美与侍奉</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_meditation">02_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_第二条信经的奥秘">02_第二条信经的奥秘</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/03_meditation">03_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/04_meditation">04_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/05_meditation">05_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/06_meditation">06_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/07_meditation">07_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/08_meditation">08_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/09_meditation">09_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/10_meditation">10_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/11_meditation">11_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/12_meditation">12_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/13_meditation">13_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/14_meditation">14_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/15_meditation">15_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/16_meditation">16_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/17_meditation">17_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/18_meditation">18_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/19_meditation">19_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/20_meditation">20_meditation</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_我信">01_我信</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_我信全能的父神">02_我信全能的父神</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/03_创造天地的主">03_创造天地的主</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/04_神造了我：慈爱与长存的恩赐">04_神造了我：慈爱与长存的恩赐</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/05_神仍然保守我">05_神仍然保守我</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/06_丰富而每日的供应">06_丰富而每日的供应</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/07_保护我脱离一切危险">07_保护我脱离一切危险</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/08_天父所差遣的天使">08_天父所差遣的天使</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/09_浪子与父爱的恩典">09_浪子与父爱的恩典</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/01_Creed-Article-1/10_感恩、赞美与侍奉">10_感恩、赞美与侍奉</a>
 </details>
 <details class="tree-folder" id="102-阅读-luther-catechism-devotions-02-Creed-Article-2">
 <summary class="tree-dir">02_Creed-Article-2<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-02-Creed-Article-2">#</a></summary>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/00_新的主人">00_新的主人</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_meditation">01_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_新的生命">01_新的生命</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_meditation">02_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_超越我们的理解">02_超越我们的理解</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_meditation">03_meditation</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_真的是真人吗">03_真的是真人吗</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/00_第二条信经原文">00_第二条信经原文</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_超越我们的理解">01_超越我们的理解</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_真的是真人吗">02_真的是真人吗</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_一个奥秘">03_一个奥秘</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/04_他救赎了我">04_他救赎了我</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/05_购买和获胜我">05_购买和获胜我</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/06_降卑的状态">06_降卑的状态</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/07_被钉十字架、死亡与埋葬">07_被钉十字架、死亡与埋葬</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/08_下到地狱与复活">08_下到地狱与复活</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/09_升天与坐在右边">09_升天与坐在右边</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/10_最后的审判">10_最后的审判</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/11_新的主人">11_新的主人</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/02_Creed-Article-2/12_新的生命">12_新的生命</a>
 </details>
 <details class="tree-folder" id="102-阅读-luther-catechism-devotions-03-Creed-Article-3">
 <summary class="tree-dir">03_Creed-Article-3<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-03-Creed-Article-3">#</a></summary>
@@ -3083,18 +3088,16 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="102-阅读-luther-catechism-devotions-04-Ten-Commandments">
 <summary class="tree-dir">04_Ten_Commandments<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-04-Ten-Commandments">#</a></summary>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/01_Eighth_Commandment">01_Eighth_Commandment</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/02_Ninth_Commandment">02_Ninth_Commandment</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/03_Tenth_Commandment">03_Tenth_Commandment</a>
-</details>
-<details class="tree-folder" id="102-阅读-luther-catechism-devotions-05-Lords-Prayer">
-<summary class="tree-dir">05_Lords-Prayer<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-05-Lords-Prayer">#</a></summary>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/01_The-Address">01_The-Address</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/02_First-Petition-Hallowed">02_First-Petition-Hallowed</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/03_Second-Petition-Kingdom">03_Second-Petition-Kingdom</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/04_Third-Petition-Will">04_Third-Petition-Will</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/05_Fourth-Petition-Bread">05_Fourth-Petition-Bread</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords-Prayer/06_Fifth-Petition-Forgiveness">06_Fifth-Petition-Forgiveness</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/01_First_Commandment">01_First_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/02_Second_Commandment">02_Second_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/03_Third_Commandment">03_Third_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/04_Fourth_Commandment">04_Fourth_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/05_Fifth_Commandment">05_Fifth_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/06_Sixth_Commandment">06_Sixth_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/07_Seventh_Commandment">07_Seventh_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/08_Eighth_Commandment">08_Eighth_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/09_Ninth_Commandment">09_Ninth_Commandment</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/04_Ten_Commandments/10_Tenth_Commandment">10_Tenth_Commandment</a>
 </details>
 <details class="tree-folder" id="102-阅读-luther-catechism-devotions-05-Lords-Prayer">
 <summary class="tree-dir">05_Lords_Prayer<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-05-Lords-Prayer">#</a></summary>
@@ -3108,13 +3111,24 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords_Prayer/08_Seventh_Petition">08_Seventh_Petition</a>
 <a class="tree-file" href="102. 阅读/luther-catechism-devotions/05_Lords_Prayer/09_Doxology">09_Doxology</a>
 </details>
+<details class="tree-folder" id="102-阅读-luther-catechism-devotions-06-Baptism">
+<summary class="tree-dir">06_Baptism<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-06-Baptism">#</a></summary>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/06_Baptism/01_神的道与信心的力量">01_神的道与信心的力量</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/06_Baptism/02_圣洗礼的本质与神的道">02_圣洗礼的本质与神的道</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/06_Baptism/03_圣洗礼的祝福">03_圣洗礼的祝福</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/06_Baptism/04_感恩的凝视">04_感恩的凝视</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/06_Baptism/05_日日得洗">05_日日得洗</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/06_Baptism/06_悔改中的欢喜">06_悔改中的欢喜</a>
+</details>
 <details class="tree-folder" id="102-阅读-luther-catechism-devotions-07-Sacrament-of-Holy-Communion">
 <summary class="tree-dir">07_Sacrament-of-Holy-Communion<a class="anchor-link" href="#102-阅读-luther-catechism-devotions-07-Sacrament-of-Holy-Communion">#</a></summary>
 <a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/00_圣餐礼的教义">00_圣餐礼的教义</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/01_圣餐的真实性与重要性">01_圣餐的真实性与重要性</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/02_圣餐的祝福与确实">02_圣餐的祝福与确实</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/03_圣餐应许中的信心">03_圣餐应许中的信心</a>
-<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/04_作为配得的领餐者">04_作为配得的领餐者</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/01_主设的筵席">01_主设的筵席</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/02_主筵的丰盛">02_主筵的丰盛</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/03_圣餐的祝福">03_圣餐的祝福</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/04_为你">04_为你</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/05_神的道与应许">05_神的道与应许</a>
+<a class="tree-file" href="102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/06_合宜的预备">06_合宜的预备</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-一个不太可能的归信者的内心独白">

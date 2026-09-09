@@ -3346,14 +3346,54 @@
     "title": "11_self-control",
     "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/10_self-control 活出自制的生命",
     "prev_title": "10_self-control 活出自制的生命",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/12_mercy",
+    "next_title": "12_mercy"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/12_mercy.md",
+    "title": "12_mercy",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/11_self-control",
+    "prev_title": "11_self-control",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/12_怜悯",
+    "next_title": "12_怜悯"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/12_怜悯.md",
+    "title": "12_怜悯",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/12_mercy",
+    "prev_title": "12_mercy",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_harvest of soul",
+    "next_title": "260830_13_harvest of soul"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_harvest of soul.md",
+    "title": "260830_13_harvest of soul",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/12_怜悯",
+    "prev_title": "12_怜悯",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_灵魂的收成",
+    "next_title": "260830_13_灵魂的收成"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_灵魂的收成.md",
+    "title": "260830_13_灵魂的收成",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_harvest of soul",
+    "prev_title": "260830_13_harvest of soul",
+    "next_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260906_14_享受劳碌的果实",
+    "next_title": "260906_14_享受劳碌的果实"
+  },
+  {
+    "path": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260906_14_享受劳碌的果实.md",
+    "title": "260906_14_享受劳碌的果实",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_灵魂的收成",
+    "prev_title": "260830_13_灵魂的收成",
     "next_url": "99. 讲道/罪就伏在我们门前/查经系列",
     "next_title": "查经系列"
   },
   {
     "path": "99. 讲道/罪就伏在我们门前/查经系列.md",
     "title": "查经系列",
-    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/11_self-control",
-    "prev_title": "11_self-control",
+    "prev_url": "99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260906_14_享受劳碌的果实",
+    "prev_title": "260906_14_享受劳碌的果实",
     "next_url": "99. 讲道/罪就伏在我们门前/罪就伏在我们门前--我们小看了罪，也小看了赦免",
     "next_title": "罪就伏在我们门前--我们小看了罪，也小看了赦免"
   },
@@ -6986,14 +7026,22 @@
     "title": "论文-基督降入阴间的时序与使徒信经之关系",
     "prev_url": "101. 教义/使徒信经/降在阴间/论基督降入阴间 马丁路德",
     "prev_title": "论基督降入阴间 马丁路德",
+    "next_url": "101. 教义/关于小教义的查经学习/十诫/第一诫",
+    "next_title": "第一诫"
+  },
+  {
+    "path": "101. 教义/关于小教义的查经学习/十诫/第一诫.md",
+    "title": "第一诫",
+    "prev_url": "101. 教义/使徒信经/降在阴间/论文-基督降入阴间的时序与使徒信经之关系",
+    "prev_title": "论文-基督降入阴间的时序与使徒信经之关系",
     "next_url": "101. 教义/十诫/02-第二诫/郑牧师",
     "next_title": "郑牧师"
   },
   {
     "path": "101. 教义/十诫/02-第二诫/郑牧师.md",
     "title": "郑牧师",
-    "prev_url": "101. 教义/使徒信经/降在阴间/论文-基督降入阴间的时序与使徒信经之关系",
-    "prev_title": "论文-基督降入阴间的时序与使徒信经之关系",
+    "prev_url": "101. 教义/关于小教义的查经学习/十诫/第一诫",
+    "prev_title": "第一诫",
     "next_url": "101. 教义/十诫/03-第三诫命/关于集权政府的问题",
     "next_title": "关于集权政府的问题"
   },
@@ -18794,254 +18842,198 @@
     "title": "README",
     "prev_url": "102. 阅读/Getting_to_YES/10_十个常见问题",
     "prev_title": "10_十个常见问题",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/00_浪子与父爱的恩典",
-    "next_title": "00_浪子与父爱的恩典"
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_我信",
+    "next_title": "01_我信"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/00_浪子与父爱的恩典.md",
-    "title": "00_浪子与父爱的恩典",
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_我信.md",
+    "title": "01_我信",
     "prev_url": "102. 阅读/Getting_to_YES/README",
     "prev_title": "README",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_meditation",
-    "next_title": "01_meditation"
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_我信全能的父神",
+    "next_title": "02_我信全能的父神"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_meditation.md",
-    "title": "01_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/00_浪子与父爱的恩典",
-    "prev_title": "00_浪子与父爱的恩典",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_感恩、赞美与侍奉",
-    "next_title": "01_感恩、赞美与侍奉"
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_我信全能的父神.md",
+    "title": "02_我信全能的父神",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_我信",
+    "prev_title": "01_我信",
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/03_创造天地的主",
+    "next_title": "03_创造天地的主"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_感恩、赞美与侍奉.md",
-    "title": "01_感恩、赞美与侍奉",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_meditation",
-    "prev_title": "01_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_meditation",
-    "next_title": "02_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/03_创造天地的主.md",
+    "title": "03_创造天地的主",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_我信全能的父神",
+    "prev_title": "02_我信全能的父神",
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/04_神造了我：慈爱与长存的恩赐",
+    "next_title": "04_神造了我：慈爱与长存的恩赐"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_meditation.md",
-    "title": "02_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/01_感恩、赞美与侍奉",
-    "prev_title": "01_感恩、赞美与侍奉",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_第二条信经的奥秘",
-    "next_title": "02_第二条信经的奥秘"
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/04_神造了我：慈爱与长存的恩赐.md",
+    "title": "04_神造了我：慈爱与长存的恩赐",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/03_创造天地的主",
+    "prev_title": "03_创造天地的主",
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/05_神仍然保守我",
+    "next_title": "05_神仍然保守我"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_第二条信经的奥秘.md",
-    "title": "02_第二条信经的奥秘",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_meditation",
-    "prev_title": "02_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/03_meditation",
-    "next_title": "03_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/05_神仍然保守我.md",
+    "title": "05_神仍然保守我",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/04_神造了我：慈爱与长存的恩赐",
+    "prev_title": "04_神造了我：慈爱与长存的恩赐",
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/06_丰富而每日的供应",
+    "next_title": "06_丰富而每日的供应"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/03_meditation.md",
-    "title": "03_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/02_第二条信经的奥秘",
-    "prev_title": "02_第二条信经的奥秘",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/04_meditation",
-    "next_title": "04_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/06_丰富而每日的供应.md",
+    "title": "06_丰富而每日的供应",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/05_神仍然保守我",
+    "prev_title": "05_神仍然保守我",
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/07_保护我脱离一切危险",
+    "next_title": "07_保护我脱离一切危险"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/04_meditation.md",
-    "title": "04_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/03_meditation",
-    "prev_title": "03_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/05_meditation",
-    "next_title": "05_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/07_保护我脱离一切危险.md",
+    "title": "07_保护我脱离一切危险",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/06_丰富而每日的供应",
+    "prev_title": "06_丰富而每日的供应",
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/08_天父所差遣的天使",
+    "next_title": "08_天父所差遣的天使"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/05_meditation.md",
-    "title": "05_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/04_meditation",
-    "prev_title": "04_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/06_meditation",
-    "next_title": "06_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/08_天父所差遣的天使.md",
+    "title": "08_天父所差遣的天使",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/07_保护我脱离一切危险",
+    "prev_title": "07_保护我脱离一切危险",
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/09_浪子与父爱的恩典",
+    "next_title": "09_浪子与父爱的恩典"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/06_meditation.md",
-    "title": "06_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/05_meditation",
-    "prev_title": "05_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/07_meditation",
-    "next_title": "07_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/09_浪子与父爱的恩典.md",
+    "title": "09_浪子与父爱的恩典",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/08_天父所差遣的天使",
+    "prev_title": "08_天父所差遣的天使",
+    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/10_感恩、赞美与侍奉",
+    "next_title": "10_感恩、赞美与侍奉"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/07_meditation.md",
-    "title": "07_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/06_meditation",
-    "prev_title": "06_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/08_meditation",
-    "next_title": "08_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/10_感恩、赞美与侍奉.md",
+    "title": "10_感恩、赞美与侍奉",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/09_浪子与父爱的恩典",
+    "prev_title": "09_浪子与父爱的恩典",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/00_第二条信经原文",
+    "next_title": "00_第二条信经原文"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/08_meditation.md",
-    "title": "08_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/07_meditation",
-    "prev_title": "07_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/09_meditation",
-    "next_title": "09_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/00_第二条信经原文.md",
+    "title": "00_第二条信经原文",
+    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/10_感恩、赞美与侍奉",
+    "prev_title": "10_感恩、赞美与侍奉",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_超越我们的理解",
+    "next_title": "01_超越我们的理解"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/09_meditation.md",
-    "title": "09_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/08_meditation",
-    "prev_title": "08_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/10_meditation",
-    "next_title": "10_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_超越我们的理解.md",
+    "title": "01_超越我们的理解",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/00_第二条信经原文",
+    "prev_title": "00_第二条信经原文",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_真的是真人吗",
+    "next_title": "02_真的是真人吗"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/10_meditation.md",
-    "title": "10_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/09_meditation",
-    "prev_title": "09_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/11_meditation",
-    "next_title": "11_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_真的是真人吗.md",
+    "title": "02_真的是真人吗",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_超越我们的理解",
+    "prev_title": "01_超越我们的理解",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_一个奥秘",
+    "next_title": "03_一个奥秘"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/11_meditation.md",
-    "title": "11_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/10_meditation",
-    "prev_title": "10_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/12_meditation",
-    "next_title": "12_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_一个奥秘.md",
+    "title": "03_一个奥秘",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_真的是真人吗",
+    "prev_title": "02_真的是真人吗",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/04_他救赎了我",
+    "next_title": "04_他救赎了我"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/12_meditation.md",
-    "title": "12_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/11_meditation",
-    "prev_title": "11_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/13_meditation",
-    "next_title": "13_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/04_他救赎了我.md",
+    "title": "04_他救赎了我",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_一个奥秘",
+    "prev_title": "03_一个奥秘",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/05_购买和获胜我",
+    "next_title": "05_购买和获胜我"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/13_meditation.md",
-    "title": "13_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/12_meditation",
-    "prev_title": "12_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/14_meditation",
-    "next_title": "14_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/05_购买和获胜我.md",
+    "title": "05_购买和获胜我",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/04_他救赎了我",
+    "prev_title": "04_他救赎了我",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/06_降卑的状态",
+    "next_title": "06_降卑的状态"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/14_meditation.md",
-    "title": "14_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/13_meditation",
-    "prev_title": "13_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/15_meditation",
-    "next_title": "15_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/06_降卑的状态.md",
+    "title": "06_降卑的状态",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/05_购买和获胜我",
+    "prev_title": "05_购买和获胜我",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/07_被钉十字架、死亡与埋葬",
+    "next_title": "07_被钉十字架、死亡与埋葬"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/15_meditation.md",
-    "title": "15_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/14_meditation",
-    "prev_title": "14_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/16_meditation",
-    "next_title": "16_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/07_被钉十字架、死亡与埋葬.md",
+    "title": "07_被钉十字架、死亡与埋葬",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/06_降卑的状态",
+    "prev_title": "06_降卑的状态",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/08_下到地狱与复活",
+    "next_title": "08_下到地狱与复活"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/16_meditation.md",
-    "title": "16_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/15_meditation",
-    "prev_title": "15_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/17_meditation",
-    "next_title": "17_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/08_下到地狱与复活.md",
+    "title": "08_下到地狱与复活",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/07_被钉十字架、死亡与埋葬",
+    "prev_title": "07_被钉十字架、死亡与埋葬",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/09_升天与坐在右边",
+    "next_title": "09_升天与坐在右边"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/17_meditation.md",
-    "title": "17_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/16_meditation",
-    "prev_title": "16_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/18_meditation",
-    "next_title": "18_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/09_升天与坐在右边.md",
+    "title": "09_升天与坐在右边",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/08_下到地狱与复活",
+    "prev_title": "08_下到地狱与复活",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/10_最后的审判",
+    "next_title": "10_最后的审判"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/18_meditation.md",
-    "title": "18_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/17_meditation",
-    "prev_title": "17_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/19_meditation",
-    "next_title": "19_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/10_最后的审判.md",
+    "title": "10_最后的审判",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/09_升天与坐在右边",
+    "prev_title": "09_升天与坐在右边",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/11_新的主人",
+    "next_title": "11_新的主人"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/19_meditation.md",
-    "title": "19_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/18_meditation",
-    "prev_title": "18_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/20_meditation",
-    "next_title": "20_meditation"
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/11_新的主人.md",
+    "title": "11_新的主人",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/10_最后的审判",
+    "prev_title": "10_最后的审判",
+    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/12_新的生命",
+    "next_title": "12_新的生命"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/20_meditation.md",
-    "title": "20_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/19_meditation",
-    "prev_title": "19_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/00_新的主人",
-    "next_title": "00_新的主人"
-  },
-  {
-    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/00_新的主人.md",
-    "title": "00_新的主人",
-    "prev_url": "102. 阅读/luther-catechism-devotions/01_Creed-Article-1/20_meditation",
-    "prev_title": "20_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_meditation",
-    "next_title": "01_meditation"
-  },
-  {
-    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_meditation.md",
-    "title": "01_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/00_新的主人",
-    "prev_title": "00_新的主人",
-    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_新的生命",
-    "next_title": "01_新的生命"
-  },
-  {
-    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_新的生命.md",
-    "title": "01_新的生命",
-    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_meditation",
-    "prev_title": "01_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_meditation",
-    "next_title": "02_meditation"
-  },
-  {
-    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_meditation.md",
-    "title": "02_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/01_新的生命",
-    "prev_title": "01_新的生命",
-    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_超越我们的理解",
-    "next_title": "02_超越我们的理解"
-  },
-  {
-    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_超越我们的理解.md",
-    "title": "02_超越我们的理解",
-    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_meditation",
-    "prev_title": "02_meditation",
-    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_meditation",
-    "next_title": "03_meditation"
-  },
-  {
-    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_meditation.md",
-    "title": "03_meditation",
-    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/02_超越我们的理解",
-    "prev_title": "02_超越我们的理解",
-    "next_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_真的是真人吗",
-    "next_title": "03_真的是真人吗"
-  },
-  {
-    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_真的是真人吗.md",
-    "title": "03_真的是真人吗",
-    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_meditation",
-    "prev_title": "03_meditation",
+    "path": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/12_新的生命.md",
+    "title": "12_新的生命",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/11_新的主人",
+    "prev_title": "11_新的主人",
     "next_url": "102. 阅读/luther-catechism-devotions/03_Creed-Article-3/00_圣灵是谁",
     "next_title": "00_圣灵是谁"
   },
   {
     "path": "102. 阅读/luther-catechism-devotions/03_Creed-Article-3/00_圣灵是谁.md",
     "title": "00_圣灵是谁",
-    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/03_真的是真人吗",
-    "prev_title": "03_真的是真人吗",
+    "prev_url": "102. 阅读/luther-catechism-devotions/02_Creed-Article-2/12_新的生命",
+    "prev_title": "12_新的生命",
     "next_url": "102. 阅读/luther-catechism-devotions/03_Creed-Article-3/01_圣灵的工作",
     "next_title": "01_圣灵的工作"
   },
@@ -19138,86 +19130,94 @@
     "title": "12_永恒的生命",
     "prev_url": "102. 阅读/luther-catechism-devotions/03_Creed-Article-3/11_身体的复活",
     "prev_title": "11_身体的复活",
-    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/01_Eighth_Commandment",
-    "next_title": "01_Eighth_Commandment"
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/01_First_Commandment",
+    "next_title": "01_First_Commandment"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/01_Eighth_Commandment.md",
-    "title": "01_Eighth_Commandment",
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/01_First_Commandment.md",
+    "title": "01_First_Commandment",
     "prev_url": "102. 阅读/luther-catechism-devotions/03_Creed-Article-3/12_永恒的生命",
     "prev_title": "12_永恒的生命",
-    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/02_Ninth_Commandment",
-    "next_title": "02_Ninth_Commandment"
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/02_Second_Commandment",
+    "next_title": "02_Second_Commandment"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/02_Ninth_Commandment.md",
-    "title": "02_Ninth_Commandment",
-    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/01_Eighth_Commandment",
-    "prev_title": "01_Eighth_Commandment",
-    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/03_Tenth_Commandment",
-    "next_title": "03_Tenth_Commandment"
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/02_Second_Commandment.md",
+    "title": "02_Second_Commandment",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/01_First_Commandment",
+    "prev_title": "01_First_Commandment",
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/03_Third_Commandment",
+    "next_title": "03_Third_Commandment"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/03_Tenth_Commandment.md",
-    "title": "03_Tenth_Commandment",
-    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/02_Ninth_Commandment",
-    "prev_title": "02_Ninth_Commandment",
-    "next_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/01_The-Address",
-    "next_title": "01_The-Address"
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/03_Third_Commandment.md",
+    "title": "03_Third_Commandment",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/02_Second_Commandment",
+    "prev_title": "02_Second_Commandment",
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/04_Fourth_Commandment",
+    "next_title": "04_Fourth_Commandment"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/01_The-Address.md",
-    "title": "01_The-Address",
-    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/03_Tenth_Commandment",
-    "prev_title": "03_Tenth_Commandment",
-    "next_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/02_First-Petition-Hallowed",
-    "next_title": "02_First-Petition-Hallowed"
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/04_Fourth_Commandment.md",
+    "title": "04_Fourth_Commandment",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/03_Third_Commandment",
+    "prev_title": "03_Third_Commandment",
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/05_Fifth_Commandment",
+    "next_title": "05_Fifth_Commandment"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/02_First-Petition-Hallowed.md",
-    "title": "02_First-Petition-Hallowed",
-    "prev_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/01_The-Address",
-    "prev_title": "01_The-Address",
-    "next_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/03_Second-Petition-Kingdom",
-    "next_title": "03_Second-Petition-Kingdom"
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/05_Fifth_Commandment.md",
+    "title": "05_Fifth_Commandment",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/04_Fourth_Commandment",
+    "prev_title": "04_Fourth_Commandment",
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/06_Sixth_Commandment",
+    "next_title": "06_Sixth_Commandment"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/03_Second-Petition-Kingdom.md",
-    "title": "03_Second-Petition-Kingdom",
-    "prev_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/02_First-Petition-Hallowed",
-    "prev_title": "02_First-Petition-Hallowed",
-    "next_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/04_Third-Petition-Will",
-    "next_title": "04_Third-Petition-Will"
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/06_Sixth_Commandment.md",
+    "title": "06_Sixth_Commandment",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/05_Fifth_Commandment",
+    "prev_title": "05_Fifth_Commandment",
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/07_Seventh_Commandment",
+    "next_title": "07_Seventh_Commandment"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/04_Third-Petition-Will.md",
-    "title": "04_Third-Petition-Will",
-    "prev_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/03_Second-Petition-Kingdom",
-    "prev_title": "03_Second-Petition-Kingdom",
-    "next_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/05_Fourth-Petition-Bread",
-    "next_title": "05_Fourth-Petition-Bread"
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/07_Seventh_Commandment.md",
+    "title": "07_Seventh_Commandment",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/06_Sixth_Commandment",
+    "prev_title": "06_Sixth_Commandment",
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/08_Eighth_Commandment",
+    "next_title": "08_Eighth_Commandment"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/05_Fourth-Petition-Bread.md",
-    "title": "05_Fourth-Petition-Bread",
-    "prev_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/04_Third-Petition-Will",
-    "prev_title": "04_Third-Petition-Will",
-    "next_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/06_Fifth-Petition-Forgiveness",
-    "next_title": "06_Fifth-Petition-Forgiveness"
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/08_Eighth_Commandment.md",
+    "title": "08_Eighth_Commandment",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/07_Seventh_Commandment",
+    "prev_title": "07_Seventh_Commandment",
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/09_Ninth_Commandment",
+    "next_title": "09_Ninth_Commandment"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/06_Fifth-Petition-Forgiveness.md",
-    "title": "06_Fifth-Petition-Forgiveness",
-    "prev_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/05_Fourth-Petition-Bread",
-    "prev_title": "05_Fourth-Petition-Bread",
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/09_Ninth_Commandment.md",
+    "title": "09_Ninth_Commandment",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/08_Eighth_Commandment",
+    "prev_title": "08_Eighth_Commandment",
+    "next_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/10_Tenth_Commandment",
+    "next_title": "10_Tenth_Commandment"
+  },
+  {
+    "path": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/10_Tenth_Commandment.md",
+    "title": "10_Tenth_Commandment",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/09_Ninth_Commandment",
+    "prev_title": "09_Ninth_Commandment",
     "next_url": "102. 阅读/luther-catechism-devotions/05_Lords_Prayer/01_The_Address",
     "next_title": "01_The_Address"
   },
   {
     "path": "102. 阅读/luther-catechism-devotions/05_Lords_Prayer/01_The_Address.md",
     "title": "01_The_Address",
-    "prev_url": "102. 阅读/luther-catechism-devotions/05_Lords-Prayer/06_Fifth-Petition-Forgiveness",
-    "prev_title": "06_Fifth-Petition-Forgiveness",
+    "prev_url": "102. 阅读/luther-catechism-devotions/04_Ten_Commandments/10_Tenth_Commandment",
+    "prev_title": "10_Tenth_Commandment",
     "next_url": "102. 阅读/luther-catechism-devotions/05_Lords_Prayer/02_First_Petition",
     "next_title": "02_First_Petition"
   },
@@ -19282,54 +19282,118 @@
     "title": "09_Doxology",
     "prev_url": "102. 阅读/luther-catechism-devotions/05_Lords_Prayer/08_Seventh_Petition",
     "prev_title": "08_Seventh_Petition",
+    "next_url": "102. 阅读/luther-catechism-devotions/06_Baptism/01_神的道与信心的力量",
+    "next_title": "01_神的道与信心的力量"
+  },
+  {
+    "path": "102. 阅读/luther-catechism-devotions/06_Baptism/01_神的道与信心的力量.md",
+    "title": "01_神的道与信心的力量",
+    "prev_url": "102. 阅读/luther-catechism-devotions/05_Lords_Prayer/09_Doxology",
+    "prev_title": "09_Doxology",
+    "next_url": "102. 阅读/luther-catechism-devotions/06_Baptism/02_圣洗礼的本质与神的道",
+    "next_title": "02_圣洗礼的本质与神的道"
+  },
+  {
+    "path": "102. 阅读/luther-catechism-devotions/06_Baptism/02_圣洗礼的本质与神的道.md",
+    "title": "02_圣洗礼的本质与神的道",
+    "prev_url": "102. 阅读/luther-catechism-devotions/06_Baptism/01_神的道与信心的力量",
+    "prev_title": "01_神的道与信心的力量",
+    "next_url": "102. 阅读/luther-catechism-devotions/06_Baptism/03_圣洗礼的祝福",
+    "next_title": "03_圣洗礼的祝福"
+  },
+  {
+    "path": "102. 阅读/luther-catechism-devotions/06_Baptism/03_圣洗礼的祝福.md",
+    "title": "03_圣洗礼的祝福",
+    "prev_url": "102. 阅读/luther-catechism-devotions/06_Baptism/02_圣洗礼的本质与神的道",
+    "prev_title": "02_圣洗礼的本质与神的道",
+    "next_url": "102. 阅读/luther-catechism-devotions/06_Baptism/04_感恩的凝视",
+    "next_title": "04_感恩的凝视"
+  },
+  {
+    "path": "102. 阅读/luther-catechism-devotions/06_Baptism/04_感恩的凝视.md",
+    "title": "04_感恩的凝视",
+    "prev_url": "102. 阅读/luther-catechism-devotions/06_Baptism/03_圣洗礼的祝福",
+    "prev_title": "03_圣洗礼的祝福",
+    "next_url": "102. 阅读/luther-catechism-devotions/06_Baptism/05_日日得洗",
+    "next_title": "05_日日得洗"
+  },
+  {
+    "path": "102. 阅读/luther-catechism-devotions/06_Baptism/05_日日得洗.md",
+    "title": "05_日日得洗",
+    "prev_url": "102. 阅读/luther-catechism-devotions/06_Baptism/04_感恩的凝视",
+    "prev_title": "04_感恩的凝视",
+    "next_url": "102. 阅读/luther-catechism-devotions/06_Baptism/06_悔改中的欢喜",
+    "next_title": "06_悔改中的欢喜"
+  },
+  {
+    "path": "102. 阅读/luther-catechism-devotions/06_Baptism/06_悔改中的欢喜.md",
+    "title": "06_悔改中的欢喜",
+    "prev_url": "102. 阅读/luther-catechism-devotions/06_Baptism/05_日日得洗",
+    "prev_title": "05_日日得洗",
     "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/00_圣餐礼的教义",
     "next_title": "00_圣餐礼的教义"
   },
   {
     "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/00_圣餐礼的教义.md",
     "title": "00_圣餐礼的教义",
-    "prev_url": "102. 阅读/luther-catechism-devotions/05_Lords_Prayer/09_Doxology",
-    "prev_title": "09_Doxology",
-    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/01_圣餐的真实性与重要性",
-    "next_title": "01_圣餐的真实性与重要性"
+    "prev_url": "102. 阅读/luther-catechism-devotions/06_Baptism/06_悔改中的欢喜",
+    "prev_title": "06_悔改中的欢喜",
+    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/01_主设的筵席",
+    "next_title": "01_主设的筵席"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/01_圣餐的真实性与重要性.md",
-    "title": "01_圣餐的真实性与重要性",
+    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/01_主设的筵席.md",
+    "title": "01_主设的筵席",
     "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/00_圣餐礼的教义",
     "prev_title": "00_圣餐礼的教义",
-    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/02_圣餐的祝福与确实",
-    "next_title": "02_圣餐的祝福与确实"
+    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/02_主筵的丰盛",
+    "next_title": "02_主筵的丰盛"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/02_圣餐的祝福与确实.md",
-    "title": "02_圣餐的祝福与确实",
-    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/01_圣餐的真实性与重要性",
-    "prev_title": "01_圣餐的真实性与重要性",
-    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/03_圣餐应许中的信心",
-    "next_title": "03_圣餐应许中的信心"
+    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/02_主筵的丰盛.md",
+    "title": "02_主筵的丰盛",
+    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/01_主设的筵席",
+    "prev_title": "01_主设的筵席",
+    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/03_圣餐的祝福",
+    "next_title": "03_圣餐的祝福"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/03_圣餐应许中的信心.md",
-    "title": "03_圣餐应许中的信心",
-    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/02_圣餐的祝福与确实",
-    "prev_title": "02_圣餐的祝福与确实",
-    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/04_作为配得的领餐者",
-    "next_title": "04_作为配得的领餐者"
+    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/03_圣餐的祝福.md",
+    "title": "03_圣餐的祝福",
+    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/02_主筵的丰盛",
+    "prev_title": "02_主筵的丰盛",
+    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/04_为你",
+    "next_title": "04_为你"
   },
   {
-    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/04_作为配得的领餐者.md",
-    "title": "04_作为配得的领餐者",
-    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/03_圣餐应许中的信心",
-    "prev_title": "03_圣餐应许中的信心",
+    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/04_为你.md",
+    "title": "04_为你",
+    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/03_圣餐的祝福",
+    "prev_title": "03_圣餐的祝福",
+    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/05_神的道与应许",
+    "next_title": "05_神的道与应许"
+  },
+  {
+    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/05_神的道与应许.md",
+    "title": "05_神的道与应许",
+    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/04_为你",
+    "prev_title": "04_为你",
+    "next_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/06_合宜的预备",
+    "next_title": "06_合宜的预备"
+  },
+  {
+    "path": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/06_合宜的预备.md",
+    "title": "06_合宜的预备",
+    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/05_神的道与应许",
+    "prev_title": "05_神的道与应许",
     "next_url": "102. 阅读/一个不太可能的归信者的内心独白/01_归信与和平的福音",
     "next_title": "01_归信与和平的福音"
   },
   {
     "path": "102. 阅读/一个不太可能的归信者的内心独白/01_归信与和平的福音.md",
     "title": "01_归信与和平的福音",
-    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/04_作为配得的领餐者",
-    "prev_title": "04_作为配得的领餐者",
+    "prev_url": "102. 阅读/luther-catechism-devotions/07_Sacrament-of-Holy-Communion/06_合宜的预备",
+    "prev_title": "06_合宜的预备",
     "next_url": "102. 阅读/一个不太可能的归信者的内心独白/02_悔改与所多玛的罪",
     "next_title": "02_悔改与所多玛的罪"
   },

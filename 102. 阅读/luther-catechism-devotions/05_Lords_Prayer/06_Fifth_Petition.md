@@ -1,38 +1,81 @@
-# 主祷文的第五祈求 免我们的债，如同我们免了欠我们债的人
+# 主祷文的第五祈求 赦免我们的罪，如同我们赦免得罪我们的人
 
 ## 祷告词
 > Forgive us our sins, as we forgive those who sin against us.
 
 ## 小教义问答的解释
-> We pray in this petition that our Father in heaven would not look upon our sins or because of them deny our prayers; for we are worthy of none of the things for which we ask, neither have we deserved them, but we ask that he would give them all to us by grace; for we daily sin much and surely deserve nothing but punishment.
+> God will not forgive us if we do not forgive those who sin against us, but in this petition we ask for his forgiveness.
 >
-> So we too will forgive from the heart and gladly do good to those who sin against us.
+> What does "forgiveness of sins" mean?
+>
+> Forgiveness of sins means that God, because of Christ's death on the cross, pardons us completely. It means he removes the guilt and burden of sin from our consciences and the eternal punishment of sin from our souls. It means that through Christ we are declared just and innocent before God.
 
 ## 英文原文摘录
 
-The Fifth Petition addresses the core human condition of sin and the need for forgiveness. It connects God's forgiveness of us with our forgiveness of others, establishing a mutual relationship. The petition acknowledges that we daily commit sins and deserve punishment, but we appeal to God's grace rather than his justice. We also commit ourselves to extending this same forgiveness to those who wrong us.
+"Forgive us our sins, as we forgive those who sin against us."
+
+Which is the greatest petition in the Lord's Prayer? Can there be any doubt? It has to be the Fifth Petition, with its words about forgiveness of sins. Unless we pray this petition, we cannot pray any of the others. We must have forgiveness before we can carry anything to God in prayer. Also, once we have experienced divine forgiveness, we extend it to others.
+
+**Our greatest need**
+
+What a motivator need is. Before we seek a doctor's help, we have to feel our sickness. Before we say "help me" to anyone about anything, need has to press our nose to the floor. So also with our prayer to God for his forgiveness. Can it be that at times we slide over the words of this petition or speak them listlessly because we don't feel our pressing need?
+
+Not King David. He tried to anesthetize his conscience and cover his sins of adultery and murder. But the more he tried, the more he felt God's heavy hand. Only when he confessed "Against you, you only, have I sinned and done what is evil in your sight," could he revel in the joy of God's salvation (Psalm 51:4). Not Simon Peter. He warmed his hands and singed his soul that Thursday night around the campfire in the high priest's courtyard. His tears came, but not because his blustery denial and bold-faced lying felt light as a feather to him. Not the apostle Paul either. "Chief of sinners" he kept on labeling himself, even as he marveled at God's grace that would turn a persecutor into a preacher.
+
+"Not like them," are we thinking? "My sins are not so great, my need for forgiveness not so heavy," are we theorizing? Watch out! The cataracts sin grows over our eyes and the macular degeneration it causes in our vision blur our view of sin. When God said "Be holy because I, the LORD your God, am holy," he wasn't suggesting that he might be satisfied with something less than one hundred percent from us (Leviticus 19:2). When his apostle said "Everyone who sins breaks the law," he wasn't setting up some kind of sin-o-meter with which to measure the seriousness of our sins (1 John 3:4). In God's eyes, every thought, word, or deed that misses the mark of his commandments is not just a debt that burdens but one that breaks the sinner's back. When we pray this petition, and we need to do so daily, we are asking God to awaken our conscience to our many sins and our pressing need for daily forgiveness.
+
+**Our greatest gift**
+
+On Calvary's cross God did what the burdened sinner could not do. He cleared our account by drawing a crimson line through our debt. "The blood of Jesus, his Son, purifies us from all sin," the apostle assures us (1 John 1:7). Don't think it was easy for God to forgive our sins. It cost him the best he had, his eternal Son, and it cost that Son the best he had, his life. Don't think either that God had to prepare forgiveness for us. Not what was in us but what was in him prompted that forgiveness. His love drove him, a love that can only be divine. His grace reaches for us, a grace that offers sinners what they don't deserve.
+
+At Calvary, God prepared full forgiveness for our every sin. When we pray this petition, we are asking him to assure our hearts of this great treasure. How can we close our eyes in peace at night without using this petition for one more glance at Calvary's cross?
+
+**Our greatest response**
+
+Someone once wrote, "To repay good with evil is devil-like. To repay evil with evil is beastlike. To repay good with good is manlike. To repay evil with good is Godlike." How true! When we pray "as we forgive those who sin against us," we are asking God for his assistance to make us more like him. We're not cutting a deal with him in which he promises to forgive us because we forgive those around us. We're stating a blessed fact. Because he has forgiven our many sins, we, as a result, offer the same forgiveness for the few sins our neighbor commits against us. Just as we naturally breathe if we are physically alive, so we forgive if we are spiritually alive in Christ.
+
+Hard to do? Of course. Impossible to do? Not according to this Fifth Petition. When God pours his great forgiveness into our reaching, repentant hands, he also powers them to pass that same gift on to others.
+
+Prayer: Heavenly Father, make us more like you so that we forgive others as you have forgiven us. For Jesus' sake. Amen.
 
 ## 中文翻译
 
-**免我们的债，如同我们免了欠我们债的人**
+**赦免我们的罪，如同我们赦免得罪我们的人**
 
-第五祈求是主祷文的中心，处理人类最深刻的需要——赦免。在这个祈求中，我们恳求我们在天上的父不要看我们的罪，也不要因为我们的罪而拒绝我们的祷告。因为我们不配得到我们所求的任何东西，也没有应得到它们，但我们恳求他通过恩典将它们都赐给我们。原因很简单：我们每天都犯许多罪，确实只配受到惩罚。
+哪个是主祷文中最大的祈求？能有疑问吗？必定是第五祈求，它用关于赦免罪的词。除非我们祷告这个祈求，否则我们不能祷告任何其他的。我们必须有赦免，才能在祷告中向上帝提出任何事情。同样，一旦我们经历了神圣的赦免，我们就把它延伸到他人。
 
-但我们也同样从心底里赦免那些得罪我们的人，并欢喜地为那些犯罪反对我们的人行善。
+**我们最大的需要**
 
-这个祈求有两个基本的真理：
-1. **赦免是恩典，不是公义**：上帝可以根据公义惩罚我们，但他选择以恩典对待我们
-2. **赦免产生赦免**：被原谅的人被呼召去原谅他人。这不是条件性的（"如果他们道歉我才原谅"），而是一种自然的、来自心底的反应
+需要是多么大的激励！在我们寻求医生的帮助之前，我们必须感到我们的病情。在我们对任何人说"帮我"之前，需要必须把我们的鼻子按在地板上。对于我们向上帝祷告求赦免也是一样的。难道有时我们会匆匆掠过这个祈求的词语，或无精打采地诵读它，因为我们没有感到我们紧迫的需要？
+
+不是大卫王。他试图麻木他的良心，掩盖他的通奸和谋杀的罪。但他越是试图，他就越感受到上帝沉重的手。只有当他承认"我得罪你，唯独得罪了你，行了你眼中看为恶的事，"他才能沉浸在上帝救赎的喜乐中（诗篇51:4）。不是西门彼得。那个周四晚上，他在大祭司院子的篝火旁烤手，烤焦了他的灵魂。他的泪水来了，但不是因为他的莽撞否认和厚颜无耻的谎言对他来说轻如鸿毛。也不是使徒保罗。他一直把自己标签为"最大的罪人"，即使他对上帝的恩典感到惊讶，这恩典会把一个逼迫者变成传讲者。
+
+"不像他们，"我们在想什么？"我的罪不是那么大，我对赦免的需要不是那么沉重，"我们在推论？小心！罪在我们的眼睛上生出了白内障，它对我们视力造成的黄斑变性模糊了我们对罪的看法。当上帝说"你们要圣洁，因为我，耶和华你们的上帝，是圣洁的，"他不是在暗示他可能会满足于我们少于百分之百（利未记19:2）。当他的使徒说"犯罪的就是违背律法，"他不是在设置某种罪的测量表来衡量我们罪的严重程度（约翰一书3:4）。在上帝的眼中，每一个没有达到他诫命标记的思想、言语或行为不仅仅是一个沉重的债务，而是一个压垮罪人脊梁的债务。当我们祷告这个祈求时，我们每天都需要这样做，我们要求上帝唤醒我们的良心，使我们意识到我们许多的罪和我们对每日赦免的紧迫需要。
+
+**我们最大的礼物**
+
+在加略山的十字架上，上帝做了有罪负担的罪人无法做到的。他通过在我们的债务上划一条深红色的线来清除我们的账户。"耶稣他儿子的血，洗净我们一切的罪，"使徒向我们保证（约翰一书1:7）。不要认为上帝赦免我们的罪很容易。它花了他最好的，他的永恒儿子，而那个儿子也花了最好的，他的生命。也不要认为上帝必须为我们准备赦免。不是我们内在的，而是他内在的促使了那个赦免。他的爱驱使他，一个只能是神圣的爱。他的恩典向我们伸出，这恩典给罪人他们不配得到的。
+
+在加略山，上帝为我们的每一个罪预备了完全的赦免。当我们祷告这个祈求时，我们要求他向我们的心确保这个大宝藏。我们怎能不用这个祈求再看一眼加略山的十字架就在夜里安心地闭上眼睛？
+
+**我们最大的回应**
+
+有人曾写道，"用恶报善是魔鬼的；用恶报恶是野兽的；用善报善是人的；用善报恶是神的。"多么真实！当我们祷告"如同我们赦免得罪我们的人，"我们要求上帝协助我们变得更像他。我们不是在与他切一项交易，他承诺赦免我们，因为我们赦免我们周围的人。我们是在陈述一个被祝福的事实。因为他赦免了我们许多的罪，我们作为结果，为我们邻舍对我们犯的少数几个罪提供同样的赦免。就像如果我们身体活着，我们自然呼吸一样，如果我们在基督里属灵活着，我们就赦免。
+
+难做吗？当然。不可能做吗？根据这第五祈求，不是。当上帝把他伟大的赦免倒入我们伸出的、悔改的手中时，他也赋予它们力量去把那个同样的礼物传递给他人。
+
+祷告：天父啊，使我们更像你，以致我们赦免他人，如同你赦免了我们。为了耶稣的缘故。阿们。
 
 ## 应用思考
 
-第五祈求通过连接垂直关系（我们与上帝）和水平关系（我们彼此之间）来启示基督教信仰的中心。它教导我们：
+第五祈求是主祷文的精神心脏。它强调了赦免在基督教信仰中的中心位置——首先是上帝对我们的赦免，然后是我们相应地赦免他人。
 
-1. **罪的现实**：我们"每天都犯许多罪"——这不是一种绝望的陈述，而是一种诚实的、谦逊的自我评估
-2. **恩典的必要性**：既然我们每天犯罪且配得惩罚，我们存活和蒙福的唯一方式是依靠上帝的恩典而非他的公义
-3. **赦免的关键性**：对于基督徒来说，无法原谅他人表明对自己被原谅的不感谢，也违反了基督最深刻的教导
+这个祈求教导我们三个关键真理：
+1. **我们对赦免的深刻需要**：Luther通过大卫、彼得和保罗的例子提醒我们，每个人都是有罪的，都需要上帝的赦免
+2. **赦免来自上帝的爱和恩典**：赦免不是我们能赚取或值得的；它是上帝通过基督十字架的工作白白赐予的礼物
+3. **赦免呼求我们的回应**：因为上帝赦免了我们，我们也必须赦免他人
 
-在一个伤害是普遍的、冲突是常见的世界中，这个祈求提醒我们，为了建立和平与社区，我们必须首先经历从上帝而来的赦免，然后将这赦免扩展给他人。这不是关于否认伤害或要求他人改变，而是关于从将他人定罪的束缚中释放自己。
+对于现代基督徒，这个祈求是对真正悔改和转变的呼求。我们不能简单地说我们相信基督，同时又拒绝赦免他人。相反，我们的赦免态度反映了我们是否真正理解和领受了上帝在基督里对我们的赦免。
 
 ---
 *来源：As Luther Taught the Word of Truth - Devotions on the Small Catechism*
