@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2825 篇文章
+共 2827 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -686,6 +686,7 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/05.美国独立战争是义战吗">05.美国独立战争是义战吗</a>
 <a class="tree-file" href="101. 教义/00_教义问答/06.自杀的信徒能否得救">06.自杀的信徒能否得救</a>
 <a class="tree-file" href="101. 教义/00_教义问答/13.此题无解">13.此题无解</a>
+<a class="tree-file" href="101. 教义/00_教义问答/14.试验神与试探神">14.试验神与试探神</a>
 <a class="tree-file" href="101. 教义/00_教义问答/如何理解因信称义">如何理解因信称义</a>
 <a class="tree-file" href="101. 教义/00_教义问答/神学是一门客观的学问">神学是一门客观的学问</a>
 <details class="tree-folder" id="101-教义-00-教义问答-04-旧约时代的人如何得救">
@@ -1275,6 +1276,10 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="101-教义-关于小教义的查经学习">
 <summary class="tree-dir">关于小教义的查经学习<a class="anchor-link" href="#101-教义-关于小教义的查经学习">#</a></summary>
+<details class="tree-folder" id="101-教义-关于小教义的查经学习-使徒信经">
+<summary class="tree-dir">使徒信经<a class="anchor-link" href="#101-教义-关于小教义的查经学习-使徒信经">#</a></summary>
+<a class="tree-file" href="101. 教义/关于小教义的查经学习/使徒信经/1.我信">1.我信</a>
+</details>
 <details class="tree-folder" id="101-教义-关于小教义的查经学习-十诫">
 <summary class="tree-dir">十诫<a class="anchor-link" href="#101-教义-关于小教义的查经学习-十诫">#</a></summary>
 <a class="tree-file" href="101. 教义/关于小教义的查经学习/十诫/第一诫">第一诫</a>
