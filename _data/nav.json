@@ -18818,78 +18818,198 @@
     "title": "06_第十四章_总结",
     "prev_url": "102. 阅读/Echoes of Scripture in Colossians - 研读笔记/05_第十三章",
     "prev_title": "05_第十三章",
-    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_导论_上",
-    "next_title": "01_导论_上"
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_前言与导论",
+    "next_title": "01_前言与导论"
   },
   {
-    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_导论_上.md",
-    "title": "01_导论_上",
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_前言与导论.md",
+    "title": "01_前言与导论",
     "prev_url": "102. 阅读/Echoes of Scripture in Colossians - 研读笔记/06_第十四章_总结",
     "prev_title": "06_第十四章_总结",
-    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02_导论_中",
-    "next_title": "02_导论_中"
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-01_马可福音_导言",
+    "next_title": "02-01_马可福音_导言"
   },
   {
-    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02_导论_中.md",
-    "title": "02_导论_中",
-    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_导论_上",
-    "prev_title": "01_导论_上",
-    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03_导论_下",
-    "next_title": "03_导论_下"
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-01_马可福音_导言.md",
+    "title": "02-01_马可福音_导言",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_前言与导论",
+    "prev_title": "01_前言与导论",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-02_马可福音_审判与期待",
+    "next_title": "02-02_马可福音_审判与期待"
   },
   {
-    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03_导论_下.md",
-    "title": "03_导论_下",
-    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02_导论_中",
-    "prev_title": "02_导论_中",
-    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04_马可福音",
-    "next_title": "04_马可福音"
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-02_马可福音_审判与期待.md",
+    "title": "02-02_马可福音_审判与期待",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-01_马可福音_导言",
+    "prev_title": "02-01_马可福音_导言",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-03_马可福音_被钉十字架的弥赛亚",
+    "next_title": "02-03_马可福音_被钉十字架的弥赛亚"
   },
   {
-    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04_马可福音.md",
-    "title": "04_马可福音",
-    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03_导论_下",
-    "prev_title": "03_导论_下",
-    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_马太福音",
-    "next_title": "05_马太福音"
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-03_马可福音_被钉十字架的弥赛亚.md",
+    "title": "02-03_马可福音_被钉十字架的弥赛亚",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-02_马可福音_审判与期待",
+    "prev_title": "02-02_马可福音_审判与期待",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-04_马可福音_警醒的忍耐",
+    "next_title": "02-04_马可福音_警醒的忍耐"
   },
   {
-    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_马太福音.md",
-    "title": "05_马太福音",
-    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04_马可福音",
-    "prev_title": "04_马可福音",
-    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_路加福音",
-    "next_title": "06_路加福音"
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-04_马可福音_警醒的忍耐.md",
+    "title": "02-04_马可福音_警醒的忍耐",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-03_马可福音_被钉十字架的弥赛亚",
+    "prev_title": "02-03_马可福音_被钉十字架的弥赛亚",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-05_马可福音_经文解释学",
+    "next_title": "02-05_马可福音_经文解释学"
   },
   {
-    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_路加福音.md",
-    "title": "06_路加福音",
-    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_马太福音",
-    "prev_title": "05_马太福音",
-    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/07_约翰福音",
-    "next_title": "07_约翰福音"
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-05_马可福音_经文解释学.md",
+    "title": "02-05_马可福音_经文解释学",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-04_马可福音_警醒的忍耐",
+    "prev_title": "02-04_马可福音_警醒的忍耐",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-06_马可福音_脚注附录",
+    "next_title": "02-06_马可福音_脚注附录"
   },
   {
-    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/07_约翰福音.md",
-    "title": "07_约翰福音",
-    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_路加福音",
-    "prev_title": "06_路加福音",
-    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/08_结论",
-    "next_title": "08_结论"
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-06_马可福音_脚注附录.md",
+    "title": "02-06_马可福音_脚注附录",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-05_马可福音_经文解释学",
+    "prev_title": "02-05_马可福音_经文解释学",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-01_马太福音_律法与先知的成全",
+    "next_title": "03-01_马太福音_律法与先知的成全"
   },
   {
-    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/08_结论.md",
-    "title": "08_结论",
-    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/07_约翰福音",
-    "prev_title": "07_约翰福音",
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-01_马太福音_律法与先知的成全.md",
+    "title": "03-01_马太福音_律法与先知的成全",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02-06_马可福音_脚注附录",
+    "prev_title": "02-06_马可福音_脚注附录",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-02_马太福音_流亡的终结",
+    "next_title": "03-02_马太福音_流亡的终结"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-02_马太福音_流亡的终结.md",
+    "title": "03-02_马太福音_流亡的终结",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-01_马太福音_律法与先知的成全",
+    "prev_title": "03-01_马太福音_律法与先知的成全",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-03_马太福音_耶稣作为以马内利",
+    "next_title": "03-03_马太福音_耶稣作为以马内利"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-03_马太福音_耶稣作为以马内利.md",
+    "title": "03-03_马太福音_耶稣作为以马内利",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-02_马太福音_流亡的终结",
+    "prev_title": "03-02_马太福音_流亡的终结",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-04_马太福音_使万民作门徒",
+    "next_title": "03-04_马太福音_使万民作门徒"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-04_马太福音_使万民作门徒.md",
+    "title": "03-04_马太福音_使万民作门徒",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-03_马太福音_耶稣作为以马内利",
+    "prev_title": "03-03_马太福音_耶稣作为以马内利",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-05_马太福音_律法的变容",
+    "next_title": "03-05_马太福音_律法的变容"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-05_马太福音_律法的变容.md",
+    "title": "03-05_马太福音_律法的变容",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-04_马太福音_使万民作门徒",
+    "prev_title": "03-04_马太福音_使万民作门徒",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-06_马太福音_脚注附录",
+    "next_title": "03-06_马太福音_脚注附录"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-06_马太福音_脚注附录.md",
+    "title": "03-06_马太福音_脚注附录",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-05_马太福音_律法的变容",
+    "prev_title": "03-05_马太福音_律法的变容",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-01_路加福音_继续经文的故事",
+    "next_title": "04-01_路加福音_继续经文的故事"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-01_路加福音_继续经文的故事.md",
+    "title": "04-01_路加福音_继续经文的故事",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03-06_马太福音_脚注附录",
+    "prev_title": "03-06_马太福音_脚注附录",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-02_路加福音_以色列解放的应许",
+    "next_title": "04-02_路加福音_以色列解放的应许"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-02_路加福音_以色列解放的应许.md",
+    "title": "04-02_路加福音_以色列解放的应许",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-01_路加福音_继续经文的故事",
+    "prev_title": "04-01_路加福音_继续经文的故事",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-03_路加福音_耶稣作为以色列的救赎主",
+    "next_title": "04-03_路加福音_耶稣作为以色列的救赎主"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-03_路加福音_耶稣作为以色列的救赎主.md",
+    "title": "04-03_路加福音_耶稣作为以色列的救赎主",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-02_路加福音_以色列解放的应许",
+    "prev_title": "04-02_路加福音_以色列解放的应许",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-04_路加福音_外邦人的光",
+    "next_title": "04-04_路加福音_外邦人的光"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-04_路加福音_外邦人的光.md",
+    "title": "04-04_路加福音_外邦人的光",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-03_路加福音_耶稣作为以色列的救赎主",
+    "prev_title": "04-03_路加福音_耶稣作为以色列的救赎主",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-05_路加福音_开启的眼睛与心灵",
+    "next_title": "04-05_路加福音_开启的眼睛与心灵"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-05_路加福音_开启的眼睛与心灵.md",
+    "title": "04-05_路加福音_开启的眼睛与心灵",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-04_路加福音_外邦人的光",
+    "prev_title": "04-04_路加福音_外邦人的光",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-06_路加福音_脚注附录",
+    "next_title": "04-06_路加福音_脚注附录"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-06_路加福音_脚注附录.md",
+    "title": "04-06_路加福音_脚注附录",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-05_路加福音_开启的眼睛与心灵",
+    "prev_title": "04-05_路加福音_开启的眼睛与心灵",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05-01_约翰福音_来看",
+    "next_title": "05-01_约翰福音_来看"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05-01_约翰福音_来看.md",
+    "title": "05-01_约翰福音_来看",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04-06_路加福音_脚注附录",
+    "prev_title": "04-06_路加福音_脚注附录",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05-02_约翰福音_救恩是从犹太人出来的",
+    "next_title": "05-02_约翰福音_救恩是从犹太人出来的"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05-02_约翰福音_救恩是从犹太人出来的.md",
+    "title": "05-02_约翰福音_救恩是从犹太人出来的",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05-01_约翰福音_来看",
+    "prev_title": "05-01_约翰福音_来看",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_约翰福音",
+    "next_title": "05_约翰福音"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_约翰福音.md",
+    "title": "05_约翰福音",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05-02_约翰福音_救恩是从犹太人出来的",
+    "prev_title": "05-02_约翰福音_救恩是从犹太人出来的",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_结论",
+    "next_title": "06_结论"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_结论.md",
+    "title": "06_结论",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_约翰福音",
+    "prev_title": "05_约翰福音",
     "next_url": "102. 阅读/Getting_to_YES/00_前言和致谢",
     "next_title": "00_前言和致谢"
   },
   {
     "path": "102. 阅读/Getting_to_YES/00_前言和致谢.md",
     "title": "00_前言和致谢",
-    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/08_结论",
-    "prev_title": "08_结论",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_结论",
+    "prev_title": "06_结论",
     "next_url": "102. 阅读/Getting_to_YES/01_序言和介绍",
     "next_title": "01_序言和介绍"
   },
