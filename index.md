@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2828 篇文章
+共 2840 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -3029,6 +3029,24 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/无言-话语 word 道的祷告">无言-话语 word 道的祷告</a>
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/花时间祷告">花时间祷告</a>
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/非凡的果子">非凡的果子</a>
+</details>
+<details class="tree-folder" id="102-阅读-Echoes-of-Scripture-in-Colossians-翻译">
+<summary class="tree-dir">Echoes of Scripture in Colossians - 翻译<a class="anchor-link" href="#102-阅读-Echoes-of-Scripture-in-Colossians-翻译">#</a></summary>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 翻译/01_Part_Introduction_And_Chapter1-2">01_Part_Introduction_And_Chapter1-2</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 翻译/02_Part_Chapter3-6">02_Part_Chapter3-6</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 翻译/03_Part_Chapter7-9">03_Part_Chapter7-9</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 翻译/04_Part_Chapter10-12">04_Part_Chapter10-12</a>
+</details>
+<details class="tree-folder" id="102-阅读-Echoes-of-Scripture-in-the-Gospels-研读笔记">
+<summary class="tree-dir">Echoes of Scripture in the Gospels - 研读笔记<a class="anchor-link" href="#102-阅读-Echoes-of-Scripture-in-the-Gospels-研读笔记">#</a></summary>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_导论_上">01_导论_上</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02_导论_中">02_导论_中</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03_导论_下">03_导论_下</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04_马可福音">04_马可福音</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_马太福音">05_马太福音</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_路加福音">06_路加福音</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/07_约翰福音">07_约翰福音</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/08_结论">08_结论</a>
 </details>
 <details class="tree-folder" id="102-阅读-Getting-to-YES">
 <summary class="tree-dir">Getting_to_YES<a class="anchor-link" href="#102-阅读-Getting-to-YES">#</a></summary>

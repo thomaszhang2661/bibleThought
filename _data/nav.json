@@ -18770,14 +18770,110 @@
     "title": "非凡的果子",
     "prev_url": "102. 阅读/365 Through Faith Alone/花时间祷告",
     "prev_title": "花时间祷告",
+    "next_url": "102. 阅读/Echoes of Scripture in Colossians - 翻译/01_Part_Introduction_And_Chapter1-2",
+    "next_title": "01_Part_Introduction_And_Chapter1-2"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in Colossians - 翻译/01_Part_Introduction_And_Chapter1-2.md",
+    "title": "01_Part_Introduction_And_Chapter1-2",
+    "prev_url": "102. 阅读/365 Through Faith Alone/非凡的果子",
+    "prev_title": "非凡的果子",
+    "next_url": "102. 阅读/Echoes of Scripture in Colossians - 翻译/02_Part_Chapter3-6",
+    "next_title": "02_Part_Chapter3-6"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in Colossians - 翻译/02_Part_Chapter3-6.md",
+    "title": "02_Part_Chapter3-6",
+    "prev_url": "102. 阅读/Echoes of Scripture in Colossians - 翻译/01_Part_Introduction_And_Chapter1-2",
+    "prev_title": "01_Part_Introduction_And_Chapter1-2",
+    "next_url": "102. 阅读/Echoes of Scripture in Colossians - 翻译/03_Part_Chapter7-9",
+    "next_title": "03_Part_Chapter7-9"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in Colossians - 翻译/03_Part_Chapter7-9.md",
+    "title": "03_Part_Chapter7-9",
+    "prev_url": "102. 阅读/Echoes of Scripture in Colossians - 翻译/02_Part_Chapter3-6",
+    "prev_title": "02_Part_Chapter3-6",
+    "next_url": "102. 阅读/Echoes of Scripture in Colossians - 翻译/04_Part_Chapter10-12",
+    "next_title": "04_Part_Chapter10-12"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in Colossians - 翻译/04_Part_Chapter10-12.md",
+    "title": "04_Part_Chapter10-12",
+    "prev_url": "102. 阅读/Echoes of Scripture in Colossians - 翻译/03_Part_Chapter7-9",
+    "prev_title": "03_Part_Chapter7-9",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_导论_上",
+    "next_title": "01_导论_上"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_导论_上.md",
+    "title": "01_导论_上",
+    "prev_url": "102. 阅读/Echoes of Scripture in Colossians - 翻译/04_Part_Chapter10-12",
+    "prev_title": "04_Part_Chapter10-12",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02_导论_中",
+    "next_title": "02_导论_中"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02_导论_中.md",
+    "title": "02_导论_中",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/01_导论_上",
+    "prev_title": "01_导论_上",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03_导论_下",
+    "next_title": "03_导论_下"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03_导论_下.md",
+    "title": "03_导论_下",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/02_导论_中",
+    "prev_title": "02_导论_中",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04_马可福音",
+    "next_title": "04_马可福音"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04_马可福音.md",
+    "title": "04_马可福音",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/03_导论_下",
+    "prev_title": "03_导论_下",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_马太福音",
+    "next_title": "05_马太福音"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_马太福音.md",
+    "title": "05_马太福音",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/04_马可福音",
+    "prev_title": "04_马可福音",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_路加福音",
+    "next_title": "06_路加福音"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_路加福音.md",
+    "title": "06_路加福音",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/05_马太福音",
+    "prev_title": "05_马太福音",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/07_约翰福音",
+    "next_title": "07_约翰福音"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/07_约翰福音.md",
+    "title": "07_约翰福音",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/06_路加福音",
+    "prev_title": "06_路加福音",
+    "next_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/08_结论",
+    "next_title": "08_结论"
+  },
+  {
+    "path": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/08_结论.md",
+    "title": "08_结论",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/07_约翰福音",
+    "prev_title": "07_约翰福音",
     "next_url": "102. 阅读/Getting_to_YES/00_前言和致谢",
     "next_title": "00_前言和致谢"
   },
   {
     "path": "102. 阅读/Getting_to_YES/00_前言和致谢.md",
     "title": "00_前言和致谢",
-    "prev_url": "102. 阅读/365 Through Faith Alone/非凡的果子",
-    "prev_title": "非凡的果子",
+    "prev_url": "102. 阅读/Echoes of Scripture in the Gospels - 研读笔记/08_结论",
+    "prev_title": "08_结论",
     "next_url": "102. 阅读/Getting_to_YES/01_序言和介绍",
     "next_title": "01_序言和介绍"
   },
