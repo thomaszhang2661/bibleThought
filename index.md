@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2840 篇文章
+共 2842 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -3030,12 +3030,14 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/花时间祷告">花时间祷告</a>
 <a class="tree-file" href="102. 阅读/365 Through Faith Alone/非凡的果子">非凡的果子</a>
 </details>
-<details class="tree-folder" id="102-阅读-Echoes-of-Scripture-in-Colossians-翻译">
-<summary class="tree-dir">Echoes of Scripture in Colossians - 翻译<a class="anchor-link" href="#102-阅读-Echoes-of-Scripture-in-Colossians-翻译">#</a></summary>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 翻译/01_Part_Introduction_And_Chapter1-2">01_Part_Introduction_And_Chapter1-2</a>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 翻译/02_Part_Chapter3-6">02_Part_Chapter3-6</a>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 翻译/03_Part_Chapter7-9">03_Part_Chapter7-9</a>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 翻译/04_Part_Chapter10-12">04_Part_Chapter10-12</a>
+<details class="tree-folder" id="102-阅读-Echoes-of-Scripture-in-Colossians-研读笔记">
+<summary class="tree-dir">Echoes of Scripture in Colossians - 研读笔记<a class="anchor-link" href="#102-阅读-Echoes-of-Scripture-in-Colossians-研读笔记">#</a></summary>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/01_导论与方法论_第一二章">01_导论与方法论_第一二章</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/02_第三至六章">02_第三至六章</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/03_第七至十章">03_第七至十章</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/04_第十一至十二章">04_第十一至十二章</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/05_第十三章">05_第十三章</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/06_第十四章_总结">06_第十四章_总结</a>
 </details>
 <details class="tree-folder" id="102-阅读-Echoes-of-Scripture-in-the-Gospels-研读笔记">
 <summary class="tree-dir">Echoes of Scripture in the Gospels - 研读笔记<a class="anchor-link" href="#102-阅读-Echoes-of-Scripture-in-the-Gospels-研读笔记">#</a></summary>
