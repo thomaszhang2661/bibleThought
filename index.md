@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2860 篇文章
+共 2868 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -3032,12 +3032,20 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="102-阅读-Echoes-of-Scripture-in-Colossians-研读笔记">
 <summary class="tree-dir">Echoes of Scripture in Colossians - 研读笔记<a class="anchor-link" href="#102-阅读-Echoes-of-Scripture-in-Colossians-研读笔记">#</a></summary>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/01_导论与方法论_第一二章">01_导论与方法论_第一二章</a>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/02_第三至六章">02_第三至六章</a>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/03_第七至十章">03_第七至十章</a>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/04_第十一至十二章">04_第十一至十二章</a>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/05_第十三章">05_第十三章</a>
-<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/06_第十四章_总结">06_第十四章_总结</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/01_第一章_导言与研究史">01_第一章_导言与研究史</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/02_第二章_方法论">02_第二章_方法论</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/03_第三章_创世记1-28的回响">03_第三章_创世记1-28的回响</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/04_第四章_以赛亚书11-2-9的回响">04_第四章_以赛亚书11-2-9的回响</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/05_第五章_出埃及主题的回响">05_第五章_出埃及主题的回响</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/06_第六章_撒母耳记下7的典故">06_第六章_撒母耳记下7的典故</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/07_第七章_箴言8-22-31的典故">07_第七章_箴言8-22-31的典故</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/08_第八章_诗篇68-16的回声">08_第八章_诗篇68-16的回声</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/09_第九章_申命记30-6的回声">09_第九章_申命记30-6的回声</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/10_第十章_创世记17的回响">10_第十章_创世记17的回响</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/11_第十一章_以赛亚书29-13的回声">11_第十一章_以赛亚书29-13的回声</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/12_第十二章_诗篇110-1的回声">12_第十二章_诗篇110-1的回声</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/13_第十三章_创世记1-26-27的暗指">13_第十三章_创世记1-26-27的暗指</a>
+<a class="tree-file" href="102. 阅读/Echoes of Scripture in Colossians - 研读笔记/14_第十四章_总结">14_第十四章_总结</a>
 </details>
 <details class="tree-folder" id="102-阅读-Echoes-of-Scripture-in-the-Gospels-研读笔记">
 <summary class="tree-dir">Echoes of Scripture in the Gospels - 研读笔记<a class="anchor-link" href="#102-阅读-Echoes-of-Scripture-in-the-Gospels-研读笔记">#</a></summary>
