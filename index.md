@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2868 篇文章
+共 2869 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -211,6 +211,7 @@ body_class: index-page
 <details class="tree-folder" id="19-诗篇">
 <summary class="tree-dir">19. 诗篇<a class="anchor-link" href="#19-诗篇">#</a></summary>
 <a class="tree-file" href="19. 诗篇/Hebrew poetry in the Bible A guide for u">Hebrew poetry in the Bible A guide for u</a>
+<a class="tree-file" href="19. 诗篇/诗篇139">诗篇139</a>
 <a class="tree-file" href="19. 诗篇/诗篇2">诗篇2</a>
 <a class="tree-file" href="19. 诗篇/诗篇20&21">诗篇20&21</a>
 <a class="tree-file" href="19. 诗篇/诗篇23">诗篇23</a>

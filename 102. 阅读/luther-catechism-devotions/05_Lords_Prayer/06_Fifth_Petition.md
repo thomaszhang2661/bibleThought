@@ -1,43 +1,5 @@
 # 主祷文的第五祈求 赦免我们的罪，如同我们赦免得罪我们的人
 
-## 祷告词
-> Forgive us our sins, as we forgive those who sin against us.
-
-## 小教义问答的解释
-> God will not forgive us if we do not forgive those who sin against us, but in this petition we ask for his forgiveness.
->
-> What does "forgiveness of sins" mean?
->
-> Forgiveness of sins means that God, because of Christ's death on the cross, pardons us completely. It means he removes the guilt and burden of sin from our consciences and the eternal punishment of sin from our souls. It means that through Christ we are declared just and innocent before God.
-
-## 英文原文摘录
-
-"Forgive us our sins, as we forgive those who sin against us."
-
-Which is the greatest petition in the Lord's Prayer? Can there be any doubt? It has to be the Fifth Petition, with its words about forgiveness of sins. Unless we pray this petition, we cannot pray any of the others. We must have forgiveness before we can carry anything to God in prayer. Also, once we have experienced divine forgiveness, we extend it to others.
-
-**Our greatest need**
-
-What a motivator need is. Before we seek a doctor's help, we have to feel our sickness. Before we say "help me" to anyone about anything, need has to press our nose to the floor. So also with our prayer to God for his forgiveness. Can it be that at times we slide over the words of this petition or speak them listlessly because we don't feel our pressing need?
-
-Not King David. He tried to anesthetize his conscience and cover his sins of adultery and murder. But the more he tried, the more he felt God's heavy hand. Only when he confessed "Against you, you only, have I sinned and done what is evil in your sight," could he revel in the joy of God's salvation (Psalm 51:4). Not Simon Peter. He warmed his hands and singed his soul that Thursday night around the campfire in the high priest's courtyard. His tears came, but not because his blustery denial and bold-faced lying felt light as a feather to him. Not the apostle Paul either. "Chief of sinners" he kept on labeling himself, even as he marveled at God's grace that would turn a persecutor into a preacher.
-
-"Not like them," are we thinking? "My sins are not so great, my need for forgiveness not so heavy," are we theorizing? Watch out! The cataracts sin grows over our eyes and the macular degeneration it causes in our vision blur our view of sin. When God said "Be holy because I, the LORD your God, am holy," he wasn't suggesting that he might be satisfied with something less than one hundred percent from us (Leviticus 19:2). When his apostle said "Everyone who sins breaks the law," he wasn't setting up some kind of sin-o-meter with which to measure the seriousness of our sins (1 John 3:4). In God's eyes, every thought, word, or deed that misses the mark of his commandments is not just a debt that burdens but one that breaks the sinner's back. When we pray this petition, and we need to do so daily, we are asking God to awaken our conscience to our many sins and our pressing need for daily forgiveness.
-
-**Our greatest gift**
-
-On Calvary's cross God did what the burdened sinner could not do. He cleared our account by drawing a crimson line through our debt. "The blood of Jesus, his Son, purifies us from all sin," the apostle assures us (1 John 1:7). Don't think it was easy for God to forgive our sins. It cost him the best he had, his eternal Son, and it cost that Son the best he had, his life. Don't think either that God had to prepare forgiveness for us. Not what was in us but what was in him prompted that forgiveness. His love drove him, a love that can only be divine. His grace reaches for us, a grace that offers sinners what they don't deserve.
-
-At Calvary, God prepared full forgiveness for our every sin. When we pray this petition, we are asking him to assure our hearts of this great treasure. How can we close our eyes in peace at night without using this petition for one more glance at Calvary's cross?
-
-**Our greatest response**
-
-Someone once wrote, "To repay good with evil is devil-like. To repay evil with evil is beastlike. To repay good with good is manlike. To repay evil with good is Godlike." How true! When we pray "as we forgive those who sin against us," we are asking God for his assistance to make us more like him. We're not cutting a deal with him in which he promises to forgive us because we forgive those around us. We're stating a blessed fact. Because he has forgiven our many sins, we, as a result, offer the same forgiveness for the few sins our neighbor commits against us. Just as we naturally breathe if we are physically alive, so we forgive if we are spiritually alive in Christ.
-
-Hard to do? Of course. Impossible to do? Not according to this Fifth Petition. When God pours his great forgiveness into our reaching, repentant hands, he also powers them to pass that same gift on to others.
-
-Prayer: Heavenly Father, make us more like you so that we forgive others as you have forgiven us. For Jesus' sake. Amen.
-
 ## 中文翻译
 
 **赦免我们的罪，如同我们赦免得罪我们的人**

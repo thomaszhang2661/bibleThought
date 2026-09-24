@@ -1,30 +1,5 @@
 # 第三诫 当记念安息日，守为圣日
 
-## 核心诫命
-> Remember the Sabbath day by keeping it holy.
-
-## 英文原文摘录
-
-Sometimes shadows can be useful. If, for example, I'm relaxing on the patio behind my house on a sunny summer afternoon listening to the ball game on the radio, and I hear a car door slam out on the driveway, I don't have to leave my chair. I can watch the corner of the house for the shadow of the person coming to learn something about him. The shadow tells me something about the height, size, and gender of the one coming. Of course, once the visitor has rounded the house corner, I look directly at him instead of the shadow.
-
-God's Sabbath law for his Old Testament people was like that shadow. It told them somewhat of the Savior who was coming around the corner of the New Testament. As they rested from physical work on the Sabbath, they were to look ahead to the one coming to bring them rest from the sins that wearied their souls.
-
-**The rest God offers**
-
-The real Sabbath is eternal rest. It's undisturbed fellowship with God. It's being at peace with him. It's being able to walk and talk again with God as Adam and Eve did in the garden, before sin brought fear and death and judgment. And it's being able to look forward with confidence to the perfect walk with him in heaven.
-
-This heavenly rest comes only through Jesus. Because of the Savior's full payment for sin's debt, man can once again stand before God in peace. God offers this beautiful rest for sin-troubled souls in his Word. Nowhere else can mankind find Christ's rest. Only in the Word is forgiveness offered, and only through the Word does the Spirit work faith in the sinner's heart to receive it.
-
-For God's Old Testament people, the Third Commandment did indeed mandate a day of rest for their bodies. Even more though was it intended to raise their eyes in expectant faith to the Savior whose coming would bring rest for their souls. In this sense the Sabbath day was a shadow of Christ. Now that our rest bringer has come, we look no longer at the shadow but directly at him. For us as New Testament Christians, the Third Commandment speaks not about what to do with a day that was only a shadow but with God's Word that brings true rest for our souls. For us this commandment is an invitation to think back to Eden and what life was once like, and to think ahead to eternity and what life will be like because of Jesus.
-
-**The rest we need**
-
-One thing kept the downed Air Force pilot going during his months in the Vietcong prison camp. It was the last letter from his wife that he had tucked in his flight-suit pocket before takeoff. Again and again he read it until its edges were tattered and the creases torn. We've received a love letter from our God. In it he tells us about the relationship that he wants with us and has made possible for us through the Savior, Jesus. How are we using his Word? Are we "holding it sacred," more dear to us than that aviator's letter? Do we show how precious is the book divine by the way we "gladly hear and learn it"? When it's time for public worship, do we rejoice with those who say "let us go to the house of the Lord" (Psalm 122:1)? In our personal daily devotions, do we say with Jeremiah, "When your words came, I ate them; they were my joy and my heart's delight" (15:16)? Few of us would say that we don't need the rest God has prepared for us in Jesus. Few of us would say that his Word, in which that rest is offered, isn't precious to us. Hopefully our actions say the same thing.
-
-Almost every Sunday an elderly believer would voice his concern to me. Sig had refused to join the congregation until after his wife's death. Then he came because he wanted to find the peace she had shown in her struggle with the cancer that ended her life. Walking out of church on Sunday, he would lament to me, "Why was I so foolish? Why did I wait so long? Why did I cheat myself out of so much?" "Gladly," Luther said, "Gladly hear and learn it." Sig agreed. He knew what he had missed and how much he needed it. And he knew where to find Christ's precious rest for his soul—in the Word.
-
-**Prayer:** Lord, "Let your Word e'er be my pleasure and my heart's most precious treasure." Amen. (CW 283:1)
-
 ## 中文翻译
 
 有时候阴影会很有用。比如说，我在晴朗的夏日午后坐在房子后面的露台上，一边听收音机上的棒球比赛，一边放松。突然我听到车道上传来关车门的声音。我不必离开椅子，只需观察房子角落的阴影，就能了解即将到来的人的一些信息。这个阴影告诉我他的身高、体型和性别。当然，一旦访客绕过房子的角落，我就直接看他，而不是看阴影。
@@ -43,7 +18,7 @@ Almost every Sunday an elderly believer would voice his concern to me. Sig had r
 
 有一件事支撑着这位坠落的空军飞行员在越共监狱营中度过的那些月份。那就是他出发前塞在飞行服口袋里的妻子的最后一封信。他一遍遍地读着它，直到纸张边缘破烂，折痕撕裂。我们收到了来自我们上帝的一封情书。在这封信中，他告诉我们他想与我们建立什么样的关系，以及他通过救主耶稣为我们所成就的。我们如何使用他的话语呢？我们是否把它"视为圣洁"，比那个飞行员对妻子信件的珍视更珍视它？我们是否通过"欣然听取并学习它"的方式来展示这本神圣之书的珍贵？当是举行公开敬拜的时刻时，我们是否与那些说"我们要去耶和华的殿"的人一起欢喜（诗篇122:1）？在我们个人每日的灵修中，我们是否像耶利米一样说"你的言语一来到，我就吞下去。你的言语就成了我心中的欢喜快乐"（15:16）？我们很少有人会说我们不需要上帝在耶稣里为我们所预备的安息。我们很少有人会说他的话语中所提供的那个安息对我们不是宝贵的。希望我们的行为也说同样的话。
 
-几乎每个星期天，一位年迈的信徒都会向我表达他的关切。西格在妻子去世后才拒绝加入教会。后来他来了，因为他想找到她在与癌症的斗争中所表现出来的那种平安——那种夺走了她生命的癌症。每个星期天从教堂走出来，他都会向我哀叹："我为什么那么愚蠢？我为什么等了那么久？我为什么欺骗了自己错失那么多？""欣然地，"路德说，"欣然听取并学习它。"西格同意。他知道他错过了什么，他多么需要它。他也知道在哪里找到基督为他灵魂提供的珍贵安息——在话语中。
+几乎每个星期天，一位年迈的信徒都会向我表达他的关切。西格一直拒绝加入教会，直到妻子去世后才加入。后来他来了，因为他想找到她在与癌症的斗争中所表现出来的那种平安——那种夺走了她生命的癌症。每个星期天从教堂走出来，他都会向我哀叹："我为什么那么愚蠢？我为什么等了那么久？我为什么欺骗了自己错失那么多？""欣然地，"路德说，"欣然听取并学习它。"西格同意。他知道他错过了什么，他多么需要它。他也知道在哪里找到基督为他灵魂提供的珍贵安息——在话语中。
 
 **祷告：**主啊，"愿你的道永作我的喜乐，作我心中至宝。"阿们。（CW 283:1）
 

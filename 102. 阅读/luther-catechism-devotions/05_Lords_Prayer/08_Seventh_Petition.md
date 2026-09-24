@@ -1,37 +1,5 @@
 # 主祷文的第七祈求 但救我们脱离凶恶
 
-## 祷告词
-> But deliver us from evil.
-
-## 小教义问答的解释
-> We pray in this petition, as the very ending and conclusion of all the petitions, that our Father in heaven will deliver us from every kind of evil, whether it affects our body or soul, our property or reputation, and finally, when our last hour comes, give us a blessed end and take us from this valley of sorrow to himself in heaven.
-
-## 英文原文摘录
-
-"But deliver us from evil."
-
-Did you ever try ringing a church bell? What a lesson in prayer this can be. Back in the parish I served, we had three bells that the eighth-grade boys used to ring before our Friday children's service. They quickly learned that you didn't just pull the rope once, not even just two or three times. To get those bells sweetly ringing in the steeple took vigorous, repeated rope pulling. Just imagine what might happen if we pulled and pulled on the bell rope of prayer with this Seventh Petition.
-
-**Evil—what is it?**
-
-It's not that we don't know what evil is. It's rather that there's so much of it around us that we hardly know where to start. Luther summarizes them as evils that "threaten body and soul, property and reputation." For the body there are lungs that can't breathe and kidneys that fail, cells that grow wild and lymph glands that spread cancer. There are bodies that go hungry and bodies that grow old. There are accidents, diseases, and death. For property there's the moth of inflation, the rust of recession, the mold of unemployment, the doors we must lock on our homes and cars, the smoke alarms and fire stations so often necessary, the lack of rain and then again too much of it. For our reputation there's deceitful lies, gossip and slander, betrayal of confidences or sins and the like, all dredged up from the swamp of hell by the greatest liar of all, the devil.
-
-Let's not forget the greatest evil of all, that which threatens the soul. There's indifference to the soul's needs leading to spiritual death by slow starvation. Trusting in one's own works self-righteously pushing the Savior out of the picture. Worldliness misdirecting the soul fatally into the backwaters of possession and pleasure. False teachings deluding the soul's taste buds with their poison. Ill will and quarrels, jealousies and hatred causing the soul to shed bitter tears.
-
-And behind all this evil? Not God. Evil is not his creation but sin's child. The devil brought sin, and sin brought evil—all those untold evils of body and soul, property and reputation. Note carefully, fellow believers, sin is behind all evil, not your sin is behind all evil. In the hospital room, the counseling chamber, and the funeral home Christians sometimes lament, "God must be punishing me for my sins." "There is now no condemnation for those who are in Christ Jesus," Paul reminds us emphatically in Romans 8:1. Read "condemnation" as "punishment," and you'll understand what he's saying. God has already punished all our sins in Christ. For the penitent sinner who stands in the shadow of Christ's cross, the evils in this world are not punishment but the fall-out, the ashes that still cling to our lives.
-
-**Deliverance—where do we get it?**
-
-This petition is not a prayer of hopelessness but a prayer of certainty and confidence. We have a Father who can and will deliver us from all evil. "The Lord knows how to rescue godly men from trials," Peter affirmed (2 Peter 2:9). "Call upon me in the day of trouble; I will deliver you," our Father himself promised (Psalm 50:15). From sin, the greatest evil, he has already delivered us. Through the work of his Son, Jesus, he has struck cleanly off our wrists the handcuffs of sin; chopped completely through the chain of guilt, by which Satan was reeling us into hell; clanked tightly shut the door of hell, yawning wide open before us. He has freed us forever from sin's curse. He also hears and answers when we carry our daily sins of weakness to him and beg for deliverance.
-
-The other evils of body and soul, property and reputation we also carry confidently to him in this petition. When we do, we add, "Your will be done." We may have our own ideas and even want to dictate the answers, but he knows much better than we do what form our deliverance should take for our greatest good. Sometimes he ends the storm and sends the rainbow almost immediately. Other times he uses continued troubles to teach us about our own weakness and his great strength and to develop patient hope, like some tough callous on faith's hands.
-
-With this last petition, our Lord teaches us a second lesson. He intends it to be our prayer of anticipation. Can we even faintly imagine what the final deliverance in heaven will be like? Where there'll be no more pain or sorrow or any such thing. Where God will wipe away all tears from our eyes. Where we'll no longer need to pray "deliver us from evil," because it will all be gone.
-
-But while we're still here on earth, we need this prayer daily. Just imagine what could happen if all God's children pulled vigorously on the bell rope of this prayer.
-
-Prayer: Dear Jesus, help me bear up under the troubles of this world, and take me to be free from evil someday in heaven. Amen.
-
 ## 中文翻译
 
 **但救我们脱离凶恶**

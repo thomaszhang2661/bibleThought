@@ -1,41 +1,12 @@
 # 第二诫 不可妄称耶和华你神的名
 
-## 核心诫命
-> You shall not misuse the name of the Lord your God.
-
-## 英文原文摘录
-
-"Laura" was the name carved on the tree along the hiking path. Someone had cut a heart into the bark and inside it her name. Made you wonder who she was, what she was like, and who so lovingly had put her name there.
-
-When the Second Commandment speaks of God's name, it refers not only to every name we know him by but everything we know about him from his Word. What a name it is, this name above all other names.
-
-Knowing what the true God has done for us, we want to do more than lovingly carve his name on some tree in the woods. We want to give it the highest honor and respect all of our days.
-
-**The important meaning of his name**
-
-My name is important. It's my exclusive possession, a verbal substitute for me. When it is mentioned, people think of what I look like, what I am, what I do, and what their reaction toward me is. My name is also powerful. It's on the bottom line of checks and on the mortgage papers. My name on those pieces of paper puts my power behind what they represent.
-
-How people use my name is also important for it reveals what they think of me. When my name is spoken in jest or derision, it tells me I don't mean much, if anything, to the speaker. When my name is mispronounced or slurred over, it shows how insignificant I am to them. When people attach honor and respect to my name, it also tells me something.
-
-How much more true it is when it comes to our God. If speech mirrors what's in the heart, then our use of God's name reveals what we think of him. See how naturally this Second Commandment follows upon the First. He who demands that he be our one and only God asks that we show he is by the way we speak about him. When we use names such as "God," "Maker," "Jesus," "Savior," "Spirit," and "Sanctifier" we are speaking more than combinations of consonants and vowels. We are referring to the one more important to us than anyone else in this world. We are also reminding ourselves of what marvelous things he does for us, as his Word reveals. If only we would stop to think of the important meaning of his name each time we use It.
-
-**The important use of his name**
-
-Who of us would doodle on a picture of our parents or scribble across a photo of our beloved? Misuse or stronger words come to mind in describing such behavior. Yet people do even worse with God's holy name and Word. They misuse his name in "cursing," asking the one who would rather bless to send people, animals, or things to hell. They misuse his name in "swearing," asking the one who is truth to witness to their lies or trivial matters. They misuse his name in "witchcraft," turning with their unhealthy inquisitiveness from the one who knows and holds the future to horoscopes, ouija boards, and fortune tellers. They misuse his name in "lying," twisting and turning what he has so clearly spoken in his Word into what they want him to say. They misuse his name in "deceiving," putting over their unbelief the mask of hypocrisy, expecting to fool God as well as their peers.
-
-Guilty? Of course we are! If each night we could listen to a recording of all our speech that day, the words "Forgive us our trespasses" would have added meaning for us. Thank God the blood of Jesus, his Son, purifies us from all our misuses of his precious name. And each day, if we'd remember the proper use of God's name, how much better off we'd be. Like some child calling out for its parent in the middle of the night, so trouble's shadows would drive us to "call upon God's name." Like barren Hannah who prayed for a child, like King David who prayed for protection, like the centurion who prayed for a sick servant, so we'd learn to pray in all the affairs and circumstances of life. Like the Samaritan leper who ran down the street shouting out the name of the one who had healed him, so our worship hymns, daily speech, and mission efforts would resound with praise for our helper. Like the grateful woman who anointed his feet with precious perfume, so we'd give thanks by pouring our daily thoughts, words, and deeds over our Savior's feet.
-
-God in grace has carved his name, the one above all other names, on our hearts. God, help us in response to hold that name high above all others in our lives.
-
-**Prayer:** Dear Lord, may I never forget to give you praise and glory for all the great and wonderful things you have done. Amen.
-
 ## 中文翻译
 
 "劳拉"这个名字被刻在登山步道旁的树上。有人在树皮上刻了一个心形，里面写着她的名字。这让人想知道她是谁，她是什么样的人，还有谁那么深情地在那里刻下她的名字。
 
-当第二诫谈到上帝的名字时，它不仅指我们所知道他的每一个名字，而是指我们从他的话语中所知道的关于他的一切。这是何等美妙的名字啊，这是万名之上的名字。
+当第二诫谈到上帝的名字时，它不仅指我们所知道他的每一个名字，也指我们从他的话语中所知道的关于他的一切。这是何等美妙的名字啊，这是万名之上的名字。
 
-既然我们知道真神为我们所做的事，我们就不仅要深情地在某处树木上刻上他的名字。我们想要用最高的荣誉和尊重来对待它，直到我们生命的尽头。
+既然我们知道真神为我们所做的事，我们所要做的就不仅仅是像那样深情地在某处树木上刻下他的名字。我们要用最高的荣誉和尊重来对待它，直到我们生命的尽头。
 
 **他的名字的重要意义**
 

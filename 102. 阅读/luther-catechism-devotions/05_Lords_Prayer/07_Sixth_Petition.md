@@ -1,37 +1,5 @@
 # 主祷文的第六祈求 不叫我们遇见试探
 
-## 祷告词
-> Lead us not into temptation.
-
-## 小教义问答的解释
-> God tempts no one to evil, but we pray in this petition that God will guard and keep us so that the devil, the world, and our sinful nature may not deceive us or mislead us into false belief, despair, and other great shame and vice, but instead that we may resist them and overcome them.
-
-## 英文原文摘录
-
-"Lead us not into temptation."
-
-"Dear Abby," the letter went, "how come all the people we see doing exercises on those tapes are slim and trim?" Her answer, "Because it takes exercise to get into and stay in shape." In the Sixth Petition, our Lord teaches us to pray about exercise, about what it takes for us to get into and stay spiritually in shape.
-
-**What we pray God to do**
-
-Temptation is actually a neutral word. In the original it means "testing," some proving or probing, if you will. Scripture uses this word in two different ways. When it speaks of God tempting, it refers to his testing a believer with the view of strengthening faith. He once did this by asking Abraham to sacrifice Isaac. He did it also to Paul by giving him a physical ailment and then refusing to remove it. When Scripture speaks of the devil, world, and flesh tempting, the opposite is true. Always when this unholy trio approaches, it's to damage and destroy faith. That's what happened with Adam and Eve in the Garden of Eden and with Judas in the Garden of Gethsemane. With his temptations, God wants to root faith deeper in his Word, while the devil's intentions are to rip those roots out of that nourishing soil.
-
-With this petition, are we asking God to stop testing our faith? Hardly! How flabby faith's muscles would become if he didn't put them through some calisthenics. Rather, we're asking God to do something about those nasty efforts of the devil, the world, and our flesh. Though temptations to evil never come from our holy, loving Father, he is more than capable of stopping them or giving us the ability to conquer them when they do attack.
-
-Do we need this petition when we ask God to use his strength in our behalf? Not if we follow the world's wisdom that says, "The only way to get rid of temptation is to give in to it." If we are at all serious about faith and Christian living, if we've learned the lesson that regardless where we move, temptation finds our forwarding address, if we've discovered that temptations get not fewer but different as we grow older, then we know how much we need to ask our Father in heaven for those two S's—that he either stop temptation or strengthen us to win over them.
-
-**What we promise ourselves to do**
-
-This petition is also our way of announcing what we will do. "Don't worry, Dad," the little boy says as he climbs up the tree, "I won't fall." And you know what's going to happen before you get there to catch him. "If you think you are standing firm, be careful that you don't fall!" Paul warned (1 Corinthians 10:12). Noah squeezing grapes into wine, David looking at a lovely woman in her bath, Judas fingering slippery coins in his purse would have done well to heed Paul's advice. So do we. The first step to fighting temptation is remembering our weakness.
-
-The second step is staying out of temptation's way. Admittedly that's difficult because temptation is all around us. Temptations constantly walk down our street, but we don't have to open the door and invite them in. Playing around with temptation is like trying to run down a mountainside. There comes a time when your legs get away from you and you can no longer stop.
-
-The third step is knowing where to find strength. "God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can stand up under it," Paul promised (1 Corinthians 10:13). When the bully of temptation blocks our path and threatens to bloody our nose, we don't foolishly take it on by ourselves. Nor do we stand there shaking in fear until it demolishes us. We get our bigger brother. Jesus knows what to do to overcome the evil one. In the wilderness he sent the devil packing with the words "it is written." "Take ... the sword of the Spirit, which is the word of God," he advises us (Ephesians 6:17).
-
-And still we fall. The devil wins, the world triumphs, our flesh yields. Then what? Then it's time to remember the fifth rule in fighting temptation and look to Jesus for pardon. It's time to see the love in his eyes that says, "I'm disappointed, but I still love you." It's time to see the wounds in his hands that say, "I stretched these out in bitter payment for those very sins, and now I stretch them out in genuine welcome to you." It's time to hear his soft, yet wondrously sweet voice assuring, "Arise, go in peace, your sins are forgiven."
-
-Then all the more, we'll promise to do all we can to keep fit for the fight against temptation. God, help us! Amen.
-
 ## 中文翻译
 
 **不叫我们遇见试探**

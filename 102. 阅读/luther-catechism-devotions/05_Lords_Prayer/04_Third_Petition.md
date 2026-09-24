@@ -1,47 +1,5 @@
 # 主祷文的第三祈求 愿你的旨意行在地上如同行在天上
 
-## 祷告词
-> Your will be done on earth as in heaven.
-
-## 小教义问答的解释
-> God's good and gracious will certainly is done without our prayer, but we pray in this petition that it may be done among us also.
->
-> How is God's will done?
->
-> God's will is done when he breaks and defeats every evil plan and purpose of the devil, the world, and our sinful flesh, which try to prevent us from keeping God's name holy and letting his kingdom come. And God's will is done when he strengthens and keeps us firm in his Word and in the faith as long as we live. This is his good and gracious will.
-
-## 英文原文摘录
-
-"Your will be done on earth as in heaven."
-
-Have you made out your will yet? When I started traveling for world missions, my wife and I went to a lawyer and had our will drawn up. In it we put down what we wanted done with our possessions, including our most precious possessions, our small children. Periodically we update that will as the circumstances of our lives change. There it is for others to someday carry out.
-
-God has a will. There are things he wants. On the pages of the Bible, he has written them down. With his will no updating is ever necessary, because he never changes his mind. Though some act as if God has no will or contest it constantly, it will surely be carried out.
-
-**What God wants**
-
-People have so many strange ideas about what God wants. They prattle and preach about this and that, forgetting that what God wants he has written down. Do we need a refresher? Listen to Jesus: "My Father's will is that everyone who looks to the Son and believes in him shall have eternal life" (John 6:40). Listen to Paul as he amplifies this thought: "[God] wants all men to be saved and to come to a knowledge of the truth" (1 Timothy 2:3,4). What God wants for you and me and for everyone is that they believe in Jesus and be saved eternally.
-
-There's more. "It is God's will that you should be sanctified," Paul reminded the Christians at Thessalonica (1 Thessalonians 4:3). God wants those who belong to his family to live like family members. He wants them, as his willing children, to do what he wants and to avoid what he does not want. We can understand this, for don't we expect the same in our earthly families?
-
-What the almighty God wants, he makes happen. Unlike some football game with opposing teams seesawing across the field and not winning until the final whistle, God is in control. Though we can't always see it, his power works in the hearts and lives of those he chooses. With this Third Petition, we are not implying that we can make his holy, saving will happen. We're praying that he work it among us also.
-
-**What others want**
-
-Not everyone wants what God wants. In case we haven't noticed lately, three major enemies have lined up in opposition to his will. There's the devil. His defeat has already occurred, but he's not sulking in hell, licking his wounds. With the bitter sting of defeat in his heart, he rages all the more fiercely, especially against God's children. Those already doing his devilish will need sporadic attention; those doing God's will need his special attacks. There's the world with whom the devil partners. Like those d-Con packages we set out in our homes to eliminate mice, so the world, in every season of life, strews its tasty morsels before us to thin out and even kill off our faith. And there's the enemy we can never get away from, for we carry it inside of us wherever we go. Like some gasoline can, our sinful nature sits there ready to explode at the slightest flame.
-
-Oh yes, we've noticed these three enemies. They've done more than attack us. They've taken big chunks out of us and left us bleeding. By ourselves we can't stop them, and if unstopped they will kill us. That's why we pray this petition to our almighty, loving Father in heaven.
-
-**What we want**
-
-So what are we asking with this petition? First, we pray for God's saving power. With his cross on Calvary, he put Satan down for the count, the world in its place, and the padlock on our sinful hearts. God did not exhaust his saving power on Calvary, but uses it each day to reinforce his mighty victory. If only we could see how often God keeps away the vicious attacks of the devil, the world, and our flesh, we would ask more fervently with this petition that he continue to do so.
-
-Second, we pray for God's strengthening power. Only he can bulk up the muscles of faith and build up stamina for Christian living. If only we would remember how he does this, we would turn more frequently to his Word. The gospel is his power unto salvation, not only bringing us to faith but keeping us in faith in Jesus. The gospel is his power, making his will our will and moving us to follow that will more in our lives. When we pray this petition, we are also promising to turn to that gospel for his power.
-
-Someday we'll join the saints and angels in doing God's will perfectly in heaven. Until that time comes, we need to pray "your will be done on earth as in heaven."
-
-Prayer: Lord, thank you for bringing us to faith in Jesus. Keep that faith in us and in our lives in spite of the attacks of the devil, the world, and our flesh. Amen.
-
 ## 中文翻译
 
 **愿你的旨意行在地上，如同行在天上**

@@ -1,35 +1,5 @@
 # 主祷文的颂词 国度、权能、荣耀全是你的，直到永远
 
-## 祷告词
-> For the kingdom, the power, and the glory are yours now and forever. Amen.
-
-## 小教义问答的解释
-> All of this we should believe and not doubt. For our Lord Jesus Christ himself has commanded us to pray in this way and has promised that it will be heard and answered. Therefore let us confidently say our "Amen" to it, which means, "Yes, yes, it shall be so."
-
-## 英文原文摘录
-
-"For the kingdom, the power, and the glory are yours now and forever. Amen."
-
-Coming through Chicago, I drove over a piece of debris on the tollway. Fortunately the punctured tire held up until I reached the outskirts, where I stopped to change it. Later as I drove on, I thought about prayer. Is prayer the spare tire in the trunk of life? Something we don't think much about until our life has a puncture? And then when we use it, something we shouldn't expect too much of, because its doughnut size is good only for limited mileage?
-
-That's not how Jesus wants us to use the prayer he taught us. This he impresses on us with its concluding words.
-
-**A confident conclusion**
-
-We've asked tremendously great things of our Father in this prayer. Can he come through with what we've asked? Yes, the conclusion tells us, pointing not to us but to him. "For" it says. Read this word in your mind's eye as "because." We can ask confidently because the kingdom is his. To the unbelieving world, his kingdom means power—such as the power Pharaoh felt when the Red Sea waters washed over his chariots. For us, as believers, kingdom refers more to God's grace. It points us to a loving God whose grace in Christ Jesus has made us his dear children. We can enter his throne room confidently anytime and ask about those really important things—such as keeping his Word holy with our preaching and living and keeping us in and bringing others into his kingdom. When we pray "yours is the kingdom," it's especially his grace that makes us confident.
-
-"Because yours is the power," we continue. A king without power is like a car without an engine—nice looking, but going nowhere. Not our Father in heaven. Joshua prayed—and the sun stood still. Elijah prayed—and the drought of three years and six months ended. The disciples prayed—and the storm stopped. Paul and Silas prayed—and the earthquake sprung the cell doors of the jail. The one to whom we pray has the power to raise the dead and to pronounce forgiveness to the paralyzed. He has power to make Baptism's water cleanse our souls and to couple his very body and blood with the bread and wine for the communicant. Hesitate to come to him? Let his power hurry us to his throne with confidence.
-
-"Because yours is the glory," we also pray. One of a man's great glories is that he's known for keeping his word. How much more so with our Father. "I will deliver you, and you will honor [glorify] me," he tells us (Psalm 50:15). In the Lord's Prayer, we give him glory simply by asking him. We also ask each petition with his glory in mind. And finally, we trust his answers to result in glory for him. To such a Father, we come with confidence. The kingdom and the power and the glory were his in eternity, are now, and ever shall be.
-
-**A confident word**
-
-"Amen," we pray, not as a dismissal signal that prayer is over but as a sure sign of our confidence. This sweet word has found its way into almost all of the languages of the world. It's one of the first prayer words we learned as infants. "Amen" means certainly, truly, surely. It's not a question mark but an exclamation point. With this word we aren't questioning, "Will you, Lord?" We're expressing the confidence, "You will, Lord!" When we pray "Amen," we shut the door to unbelief and doubt. We are telling our Father that we believe he has heard and will answer all that we have asked for in this prayer. How can it be otherwise? Our Father has commanded us to pray. Our Savior has taught us this prayer and made it possible for us to pray it by making us God's children. He even sends his Holy Spirit to help us when we pray (Romans 8:26).
-
-"The Amen People" Luther once labeled believers. When things go wrong and we don't get what we want or as soon as we want it, it can be hard to be "Amen People." Then it's time again to turn to Jesus, God's great Amen, the one in whom he has fulfilled all his promises. In Jesus we receive pardon for the past, power in the present, and promise of the future. Our loving heavenly Father said "amen" first in him. Now we can say it too.
-
-Prayer: Father in heaven, we believe that because of Jesus you hear us when we pray and that you will answer our prayers in the way best for us. Amen.
-
 ## 中文翻译
 
 **国度、权能、荣耀全是你的，直到永远。阿们。**

@@ -1,33 +1,5 @@
 # 主祷文的呼上 我们在天上的父
 
-## 祷告词
-> Our Father in heaven.
-
-## 小教义问答的解释
-> With these words God tenderly invites us to believe that he is our true Father and that we are his true children, so that we may pray to him as boldly and confidently as dear children ask their dear father.
-
-## 英文原文摘录
-
-"Our Father in heaven."
-
-How often haven't we prayed it? In our family circle and in congregational worship. In times of joy and times of trouble. For good reason. First, because it is our Lord's Prayer, taught by him—not just once, but twice (Matthew 6, Luke 11). Second, because it covers all our needs, both of soul and body. Because we use it so frequently, however, we might be tempted to slide over its few words and lose sight of its rich meaning.
-
-**Our Father**
-
-"Father," Jesus teaches us to call him. Is this because he who formed Adam out of the dust of the ground has also framed us in our mothers' wombs? Of course—he who flings the stars into space and confines the mighty oceans to their channels creates and preserves every human being on earth. But that's not the Father to whom Jesus bids us pray. How could we? Because of Adam's sin, our connection with the almighty, holy God has been severed, and we dare not call him Father. With Father, Jesus has something far greater in mind. "You are all sons of God by faith in Christ Jesus," Paul explains (Galatians 3:26). What a Father he is, one whose love drove him to send his only Son to become our brother and restore us again as his sons and daughters. Never will we cease marveling at "how great is the love the Father has lavished on us, that we should be called children of God!" (1 John 3:1). "For believers only," Jesus marks his prayer by using that word Father. Only believers trust God as their loving Father to whom they can come with confidence and peace.
-
-**Our Father**
-
-Surely it wouldn't be wrong for us to pray "My Father in heaven... give me today my daily bread ... forgive me my sins." Yet that's not how Jesus taught us to pray. Through sin, mankind lost not only the heavenly Father but also his fellow man. Not only did Adam run away from his Father as from an angry judge, but he also leveled the blaming finger at his wife. God sent his Son, Jesus, to bring back both the fatherhood of God and the brotherhood of man. Those who know the Father pray not in narrow concern only for themselves but in wider concern for all those of the household of faith. So it's "our" Father as we pray in concern for our spouse, our parents, our children, our pastors and teachers, our people, the healthy for the sick and the sick for the healthy, the believers around us whom we can name and the nameless ones thousands of miles away. There's also comfort in that word our. Across the world, every time a believer uses this prayer, he's praying for me and asking God to grant me what I need for body and soul. Nor do we want to ignore the challenge in the word our. What about the billions who don't know our loving Father? I know what I have as a member of his family, so I want to do all I can to direct others to that family.
-
-**Our Father in heaven**
-
-What a contrast between fathers on earth and our Father "in heaven." Many earthly fathers try to love with a tender and unselfish love, but there are places their love can't travel and problems their love can't solve. There are also mistakes their love can make—and the grave finally silences their love. Not so with our Father in heaven. "Our God is in heaven; he does whatever pleases him," the psalmist announced (115:3). "Nothing is impossible with God," the angel answered Mary (Luke 1:37). He "is able to do immeasurably more than all we ask or imagine," Paul assured the Ephesians (3:20). A heavenly Father with heavenly power can and will take good care of his children.
-
-Nor does the Father in heaven ever make a mistake. When it seems so—if what has come our way seems heavy and hard—it's time to look up again to the one who sends it. More than any earthly father, he knows what diet is needed to tone faith's muscles and what rain is needed to help faith's flower flourish. "Keep your eyes not on what is sent, but who sends it," Jesus would remind us with the words "our Father in heaven."
-
-"Our Father in heaven"—only four words. But what wealth of meaning in them, meaning we want our hearts to treasure each time we pray.
-
 ## 中文翻译
 
 **我们的父**
@@ -36,7 +8,7 @@ Nor does the Father in heaven ever make a mistake. When it seems so—if what ha
 
 **我们的父**
 
-当然，我们祷告"我在天上的父啊……求你今日赐给我们日用的粮……赦免我们的罪"不会有错。但这不是耶稣教导我们祷告的方式。通过罪，人类不仅失去了天父，也失去了他的同胞。亚当不仅像逃离愤怒的法官一样逃离他的父，而且还向他的妻子指责。上帝差遣他的儿子耶稣，既恢复了上帝的父性，也恢复了人间的兄弟关系。那些认识父的人不仅为自己的狭隘关切而祷告，而是为所有属于信徒家庭的人的广泛关切而祷告。所以当我们为我们的妻子、我们的父母、我们的孩子、我们的牧师和教师、我们的人民祷告时，为健康的人代求患病者，为患病者代求健康的人，为我们能够说出名字的信徒以及远在千里之外的无名信徒代求时，这是"我们的"父。那个词"我们的"中也有安慰。在世界各地，每次一个信徒使用这个祷告时，他都在为我祷告，并祈求上帝赐给我身体和灵魂所需的一切。我们也不想忽视那个词"我们的"中的挑战。那些不认识我们慈爱父的数十亿人呢？我知道作为他家族的成员我拥有什么，所以我想尽一切努力将他人指向那个家族。
+当然，我们祷告"我在天上的父啊……求你今日赐给我日用的粮……赦免我的罪"不会有错。但这不是耶稣教导我们祷告的方式。通过罪，人类不仅失去了天父，也失去了他的同胞。亚当不仅像逃离愤怒的法官一样逃离他的父，而且还向他的妻子指责。上帝差遣他的儿子耶稣，既恢复了上帝的父性，也恢复了人间的兄弟关系。那些认识父的人不仅为自己的狭隘关切而祷告，而是为所有属于信徒家庭的人的广泛关切而祷告。所以当我们为我们的妻子、我们的父母、我们的孩子、我们的牧师和教师、我们的人民祷告时，为健康的人代求患病者，为患病者代求健康的人，为我们能够说出名字的信徒以及远在千里之外的无名信徒代求时，这是"我们的"父。那个词"我们的"中也有安慰。在世界各地，每次一个信徒使用这个祷告时，他都在为我祷告，并祈求上帝赐给我身体和灵魂所需的一切。我们也不想忽视那个词"我们的"中的挑战。那些不认识我们慈爱父的数十亿人呢？我知道作为他家族的成员我拥有什么，所以我想尽一切努力将他人指向那个家族。
 
 **我们在天上的父**
 

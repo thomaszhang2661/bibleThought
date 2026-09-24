@@ -1,39 +1,5 @@
 # 主祷文的第一祈求 愿人尊你的名为圣
 
-## 祷告词
-> Hallowed be your name.
-
-## 小教义问答的解释
-> God's name is certainly holy by itself, but we pray in this petition that we too may keep it holy.
->
-> How is God's name kept holy?
->
-> God's name is kept holy when his Word is taught in its truth and purity and we as children of God lead holy lives according to it. Help us to do this, dear Father in heaven! But whoever teaches and lives contrary to God's Word dishonors God's name among us. Keep us from doing this, dear Father in heaven!
-
-## 英文原文摘录
-
-"Hallowed be your name."
-
-We do all kinds of things with names. Names may mean a little or a lot to us, depending on the person they represent. They are treated with respect or repugnance, depending on what the person has or has not done for us. They are long remembered or soon forgotten, depending on what the person means to us. Names come and names go, but none is like the name of God. His name is above all names, as our use of his name should reflect.
-
-**May your word be kept holy**
-
-How do we get from "hallowed be your name" to "may your Word be kept holy"? We start by looking at what a name is. Let's use the name Abraham Lincoln as an example. Mention his name and we think of the man who was our country's 16th president, of words he spoke (such as the Gettysburg Address), of what he did to preserve our country, of how he stood firm in hard times of conflict. His name represents all we know about him—what he was and said and did: his entire person and personality.
-
-Even more so when we pray about God's name in the First Petition. God's name is all that we know about him and his person, his words and his works. And that brings us to God's Word. For it is only in his Word that God shows us his name. On the sacred pages of Scripture, he tells us who he is: triune God, Father, Son, and Holy Spirit. In the same book, he tells us what he is: almighty, all-knowing, all-present, eternal, merciful, loving. There too he tells us what he has said—how at Sinai he thundered his Law to show us what we are and at Calvary whispered his gospel to show us what he had done about our condition. Speak of God's name and we are at the same time speaking about his Word.
-
-I've never seen pure gold, but they tell me it's 24 carat. There is no such thing as 26-carat gold. You can't add anything to pure gold to make it any purer. You can, however, dilute it into 18 or 14 carat by mixing in other metals. So God's name is "certainly holy by itself." God is holy; his person is holy; his works are holy; his Word is holy. No more than we can beef up 24-carat gold can we make his holy name more holy. To pray that God's name be hallowed is not asking that his word be made holy but rather that it be kept that way.
-
-**May we keep your word holy by true teaching and living**
-
-God's Word is holy by itself, and he could keep it so. He has, however, put it into our shaky hands—and that's where the need for this petition enters in. When we pray "hallowed be your name," we're asking God to help us keep it holy through true teaching and true living. Our concern to keep his Word unpolluted should make the environmentalist's concern for earth's resources tiny by comparison. When people twist the Word to make it say what they want, tone down the Word to make it sound sweeter, trim out the Word to make it more modern, they are doing no one a favor. They pollute God's Word with disastrous results for themselves, those around them, and all who hear them.
-
-Similarly, when people mouth the Word but don't model it in their lives, God's name is debased. When unbelievers fail to see kindness in our homes, uprightness in our dealings, joy in our hearts, confidence in our hours of death, why should they want to become like us or honor God's name with us? Luther's words are right on: "Keep us from doing this, dear Father in heaven!"
-
-"Hallowed be your name"—let those words be my prayer for divine forgiveness for the many times my feet have dragged mud over his Word and my life has been but a flickering match tip in sin's darkness. "Hallowed be your name"—let those words be my prayer of pledge with which I bind myself to study his Word more fully, so that I can speak it more clearly. "Hallowed be your name"—let those words be my prayer for divine help to speak up and not be silent in this anti-Christian society and to put the trump on my words with my actions, even when those actions are out of step with the world's ways. Again Luther's words hit the mark: "Help us to do this, dear Father in heaven!"
-
-Jesus, who was God's name in person, could say: "I am the Light of the Word. Look at me and know God." Now we who bear his name pray that he help us let our lights shine, so that others can see what he is and what he can do for them.
-
 ## 中文翻译
 
 **愿人尊你的名为圣**

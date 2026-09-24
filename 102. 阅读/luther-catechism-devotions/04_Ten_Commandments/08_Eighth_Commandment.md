@@ -1,38 +1,5 @@
 # 第八诫 不可作假见证
 
-## 核心诫命
-> "You shall not give false testimony against your neighbor."
-
-## 英文原文摘录
-
-The gift of speech brings with it much joy. What if we had no ability to say "I love you" or "I care"? What if there'd be no familiar voice on the other end of the long-distance phone call, no first word from a grandchild for our ears to hear? Much sunshine would be lost if the gift of speech were gone. Unfortunately, speech isn't always used to spread sunshine. At times it can fall like hail, denting a reputation, or burn like the desert sun, damaging a good name. Because a good name is a possession people can ill afford to lose and seldom regain, God has set down this commandment.
-
-**Destructive speech**
-
-Look at what sin did to man's use of God's gift of speech. After the fall Adam used this gift, not to offer praise but instead to offer an excuse to his Maker. Toward his wife it was no longer words of affection but words of accusation. A brief glance into the sin shadows of our own lives verifies what we have seen in Eden. For us too sin has perverted the tongue, as James put it, into "a restless evil, full of deadly poison" (3:8). Like some restless snake, speech slithers around, darting and striking without warning, puncturing and paralyzing reputations with its poison.
-
-Need some specifics? Luther offers them as he unfolds God's commandment with the words "tell lies about our neighbor, betray him, or give him a bad name." With the words "false testimony," God couched his commandment in the language of the courts, but Luther shows it covers the whole field of communication with or about our neighbor. Though Luther speaks of telling lies, betraying, giving a bad name, it's really all the same, just from a different viewpoint. He's speaking of any use of speech, whether it tells a lie or the truth, that is intended to damage a fellow human being's reputation. Sometimes it's telling lies in the courtroom in order to help the guilty or frame the innocent. Sometimes it's gossiping about another, with the mistaken notion that tearing him down builds us up. Doesn't that word gossip seem to hiss out the smallness of this sin? Sometimes it's greasing the skids with flattery, as we sweet-talk someone into giving us what we want. Sometimes it's revealing another's sins when it would be far better to conceal them. But always it's trying to damage his reputation.
-
-Why do we do such things? It's not just "tongue trouble" but "heart trouble." The sin in Eden's garden changed not only our vertical relationship with God but also the horizontal one with our neighbor. When sin exiles God from the human heart, our neighbor also loses his worth. When the heart regards God as a nobody, how can our neighbor be somebody? When God's name means little or nothing, what's in a neighbor's name?
-
-Guilty? Of course we are. It's time again to plead in penitence, "God, be merciful to me, a sinner." God will hear and answer. His own living Word of love he placed into a stable and pierced on a cross to cleanse us also from the sins of the tongue. As he plants Christ in our hearts, he also trains our tongues, so that we can use them to help our neighbor.
-
-**Constructive speech**
-
-Tamed and trained by Christ, the tongue talks up for our neighbor's good. When wicked King Saul spoke ill of David, Jonathan reminded his father of the good that David had done for Israel in slaying Goliath. When David had committed adultery and murder and all Israel knew about it, the prophet Nathan went face-to-face with his king, seeking and succeeding in leading him to repentance's road. When's the last time we scotched some gossip by speaking well about the one being scorched? When's the last time we put the kindest spin on another's actions toward us—instead of trumping up something less than noble? When's the last time we hurried in love to one who had sinned against us—instead of harboring resentment against him and heralding to others what he had done?
-
-There's much for us as Christians to do with God's gift of speech, so much that there's no time left for foolishness. We believe in the one who said of himself, "I am the truth." We follow him whose filled cross and emptied tomb guarantees victory over Satan, "the father of lies." What better way of showing this than speaking the truth with one another?
-
-**Prayer:**
-"Keep me from saying things
-That later need recalling;
-Grant that no idle words
-May from my lips be falling,
-But then, when in my place
-I must and ought to speak,
-My words grant pow'r and grace
-Lest I offend the weak." Amen. (CW 459:3)
-
 ## 中文翻译
 
 言语的恩赐带来许多喜乐。假如我们没有能力说"我爱你"或"我在乎你"，那会怎样？假如长途电话的另一端没有熟悉的声音，我们的耳中听不到孙儿说出的第一个字，那会怎样？倘若言语的恩赐不复存在，许多阳光就会失落。可惜，言语并不总是被用来播撒阳光。有时它像冰雹一样落下，砸伤人的名声；或像沙漠的烈日一样炙烤，损毁人的美名。因为美名是人一旦失去便难以承受、且极少能重新得回的产业，所以上帝定下了这条诫命。

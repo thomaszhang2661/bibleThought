@@ -1,41 +1,5 @@
 # 主祷文的第四祈求 我们日用的粮，求你今日赐给我们
 
-## 祷告词
-> Give us today our daily bread.
-
-## 小教义问答的解释
-> God surely gives daily bread without our asking, even to all the wicked, but we pray in this petition that he would lead us to realize this and to receive our daily bread with thanksgiving.
->
-> What, then, is meant by daily bread?
->
-> Daily bread includes everything that we need for our bodily welfare, such as food and drink, clothing and shoes, house and home, land and cattle, money and goods, a godly spouse, godly children, godly workers, godly and faithful leaders, good government, good weather, peace and order, health, a good name, good friends, faithful neighbors, and the like.
-
-## 英文原文摘录
-
-"Give us today our daily bread."
-
-Only one in seven! That's right—only one of the seven petitions, or requests, in the Lord's Prayer deals with bodily needs. What a reminder for us to get our values straight when we pray. Don't think that the Lord is not concerned about taking care of our physical needs and that we should never pray about them. If such were the case, he would not have included a petition about daily bread in his prayer. But he has, and we use the Fourth Petition with gratitude and confidence.
-
-**Our daily bread**
-
-For us in the West it's bread; in Latin America its tortillas; in the Far East its rice—but the meaning is the same. "Bread" means that which we need to live. "Daily," its original meaning indicating what we need for the moment, reinforces the thought. In explaining "daily bread," Luther included the things we need, the circumstances we need, and the people we need in order to live. "Give me neither poverty nor riches, but give me only my daily bread," wise Solomon prayed (Proverbs 30:8), and we would do well to follow his lead.
-
-Yet so often we turn the word bread into cake, and when God gives "cake," we even ask for thicker frosting. Because God in his goodness grants extras, we slowly but surely confuse wants with needs. Bread becomes fancy food. House becomes not just a roof over our heads but one finer than our neighbor's. Family becomes one that is superior to anyone else's. Job and income become one that surpasses that of my relatives'. The more our gracious God gives, the more we want. And when he doesn't give us "cake," we pout and even point an accusing finger at him. "Daily bread," Jesus said, "that which we need in order to live."
-
-**Today**
-
-"Today," Jesus teaches us to pray, reminding us that asking for bread should be not sporadic but a daily practice. That word today serves also as an antidote against worry. Yesterday is past and cannot be changed. Why lug its troubles along, like so much mold to taint the taste of today's bread? Tomorrow is farther than we can see, much less control. Why allow its supposed troubles, like some half-baked dough, to lie in our stomachs, spoiling our appetite for today's bread. Certainly the Lord, who cares for us daily, expects us to plan and perspire. But his word today rules out a brow furrowed with anxiety and a heart feverish with worry. "Your heavenly Father knows that you need them," Jesus promised, referring to our daily bread and reassuring us of its coming (Matthew 6:32).
-
-Do I hear you saying, "That's easier said than done?" Do you know what worries I have on my plate? What about my retirement investments and the cost of medicare rising? What about my job just hanging by a string, with the scissors ready to snip? What about the braces my child needs on his teeth or those cells running haywire in my body? What about not finding a mate or having no friends? Yes, what about??? Jesus has the answer. "Today" he taught us to pray, leaving yesterday and tomorrow in our loving Father's hands. Only he can forgive and correct yesterday's failures, and only he can supply tomorrow's needs.
-
-**Give**
-
-Does the word give suggest something we aren't so ready to hear? We'd rather push back in our La-Z-Boy recliners and pronounce: "I have planned. I have perspired. I have profited." Or to put it another way, "I have earned my daily bread." Other times we look around and then grumble, "Lord, I deserve more or at least as much as you've given that fellow next door." Again it's talk about earning or deserving. When Jesus said "give," he's speaking to us of a prayer of humility. With this word he reminds us to stand, not toe-to-toe, eyeball-to-eyeball with God, but down in the dust as a beggar before him. Daily bread is not my paycheck; it's God's gift to me.
-
-"Give" is also a prayer of thanksgiving. God expects his children to stand taller than the unbelieving people and the ungrateful beasts in this world, who grab and gulp their daily bread, giving no thought to the gracious hand behind it. God's children thank the giver before using the gift. When we pray "give" in regards to daily bread, we are reminded to bow our heads in daily thanksgiving and bend our lives for daily "thanksliving." Only one petition in seven, but no less important. Where would we be without God giving us today our daily bread?
-
-Prayer: Giver of all, help me with lips and life to thank you for my daily bread. Amen.
-
 ## 中文翻译
 
 **我们日用的粮，求你今日赐给我们**

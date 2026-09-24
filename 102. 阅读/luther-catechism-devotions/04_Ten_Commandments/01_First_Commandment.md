@@ -1,34 +1,5 @@
 # 第一诫 你不可除我之外，别有他神
 
-## 核心诫命
-> You shall have no other gods.
-
-## 英文原文摘录
-
-"She's the only one for me." That's why the young man keeps dating her and finally proposes marriage. That's why he's also concerned about following her likes and avoiding her dislikes.
-
-That's what God wants too. He desires people who consider him the only one for them and whose only goal it is to please him. That we might know what our God likes and dislikes, he gave his Ten Commandments. That we might want to follow his will, he gave his Son to redeem us. Having looked at what God's love does for us as outlined in the creed, it's time to turn to the Ten Commandments and look at what he wants us willingly to do for him.
-
-**He wants to be our only God**
-
-People are by nature incurably religious. The world around them and their consciences within them point irrefutably to the existence of a higher being. Because man without the Word can't know who that God is, he goes about inventing his own. Whether it's the forces of nature around him, the idols crafted by his own hands, or reliance on his own abilities, he has a god. Poor fool! How can an idol of his own creation stand taller than the One who created it? How can the shifting sands of his own intellect or power be reliable concrete for his trust? How can the impersonal, uncaring forces in nature hold him in the palm of their hand?
-
-Careful! When we say "poor fool," we might be pointing the finger also at ourselves. Luther once wrote, "Your god in reality is that around which you entwine your heart and on which you place your confidence" (Plass, What Luther Says, Vol. 2, page 541). Perhaps we don't in our blindness bow down to wood and stone. But that doesn't mean we have no idols. When I hold on to my money tighter than to my Master, trust my muscles more than my Maker, respect peoples' opinion more than my Redeemer's, what am I really doing? I'm telling God that he's not the only one, that someone else has the hold on my heart that he alone has the right to have.
-
-**He wants to be treated as our only God**
-
-Not only does God demand, as he has the right to, that he be our only God, he also asks that we treat him that way. Those three men with hard to pronounce names who were hurled into Nebuchadnezzar's blazing furnace understood this truth (Daniel 3). They revered God so much that they just couldn't think of treating a man-made idol the same way. What had that idol done for them, contrasted to the love God had heaped upon them? Moreover, God had told them in his Word that he wanted the glory given to him, not to idols. Our catechism refers to this giving all glory to God by putting him and his Word above everything else "fearing him above all things."
-
-Those three men understood something else. Their lives were important to them as ours are to us. But not more important than their God. How could they save their skins and sacrifice their God? What kind of love would that show for the true God who had done so much for them, including promising to send the Savior? Our catechism calls this treasuring God above every thing else and showing it by following his will as "loving him above all things."
-
-A third truth those three men show us. King Nebuchadnezzar's anger was hot and the furnace's fires even hotter, but the men weren't afraid. Even though those fires promised searing, brutal death, the three men trusted God. Their lives were in his hands, so how could they go wrong? Our catechism calls this relying on God for help more than on anything else as "trusting him above all things."
-
-Guilty? Of course we are! Each of us can write his own "three men in the furnace" scenario, showing with the less dramatic details of our daily life how often we fail to fear, love, and trust God above all things. How in the world are we going to treat God the way he deserves if we can't even begin with this first and foremost commandment, the one that speaks about the state of our mind and heart?
-
-Thank God he rescues us from the fires of hell we deserve. He sent not an angel, but his own Son to pay for our breaking of his First Commandment. Because of Jesus, he still is the only one for us!
-
-**Prayer:** Lord, thank you for washing us clean from our idolatry. Help us to fear, love, and trust you more each day. Amen.
-
 ## 中文翻译
 
 "她是我唯一的那一位。"正因如此，那个年轻人才不断地约她出去，最终向她求婚；也正因如此，他才会在意顺着她的喜好、避开她所不喜欢的。
@@ -43,7 +14,7 @@ Thank God he rescues us from the fires of hell we deserve. He sent not an angel,
 
 **他想被当作我们唯一的神来对待**
 
-上帝不仅按照他的权利要求他成为我们唯一的神，他还要求我们这样对待他。那三个名字难以发音的人被抛进尼布甲尼撒炽热的火炉中，他们理解了这一真理（但以理书3:1-30）。他们对上帝的敬畏是如此之深，以至于他们根本无法想象以同样的方式对待人造的偶像。那个偶像为他们做过什么，相比之下，上帝堆砌在他们身上的爱又如何呢？而且，上帝已经在他的话语中告诉他们，他要求荣耀归给他，而不是归给偶像。我们的教理问答称这种把上帝和他的话语放在最高地位的做法为"在万有之上敬畏他"。
+上帝不仅按照他的权利要求他成为我们唯一的神，他还要求我们这样对待他。那三个名字难以发音的人被抛进尼布甲尼撒炽热的火炉中，他们理解了这一真理（但以理书3章）。他们对上帝的敬畏是如此之深，以至于他们根本无法想象以同样的方式对待人造的偶像。那个偶像为他们做过什么，相比之下，上帝堆砌在他们身上的爱又如何呢？而且，上帝已经在他的话语中告诉他们，他要求荣耀归给他，而不是归给偶像。我们的教理问答称这种把上帝和他的话语放在最高地位的做法为"在万有之上敬畏他"。
 
 那三个人还理解了另一件事。他们的生命对他们很重要，就像我们的生命对我们很重要一样。但这不比他们的上帝更重要。他们怎么能拯救自己的性命却牺牲他们的神呢？这对那位为他们做了这么多事，甚至承诺差遣救主的真神，会显示出什么样的爱呢？我们的教理问答称这种把上帝看得比所有东西都珍贵，并通过遵行他的旨意表现出来的做法为"在万有之上爱他"。
 

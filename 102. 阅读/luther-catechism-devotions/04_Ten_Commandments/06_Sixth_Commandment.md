@@ -1,28 +1,5 @@
 # 第六诫 不可奸淫
 
-## 核心诫命
-> You shall not commit adultery.
-
-## 英文原文摘录
-
-Think marriage is important to God? Wasn't it he who instituted it in the Garden of Eden by bringing Eve to Adam that two might become one flesh? Wasn't it God, come in the flesh, who performed his first miracle at a wedding celebration in Cana? And wasn't it his Spirit who, through Paul, compared the relationship between husband and wife to the union between Christ and the church? To safeguard that which he had so graciously given and which is so obviously important to him, God set down his Sixth Commandment.
-
-**A lifelong union of love**
-
-"Stop, look, and listen before you cross the tracks of marriage," one of my professors said. Good advice—for once entered, marriage is to be lifelong. "What God has joined together, let man not separate," Jesus commanded (Matthew 19:6). True, sinful people may and do tamper with this lifelong union of love. Swinging the club of selfishness, man shatters this union through unfaithfulness or wilful desertion. Flitting like a bee from blossom to blossom, he cancels out and civil authorities concur, even granting "no-fault" divorces. But that doesn't make sin right! The lasting bruises and painful scars left on all involved in a marriage's breakup show God's wisdom in wanting marriage to be a lasting relationship like that of the church with Christ.
-
-God, who instituted marriage, wants it also to be a lifelong union of love and honor for each other. With this gift he intended to bless, not blight mankind. He wanted this union to be a mountaintop of happiness, not a lowland of hurt, for the men and women he created. With man as the head and woman as the heart, earthly marriage was to be a foretaste of the bliss awaiting believers with Christ in heaven's wedding feast. When a husband leads—tying himself with tender cords of love to his wife and thinking in loving concern about her needs first—he's a picture, though faint, of Christ, the heavenly Bridegroom. When a wife follows—leaning trustingly on her husband and looking to him with tender regard—she's a picture, though faint, of Christ's bride, the church. That was God's intention when he brought Eve to Adam in the garden. Because we no longer wear God's image as our wedding garment, we need his commandment to guide us as we seek to follow his will concerning marriage. Even more so do we need his Son to save us when we fail.
-
-**A pure and decent life of love**
-
-No, the unmarried are not off the hook. Since God gave the precious gift of sexuality to all, this commandment speaks to all, both married and unmarried. When God directs us to use sexual desire only within the framework of marriage, it's for our own good. As with all his commandments, his intention is to protect us. Marriage provides opportunity for expression of the total oneness between a man and a woman and protection for the children who may result from their union. Free and easy sex outside of marriage brands man as little more than an animal and as a sinner in God's eyes.
-
-Not only do impure actions adulterate human hearts, so do impure words and thoughts. Like burning sparks from hell's engine, salacious stories and offensive jokes can light unholy fires along life's tracks. Speaking and listening to such things lend tongues and ears that belong to God to the devil. Such words also affect others and reflect on us and the Savior we claim to follow. Behind speech stands the heart. What we say and do usually depends on what we are thinking. So God judges also the thought. "Anyone who looks at a woman lustfully has already committed adultery with her in his heart," said the Lord Jesus (Matthew 5:28). He who sees all looks also into the hidden depths of our hearts. That heart is like a cage with paper bars holding the lion of our sinful nature in. Why say or think, read or watch, get involved in or go along with anything that might cause it to lunge against those bars and break out.
-
-So what's the Christian to do? We have to live in a world that uses sex to sell, that portrays sex down to the last panting detail in its publications and productions, that disguises sexual innuendo as bright comedy. Swimming in such a polluted river, how can we avoid swallowing more than a mouthful, not to mention going under? Our chief defense is the Word. It refreshes in our hearts the will of God and the story of the Redeemer's love. It points out God's way and provides the power to walk it. It offers pardon when we fail and power to keep on trying. The more his Word fills our hearts with his great love for us in Christ, the more our lives will respond with Joseph, "How then could I do such a wicked thing and sin against God?" (Genesis 39:9).
-
-**Prayer:** Dear Lord Jesus, help me to be clean in what I think and say and do that I might serve you. Amen.
-
 ## 中文翻译
 
 你认为婚姻对上帝很重要吗？不是他在伊甸园通过把夏娃带给亚当来建立婚姻制度，使两人成为一体吗？不是道成肉身的上帝在迦拿的婚宴上行了他的第一个神迹吗？并且，不是他的灵通过保罗将丈夫与妻子的关系比作基督与教会的联合吗？为了保护他如此恩慈地赐予、且显然对他非常重要的东西，上帝制定了他的第六诫。
