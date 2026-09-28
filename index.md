@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2869 篇文章
+共 2892 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -650,6 +650,10 @@ body_class: index-page
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_harvest of soul">260830_13_harvest of soul</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260830_13_灵魂的收成">260830_13_灵魂的收成</a>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260906_14_享受劳碌的果实">260906_14_享受劳碌的果实</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260920-16-the harvest of first fruits and how we live it out copy">260920-16-the harvest of first fruits and how we live it out copy</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260920-16-初熟的果子的收获，以及我们如何活出这收获">260920-16-初熟的果子的收获，以及我们如何活出这收获</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260927_17_The Parable of the Talents">260927_17_The Parable of the Talents</a>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/260927_17_才干的比喻">260927_17_才干的比喻</a>
 </details>
 </details>
 <details class="tree-folder" id="99-讲道-罪就伏在我们门前">
@@ -2976,6 +2980,28 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/12_倒着工作/23_脚注">23_脚注</a>
 <a class="tree-file" href="102. 阅读/12_倒着工作/24_注释">24_注释</a>
 <a class="tree-file" href="102. 阅读/12_倒着工作/26_关于作者">26_关于作者</a>
+</details>
+<details class="tree-folder" id="102-阅读-13-律法和福音的根基-Koester">
+<summary class="tree-dir">13_律法和福音的根基_Koester<a class="anchor-link" href="#102-阅读-13-律法和福音的根基-Koester">#</a></summary>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/00_前言">00_前言</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/01_概论">01_概论</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/02_第一章_圣经里的福音">02_第一章_圣经里的福音</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/03_第二章_上帝国度的福音">03_第二章_上帝国度的福音</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/04_第三章_两种不同的神学体系">04_第三章_两种不同的神学体系</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/05_第四章_福音——路德宗和改革宗">05_第四章_福音——路德宗和改革宗</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/06_第五章_上帝的国度——路德宗和改革宗">06_第五章_上帝的国度——路德宗和改革宗</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/07_第六章_福音和回转归信">07_第六章_福音和回转归信</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/08_第七章_路德宗对恩典的理解">08_第七章_路德宗对恩典的理解</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/09_第八章_两种不同的灵">09_第八章_两种不同的灵</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/10_第九章_教会增长运动的世界">10_第九章_教会增长运动的世界</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/11_第十章_对增长的渴望">11_第十章_对增长的渴望</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/12_第十一章_异象和目标">12_第十一章_异象和目标</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/13_第十二章_切身需要——教会增长运动的主要工具">13_第十二章_切身需要——教会增长运动的主要工具</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/14_第十三章_切身需要策略">14_第十三章_切身需要策略</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/15_第十四章_作为一门科学的教会增长理念">15_第十四章_作为一门科学的教会增长理念</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/16_第十五章_应对和成果">16_第十五章_应对和成果</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/17_附录一_讨论问题">17_附录一_讨论问题</a>
+<a class="tree-file" href="102. 阅读/13_律法和福音的根基_Koester/18_附录二_回转归信的本质">18_附录二_回转归信的本质</a>
 </details>
 <details class="tree-folder" id="102-阅读-40-day-luther">
 <summary class="tree-dir">40-day-luther<a class="anchor-link" href="#102-阅读-40-day-luther">#</a></summary>
