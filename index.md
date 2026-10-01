@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2898 篇文章
+共 2899 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -3011,6 +3011,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/14_忘我的自由_Keller/02_第二章_被改变的自我观">02_第二章_被改变的自我观</a>
 <a class="tree-file" href="102. 阅读/14_忘我的自由_Keller/03_第三章_如何得着这改变的自我观">03_第三章_如何得着这改变的自我观</a>
 <a class="tree-file" href="102. 阅读/14_忘我的自由_Keller/04_反思问题">04_反思问题</a>
+<a class="tree-file" href="102. 阅读/14_忘我的自由_Keller/05_注释与引用出处">05_注释与引用出处</a>
 </details>
 <details class="tree-folder" id="102-阅读-40-day-luther">
 <summary class="tree-dir">40-day-luther<a class="anchor-link" href="#102-阅读-40-day-luther">#</a></summary>
