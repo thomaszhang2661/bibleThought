@@ -4298,14 +4298,46 @@
     "title": "08_经文索引",
     "prev_url": "101. 教义/03_信心建造/chapters/07_第七课_教会和团契生活",
     "prev_title": "07_第七课_教会和团契生活",
+    "next_url": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/00_总览",
+    "next_title": "00_总览"
+  },
+  {
+    "path": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/00_总览.md",
+    "title": "00_总览",
+    "prev_url": "101. 教义/03_信心建造/chapters/08_经文索引",
+    "prev_title": "08_经文索引",
+    "next_url": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/01_第一讲_律法与福音与人的义",
+    "next_title": "01_第一讲_律法与福音与人的义"
+  },
+  {
+    "path": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/01_第一讲_律法与福音与人的义.md",
+    "title": "01_第一讲_律法与福音与人的义",
+    "prev_url": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/00_总览",
+    "prev_title": "00_总览",
+    "next_url": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/02_第二讲_一种滥用_律法主义",
+    "next_title": "02_第二讲_一种滥用_律法主义"
+  },
+  {
+    "path": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/02_第二讲_一种滥用_律法主义.md",
+    "title": "02_第二讲_一种滥用_律法主义",
+    "prev_url": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/01_第一讲_律法与福音与人的义",
+    "prev_title": "01_第一讲_律法与福音与人的义",
+    "next_url": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/03_第三讲_一种滥用_反律主义",
+    "next_title": "03_第三讲_一种滥用_反律主义"
+  },
+  {
+    "path": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/03_第三讲_一种滥用_反律主义.md",
+    "title": "03_第三讲_一种滥用_反律主义",
+    "prev_url": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/02_第二讲_一种滥用_律法主义",
+    "prev_title": "02_第二讲_一种滥用_律法主义",
     "next_url": "101. 教义/Francis Pieper/基督降在阴间",
     "next_title": "基督降在阴间"
   },
   {
     "path": "101. 教义/Francis Pieper/基督降在阴间.md",
     "title": "基督降在阴间",
-    "prev_url": "101. 教义/03_信心建造/chapters/08_经文索引",
-    "prev_title": "08_经文索引",
+    "prev_url": "101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/03_第三讲_一种滥用_反律主义",
+    "prev_title": "03_第三讲_一种滥用_反律主义",
     "next_url": "101. 教义/Francis Pieper/论赦罪—施恩具之赦罪形式",
     "next_title": "论赦罪—施恩具之赦罪形式"
   },

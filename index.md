@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2900 篇文章
+共 2904 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -837,6 +837,16 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/03_信心建造/chapters/06_第六课_圣餐礼">06_第六课_圣餐礼</a>
 <a class="tree-file" href="101. 教义/03_信心建造/chapters/07_第七课_教会和团契生活">07_第七课_教会和团契生活</a>
 <a class="tree-file" href="101. 教义/03_信心建造/chapters/08_经文索引">08_经文索引</a>
+</details>
+</details>
+<details class="tree-folder" id="101-教义-04-灵恩派">
+<summary class="tree-dir">04_灵恩派<a class="anchor-link" href="#101-教义-04-灵恩派">#</a></summary>
+<details class="tree-folder" id="101-教义-04-灵恩派-律法与福音-Law-and-Gospel-in-Luther-and-the-Confessions">
+<summary class="tree-dir">律法与福音-Law and Gospel in Luther and the Confessions<a class="anchor-link" href="#101-教义-04-灵恩派-律法与福音-Law-and-Gospel-in-Luther-and-the-Confessions">#</a></summary>
+<a class="tree-file" href="101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/00_总览">00_总览</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/01_第一讲_律法与福音与人的义">01_第一讲_律法与福音与人的义</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/02_第二讲_一种滥用_律法主义">02_第二讲_一种滥用_律法主义</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/03_第三讲_一种滥用_反律主义">03_第三讲_一种滥用_反律主义</a>
 </details>
 </details>
 <details class="tree-folder" id="101-教义-Francis-Pieper">
