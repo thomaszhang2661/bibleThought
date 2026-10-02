@@ -3036,6 +3036,16 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/14_忘我的自由_Keller/05_注释与引用出处">05_注释与引用出处</a>
 <a class="tree-file" href="102. 阅读/14_忘我的自由_Keller/06_路德宗视角的评价">06_路德宗视角的评价</a>
 </details>
+<details class="tree-folder" id="102-阅读-15-成圣-基督在行动">
+<summary class="tree-dir">15_成圣-基督在行动<a class="anchor-link" href="#102-阅读-15-成圣-基督在行动">#</a></summary>
+<a class="tree-file" href="102. 阅读/15_成圣-基督在行动/00-致谢与前言">00-致谢与前言</a>
+<a class="tree-file" href="102. 阅读/15_成圣-基督在行动/01-第一章-八十年代美国基督教-聚焦生活方式">01-第一章-八十年代美国基督教-聚焦生活方式</a>
+<a class="tree-file" href="102. 阅读/15_成圣-基督在行动/02-第二章-福音主义的源头">02-第二章-福音主义的源头</a>
+<a class="tree-file" href="102. 阅读/15_成圣-基督在行动/03-第三章-基督徒在行动-查尔斯斯文德尔选集中的成圣">03-第三章-基督徒在行动-查尔斯斯文德尔选集中的成圣</a>
+<a class="tree-file" href="102. 阅读/15_成圣-基督在行动/04-第四章-对生活方式型基督教的审视">04-第四章-对生活方式型基督教的审视</a>
+<a class="tree-file" href="102. 阅读/15_成圣-基督在行动/05-第五章-基督在行动-路德宗的成圣观">05-第五章-基督在行动-路德宗的成圣观</a>
+<a class="tree-file" href="102. 阅读/15_成圣-基督在行动/06-第六章-基督在行动-圣礼解罪和敬拜">06-第六章-基督在行动-圣礼解罪和敬拜</a>
+</details>
 <details class="tree-folder" id="102-阅读-40-day-luther">
 <summary class="tree-dir">40-day-luther<a class="anchor-link" href="#102-阅读-40-day-luther">#</a></summary>
 <a class="tree-file" href="102. 阅读/40-day-luther/01_Day_1">01_Day_1</a>
@@ -3467,16 +3477,6 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/09-第九章-驱魔是什么样子的">09-第九章-驱魔是什么样子的</a>
 <a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/10-第十章-持续不断的属灵争战">10-第十章-持续不断的属灵争战</a>
 <a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/11-第十一章-错误的回应方式&结语">11-第十一章-错误的回应方式&结语</a>
-</details>
-<details class="tree-folder" id="102-阅读-成圣-基督在行动">
-<summary class="tree-dir">成圣-基督在行动<a class="anchor-link" href="#102-阅读-成圣-基督在行动">#</a></summary>
-<a class="tree-file" href="102. 阅读/成圣-基督在行动/00-致谢与前言">00-致谢与前言</a>
-<a class="tree-file" href="102. 阅读/成圣-基督在行动/01-第一章-八十年代美国基督教-聚焦生活方式">01-第一章-八十年代美国基督教-聚焦生活方式</a>
-<a class="tree-file" href="102. 阅读/成圣-基督在行动/02-第二章-福音主义的源头">02-第二章-福音主义的源头</a>
-<a class="tree-file" href="102. 阅读/成圣-基督在行动/03-第三章-基督徒在行动-查尔斯斯文德尔选集中的成圣">03-第三章-基督徒在行动-查尔斯斯文德尔选集中的成圣</a>
-<a class="tree-file" href="102. 阅读/成圣-基督在行动/04-第四章-对生活方式型基督教的审视">04-第四章-对生活方式型基督教的审视</a>
-<a class="tree-file" href="102. 阅读/成圣-基督在行动/05-第五章-基督在行动-路德宗的成圣观">05-第五章-基督在行动-路德宗的成圣观</a>
-<a class="tree-file" href="102. 阅读/成圣-基督在行动/06-第六章-基督在行动-圣礼解罪和敬拜">06-第六章-基督在行动-圣礼解罪和敬拜</a>
 </details>
 <details class="tree-folder" id="102-阅读-我为何是路德宗信徒-以耶稣为中心">
 <summary class="tree-dir">我为何是路德宗信徒-以耶稣为中心<a class="anchor-link" href="#102-阅读-我为何是路德宗信徒-以耶稣为中心">#</a></summary>
