@@ -545,28 +545,6 @@ body_class: index-page
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/09_第六章_神学的实施（下）">09_第六章_神学的实施（下）</a>
 <a class="tree-file" href="97.论文翻译/格哈德_神学概念化_Fluegge_2018/10_第七章_结论">10_第七章_结论</a>
 </details>
-<details class="tree-folder" id="97-论文翻译-灵恩运动">
-<summary class="tree-dir">灵恩运动<a class="anchor-link" href="#97-论文翻译-灵恩运动">#</a></summary>
-<a class="tree-file" href="97.论文翻译/灵恩运动/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/哥林多前书十四章释经与灵恩牧养_Wiedmann_1984">哥林多前书十四章释经与灵恩牧养_Wiedmann_1984</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/方言现象_Gerlach">方言现象_Gerlach</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/方言的恩赐_Smith_1968">方言的恩赐_Smith_1968</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/灵恩运动_Becker_1974">灵恩运动_Becker_1974</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/说方言与信心医治_Niermeier_1975">说方言与信心医治_Niermeier_1975</a>
-<details class="tree-folder" id="97-论文翻译-灵恩运动-联合主义-路德宗密苏里会内灵恩更新的因果-Stone-1967">
-<summary class="tree-dir">联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967<a class="anchor-link" href="#97-论文翻译-灵恩运动-联合主义-路德宗密苏里会内灵恩更新的因果-Stone-1967">#</a></summary>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/00_目录与序言">00_目录与序言</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/01_第一章_导论">01_第一章_导论</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/02_第二章_澄清若干误解">02_第二章_澄清若干误解</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/03_第三章_联合主义成因">03_第三章_联合主义成因</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/04_第四章_联合主义效应">04_第四章_联合主义效应</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/05_第五章_教会交通基础">05_第五章_教会交通基础</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/06_第六章_审思">06_第六章_审思</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/07_第七章_结论">07_第七章_结论</a>
-<a class="tree-file" href="97.论文翻译/灵恩运动/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/08_附录与参考书目">08_附录与参考书目</a>
-</details>
-</details>
 <details class="tree-folder" id="97-论文翻译-约伯记">
 <summary class="tree-dir">约伯记<a class="anchor-link" href="#97-论文翻译-约伯记">#</a></summary>
 <a class="tree-file" href="97.论文翻译/约伯记/00_约伯记讲道与灵魂关怀的意义_皮珀_1908">00_约伯记讲道与灵魂关怀的意义_皮珀_1908</a>
@@ -725,13 +703,6 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/03_信徒里的新人与旧人_Valleskey_1984">03_信徒里的新人与旧人_Valleskey_1984</a>
 <a class="tree-file" href="101. 教义/00_教义问答/07.人得救之后是否有自由意志/04_在基督里的生命_神秘联合与神化说_Schmeling">04_在基督里的生命_神秘联合与神化说_Schmeling</a>
 </details>
-<details class="tree-folder" id="101-教义-00-教义问答-10-公民的义">
-<summary class="tree-dir">10.公民的义<a class="anchor-link" href="#101-教义-00-教义问答-10-公民的义">#</a></summary>
-<a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/教会在促进公民之义中的职能_劳伦茨_1952">教会在促进公民之义中的职能_劳伦茨_1952</a>
-<a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/查经准备">查经准备</a>
-<a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/自然律法、对神的自然认识与公民之义_劳伦茨_1972">自然律法、对神的自然认识与公民之义_劳伦茨_1972</a>
-<a class="tree-file" href="101. 教义/00_教义问答/10.公民的义/路德与信条中的律法与福音_舒尔策">路德与信条中的律法与福音_舒尔策</a>
-</details>
 <details class="tree-folder" id="101-教义-00-教义问答-11-神不在圣道和圣礼之外与我们打交道">
 <summary class="tree-dir">11.神不在圣道和圣礼之外与我们打交道<a class="anchor-link" href="#101-教义-00-教义问答-11-神不在圣道和圣礼之外与我们打交道">#</a></summary>
 <a class="tree-file" href="101. 教义/00_教义问答/11.神不在圣道和圣礼之外与我们打交道/0.简述-若不借着有限的，无限的就不工作">0.简述-若不借着有限的，无限的就不工作</a>
@@ -856,6 +827,13 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="101-教义-04-灵恩派">
 <summary class="tree-dir">04_灵恩派<a class="anchor-link" href="#101-教义-04-灵恩派">#</a></summary>
+<a class="tree-file" href="101. 教义/04_灵恩派/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/哥林多前书十四章释经与灵恩牧养_Wiedmann_1984">哥林多前书十四章释经与灵恩牧养_Wiedmann_1984</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/方言现象_Gerlach">方言现象_Gerlach</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/方言的恩赐_Smith_1968">方言的恩赐_Smith_1968</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/灵恩运动_Becker_1974">灵恩运动_Becker_1974</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/灵恩运动_Warnke_1973">灵恩运动_Warnke_1973</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/说方言与信心医治_Niermeier_1975">说方言与信心医治_Niermeier_1975</a>
 <details class="tree-folder" id="101-教义-04-灵恩派-律法与福音-Law-and-Gospel-in-Luther-and-the-Confessions">
 <summary class="tree-dir">律法与福音-Law and Gospel in Luther and the Confessions<a class="anchor-link" href="#101-教义-04-灵恩派-律法与福音-Law-and-Gospel-in-Luther-and-the-Confessions">#</a></summary>
 <a class="tree-file" href="101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/00_总览">00_总览</a>
@@ -863,6 +841,25 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/02_第二讲_一种滥用_律法主义">02_第二讲_一种滥用_律法主义</a>
 <a class="tree-file" href="101. 教义/04_灵恩派/律法与福音-Law and Gospel in Luther and the Confessions/03_第三讲_一种滥用_反律主义">03_第三讲_一种滥用_反律主义</a>
 </details>
+<details class="tree-folder" id="101-教义-04-灵恩派-联合主义-路德宗密苏里会内灵恩更新的因果-Stone-1967">
+<summary class="tree-dir">联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967<a class="anchor-link" href="#101-教义-04-灵恩派-联合主义-路德宗密苏里会内灵恩更新的因果-Stone-1967">#</a></summary>
+<a class="tree-file" href="101. 教义/04_灵恩派/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/00_目录与序言">00_目录与序言</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/01_第一章_导论">01_第一章_导论</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/02_第二章_澄清若干误解">02_第二章_澄清若干误解</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/03_第三章_联合主义成因">03_第三章_联合主义成因</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/04_第四章_联合主义效应">04_第四章_联合主义效应</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/05_第五章_教会交通基础">05_第五章_教会交通基础</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/06_第六章_审思">06_第六章_审思</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/07_第七章_结论">07_第七章_结论</a>
+<a class="tree-file" href="101. 教义/04_灵恩派/联合主义_路德宗密苏里会内灵恩更新的因果_Stone_1967/08_附录与参考书目">08_附录与参考书目</a>
+</details>
+</details>
+<details class="tree-folder" id="101-教义-10-公民的义">
+<summary class="tree-dir">10_公民的义<a class="anchor-link" href="#101-教义-10-公民的义">#</a></summary>
+<a class="tree-file" href="101. 教义/10_公民的义/教会在促进公民之义中的职能_劳伦茨_1952">教会在促进公民之义中的职能_劳伦茨_1952</a>
+<a class="tree-file" href="101. 教义/10_公民的义/查经准备">查经准备</a>
+<a class="tree-file" href="101. 教义/10_公民的义/自然律法、对神的自然认识与公民之义_劳伦茨_1972">自然律法、对神的自然认识与公民之义_劳伦茨_1972</a>
+<a class="tree-file" href="101. 教义/10_公民的义/路德与信条中的律法与福音_舒尔策">路德与信条中的律法与福音_舒尔策</a>
 </details>
 <details class="tree-folder" id="101-教义-Francis-Pieper">
 <summary class="tree-dir">Francis Pieper<a class="anchor-link" href="#101-教义-Francis-Pieper">#</a></summary>
