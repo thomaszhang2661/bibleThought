@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 2930 篇文章
+共 2935 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -233,11 +233,19 @@ body_class: index-page
 <details class="tree-folder" id="40-马太福音-太3">
 <summary class="tree-dir">太3<a class="anchor-link" href="#40-马太福音-太3">#</a></summary>
 <a class="tree-file" href="40. 马太福音/太3/太3 仆人之歌">太3 仆人之歌</a>
+<a class="tree-file" href="40. 马太福音/太3/太3 从石头中兴起子孙，斧子放在根上">太3 从石头中兴起子孙，斧子放在根上</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 悔改在这里指什么？">太3 悔改在这里指什么？</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 我们当尽诸般的义">太3 我们当尽诸般的义</a>
+<a class="tree-file" href="40. 马太福音/太3/太3 扬净他的场">太3 扬净他的场</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 这是我的爱子">太3 这是我的爱子</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 预备主的道，修直他的路">太3 预备主的道，修直他的路</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 骆驼毛的衣服，皮带，蝗虫野蜜">太3 骆驼毛的衣服，皮带，蝗虫野蜜</a>
+</details>
+<details class="tree-folder" id="40-马太福音-太4">
+<summary class="tree-dir">太4<a class="anchor-link" href="#40-马太福音-太4">#</a></summary>
+<a class="tree-file" href="40. 马太福音/太4/太4 坐在死荫之地的人有光发现照着他们">太4 坐在死荫之地的人有光发现照着他们</a>
+<a class="tree-file" href="40. 马太福音/太4/太4 天国近了你们应当悔改">太4 天国近了你们应当悔改</a>
+<a class="tree-file" href="40. 马太福音/太4/太4耶稣受试探">太4耶稣受试探</a>
 </details>
 </details>
 
