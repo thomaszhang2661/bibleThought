@@ -181,13 +181,13 @@ body_class: index-page
 <a class="tree-file" href="8. 路德记/6. 稳如老狗-神的失败和人的得胜">6. 稳如老狗-神的失败和人的得胜</a>
 <a class="tree-file" href="8. 路德记/Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt">Redeemer Lutheran Church (LCMS), Highland, Indiana Pastor Eric Kleinmitt</a>
 <a class="tree-file" href="8. 路德记/The Word become flesh">The Word become flesh</a>
-<a class="tree-file" href="8. 路德记/至近的亲属(Go'el)一套以家族为基础的社会保障体系">至近的亲属(Go'el)一套以家族为基础的社会保障体系</a>
+<a class="tree-file" href="8. 路德记/至近的亲属(Go&#x27;el)一套以家族为基础的社会保障体系">至近的亲属(Go&#x27;el)一套以家族为基础的社会保障体系</a>
 <a class="tree-file" href="8. 路德记/贪婪vs 安息在神的供应之下">贪婪vs 安息在神的供应之下</a>
 <a class="tree-file" href="8. 路德记/路得记 4章 11-12 的婚姻祝福">路得记 4章 11-12 的婚姻祝福</a>
 <a class="tree-file" href="8. 路德记/路德记 第一幕 关键字-归回">路德记 第一幕 关键字-归回</a>
 <a class="tree-file" href="8. 路德记/路德记 第三幕 关键字-翅膀-衣襟">路德记 第三幕 关键字-翅膀-衣襟</a>
 <a class="tree-file" href="8. 路德记/路德记 第二幕 关键字-拾取">路德记 第二幕 关键字-拾取</a>
-<a class="tree-file" href="8. 路德记/路德记 第四幕 Ga'al 与 Toledot 救赎的成就与历史的汇入">路德记 第四幕 Ga'al 与 Toledot 救赎的成就与历史的汇入</a>
+<a class="tree-file" href="8. 路德记/路德记 第四幕 Ga&#x27;al 与 Toledot 救赎的成就与历史的汇入">路德记 第四幕 Ga&#x27;al 与 Toledot 救赎的成就与历史的汇入</a>
 <a class="tree-file" href="8. 路德记/路德记1章1-5 序幕 去摩押地并通婚意味着什么">路德记1章1-5 序幕 去摩押地并通婚意味着什么</a>
 <a class="tree-file" href="8. 路德记/路德记1章16-17 路德对拿俄米的诺言">路德记1章16-17 路德对拿俄米的诺言</a>
 <a class="tree-file" href="8. 路德记/路德记1章2 玛伦和基连的名字-真名还是绰号">路德记1章2 玛伦和基连的名字-真名还是绰号</a>
@@ -213,14 +213,14 @@ body_class: index-page
 <a class="tree-file" href="19. 诗篇/Hebrew poetry in the Bible A guide for u">Hebrew poetry in the Bible A guide for u</a>
 <a class="tree-file" href="19. 诗篇/诗篇139">诗篇139</a>
 <a class="tree-file" href="19. 诗篇/诗篇2">诗篇2</a>
-<a class="tree-file" href="19. 诗篇/诗篇20&21">诗篇20&21</a>
+<a class="tree-file" href="19. 诗篇/诗篇20&amp;21">诗篇20&amp;21</a>
 <a class="tree-file" href="19. 诗篇/诗篇23">诗篇23</a>
 </details>
 
 <details class="tree-folder" id="40-马太福音">
 <summary class="tree-dir">40. 马太福音<a class="anchor-link" href="#40-马太福音">#</a></summary>
 <a class="tree-file" href="40. 马太福音/太 2 耶稣逃亡">太 2 耶稣逃亡</a>
-<a class="tree-file" href="40. 马太福音/太16-耶稣为什么拒绝显神迹？聊聊"邪恶淫乱的世代">太16-耶稣为什么拒绝显神迹？聊聊"邪恶淫乱的世代</a>
+<a class="tree-file" href="40. 马太福音/太16-耶稣为什么拒绝显神迹？聊聊「邪恶淫乱的世代」">太16-耶稣为什么拒绝显神迹？聊聊「邪恶淫乱的世代」</a>
 <a class="tree-file" href="40. 马太福音/太2 博士朝拜">太2 博士朝拜</a>
 </details>
 
@@ -1296,7 +1296,7 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="101-教义-使徒信经-降在阴间">
 <summary class="tree-dir">降在阴间<a class="anchor-link" href="#101-教义-使徒信经-降在阴间">#</a></summary>
-<a class="tree-file" href="101. 教义/使徒信经/降在阴间/Thomas's Note-- Mot Tamut and Against Docetism">Thomas's Note-- Mot Tamut and Against Docetism</a>
+<a class="tree-file" href="101. 教义/使徒信经/降在阴间/Thomas&#x27;s Note-- Mot Tamut and Against Docetism">Thomas&#x27;s Note-- Mot Tamut and Against Docetism</a>
 <a class="tree-file" href="101. 教义/使徒信经/降在阴间/协同式第九条">协同式第九条</a>
 <a class="tree-file" href="101. 教义/使徒信经/降在阴间/多马观点-使徒信经与圣经的双重探究">多马观点-使徒信经与圣经的双重探究</a>
 <a class="tree-file" href="101. 教义/使徒信经/降在阴间/讲道-基督降入阴间-彼得前书3-18-20讲道研究">讲道-基督降入阴间-彼得前书3-18-20讲道研究</a>
@@ -1481,7 +1481,7 @@ body_class: index-page
 <details class="tree-folder" id="101-教义-洗礼">
 <summary class="tree-dir">洗礼<a class="anchor-link" href="#101-教义-洗礼">#</a></summary>
 <a class="tree-file" href="101. 教义/洗礼/关于洗礼的一些资料">关于洗礼的一些资料</a>
-<a class="tree-file" href="101. 教义/洗礼/洗礼是"必须的"吗-从律法与福音的区分谈起">洗礼是"必须的"吗-从律法与福音的区分谈起</a>
+<a class="tree-file" href="101. 教义/洗礼/洗礼是&quot;必须的&quot;吗-从律法与福音的区分谈起">洗礼是&quot;必须的&quot;吗-从律法与福音的区分谈起</a>
 </details>
 <details class="tree-folder" id="101-教义-祷告">
 <summary class="tree-dir">祷告<a class="anchor-link" href="#101-教义-祷告">#</a></summary>
@@ -2756,7 +2756,7 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-01-The-Gospel-of-Gods-Love-and-Forgiveness-in-Christ">
 <summary class="tree-dir">01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-01-The-Gospel-of-Gods-Love-and-Forgiveness-in-Christ">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/01_The_gospel_is_big">01_The_gospel_is_big</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ">02_Motivated_by_the_gospel_of_God's_love_and_forgiveness_in_Christ</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/01_The_Gospel_of_Gods_Love_and_Forgiveness_in_Christ/02_Motivated_by_the_gospel_of_God&#x27;s_love_and_forgiveness_in_Christ">02_Motivated_by_the_gospel_of_God&#x27;s_love_and_forgiveness_in_Christ</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-02-The-Gospel-of-Death-and-Life">
 <summary class="tree-dir">02_The_Gospel_of_Death_and_Life<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-02-The-Gospel-of-Death-and-Life">#</a></summary>
@@ -2782,15 +2782,15 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/02_Our_relationship_with_God_and_our_lives_of_service">02_Our_relationship_with_God_and_our_lives_of_service</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/03_Forgiveness">03_Forgiveness</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/04_Children_of_God">04_Children_of_God</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/05_Jesus'_disciples">05_Jesus'_disciples</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/05_Jesus&#x27;_disciples">05_Jesus&#x27;_disciples</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/06_People_in_whom_Jesus_lives">06_People_in_whom_Jesus_lives</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/07_We_remain_in_Jesus'_love">07_We_remain_in_Jesus'_love</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/07_We_remain_in_Jesus&#x27;_love">07_We_remain_in_Jesus&#x27;_love</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/08_We_are_righteous_in_Christ">08_We_are_righteous_in_Christ</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/09_God's_love_is_complete_in_us">09_God's_love_is_complete_in_us</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/09_God&#x27;s_love_is_complete_in_us">09_God&#x27;s_love_is_complete_in_us</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/10_We_will_have_peace_with_God_on_the_Last_Day">10_We_will_have_peace_with_God_on_the_Last_Day</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/11_It_is_clear_that_we_are_justified">11_It_is_clear_that_we_are_justified</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/12_Our_lives_of_service_and_eternal_life">12_Our_lives_of_service_and_eternal_life</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/13_God's_reward_on_our_lives_of_service">13_God's_reward_on_our_lives_of_service</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/06_The_Gospel_of_How_God_Views_New_Creations/13_God&#x27;s_reward_on_our_lives_of_service">13_God&#x27;s_reward_on_our_lives_of_service</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-07-The-Gospel-of-the-Kingdom">
 <summary class="tree-dir">07_The_Gospel_of_the_Kingdom<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-07-The-Gospel-of-the-Kingdom">#</a></summary>
@@ -2799,7 +2799,7 @@ body_class: index-page
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-08-The-Gospel-in-the-Sacraments-The-Gospel-of-Light">
 <summary class="tree-dir">08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light<a class="anchor-link" href="#102-阅读-10-Gospel-Motivation-08-The-Gospel-in-the-Sacraments-The-Gospel-of-Light">#</a></summary>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/01_The_gospel_in_Baptism">01_The_gospel_in_Baptism</a>
-<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/02_The_gospel_in_the_Lord's_Supper">02_The_gospel_in_the_Lord's_Supper</a>
+<a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/02_The_gospel_in_the_Lord&#x27;s_Supper">02_The_gospel_in_the_Lord&#x27;s_Supper</a>
 <a class="tree-file" href="102. 阅读/10_Gospel_Motivation/08_The_Gospel_in_the_Sacraments_The_Gospel_of_Light/03_The_gospel_of_light">03_The_gospel_of_light</a>
 </details>
 <details class="tree-folder" id="102-阅读-10-Gospel-Motivation-09-The-Gospel-of-Eternal-Life">
@@ -3467,7 +3467,7 @@ body_class: index-page
 </details>
 <details class="tree-folder" id="102-阅读-恐惧-被鬼附和属灵战争">
 <summary class="tree-dir">恐惧-被鬼附和属灵战争<a class="anchor-link" href="#102-阅读-恐惧-被鬼附和属灵战争">#</a></summary>
-<a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/01-第一章-前言&我很害怕-将魔鬼请进家门">01-第一章-前言&我很害怕-将魔鬼请进家门</a>
+<a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/01-第一章-前言&amp;我很害怕-将魔鬼请进家门">01-第一章-前言&amp;我很害怕-将魔鬼请进家门</a>
 <a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/02-第二章-伏都教与美国属灵主义">02-第二章-伏都教与美国属灵主义</a>
 <a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/03-第三章-三种相互竞争的世界观">03-第三章-三种相互竞争的世界观</a>
 <a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/04-第四章-美洲印第安宗教">04-第四章-美洲印第安宗教</a>
@@ -3477,7 +3477,7 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/08-第八章-孩子们出了问题">08-第八章-孩子们出了问题</a>
 <a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/09-第九章-驱魔是什么样子的">09-第九章-驱魔是什么样子的</a>
 <a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/10-第十章-持续不断的属灵争战">10-第十章-持续不断的属灵争战</a>
-<a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/11-第十一章-错误的回应方式&结语">11-第十一章-错误的回应方式&结语</a>
+<a class="tree-file" href="102. 阅读/恐惧-被鬼附和属灵战争/11-第十一章-错误的回应方式&amp;结语">11-第十一章-错误的回应方式&amp;结语</a>
 </details>
 <details class="tree-folder" id="102-阅读-我为何是路德宗信徒-以耶稣为中心">
 <summary class="tree-dir">我为何是路德宗信徒-以耶稣为中心<a class="anchor-link" href="#102-阅读-我为何是路德宗信徒-以耶稣为中心">#</a></summary>

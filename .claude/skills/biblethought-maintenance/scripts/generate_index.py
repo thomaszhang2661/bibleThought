@@ -2,6 +2,7 @@
 import os
 import re
 import json
+import html
 import subprocess
 from collections import defaultdict
 
@@ -150,36 +151,36 @@ def generate():
 
     for rel_path, title in tree.get("", {}).get("", {}).get("", []):
         url = make_url(rel_path)
-        lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')
+        lines.append(f'<a class="tree-file" href="{html.escape(url, quote=True)}">{html.escape(title)}</a>\n')
 
     for top in sorted(tree.keys(), key=num_key):
         if top == "":
             continue
         tid = folder_id(top)
-        lines.append(f'\n<details class="tree-folder" id="{tid}">\n<summary class="tree-dir">{top}<a class="anchor-link" href="#{tid}">#</a></summary>\n')
+        lines.append(f'\n<details class="tree-folder" id="{tid}">\n<summary class="tree-dir">{html.escape(top)}<a class="anchor-link" href="#{tid}">#</a></summary>\n')
         subs = tree[top]
 
         for rel_path, title in subs.get("", {}).get("", []):
             url = make_url(rel_path)
-            lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')
+            lines.append(f'<a class="tree-file" href="{html.escape(url, quote=True)}">{html.escape(title)}</a>\n')
 
         for sub in sorted(subs.keys(), key=num_key):
             if sub == "":
                 continue
             sid = folder_id(top, sub)
-            lines.append(f'<details class="tree-folder" id="{sid}">\n<summary class="tree-dir">{sub}<a class="anchor-link" href="#{sid}">#</a></summary>\n')
+            lines.append(f'<details class="tree-folder" id="{sid}">\n<summary class="tree-dir">{html.escape(sub)}<a class="anchor-link" href="#{sid}">#</a></summary>\n')
             subsubs = subs[sub]
 
             for rel_path, title in subsubs.get("", []):
                 url = make_url(rel_path)
-                lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')
+                lines.append(f'<a class="tree-file" href="{html.escape(url, quote=True)}">{html.escape(title)}</a>\n')
 
             for subsub in sorted([k for k in subsubs.keys() if k != ""], key=num_key):
                 ssid = folder_id(top, sub, subsub)
-                lines.append(f'<details class="tree-folder" id="{ssid}">\n<summary class="tree-dir">{subsub}<a class="anchor-link" href="#{ssid}">#</a></summary>\n')
+                lines.append(f'<details class="tree-folder" id="{ssid}">\n<summary class="tree-dir">{html.escape(subsub)}<a class="anchor-link" href="#{ssid}">#</a></summary>\n')
                 for rel_path, title in subsubs[subsub]:
                     url = make_url(rel_path)
-                    lines.append(f'<a class="tree-file" href="{url}">{title}</a>\n')
+                    lines.append(f'<a class="tree-file" href="{html.escape(url, quote=True)}">{html.escape(title)}</a>\n')
                 lines.append(f'</details>\n')
 
             lines.append(f'</details>\n')
