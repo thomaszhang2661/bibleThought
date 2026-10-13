@@ -890,14 +890,22 @@
     "title": "诗篇23",
     "prev_url": "19. 诗篇/诗篇20&21",
     "prev_title": "诗篇20&21",
+    "next_url": "21.传道书/传4/三股绳子",
+    "next_title": "三股绳子"
+  },
+  {
+    "path": "21.传道书/传4/三股绳子.md",
+    "title": "三股绳子",
+    "prev_url": "19. 诗篇/诗篇23",
+    "prev_title": "诗篇23",
     "next_url": "40. 马太福音/太16-耶稣为什么拒绝显神迹？聊聊「邪恶淫乱的世代」",
     "next_title": "太16-耶稣为什么拒绝显神迹？聊聊「邪恶淫乱的世代」"
   },
   {
     "path": "40. 马太福音/太16-耶稣为什么拒绝显神迹？聊聊「邪恶淫乱的世代」.md",
     "title": "太16-耶稣为什么拒绝显神迹？聊聊「邪恶淫乱的世代」",
-    "prev_url": "19. 诗篇/诗篇23",
-    "prev_title": "诗篇23",
+    "prev_url": "21.传道书/传4/三股绳子",
+    "prev_title": "三股绳子",
     "next_url": "40. 马太福音/太2/太2 博士朝拜",
     "next_title": "太2 博士朝拜"
   },
@@ -2794,14 +2802,302 @@
     "title": "15_应对新兴宗教竞争",
     "prev_url": "97.论文翻译/04_耶和华见证人/01_相关文章/14_阿姆斯特朗与普世神的教会",
     "prev_title": "14_阿姆斯特朗与普世神的教会",
+    "next_url": "97.论文翻译/05_传道书/传道书与二十世纪的传道人_施罗德_1975",
+    "next_title": "传道书与二十世纪的传道人_施罗德_1975"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/传道书与二十世纪的传道人_施罗德_1975.md",
+    "title": "传道书与二十世纪的传道人_施罗德_1975",
+    "prev_url": "97.论文翻译/04_耶和华见证人/01_相关文章/15_应对新兴宗教竞争",
+    "prev_title": "15_应对新兴宗教竞争",
+    "next_url": "97.论文翻译/05_传道书/所罗门是厌女者吗_布鲁格_2009",
+    "next_title": "所罗门是厌女者吗_布鲁格_2009"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/所罗门是厌女者吗_布鲁格_2009.md",
+    "title": "所罗门是厌女者吗_布鲁格_2009",
+    "prev_url": "97.论文翻译/05_传道书/传道书与二十世纪的传道人_施罗德_1975",
+    "prev_title": "传道书与二十世纪的传道人_施罗德_1975",
+    "next_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/00_卷首_目录与摘要",
+    "next_title": "00_卷首_目录与摘要"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/00_卷首_目录与摘要.md",
+    "title": "00_卷首_目录与摘要",
+    "prev_url": "97.论文翻译/05_传道书/所罗门是厌女者吗_布鲁格_2009",
+    "prev_title": "所罗门是厌女者吗_布鲁格_2009",
+    "next_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/01_导论",
+    "next_title": "01_导论"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/01_导论.md",
+    "title": "01_导论",
+    "prev_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/00_卷首_目录与摘要",
+    "prev_title": "00_卷首_目录与摘要",
+    "next_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/02_术语界定",
+    "next_title": "02_术语界定"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/02_术语界定.md",
+    "title": "02_术语界定",
+    "prev_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/01_导论",
+    "prev_title": "01_导论",
+    "next_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/03_文献综述",
+    "next_title": "03_文献综述"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/03_文献综述.md",
+    "title": "03_文献综述",
+    "prev_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/02_术语界定",
+    "prev_title": "02_术语界定",
+    "next_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/04_福音派的回应",
+    "next_title": "04_福音派的回应"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/04_福音派的回应.md",
+    "title": "04_福音派的回应",
+    "prev_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/03_文献综述",
+    "prev_title": "03_文献综述",
+    "next_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/05_一个路德宗的回应",
+    "next_title": "05_一个路德宗的回应"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/05_一个路德宗的回应.md",
+    "title": "05_一个路德宗的回应",
+    "prev_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/04_福音派的回应",
+    "prev_title": "04_福音派的回应",
+    "next_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/06_结语之思",
+    "next_title": "06_结语之思"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/06_结语之思.md",
+    "title": "06_结语之思",
+    "prev_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/05_一个路德宗的回应",
+    "prev_title": "05_一个路德宗的回应",
+    "next_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/07_参考文献",
+    "next_title": "07_参考文献"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/07_参考文献.md",
+    "title": "07_参考文献",
+    "prev_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/06_结语之思",
+    "prev_title": "06_结语之思",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/00_卷首与导读",
+    "next_title": "00_卷首与导读"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/00_卷首与导读.md",
+    "title": "00_卷首与导读",
+    "prev_url": "97.论文翻译/05_传道书/日光之下有新事吗_乌加尔德贝默_2024/07_参考文献",
+    "prev_title": "07_参考文献",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/01_第一章",
+    "next_title": "01_第一章"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/01_第一章.md",
+    "title": "01_第一章",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/00_卷首与导读",
+    "prev_title": "00_卷首与导读",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/02_第二章_属地产业与宴乐的虚空",
+    "next_title": "02_第二章_属地产业与宴乐的虚空"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/02_第二章_属地产业与宴乐的虚空.md",
+    "title": "02_第二章_属地产业与宴乐的虚空",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/01_第一章",
+    "prev_title": "01_第一章",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/03_第三章_神在人事中的作为",
+    "next_title": "03_第三章_神在人事中的作为"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/03_第三章_神在人事中的作为.md",
+    "title": "03_第三章_神在人事中的作为",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/02_第二章_属地产业与宴乐的虚空",
+    "prev_title": "02_第二章_属地产业与宴乐的虚空",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/04_第四章_无论尊卑人生尽皆虚空",
+    "next_title": "04_第四章_无论尊卑人生尽皆虚空"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/04_第四章_无论尊卑人生尽皆虚空.md",
+    "title": "04_第四章_无论尊卑人生尽皆虚空",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/03_第三章_神在人事中的作为",
+    "prev_title": "03_第三章_神在人事中的作为",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/05_第五章_敬拜与财富中的虚空",
+    "next_title": "05_第五章_敬拜与财富中的虚空"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/05_第五章_敬拜与财富中的虚空.md",
+    "title": "05_第五章_敬拜与财富中的虚空",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/04_第四章_无论尊卑人生尽皆虚空",
+    "prev_title": "04_第四章_无论尊卑人生尽皆虚空",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/06_第六章_拥有而不能享用之物的虚空",
+    "next_title": "06_第六章_拥有而不能享用之物的虚空"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/06_第六章_拥有而不能享用之物的虚空.md",
+    "title": "06_第六章_拥有而不能享用之物的虚空",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/05_第五章_敬拜与财富中的虚空",
+    "prev_title": "05_第五章_敬拜与财富中的虚空",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/07_第七章_保全生命的智慧",
+    "next_title": "07_第七章_保全生命的智慧"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/07_第七章_保全生命的智慧.md",
+    "title": "07_第七章_保全生命的智慧",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/06_第六章_拥有而不能享用之物的虚空",
+    "prev_title": "06_第六章_拥有而不能享用之物的虚空",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/08_第八章_智慧人面对神不可测度之治理的态度",
+    "next_title": "08_第八章_智慧人面对神不可测度之治理的态度"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/08_第八章_智慧人面对神不可测度之治理的态度.md",
+    "title": "08_第八章_智慧人面对神不可测度之治理的态度",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/07_第七章_保全生命的智慧",
+    "prev_title": "07_第七章_保全生命的智慧",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/09_第九章",
+    "next_title": "09_第九章"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/09_第九章.md",
+    "title": "09_第九章",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/08_第八章_智慧人面对神不可测度之治理的态度",
+    "prev_title": "08_第八章_智慧人面对神不可测度之治理的态度",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/10_第十章",
+    "next_title": "10_第十章"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/10_第十章.md",
+    "title": "10_第十章",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/09_第九章",
+    "prev_title": "09_第九章",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/11_第十一章_日常生活的若干准则",
+    "next_title": "11_第十一章_日常生活的若干准则"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/11_第十一章_日常生活的若干准则.md",
+    "title": "11_第十一章_日常生活的若干准则",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/10_第十章",
+    "prev_title": "10_第十章",
+    "next_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/12_第十二章",
+    "next_title": "12_第十二章"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/12_第十二章.md",
+    "title": "12_第十二章",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/11_第十一章_日常生活的若干准则",
+    "prev_title": "11_第十一章_日常生活的若干准则",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/00_卷首_摘要与目录",
+    "next_title": "00_卷首_摘要与目录"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/00_卷首_摘要与目录.md",
+    "title": "00_卷首_摘要与目录",
+    "prev_url": "97.论文翻译/05_传道书/永恒的神是我们的避难所_传道书简注_沃尔夫/12_第十二章",
+    "prev_title": "12_第十二章",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/01_导论",
+    "next_title": "01_导论"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/01_导论.md",
+    "title": "01_导论",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/00_卷首_摘要与目录",
+    "prev_title": "00_卷首_摘要与目录",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/02_既往研究",
+    "next_title": "02_既往研究"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/02_既往研究.md",
+    "title": "02_既往研究",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/01_导论",
+    "prev_title": "01_导论",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/03_进路与方法论",
+    "next_title": "03_进路与方法论"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/03_进路与方法论.md",
+    "title": "03_进路与方法论",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/02_既往研究",
+    "prev_title": "02_既往研究",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/04_概念框架",
+    "next_title": "04_概念框架"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/04_概念框架.md",
+    "title": "04_概念框架",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/03_进路与方法论",
+    "prev_title": "03_进路与方法论",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/05_世俗社会想象的建构",
+    "next_title": "05_世俗社会想象的建构"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/05_世俗社会想象的建构.md",
+    "title": "05_世俗社会想象的建构",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/04_概念框架",
+    "prev_title": "04_概念框架",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/06_内在性的不适",
+    "next_title": "06_内在性的不适"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/06_内在性的不适.md",
+    "title": "06_内在性的不适",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/05_世俗社会想象的建构",
+    "prev_title": "05_世俗社会想象的建构",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/07_细读科黑勒特",
+    "next_title": "07_细读科黑勒特"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/07_细读科黑勒特.md",
+    "title": "07_细读科黑勒特",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/06_内在性的不适",
+    "prev_title": "06_内在性的不适",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/08_时间列表与世俗时间",
+    "next_title": "08_时间列表与世俗时间"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/08_时间列表与世俗时间.md",
+    "title": "08_时间列表与世俗时间",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/07_细读科黑勒特",
+    "prev_title": "07_细读科黑勒特",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/09_纪念造你的主与一种严厉的怜悯",
+    "next_title": "09_纪念造你的主与一种严厉的怜悯"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/09_纪念造你的主与一种严厉的怜悯.md",
+    "title": "09_纪念造你的主与一种严厉的怜悯",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/08_时间列表与世俗时间",
+    "prev_title": "08_时间列表与世俗时间",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/10_研究发现与局限",
+    "next_title": "10_研究发现与局限"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/10_研究发现与局限.md",
+    "title": "10_研究发现与局限",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/09_纪念造你的主与一种严厉的怜悯",
+    "prev_title": "09_纪念造你的主与一种严厉的怜悯",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/11_这件事的结论",
+    "next_title": "11_这件事的结论"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/11_这件事的结论.md",
+    "title": "11_这件事的结论",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/10_研究发现与局限",
+    "prev_title": "10_研究发现与局限",
+    "next_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/12_参考文献",
+    "next_title": "12_参考文献"
+  },
+  {
+    "path": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/12_参考文献.md",
+    "title": "12_参考文献",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/11_这件事的结论",
+    "prev_title": "11_这件事的结论",
     "next_url": "97.论文翻译/教会增长运动批判/寻找新宝藏之路的危险_Christie_2008",
     "next_title": "寻找新宝藏之路的危险_Christie_2008"
   },
   {
     "path": "97.论文翻译/教会增长运动批判/寻找新宝藏之路的危险_Christie_2008.md",
     "title": "寻找新宝藏之路的危险_Christie_2008",
-    "prev_url": "97.论文翻译/04_耶和华见证人/01_相关文章/15_应对新兴宗教竞争",
-    "prev_title": "15_应对新兴宗教竞争",
+    "prev_url": "97.论文翻译/05_传道书/离了神意义能存在吗_施利希特_2017/12_参考文献",
+    "prev_title": "12_参考文献",
     "next_url": "97.论文翻译/教会增长运动批判/教会增长运动及其对施恩具使用的影响_Cortright_1989",
     "next_title": "教会增长运动及其对施恩具使用的影响_Cortright_1989"
   },
@@ -20386,14 +20682,574 @@
     "title": "06_合宜的预备",
     "prev_url": "102. 阅读/17.luther-catechism-devotions-校对版/07_Sacrament-of-Holy-Communion/05_神的道与应许",
     "prev_title": "05_神的道与应许",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/00_Prologue",
+    "next_title": "00_Prologue"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/00_Prologue.md",
+    "title": "00_Prologue",
+    "prev_url": "102. 阅读/17.luther-catechism-devotions-校对版/07_Sacrament-of-Holy-Communion/06_合宜的预备",
+    "prev_title": "06_合宜的预备",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/00_序章_童话",
+    "next_title": "00_序章_童话"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/00_序章_童话.md",
+    "title": "00_序章_童话",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/00_Prologue",
+    "prev_title": "00_Prologue",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/01_The Key",
+    "next_title": "01_The Key"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/01_The Key.md",
+    "title": "01_The Key",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/00_序章_童话",
+    "prev_title": "00_序章_童话",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/01_第一章_钥匙",
+    "next_title": "01_第一章_钥匙"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/01_第一章_钥匙.md",
+    "title": "01_第一章_钥匙",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/01_The Key",
+    "prev_title": "01_The Key",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/02_The Pan-Arab Nation",
+    "next_title": "02_The Pan-Arab Nation"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/02_The Pan-Arab Nation.md",
+    "title": "02_The Pan-Arab Nation",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/01_第一章_钥匙",
+    "prev_title": "01_第一章_钥匙",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/02_第二章_泛阿拉伯民族",
+    "next_title": "02_第二章_泛阿拉伯民族"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/02_第二章_泛阿拉伯民族.md",
+    "title": "02_第二章_泛阿拉伯民族",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/02_The Pan-Arab Nation",
+    "prev_title": "02_The Pan-Arab Nation",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/03_Promises, Promises",
+    "next_title": "03_Promises, Promises"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/03_Promises, Promises.md",
+    "title": "03_Promises, Promises",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/02_第二章_泛阿拉伯民族",
+    "prev_title": "02_第二章_泛阿拉伯民族",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/03_第三章_承诺，承诺",
+    "next_title": "03_第三章_承诺，承诺"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/03_第三章_承诺，承诺.md",
+    "title": "03_第三章_承诺，承诺",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/03_Promises, Promises",
+    "prev_title": "03_Promises, Promises",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/04_The Herod's Gate Committee",
+    "next_title": "04_The Herod's Gate Committee"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/04_The Herod's Gate Committee.md",
+    "title": "04_The Herod's Gate Committee",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/03_第三章_承诺，承诺",
+    "prev_title": "03_第三章_承诺，承诺",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/04_第四章_赫罗德门委员会",
+    "next_title": "04_第四章_赫罗德门委员会"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/04_第四章_赫罗德门委员会.md",
+    "title": "04_第四章_赫罗德门委员会",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/04_The Herod's Gate Committee",
+    "prev_title": "04_The Herod's Gate Committee",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/05_The Pepper Tree",
+    "next_title": "05_The Pepper Tree"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/05_The Pepper Tree.md",
+    "title": "05_The Pepper Tree",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/04_第四章_赫罗德门委员会",
+    "prev_title": "04_第四章_赫罗德门委员会",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/05_第五章_胡椒树",
+    "next_title": "05_第五章_胡椒树"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/05_第五章_胡椒树.md",
+    "title": "05_第五章_胡椒树",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/05_The Pepper Tree",
+    "prev_title": "05_The Pepper Tree",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/06_A Grapevine",
+    "next_title": "06_A Grapevine"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/06_A Grapevine.md",
+    "title": "06_A Grapevine",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/05_第五章_胡椒树",
+    "prev_title": "05_第五章_胡椒树",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/06_第六章_葡萄藤",
+    "next_title": "06_第六章_葡萄藤"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/06_第六章_葡萄藤.md",
+    "title": "06_第六章_葡萄藤",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/06_A Grapevine",
+    "prev_title": "06_A Grapevine",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/07_Smashing Idols",
+    "next_title": "07_Smashing Idols"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/07_Smashing Idols.md",
+    "title": "07_Smashing Idols",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/06_第六章_葡萄藤",
+    "prev_title": "06_第六章_葡萄藤",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/07_第七章_砸碎偶像",
+    "next_title": "07_第七章_砸碎偶像"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/07_第七章_砸碎偶像.md",
+    "title": "07_第七章_砸碎偶像",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/07_Smashing Idols",
+    "prev_title": "07_Smashing Idols",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/08_Sunflower",
+    "next_title": "08_Sunflower"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/08_Sunflower.md",
+    "title": "08_Sunflower",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/07_第七章_砸碎偶像",
+    "prev_title": "07_第七章_砸碎偶像",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/08_第八章_向日葵",
+    "next_title": "08_第八章_向日葵"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/08_第八章_向日葵.md",
+    "title": "08_第八章_向日葵",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/08_Sunflower",
+    "prev_title": "08_Sunflower",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/09_Monticello",
+    "next_title": "09_Monticello"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/09_Monticello.md",
+    "title": "09_Monticello",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/08_第八章_向日葵",
+    "prev_title": "08_第八章_向日葵",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/09_第九章_蒙蒂塞洛",
+    "next_title": "09_第九章_蒙蒂塞洛"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/09_第九章_蒙蒂塞洛.md",
+    "title": "09_第九章_蒙蒂塞洛",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/09_Monticello",
+    "prev_title": "09_Monticello",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/10_The Lemon Tree Café",
+    "next_title": "10_The Lemon Tree Café"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/10_The Lemon Tree Café.md",
+    "title": "10_The Lemon Tree Café",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/09_第九章_蒙蒂塞洛",
+    "prev_title": "09_第九章_蒙蒂塞洛",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/10_第十章_柠檬树咖啡馆",
+    "next_title": "10_第十章_柠檬树咖啡馆"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/10_第十章_柠檬树咖啡馆.md",
+    "title": "10_第十章_柠檬树咖啡馆",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/10_The Lemon Tree Café",
+    "prev_title": "10_The Lemon Tree Café",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/11_The Salon",
+    "next_title": "11_The Salon"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/11_The Salon.md",
+    "title": "11_The Salon",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/10_第十章_柠檬树咖啡馆",
+    "prev_title": "10_第十章_柠檬树咖啡馆",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/11_第十一章_沙龙",
+    "next_title": "11_第十一章_沙龙"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/11_第十一章_沙龙.md",
+    "title": "11_第十一章_沙龙",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/11_The Salon",
+    "prev_title": "11_The Salon",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/12_Military Order 854",
+    "next_title": "12_Military Order 854"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/12_Military Order 854.md",
+    "title": "12_Military Order 854",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/11_第十一章_沙龙",
+    "prev_title": "11_第十一章_沙龙",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/12_第十二章_854军事命令",
+    "next_title": "12_第十二章_854军事命令"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/12_第十二章_854军事命令.md",
+    "title": "12_第十二章_854军事命令",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/12_Military Order 854",
+    "prev_title": "12_Military Order 854",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/13_Masquerade",
+    "next_title": "13_Masquerade"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/13_Masquerade.md",
+    "title": "13_Masquerade",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/12_第十二章_854军事命令",
+    "prev_title": "12_第十二章_854军事命令",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/13_第十三章_化装舞会",
+    "next_title": "13_第十三章_化装舞会"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/13_第十三章_化装舞会.md",
+    "title": "13_第十三章_化装舞会",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/13_Masquerade",
+    "prev_title": "13_Masquerade",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/14_Murder on the Via Dolorosa",
+    "next_title": "14_Murder on the Via Dolorosa"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/14_Murder on the Via Dolorosa.md",
+    "title": "14_Murder on the Via Dolorosa",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/13_第十三章_化装舞会",
+    "prev_title": "13_第十三章_化装舞会",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/14_第十四章_苦路上的谋杀",
+    "next_title": "14_第十四章_苦路上的谋杀"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/14_第十四章_苦路上的谋杀.md",
+    "title": "14_第十四章_苦路上的谋杀",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/14_Murder on the Via Dolorosa",
+    "prev_title": "14_Murder on the Via Dolorosa",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/15_Faisal Husseini",
+    "next_title": "15_Faisal Husseini"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/15_Faisal Husseini.md",
+    "title": "15_Faisal Husseini",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/14_第十四章_苦路上的谋杀",
+    "prev_title": "14_第十四章_苦路上的谋杀",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/15_第十五章_费萨尔·侯赛尼",
+    "next_title": "15_第十五章_费萨尔·侯赛尼"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/15_第十五章_费萨尔·侯赛尼.md",
+    "title": "15_第十五章_费萨尔·侯赛尼",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/15_Faisal Husseini",
+    "prev_title": "15_Faisal Husseini",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/16_Annex Us!",
+    "next_title": "16_Annex Us!"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/16_Annex Us!.md",
+    "title": "16_Annex Us!",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/15_第十五章_费萨尔·侯赛尼",
+    "prev_title": "15_第十五章_费萨尔·侯赛尼",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/16_第十六章_兼并我们吧",
+    "next_title": "16_第十六章_兼并我们吧"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/16_第十六章_兼并我们吧.md",
+    "title": "16_第十六章_兼并我们吧",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/16_Annex Us!",
+    "prev_title": "16_Annex Us!",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/17_Sticks and Stones",
+    "next_title": "17_Sticks and Stones"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/17_Sticks and Stones.md",
+    "title": "17_Sticks and Stones",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/16_第十六章_兼并我们吧",
+    "prev_title": "16_第十六章_兼并我们吧",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/17_第十七章_棍棒和石头",
+    "next_title": "17_第十七章_棍棒和石头"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/17_第十七章_棍棒和石头.md",
+    "title": "17_第十七章_棍棒和石头",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/17_Sticks and Stones",
+    "prev_title": "17_Sticks and Stones",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/18_The Exorcism",
+    "next_title": "18_The Exorcism"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/18_The Exorcism.md",
+    "title": "18_The Exorcism",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/17_第十七章_棍棒和石头",
+    "prev_title": "17_第十七章_棍棒和石头",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/18_第十八章_驱魔",
+    "next_title": "18_第十八章_驱魔"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/18_第十八章_驱魔.md",
+    "title": "18_第十八章_驱魔",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/18_The Exorcism",
+    "prev_title": "18_The Exorcism",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/19_A Declaration of Independence",
+    "next_title": "19_A Declaration of Independence"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/19_A Declaration of Independence.md",
+    "title": "19_A Declaration of Independence",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/18_第十八章_驱魔",
+    "prev_title": "18_第十八章_驱魔",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/19_第十九章_独立宣言",
+    "next_title": "19_第十九章_独立宣言"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/19_第十九章_独立宣言.md",
+    "title": "19_第十九章_独立宣言",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/19_A Declaration of Independence",
+    "prev_title": "19_A Declaration of Independence",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/20_Interrogation",
+    "next_title": "20_Interrogation"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/20_Interrogation.md",
+    "title": "20_Interrogation",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/19_第十九章_独立宣言",
+    "prev_title": "19_第十九章_独立宣言",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/20_第二十章_审讯",
+    "next_title": "20_第二十章_审讯"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/20_第二十章_审讯.md",
+    "title": "20_第二十章_审讯",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/20_Interrogation",
+    "prev_title": "20_Interrogation",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/21_Ramle Prison",
+    "next_title": "21_Ramle Prison"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/21_Ramle Prison.md",
+    "title": "21_Ramle Prison",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/20_第二十章_审讯",
+    "prev_title": "20_第二十章_审讯",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/21_第二十一章_拉姆拉监狱",
+    "next_title": "21_第二十一章_拉姆拉监狱"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/21_第二十一章_拉姆拉监狱.md",
+    "title": "21_第二十一章_拉姆拉监狱",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/21_Ramle Prison",
+    "prev_title": "21_Ramle Prison",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/22_Madrid",
+    "next_title": "22_Madrid"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/22_Madrid.md",
+    "title": "22_Madrid",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/21_第二十一章_拉姆拉监狱",
+    "prev_title": "21_第二十一章_拉姆拉监狱",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/22_第二十二章_马德里",
+    "next_title": "22_第二十二章_马德里"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/22_第二十二章_马德里.md",
+    "title": "22_第二十二章_马德里",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/22_Madrid",
+    "prev_title": "22_Madrid",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/23_A Shadow Government",
+    "next_title": "23_A Shadow Government"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/23_A Shadow Government.md",
+    "title": "23_A Shadow Government",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/22_第二十二章_马德里",
+    "prev_title": "22_第二十二章_马德里",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/23_第二十三章_影子政府",
+    "next_title": "23_第二十三章_影子政府"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/23_第二十三章_影子政府.md",
+    "title": "23_第二十三章_影子政府",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/23_A Shadow Government",
+    "prev_title": "23_A Shadow Government",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/24_Oslo",
+    "next_title": "24_Oslo"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/24_Oslo.md",
+    "title": "24_Oslo",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/23_第二十三章_影子政府",
+    "prev_title": "23_第二十三章_影子政府",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/24_第二十四章_奥斯陆",
+    "next_title": "24_第二十四章_奥斯陆"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/24_第二十四章_奥斯陆.md",
+    "title": "24_第二十四章_奥斯陆",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/24_Oslo",
+    "prev_title": "24_Oslo",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/25_The Disappearance",
+    "next_title": "25_The Disappearance"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/25_The Disappearance.md",
+    "title": "25_The Disappearance",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/24_第二十四章_奥斯陆",
+    "prev_title": "24_第二十四章_奥斯陆",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/25_第二十五章_失踪",
+    "next_title": "25_第二十五章_失踪"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/25_第二十五章_失踪.md",
+    "title": "25_第二十五章_失踪",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/25_The Disappearance",
+    "prev_title": "25_The Disappearance",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/26_Porcupines and Roosters",
+    "next_title": "26_Porcupines and Roosters"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/26_Porcupines and Roosters.md",
+    "title": "26_Porcupines and Roosters",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/25_第二十五章_失踪",
+    "prev_title": "25_第二十五章_失踪",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/26_第二十六章_豪猪和公鸡",
+    "next_title": "26_第二十六章_豪猪和公鸡"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/26_第二十六章_豪猪和公鸡.md",
+    "title": "26_第二十六章_豪猪和公鸡",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/26_Porcupines and Roosters",
+    "prev_title": "26_Porcupines and Roosters",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/27_Holy of Holies",
+    "next_title": "27_Holy of Holies"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/27_Holy of Holies.md",
+    "title": "27_Holy of Holies",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/26_第二十六章_豪猪和公鸡",
+    "prev_title": "26_第二十六章_豪猪和公鸡",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/27_第二十七章_至圣所",
+    "next_title": "27_第二十七章_至圣所"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/27_第二十七章_至圣所.md",
+    "title": "27_第二十七章_至圣所",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/27_Holy of Holies",
+    "prev_title": "27_Holy of Holies",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/28_The Possessed",
+    "next_title": "28_The Possessed"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/28_The Possessed.md",
+    "title": "28_The Possessed",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/27_第二十七章_至圣所",
+    "prev_title": "27_第二十七章_至圣所",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/28_第二十八章_被鬼附的人",
+    "next_title": "28_第二十八章_被鬼附的人"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/28_第二十八章_被鬼附的人.md",
+    "title": "28_第二十八章_被鬼附的人",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/28_The Possessed",
+    "prev_title": "28_The Possessed",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/29_Allies",
+    "next_title": "29_Allies"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/29_Allies.md",
+    "title": "29_Allies",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/28_第二十八章_被鬼附的人",
+    "prev_title": "28_第二十八章_被鬼附的人",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/29_第二十九章_盟友",
+    "next_title": "29_第二十九章_盟友"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/29_第二十九章_盟友.md",
+    "title": "29_第二十九章_盟友",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/29_Allies",
+    "prev_title": "29_Allies",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/30_Checkmate",
+    "next_title": "30_Checkmate"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/30_Checkmate.md",
+    "title": "30_Checkmate",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/29_第二十九章_盟友",
+    "prev_title": "29_第二十九章_盟友",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/30_第三十章_将死",
+    "next_title": "30_第三十章_将死"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/30_第三十章_将死.md",
+    "title": "30_第三十章_将死",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/30_Checkmate",
+    "prev_title": "30_Checkmate",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/31_The Iron Fist",
+    "next_title": "31_The Iron Fist"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/31_The Iron Fist.md",
+    "title": "31_The Iron Fist",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/30_第三十章_将死",
+    "prev_title": "30_第三十章_将死",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/31_第三十一章_铁拳",
+    "next_title": "31_第三十一章_铁拳"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/31_第三十一章_铁拳.md",
+    "title": "31_第三十一章_铁拳",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/31_The Iron Fist",
+    "prev_title": "31_The Iron Fist",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/32_「The Tigers」",
+    "next_title": "32_「The Tigers」"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/32_「The Tigers」.md",
+    "title": "32_「The Tigers」",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/31_第三十一章_铁拳",
+    "prev_title": "31_第三十一章_铁拳",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/32_第三十二章_老虎",
+    "next_title": "32_第三十二章_老虎"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/32_第三十二章_老虎.md",
+    "title": "32_第三十二章_老虎",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/32_「The Tigers」",
+    "prev_title": "32_「The Tigers」",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/33_The Perfect Crime",
+    "next_title": "33_The Perfect Crime"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/33_The Perfect Crime.md",
+    "title": "33_The Perfect Crime",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/32_第三十二章_老虎",
+    "prev_title": "32_第三十二章_老虎",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/33_第三十三章_完美的犯罪",
+    "next_title": "33_第三十三章_完美的犯罪"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/33_第三十三章_完美的犯罪.md",
+    "title": "33_第三十三章_完美的犯罪",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/33_The Perfect Crime",
+    "prev_title": "33_The Perfect Crime",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/34_Epilogue",
+    "next_title": "34_Epilogue"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/34_Epilogue.md",
+    "title": "34_Epilogue",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/33_第三十三章_完美的犯罪",
+    "prev_title": "33_第三十三章_完美的犯罪",
+    "next_url": "102. 阅读/18.Once_Upon_a_Country/34_尾声_夜间旅程",
+    "next_title": "34_尾声_夜间旅程"
+  },
+  {
+    "path": "102. 阅读/18.Once_Upon_a_Country/34_尾声_夜间旅程.md",
+    "title": "34_尾声_夜间旅程",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/34_Epilogue",
+    "prev_title": "34_Epilogue",
     "next_url": "102. 阅读/40-day-luther/01_Day_1",
     "next_title": "01_Day_1"
   },
   {
     "path": "102. 阅读/40-day-luther/01_Day_1.md",
     "title": "01_Day_1",
-    "prev_url": "102. 阅读/17.luther-catechism-devotions-校对版/07_Sacrament-of-Holy-Communion/06_合宜的预备",
-    "prev_title": "06_合宜的预备",
+    "prev_url": "102. 阅读/18.Once_Upon_a_Country/34_尾声_夜间旅程",
+    "prev_title": "34_尾声_夜间旅程",
     "next_url": "102. 阅读/40-day-luther/02_Day_2",
     "next_title": "02_Day_2"
   },
@@ -23978,14 +24834,22 @@
     "title": "13.此题无解",
     "prev_url": "302.公众号洗稿/12. 神的仆人",
     "prev_title": "12. 神的仆人",
+    "next_url": "302.公众号洗稿/三股绳子",
+    "next_title": "三股绳子"
+  },
+  {
+    "path": "302.公众号洗稿/三股绳子.md",
+    "title": "三股绳子",
+    "prev_url": "302.公众号洗稿/13.此题无解",
+    "prev_title": "13.此题无解",
     "next_url": "302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章",
     "next_title": "云彩般的见证人在见证什么-读希伯来书十至十二章"
   },
   {
     "path": "302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章.md",
     "title": "云彩般的见证人在见证什么-读希伯来书十至十二章",
-    "prev_url": "302.公众号洗稿/13.此题无解",
-    "prev_title": "13.此题无解",
+    "prev_url": "302.公众号洗稿/三股绳子",
+    "prev_title": "三股绳子",
     "next_url": "302.公众号洗稿/五旬节运动与路德宗神学_Krueger_1974",
     "next_title": "五旬节运动与路德宗神学_Krueger_1974"
   },
