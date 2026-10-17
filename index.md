@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3205 篇文章
+共 3207 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -829,6 +829,7 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/13.此题无解">13.此题无解</a>
 <a class="tree-file" href="101. 教义/00_教义问答/14.试验神与试探神">14.试验神与试探神</a>
 <a class="tree-file" href="101. 教义/00_教义问答/如何理解因信称义">如何理解因信称义</a>
+<a class="tree-file" href="101. 教义/00_教义问答/我们为何难以使用律法">我们为何难以使用律法</a>
 <a class="tree-file" href="101. 教义/00_教义问答/神学是一门客观的学问">神学是一门客观的学问</a>
 <details class="tree-folder" id="101-教义-00-教义问答-04-旧约时代的人如何得救">
 <summary class="tree-dir">04.旧约时代的人如何得救<a class="anchor-link" href="#101-教义-00-教义问答-04-旧约时代的人如何得救">#</a></summary>
@@ -4131,6 +4132,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/发现我们的召命-路德改教对基督徒职业观的重新强调">发现我们的召命-路德改教对基督徒职业观的重新强调</a>
 <a class="tree-file" href="302.公众号洗稿/在巴比伦河边-咒诅诗的解释与应用">在巴比伦河边-咒诅诗的解释与应用</a>
 <a class="tree-file" href="302.公众号洗稿/地狱的日常_温和版">地狱的日常_温和版</a>
+<a class="tree-file" href="302.公众号洗稿/太2 博士朝拜">太2 博士朝拜</a>
 <a class="tree-file" href="302.公众号洗稿/太21 撒迦利亚书与指环王">太21 撒迦利亚书与指环王</a>
 <a class="tree-file" href="302.公众号洗稿/太21 骑驴进城">太21 骑驴进城</a>
 <a class="tree-file" href="302.公众号洗稿/太3 结出果子来与悔改的心相称">太3 结出果子来与悔改的心相称</a>
