@@ -1,0 +1,10 @@
+{
+  "name": "md-to-docx-skill",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Markdown -> Word (.docx) converter used by the md-to-docx Claude Code skill",
+  "dependencies": {
+    "docx": "9.12.0",
+    "markdown-it": "15.0.3"
+  }
+}
