@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3214 篇文章
+共 3216 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -336,6 +336,7 @@ body_class: index-page
 <a class="tree-file" href="40. 马太福音/太2/太2 拉结哭她的儿女">太2 拉结哭她的儿女</a>
 <a class="tree-file" href="40. 马太福音/太2/太2 拿撒勒">太2 拿撒勒</a>
 <a class="tree-file" href="40. 马太福音/太2/太2 耶稣逃亡">太2 耶稣逃亡</a>
+<a class="tree-file" href="40. 马太福音/太2/太2 读马太福音2章前先读弥迦书">太2 读马太福音2章前先读弥迦书</a>
 <a class="tree-file" href="40. 马太福音/太2/太2 黄金乳香和没药">太2 黄金乳香和没药</a>
 </details>
 <details class="tree-folder" id="40-马太福音-太21">
@@ -4137,6 +4138,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/地狱的日常_温和版">地狱的日常_温和版</a>
 <a class="tree-file" href="302.公众号洗稿/太2 博士朝拜">太2 博士朝拜</a>
 <a class="tree-file" href="302.公众号洗稿/太2 拉结哭她的儿女">太2 拉结哭她的儿女</a>
+<a class="tree-file" href="302.公众号洗稿/太2 读马太福音2章前先读弥迦书">太2 读马太福音2章前先读弥迦书</a>
 <a class="tree-file" href="302.公众号洗稿/太21 撒迦利亚书与指环王">太21 撒迦利亚书与指环王</a>
 <a class="tree-file" href="302.公众号洗稿/太21 骑驴进城">太21 骑驴进城</a>
 <a class="tree-file" href="302.公众号洗稿/太3 结出果子来与悔改的心相称">太3 结出果子来与悔改的心相称</a>
