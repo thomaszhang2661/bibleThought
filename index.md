@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3238 篇文章
+共 3239 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -4146,6 +4146,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/13.此题无解">13.此题无解</a>
 <a class="tree-file" href="302.公众号洗稿/15.自私平反了">15.自私平反了</a>
 <a class="tree-file" href="302.公众号洗稿/16.两种静心">16.两种静心</a>
+<a class="tree-file" href="302.公众号洗稿/17.如何认识到上帝的看顾和保守">17.如何认识到上帝的看顾和保守</a>
 <a class="tree-file" href="302.公众号洗稿/三股绳子">三股绳子</a>
 <a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
 <a class="tree-file" href="302.公众号洗稿/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
