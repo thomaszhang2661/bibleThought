@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3223 篇文章
+共 3238 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -338,6 +338,7 @@ body_class: index-page
 <details class="tree-folder" id="40-马太福音-太2">
 <summary class="tree-dir">太2<a class="anchor-link" href="#40-马太福音-太2">#</a></summary>
 <a class="tree-file" href="40. 马太福音/太2/太2 博士朝拜">太2 博士朝拜</a>
+<a class="tree-file" href="40. 马太福音/太2/太2 埃及是什么">太2 埃及是什么</a>
 <a class="tree-file" href="40. 马太福音/太2/太2 弥迦总结">太2 弥迦总结</a>
 <a class="tree-file" href="40. 马太福音/太2/太2 我从埃及招出我的儿子">太2 我从埃及招出我的儿子</a>
 <a class="tree-file" href="40. 马太福音/太2/太2 拉结哭她的儿女">太2 拉结哭她的儿女</a>
@@ -358,6 +359,7 @@ body_class: index-page
 <a class="tree-file" href="40. 马太福音/太3/太3 悔改在这里指什么？">太3 悔改在这里指什么？</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 我们当尽诸般的义">太3 我们当尽诸般的义</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 扬净他的场">太3 扬净他的场</a>
+<a class="tree-file" href="40. 马太福音/太3/太3 约旦河边的仆人">太3 约旦河边的仆人</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 结出果子来与悔改的心相称">太3 结出果子来与悔改的心相称</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 这是我的爱子">太3 这是我的爱子</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 预备主的道，修直他的路">太3 预备主的道，修直他的路</a>
@@ -836,6 +838,9 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/00_教义问答/06.自杀的信徒能否得救">06.自杀的信徒能否得救</a>
 <a class="tree-file" href="101. 教义/00_教义问答/13.此题无解">13.此题无解</a>
 <a class="tree-file" href="101. 教义/00_教义问答/14.试验神与试探神">14.试验神与试探神</a>
+<a class="tree-file" href="101. 教义/00_教义问答/15.自私平反了">15.自私平反了</a>
+<a class="tree-file" href="101. 教义/00_教义问答/16.两种静心">16.两种静心</a>
+<a class="tree-file" href="101. 教义/00_教义问答/17.如何认识到上帝的看顾和保守">17.如何认识到上帝的看顾和保守</a>
 <a class="tree-file" href="101. 教义/00_教义问答/上亿年的化石与创造论的矛盾">上亿年的化石与创造论的矛盾</a>
 <a class="tree-file" href="101. 教义/00_教义问答/如何理解因信称义">如何理解因信称义</a>
 <a class="tree-file" href="101. 教义/00_教义问答/我们为何难以使用律法">我们为何难以使用律法</a>
@@ -1542,11 +1547,14 @@ body_class: index-page
 <a class="tree-file" href="101. 教义/律法与福音-信心和行为/1. 说教是一个严重的问题吗">1. 说教是一个严重的问题吗</a>
 <a class="tree-file" href="101. 教义/律法与福音-信心和行为/2. 律法主义是什么有什么危害">2. 律法主义是什么有什么危害</a>
 <a class="tree-file" href="101. 教义/律法与福音-信心和行为/3. 专注于改变的危险-爱的本质是关系还是功能">3. 专注于改变的危险-爱的本质是关系还是功能</a>
+<a class="tree-file" href="101. 教义/律法与福音-信心和行为/3. 专注于改变的危险-爱的本质是关系还是功能英文版">3. 专注于改变的危险-爱的本质是关系还是功能英文版</a>
 <a class="tree-file" href="101. 教义/律法与福音-信心和行为/4. 当我放弃改造妻子之后">4. 当我放弃改造妻子之后</a>
 <a class="tree-file" href="101. 教义/律法与福音-信心和行为/5. 警惕爱的涮蓝">5. 警惕爱的涮蓝</a>
 <a class="tree-file" href="101. 教义/律法与福音-信心和行为/圣经看起来充满矛盾其实是缺少了这把钥匙">圣经看起来充满矛盾其实是缺少了这把钥匙</a>
 <a class="tree-file" href="101. 教义/律法与福音-信心和行为/律法与福音--华达笔记">律法与福音--华达笔记</a>
 <a class="tree-file" href="101. 教义/律法与福音-信心和行为/律法与福音-理解圣经真理的双重维度">律法与福音-理解圣经真理的双重维度</a>
+<a class="tree-file" href="101. 教义/律法与福音-信心和行为/方法不是中性的-读凯斯特前言与概论">方法不是中性的-读凯斯特前言与概论</a>
+<a class="tree-file" href="101. 教义/律法与福音-信心和行为/路德宗和改革宗只是大同小异吗-读凯斯特第三章">路德宗和改革宗只是大同小异吗-读凯斯特第三章</a>
 <a class="tree-file" href="101. 教义/律法与福音-信心和行为/追求真理的阴暗面">追求真理的阴暗面</a>
 </details>
 <details class="tree-folder" id="101-教义-护教学">
@@ -4136,6 +4144,8 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/11. 诺亚方舟">11. 诺亚方舟</a>
 <a class="tree-file" href="302.公众号洗稿/12. 神的仆人">12. 神的仆人</a>
 <a class="tree-file" href="302.公众号洗稿/13.此题无解">13.此题无解</a>
+<a class="tree-file" href="302.公众号洗稿/15.自私平反了">15.自私平反了</a>
+<a class="tree-file" href="302.公众号洗稿/16.两种静心">16.两种静心</a>
 <a class="tree-file" href="302.公众号洗稿/三股绳子">三股绳子</a>
 <a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
 <a class="tree-file" href="302.公众号洗稿/五旬节运动与路德宗神学_Krueger_1974">五旬节运动与路德宗神学_Krueger_1974</a>
@@ -4146,16 +4156,20 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/太11 施洗约翰是最后一位先知吗">太11 施洗约翰是最后一位先知吗</a>
 <a class="tree-file" href="302.公众号洗稿/太11 有耳朵不等于在听">太11 有耳朵不等于在听</a>
 <a class="tree-file" href="302.公众号洗稿/太2 博士朝拜">太2 博士朝拜</a>
+<a class="tree-file" href="302.公众号洗稿/太2 埃及是什么">太2 埃及是什么</a>
 <a class="tree-file" href="302.公众号洗稿/太2 我从埃及招出我的儿子">太2 我从埃及招出我的儿子</a>
 <a class="tree-file" href="302.公众号洗稿/太2 拉结哭她的儿女">太2 拉结哭她的儿女</a>
 <a class="tree-file" href="302.公众号洗稿/太2 读马太福音2章前先读弥迦书">太2 读马太福音2章前先读弥迦书</a>
 <a class="tree-file" href="302.公众号洗稿/太21 撒迦利亚书与指环王">太21 撒迦利亚书与指环王</a>
 <a class="tree-file" href="302.公众号洗稿/太21 骑驴进城">太21 骑驴进城</a>
+<a class="tree-file" href="302.公众号洗稿/太3 从石头中兴起子孙，斧子放在根上">太3 从石头中兴起子孙，斧子放在根上</a>
+<a class="tree-file" href="302.公众号洗稿/太3 约旦河边的仆人">太3 约旦河边的仆人</a>
 <a class="tree-file" href="302.公众号洗稿/太3 结出果子来与悔改的心相称">太3 结出果子来与悔改的心相称</a>
 <a class="tree-file" href="302.公众号洗稿/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄">好人是不是永远打不过坏人—基督徒如何面对作恶的权柄</a>
 <a class="tree-file" href="302.公众号洗稿/如何理解三位一体">如何理解三位一体</a>
 <a class="tree-file" href="302.公众号洗稿/我们为何难以使用律法">我们为何难以使用律法</a>
 <a class="tree-file" href="302.公众号洗稿/我来要把火丢在地上">我来要把火丢在地上</a>
+<a class="tree-file" href="302.公众号洗稿/方法不是中性的-读凯斯特前言与概论">方法不是中性的-读凯斯特前言与概论</a>
 <a class="tree-file" href="302.公众号洗稿/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
 <a class="tree-file" href="302.公众号洗稿/显而未见-路德对于呼召的教义">显而未见-路德对于呼召的教义</a>
 <a class="tree-file" href="302.公众号洗稿/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
@@ -4163,6 +4177,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/罪就伏在我们门前-第二版">罪就伏在我们门前-第二版</a>
 <a class="tree-file" href="302.公众号洗稿/耶稣是谁？">耶稣是谁？</a>
 <a class="tree-file" href="302.公众号洗稿/藐视恩典是教会之死">藐视恩典是教会之死</a>
+<a class="tree-file" href="302.公众号洗稿/路德宗和改革宗只是大同小异吗-读凯斯特第三章">路德宗和改革宗只是大同小异吗-读凯斯特第三章</a>
 <a class="tree-file" href="302.公众号洗稿/路德宗政治抵抗理论-马德堡认信与下级执政官教义">路德宗政治抵抗理论-马德堡认信与下级执政官教义</a>
 <a class="tree-file" href="302.公众号洗稿/轻省的轭—五旬节后第六主日">轻省的轭—五旬节后第六主日</a>
 <a class="tree-file" href="302.公众号洗稿/重拾以基督为中心的路德宗灵修传统">重拾以基督为中心的路德宗灵修传统</a>
