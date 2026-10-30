@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3241 篇文章
+共 3242 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -4170,6 +4170,7 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/太3 结出果子来与悔改的心相称">太3 结出果子来与悔改的心相称</a>
 <a class="tree-file" href="302.公众号洗稿/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄">好人是不是永远打不过坏人—基督徒如何面对作恶的权柄</a>
 <a class="tree-file" href="302.公众号洗稿/如何理解三位一体">如何理解三位一体</a>
+<a class="tree-file" href="302.公众号洗稿/如果不提前保护起来，那么">如果不提前保护起来，那么</a>
 <a class="tree-file" href="302.公众号洗稿/我们为何难以使用律法">我们为何难以使用律法</a>
 <a class="tree-file" href="302.公众号洗稿/我来要把火丢在地上">我来要把火丢在地上</a>
 <a class="tree-file" href="302.公众号洗稿/方法不是中性的-读凯斯特前言与概论">方法不是中性的-读凯斯特前言与概论</a>
