@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3242 篇文章
+共 3251 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -338,7 +338,6 @@ body_class: index-page
 <details class="tree-folder" id="40-马太福音-太2">
 <summary class="tree-dir">太2<a class="anchor-link" href="#40-马太福音-太2">#</a></summary>
 <a class="tree-file" href="40. 马太福音/太2/太2 博士朝拜">太2 博士朝拜</a>
-<a class="tree-file" href="40. 马太福音/太2/太2 埃及是什么">太2 埃及是什么</a>
 <a class="tree-file" href="40. 马太福音/太2/太2 弥迦总结">太2 弥迦总结</a>
 <a class="tree-file" href="40. 马太福音/太2/太2 我从埃及招出我的儿子">太2 我从埃及招出我的儿子</a>
 <a class="tree-file" href="40. 马太福音/太2/太2 拉结哭她的儿女">太2 拉结哭她的儿女</a>
@@ -359,7 +358,6 @@ body_class: index-page
 <a class="tree-file" href="40. 马太福音/太3/太3 悔改在这里指什么？">太3 悔改在这里指什么？</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 我们当尽诸般的义">太3 我们当尽诸般的义</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 扬净他的场">太3 扬净他的场</a>
-<a class="tree-file" href="40. 马太福音/太3/太3 约旦河边的仆人">太3 约旦河边的仆人</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 结出果子来与悔改的心相称">太3 结出果子来与悔改的心相称</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 这是我的爱子">太3 这是我的爱子</a>
 <a class="tree-file" href="40. 马太福音/太3/太3 预备主的道，修直他的路">太3 预备主的道，修直他的路</a>
@@ -1733,6 +1731,27 @@ body_class: index-page
 <a class="tree-file" href="102. 阅读/01_家庭习惯的力量/chapters/10_第九章_对话">10_第九章_对话</a>
 <a class="tree-file" href="102. 阅读/01_家庭习惯的力量/chapters/11_第十章_睡觉时间">11_第十章_睡觉时间</a>
 <a class="tree-file" href="102. 阅读/01_家庭习惯的力量/chapters/12_结语">12_结语</a>
+</details>
+<details class="tree-folder" id="102-阅读-01-家庭习惯的力量-中文重构版">
+<summary class="tree-dir">中文重构版<a class="anchor-link" href="#102-阅读-01-家庭习惯的力量-中文重构版">#</a></summary>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/00_走廊里的那一晚">00_走廊里的那一晚</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/01a_半夜的怪物和早晨的怪物">01a_半夜的怪物和早晨的怪物</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/01b_早晨的三扇窗">01b_早晨的三扇窗</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/02a_一个胡椒瓶救了一顿早饭">02a_一个胡椒瓶救了一顿早饭</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/02b_乱糟糟的饭桌上正发生着什么">02b_乱糟糟的饭桌上正发生着什么</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/03a_孩子扇了爸爸一巴掌之后">03a_孩子扇了爸爸一巴掌之后</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/03b_管教的金字塔与抱到笑为止">03b_管教的金字塔与抱到笑为止</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/04a_那一小时的代价">04a_那一小时的代价</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/04b_不是禁屏而是筛选">04b_不是禁屏而是筛选</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/05a_家庭灵修不必体面，乱糟糟的餐桌也行">05a_家庭灵修不必体面，乱糟糟的餐桌也行</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/05b_上帝谢谢你阿们，短祷告也是真祷告">05b_上帝谢谢你阿们，短祷告也是真祷告</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/06_周三晚上什么正事都不做">06_周三晚上什么正事都不做</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/07_递扳手的孩子">07_递扳手的孩子</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/08_陪孩子玩，也把孩子赶出去玩">08_陪孩子玩，也把孩子赶出去玩</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/09_让家人成为朋友">09_让家人成为朋友</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/10a_凌晨一点的走廊">10a_凌晨一点的走廊</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/10b_挠痒痒也是祝福">10b_挠痒痒也是祝福</a>
+<a class="tree-file" href="102. 阅读/01_家庭习惯的力量/中文重构版/11_一张年龄表看见孩子长大的那天">11_一张年龄表看见孩子长大的那天</a>
 </details>
 </details>
 <details class="tree-folder" id="102-阅读-02-上帝的应许">
@@ -4146,8 +4165,6 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/11. 诺亚方舟">11. 诺亚方舟</a>
 <a class="tree-file" href="302.公众号洗稿/12. 神的仆人">12. 神的仆人</a>
 <a class="tree-file" href="302.公众号洗稿/13.此题无解">13.此题无解</a>
-<a class="tree-file" href="302.公众号洗稿/15.自私平反了">15.自私平反了</a>
-<a class="tree-file" href="302.公众号洗稿/16.两种静心">16.两种静心</a>
 <a class="tree-file" href="302.公众号洗稿/17.如何认识到上帝的看顾和保守">17.如何认识到上帝的看顾和保守</a>
 <a class="tree-file" href="302.公众号洗稿/三股绳子">三股绳子</a>
 <a class="tree-file" href="302.公众号洗稿/云彩般的见证人在见证什么-读希伯来书十至十二章">云彩般的见证人在见证什么-读希伯来书十至十二章</a>
@@ -4159,21 +4176,17 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/太11 施洗约翰是最后一位先知吗">太11 施洗约翰是最后一位先知吗</a>
 <a class="tree-file" href="302.公众号洗稿/太11 有耳朵不等于在听">太11 有耳朵不等于在听</a>
 <a class="tree-file" href="302.公众号洗稿/太2 博士朝拜">太2 博士朝拜</a>
-<a class="tree-file" href="302.公众号洗稿/太2 埃及是什么">太2 埃及是什么</a>
 <a class="tree-file" href="302.公众号洗稿/太2 我从埃及招出我的儿子">太2 我从埃及招出我的儿子</a>
 <a class="tree-file" href="302.公众号洗稿/太2 拉结哭她的儿女">太2 拉结哭她的儿女</a>
 <a class="tree-file" href="302.公众号洗稿/太2 读马太福音2章前先读弥迦书">太2 读马太福音2章前先读弥迦书</a>
 <a class="tree-file" href="302.公众号洗稿/太21 撒迦利亚书与指环王">太21 撒迦利亚书与指环王</a>
 <a class="tree-file" href="302.公众号洗稿/太21 骑驴进城">太21 骑驴进城</a>
-<a class="tree-file" href="302.公众号洗稿/太3 从石头中兴起子孙，斧子放在根上">太3 从石头中兴起子孙，斧子放在根上</a>
-<a class="tree-file" href="302.公众号洗稿/太3 约旦河边的仆人">太3 约旦河边的仆人</a>
 <a class="tree-file" href="302.公众号洗稿/太3 结出果子来与悔改的心相称">太3 结出果子来与悔改的心相称</a>
 <a class="tree-file" href="302.公众号洗稿/好人是不是永远打不过坏人—基督徒如何面对作恶的权柄">好人是不是永远打不过坏人—基督徒如何面对作恶的权柄</a>
 <a class="tree-file" href="302.公众号洗稿/如何理解三位一体">如何理解三位一体</a>
 <a class="tree-file" href="302.公众号洗稿/如果不提前保护起来，那么">如果不提前保护起来，那么</a>
 <a class="tree-file" href="302.公众号洗稿/我们为何难以使用律法">我们为何难以使用律法</a>
 <a class="tree-file" href="302.公众号洗稿/我来要把火丢在地上">我来要把火丢在地上</a>
-<a class="tree-file" href="302.公众号洗稿/方法不是中性的-读凯斯特前言与概论">方法不是中性的-读凯斯特前言与概论</a>
 <a class="tree-file" href="302.公众号洗稿/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
 <a class="tree-file" href="302.公众号洗稿/显而未见-路德对于呼召的教义">显而未见-路德对于呼召的教义</a>
 <a class="tree-file" href="302.公众号洗稿/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
@@ -4181,7 +4194,6 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/罪就伏在我们门前-第二版">罪就伏在我们门前-第二版</a>
 <a class="tree-file" href="302.公众号洗稿/耶稣是谁？">耶稣是谁？</a>
 <a class="tree-file" href="302.公众号洗稿/藐视恩典是教会之死">藐视恩典是教会之死</a>
-<a class="tree-file" href="302.公众号洗稿/路德宗和改革宗只是大同小异吗-读凯斯特第三章">路德宗和改革宗只是大同小异吗-读凯斯特第三章</a>
 <a class="tree-file" href="302.公众号洗稿/路德宗政治抵抗理论-马德堡认信与下级执政官教义">路德宗政治抵抗理论-马德堡认信与下级执政官教义</a>
 <a class="tree-file" href="302.公众号洗稿/轻省的轭—五旬节后第六主日">轻省的轭—五旬节后第六主日</a>
 <a class="tree-file" href="302.公众号洗稿/重拾以基督为中心的路德宗灵修传统">重拾以基督为中心的路德宗灵修传统</a>
