@@ -1,0 +1,148 @@
+[
+ {
+  "id": "evade-acronym",
+  "category": "二、规避检测写法",
+  "clause": "规范1.2",
+  "regex": "(?<![A-Za-z])[A-Z]{2,4}(?![A-Za-z])",
+  "note": "疑似拼音缩写（如JH、JD）；已放行罗马数字和常见机构/译本缩写（见本规则 allow 列表，遇到新的正常缩写直接补进去）",
+  "confirm": false,
+  "allow": [
+   "WELS",
+   "WLS",
+   "NIV",
+   "ESV",
+   "KJV",
+   "CHE",
+   "LCMS",
+   "ELS",
+   "WLQ",
+   "BAG",
+   "BDF",
+   "LXX",
+   "AI",
+   "DDPM",
+   "ODE",
+   "MSE",
+   "CNF",
+   "WI",
+   "TLG",
+   "OK",
+   "PDF"
+  ],
+  "skip_roman": true
+ },
+ {
+  "id": "evade-slash",
+  "category": "二、规避检测写法",
+  "clause": "规范1.2",
+  "regex": "[\\u4e00-\\u9fff]/[\\u4e00-\\u9fff]",
+  "note": "疑似斜杠拆字（如集/权）；“男/女”之类正常并列可忽略",
+  "confirm": false
+ },
+ {
+  "id": "banned-term",
+  "category": "三、替换体例",
+  "clause": "3.4",
+  "regex": "苦刑柱",
+  "note": "耶和华见证人术语，禁用；改“十字架”或“受难”",
+  "confirm": false
+ },
+ {
+  "id": "shen-false-positive",
+  "category": "三、误伤还原（3.2）",
+  "clause": "3.2",
+  "regex": "大至高者|至高者迹|至高者圣的|如来至高者|邪至高者|(?:精|眼|女|财|封|鬼)至高者|至高者(?:经|奇(?!妙)|秘|色|态|韵|仙|话(?!语))",
+  "note": "“神”被误替换为“至高者”，还原为原词",
+  "confirm": false
+ },
+ {
+  "id": "politics",
+  "category": "一、政治敏感",
+  "clause": "总则/一.1",
+  "regex": "集权|极权|专制|独裁|英特纳雄耐尔|为人民服务|抗议|游行|示威|领导人|政权",
+  "note": "删除现实对照与口号，保留历史/神学案例；一律列入“需作者确认”",
+  "confirm": true
+ },
+ {
+  "id": "medical",
+  "category": "四、医疗与伪科学",
+  "clause": "5.1/5.2",
+  "regex": "癌|中医|偏方|穴位|治好|根治|治愈|创造论|恐龙|化石|进化论|地球年龄|石油",
+  "note": "病名与疗法泛化，科学争议细节删除，保留属灵论点",
+  "confirm": false
+ },
+ {
+  "id": "vulgar-violence",
+  "category": "五、低俗擦边与暴力",
+  "clause": "4.4/4.5",
+  "regex": "强奸|性侵|洗头房|嫖|妓|招嫖|血腥|砍死",
+  "note": "一句概括代替具体描写",
+  "confirm": false
+ },
+ {
+  "id": "title-scary",
+  "category": "六、惊悚与观感不适（仅查标题）",
+  "clause": "5.3.1/5.3.2",
+  "regex": "地狱|死亡|恐怖|尸体",
+  "note": "5.3.1主要针对图片，5.3.2针对恐怖灵异内容；标题含此类词属预防性建议，非明文禁止，由作者酌情",
+  "confirm": false,
+  "headings_only": true
+ },
+ {
+  "id": "residue-web",
+  "category": "五.4 导流与外链（5.4、6）",
+  "clause": "5.4/6",
+  "regex": "每日头条|库存图片|图片包括|版权所有|转载自|阅读原文|关注公众号|扫码|二维码|微信号|加微信|https?://|www\\.|a\\.co/|淘宝|优惠|折扣|购买链接",
+  "note": "外链、二维码、购书/商品链接都可能被判导流或营销；荐书只写书名作者，不放链接；图库图片确认授权",
+  "confirm": true
+ },
+ {
+  "id": "scripture-abbr",
+  "category": "九、经文缩写",
+  "clause": "通查",
+  "regex": "约[一二三](?=[\\s\\d：:。，、）)]|$)|彼得[前后][书]|帖撒罗尼迦[前后]书",
+  "note": "统一缩写：约壹/约贰/约叁、彼前/彼后、帖前/帖后、提前/提后",
+  "confirm": false
+ },
+ {
+  "id": "english-mixed",
+  "category": "九、中英混杂",
+  "clause": "通查",
+  "regex": "(?<![A-Za-z/.\\-])[A-Za-z]{4,}(?![A-Za-z])",
+  "note": "中文句子里夹的英文词（如reluctant）；纯英文行、专名、书名可保留。每个词每篇只报一次",
+  "confirm": false,
+  "min_cjk": 5
+ },
+ {
+  "id": "dup-particle",
+  "category": "九、重复词与错字",
+  "clause": "通查",
+  "regex": "(的|了|是|在|和|就|也|都|而)\\1",
+  "note": "重复字，疑似笔误",
+  "confirm": false
+ },
+ {
+  "id": "gender",
+  "category": "四.2 性别对立/歧视",
+  "clause": "4.2",
+  "regex": "女人不[可能许]|女人要顺服|妇女不[可许]|女性[低劣]|男尊女卑|女人.{0,6}(不配|低于|次等)",
+  "note": "涉女性角色的释经稿（如提前2章）易被判“性别歧视”；保留释经论证，避免绝对化、贬低性措辞，列入需作者确认",
+  "confirm": true
+ },
+ {
+  "id": "superstition",
+  "category": "五.2 封建迷信",
+  "clause": "5.2",
+  "regex": "算命|风水|占卜|八字|驱魔|鬼附|附身|神迹治",
+  "note": "涉灵异、驱魔的叙述一句概括",
+  "confirm": false
+ },
+ {
+  "id": "unverified-claim",
+  "category": "三 不实信息/7.3 无来源引用",
+  "clause": "3/7.3",
+  "regex": "据说|听说|有人统计|研究表明|数据显示|专家说",
+  "note": "无可验证来源的数据、史实、言论需补出处或删除；未读原著注明“据转述”",
+  "confirm": true
+ }
+]
