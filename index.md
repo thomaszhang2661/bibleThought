@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3280 篇文章
+共 3305 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -32,6 +32,37 @@ body_class: index-page
 <a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/chapters/10_创10章">10_创10章</a>
 <a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/chapters/11_创11章">11_创11章</a>
 </details>
+<details class="tree-folder" id="1-创世记-00-创世记注释-Lawrenz-Jeske-白话导读">
+<summary class="tree-dir">白话导读<a class="anchor-link" href="#1-创世记-00-创世记注释-Lawrenz-Jeske-白话导读">#</a></summary>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/00_前言与引言_白话导读">00_前言与引言_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/01_创1_1-2_3_白话导读">01_创1_1-2_3_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/02_创2_4-25_白话导读">02_创2_4-25_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/03_创3章_白话导读">03_创3章_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/04_创4章_白话导读">04_创4章_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/05_创5章_白话导读">05_创5章_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/06_创6章_白话导读">06_创6章_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/07_创7章_白话导读">07_创7章_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/08_创8章_白话导读">08_创8章_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/09_创9章_白话导读">09_创9章_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/10_创10章_白话导读">10_创10章_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/11_创11章_白话导读">11_创11章_白话导读</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/00_前言与引言_校对备忘">00_前言与引言_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/01_创1_1-2_3_校对备忘">01_创1_1-2_3_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/02_创2_4-25_校对备忘">02_创2_4-25_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/03_创3章_校对备忘">03_创3章_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/04_创4章_校对备忘">04_创4章_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/05_创5章_校对备忘">05_创5章_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/06_创6章_校对备忘">06_创6章_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/07_创7章_校对备忘">07_创7章_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/08_创8章_校对备忘">08_创8章_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/09_创9章_校对备忘">09_创9章_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/10_创10章_校对备忘">10_创10章_校对备忘</a>
+<a class="tree-file" href="1. 创世记/00_创世记注释_Lawrenz_Jeske/白话导读/校对备忘/11_创11章_校对备忘">11_创11章_校对备忘</a>
+</details>
+</details>
+<details class="tree-folder" id="1-创世记-创1-2">
+<summary class="tree-dir">创1-2<a class="anchor-link" href="#1-创世记-创1-2">#</a></summary>
+<a class="tree-file" href="1. 创世记/创1-2/简要笔记">简要笔记</a>
 </details>
 <details class="tree-folder" id="1-创世记-创11">
 <summary class="tree-dir">创11<a class="anchor-link" href="#1-创世记-创11">#</a></summary>
