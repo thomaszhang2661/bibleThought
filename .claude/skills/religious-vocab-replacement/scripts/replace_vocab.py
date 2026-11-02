@@ -63,14 +63,59 @@ def replace_shen(text: str) -> tuple[str, int]:
     return "".join(result), count
 
 
+DISCIPLESHIP_NOTE = "（指在信仰与生活上的长期学习与培育）"
+
+
+def handle_discipleship(text: str) -> tuple[str, int]:
+    """“门徒训练”一词：全文只首次出现时保留，并紧跟括号说明；其余处改为“信仰培育”。
+    已带说明的（后面紧跟“（指”）视为已处理，保证重复运行不叠加。"""
+    count = 0
+    out, i, annotated = [], 0, False
+    key = "门徒训练"
+    while True:
+        j = text.find(key, i)
+        if j == -1:
+            out.append(text[i:])
+            break
+        out.append(text[i:j])
+        after = text[j + len(key):j + len(key) + 2]
+        if after == "（指":
+            out.append(key)
+            annotated = True
+        elif not annotated:
+            out.append(key + DISCIPLESHIP_NOTE)
+            annotated = True
+            count += 1
+        else:
+            out.append("信仰培育")
+            count += 1
+        i = j + len(key)
+    return "".join(out), count
+
+
+# 普通汉语里恰好含有词表原词的写法：该词后面紧跟这些字时不替换（正则，写在原词之后）
+# 例：“先知道”（先+知道）不是“先知”
+WORD_GUARDS = {"先知": "(?!道)"}
+
+
 def process_text(text: str) -> tuple[str, list[str]]:
     changes = []
 
+    # 门徒训练：首现加括号说明，其余改“信仰培育”
+    text, n = handle_discipleship(text)
+    if n:
+        changes.append(f"  门徒训练 → 首现加括号说明、其余改“信仰培育”（{n}处）")
+
     # 第一步：多字词，从长到短批量替换
     for original, replacement in REPLACEMENTS:
-        count = text.count(original)
-        if count:
+        guard = WORD_GUARDS.get(original)
+        if guard:
+            pattern = re.compile(re.escape(original) + guard)
+            text, count = pattern.subn(lambda _m, r=replacement: r, text)
+        else:
+            count = text.count(original)
             text = text.replace(original, replacement)
+        if count:
             changes.append(f"  {original} → {replacement}（{count}处）")
 
     # 第二步：单字"神"，负向字符集扫描
@@ -91,7 +136,7 @@ def residual_rule() -> dict:
     keys = [a for a, _ in REPLACEMENTS if a not in replacements]
     return {
         "id": "residual-term", "category": "三、替换体例（残留）", "clause": "3.1", "confirm": True,
-        "regex": "|".join(re.escape(k) for k in keys),
+        "regex": "|".join(re.escape(k) + WORD_GUARDS.get(k, "") for k in keys),
         "note": "词表里的原词仍在文中；书名、引语、文献出处（3.3）可保留，其余询问作者统一写法",
     }
 
