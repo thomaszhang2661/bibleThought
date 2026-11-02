@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3429 篇文章
+共 3430 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -948,6 +948,7 @@ body_class: index-page
 <a class="tree-file" href="99. 讲道/20260527三位一体主日">20260527三位一体主日</a>
 <details class="tree-folder" id="99-讲道-00-Bork牧师">
 <summary class="tree-dir">00.Bork牧师<a class="anchor-link" href="#99-讲道-00-Bork牧师">#</a></summary>
+<a class="tree-file" href="99. 讲道/00.Bork牧师/从罪人到圣徒">从罪人到圣徒</a>
 <details class="tree-folder" id="99-讲道-00-Bork牧师-00-丰盛生命系列讲道">
 <summary class="tree-dir">00.丰盛生命系列讲道<a class="anchor-link" href="#99-讲道-00-Bork牧师-00-丰盛生命系列讲道">#</a></summary>
 <a class="tree-file" href="99. 讲道/00.Bork牧师/00.丰盛生命系列讲道/01_结出丰盛的果实_灵魂的园艺">01_结出丰盛的果实_灵魂的园艺</a>
