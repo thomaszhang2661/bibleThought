@@ -3018,54 +3018,134 @@
     "title": "太4耶稣受试探",
     "prev_url": "40. 马太福音/太4/太4 天国近了你们应当悔改",
     "prev_title": "太4 天国近了你们应当悔改",
-    "next_url": "42. 路加福音/路1 尊主颂",
-    "next_title": "路1 尊主颂"
+    "next_url": "42. 路加福音/海斯所说的互文是什么意思",
+    "next_title": "海斯所说的互文是什么意思"
   },
   {
-    "path": "42. 路加福音/路1 尊主颂.md",
-    "title": "路1 尊主颂",
+    "path": "42. 路加福音/海斯所说的互文是什么意思.md",
+    "title": "海斯所说的互文是什么意思",
     "prev_url": "40. 马太福音/太4/太4耶稣受试探",
     "prev_title": "太4耶稣受试探",
-    "next_url": "42. 路加福音/路1 施洗约翰的预言",
-    "next_title": "路1 施洗约翰的预言"
-  },
-  {
-    "path": "42. 路加福音/路1 施洗约翰的预言.md",
-    "title": "路1 施洗约翰的预言",
-    "prev_url": "42. 路加福音/路1 尊主颂",
-    "prev_title": "路1 尊主颂",
-    "next_url": "42. 路加福音/路1 耶稣的预言",
-    "next_title": "路1 耶稣的预言"
-  },
-  {
-    "path": "42. 路加福音/路1 耶稣的预言.md",
-    "title": "路1 耶稣的预言",
-    "prev_url": "42. 路加福音/路1 施洗约翰的预言",
-    "prev_title": "路1 施洗约翰的预言",
     "next_url": "42. 路加福音/路12在神面前不富足",
     "next_title": "路12在神面前不富足"
   },
   {
     "path": "42. 路加福音/路12在神面前不富足.md",
     "title": "路12在神面前不富足",
-    "prev_url": "42. 路加福音/路1 耶稣的预言",
+    "prev_url": "42. 路加福音/海斯所说的互文是什么意思",
+    "prev_title": "海斯所说的互文是什么意思",
+    "next_url": "42. 路加福音/路14简要注释",
+    "next_title": "路14简要注释"
+  },
+  {
+    "path": "42. 路加福音/路14简要注释.md",
+    "title": "路14简要注释",
+    "prev_url": "42. 路加福音/路12在神面前不富足",
+    "prev_title": "路12在神面前不富足",
+    "next_url": "42. 路加福音/路16简要注释",
+    "next_title": "路16简要注释"
+  },
+  {
+    "path": "42. 路加福音/路16简要注释.md",
+    "title": "路16简要注释",
+    "prev_url": "42. 路加福音/路14简要注释",
+    "prev_title": "路14简要注释",
+    "next_url": "42. 路加福音/路23简要注释",
+    "next_title": "路23简要注释"
+  },
+  {
+    "path": "42. 路加福音/路23简要注释.md",
+    "title": "路23简要注释",
+    "prev_url": "42. 路加福音/路16简要注释",
+    "prev_title": "路16简要注释",
+    "next_url": "42. 路加福音/路6",
+    "next_title": "路6"
+  },
+  {
+    "path": "42. 路加福音/路6.md",
+    "title": "路6",
+    "prev_url": "42. 路加福音/路23简要注释",
+    "prev_title": "路23简要注释",
+    "next_url": "42. 路加福音/路1/路1 尊主颂",
+    "next_title": "路1 尊主颂"
+  },
+  {
+    "path": "42. 路加福音/路1/路1 尊主颂.md",
+    "title": "路1 尊主颂",
+    "prev_url": "42. 路加福音/路6",
+    "prev_title": "路6",
+    "next_url": "42. 路加福音/路1/路1 施洗约翰的预言",
+    "next_title": "路1 施洗约翰的预言"
+  },
+  {
+    "path": "42. 路加福音/路1/路1 施洗约翰的预言.md",
+    "title": "路1 施洗约翰的预言",
+    "prev_url": "42. 路加福音/路1/路1 尊主颂",
+    "prev_title": "路1 尊主颂",
+    "next_url": "42. 路加福音/路1/路1 简要注释",
+    "next_title": "路1 简要注释"
+  },
+  {
+    "path": "42. 路加福音/路1/路1 简要注释.md",
+    "title": "路1 简要注释",
+    "prev_url": "42. 路加福音/路1/路1 施洗约翰的预言",
+    "prev_title": "路1 施洗约翰的预言",
+    "next_url": "42. 路加福音/路1/路1 耶稣的预言",
+    "next_title": "路1 耶稣的预言"
+  },
+  {
+    "path": "42. 路加福音/路1/路1 耶稣的预言.md",
+    "title": "路1 耶稣的预言",
+    "prev_url": "42. 路加福音/路1/路1 简要注释",
+    "prev_title": "路1 简要注释",
+    "next_url": "42. 路加福音/路12/路12简要注释",
+    "next_title": "路12简要注释"
+  },
+  {
+    "path": "42. 路加福音/路12/路12简要注释.md",
+    "title": "路12简要注释",
+    "prev_url": "42. 路加福音/路1/路1 耶稣的预言",
     "prev_title": "路1 耶稣的预言",
-    "next_url": "42. 路加福音/路2 耶稣12岁在圣殿",
+    "next_url": "42. 路加福音/路2/路2 简要注释",
+    "next_title": "路2 简要注释"
+  },
+  {
+    "path": "42. 路加福音/路2/路2 简要注释.md",
+    "title": "路2 简要注释",
+    "prev_url": "42. 路加福音/路12/路12简要注释",
+    "prev_title": "路12简要注释",
+    "next_url": "42. 路加福音/路2/路2 耶稣12岁在圣殿",
     "next_title": "路2 耶稣12岁在圣殿"
   },
   {
-    "path": "42. 路加福音/路2 耶稣12岁在圣殿.md",
+    "path": "42. 路加福音/路2/路2 耶稣12岁在圣殿.md",
     "title": "路2 耶稣12岁在圣殿",
-    "prev_url": "42. 路加福音/路12在神面前不富足",
-    "prev_title": "路12在神面前不富足",
+    "prev_url": "42. 路加福音/路2/路2 简要注释",
+    "prev_title": "路2 简要注释",
+    "next_url": "42. 路加福音/路9/exodus离去双关",
+    "next_title": "exodus离去双关"
+  },
+  {
+    "path": "42. 路加福音/路9/exodus离去双关.md",
+    "title": "exodus离去双关",
+    "prev_url": "42. 路加福音/路2/路2 耶稣12岁在圣殿",
+    "prev_title": "路2 耶稣12岁在圣殿",
+    "next_url": "42. 路加福音/路9/路9 简要注释",
+    "next_title": "路9 简要注释"
+  },
+  {
+    "path": "42. 路加福音/路9/路9 简要注释.md",
+    "title": "路9 简要注释",
+    "prev_url": "42. 路加福音/路9/exodus离去双关",
+    "prev_title": "exodus离去双关",
     "next_url": "43. 约翰福音/约翰福音1/人子为梯",
     "next_title": "人子为梯"
   },
   {
     "path": "43. 约翰福音/约翰福音1/人子为梯.md",
     "title": "人子为梯",
-    "prev_url": "42. 路加福音/路2 耶稣12岁在圣殿",
-    "prev_title": "路2 耶稣12岁在圣殿",
+    "prev_url": "42. 路加福音/路9/路9 简要注释",
+    "prev_title": "路9 简要注释",
     "next_url": "43. 约翰福音/约翰福音4/井边的撒马利亚妇人",
     "next_title": "井边的撒马利亚妇人"
   },
@@ -3082,14 +3162,22 @@
     "title": "井边的撒马利亚妇人英文版",
     "prev_url": "43. 约翰福音/约翰福音4/井边的撒马利亚妇人",
     "prev_title": "井边的撒马利亚妇人",
+    "next_url": "44.使徒行转/徒3简要注释",
+    "next_title": "徒3简要注释"
+  },
+  {
+    "path": "44.使徒行转/徒3简要注释.md",
+    "title": "徒3简要注释",
+    "prev_url": "43. 约翰福音/约翰福音4/井边的撒马利亚妇人英文版",
+    "prev_title": "井边的撒马利亚妇人英文版",
     "next_url": "46. 哥林多前书/林前13_1 鸣的锣响的钹",
     "next_title": "林前13_1 鸣的锣响的钹"
   },
   {
     "path": "46. 哥林多前书/林前13_1 鸣的锣响的钹.md",
     "title": "林前13_1 鸣的锣响的钹",
-    "prev_url": "43. 约翰福音/约翰福音4/井边的撒马利亚妇人英文版",
-    "prev_title": "井边的撒马利亚妇人英文版",
+    "prev_url": "44.使徒行转/徒3简要注释",
+    "prev_title": "徒3简要注释",
     "next_url": "59. 雅各书/雅1",
     "next_title": "雅1"
   },
@@ -5570,14 +5658,30 @@
     "title": "罪就伏在我们门前-第二版",
     "prev_url": "99. 讲道/罪就伏在我们门前/罪就伏在我们门前--我们小看了罪，也小看了赦免",
     "prev_title": "罪就伏在我们门前--我们小看了罪，也小看了赦免",
+    "next_url": "99. 讲道/青少年查经/传福音/1Found, Then Sent： A Lutheran Lesson on Witness.CH",
+    "next_title": "1Found, Then Sent： A Lutheran Lesson on Witness.CH"
+  },
+  {
+    "path": "99. 讲道/青少年查经/传福音/1Found, Then Sent： A Lutheran Lesson on Witness.CH.md",
+    "title": "1Found, Then Sent： A Lutheran Lesson on Witness.CH",
+    "prev_url": "99. 讲道/罪就伏在我们门前/罪就伏在我们门前-第二版",
+    "prev_title": "罪就伏在我们门前-第二版",
+    "next_url": "99. 讲道/青少年查经/传福音/1Found, Then Sent： A Lutheran Lesson on Witnessen",
+    "next_title": "1Found, Then Sent： A Lutheran Lesson on Witnessen"
+  },
+  {
+    "path": "99. 讲道/青少年查经/传福音/1Found, Then Sent： A Lutheran Lesson on Witnessen.md",
+    "title": "1Found, Then Sent： A Lutheran Lesson on Witnessen",
+    "prev_url": "99. 讲道/青少年查经/传福音/1Found, Then Sent： A Lutheran Lesson on Witness.CH",
+    "prev_title": "1Found, Then Sent： A Lutheran Lesson on Witness.CH",
     "next_url": "100. 地名/伯特利",
     "next_title": "伯特利"
   },
   {
     "path": "100. 地名/伯特利.md",
     "title": "伯特利",
-    "prev_url": "99. 讲道/罪就伏在我们门前/罪就伏在我们门前-第二版",
-    "prev_title": "罪就伏在我们门前-第二版",
+    "prev_url": "99. 讲道/青少年查经/传福音/1Found, Then Sent： A Lutheran Lesson on Witnessen",
+    "prev_title": "1Found, Then Sent： A Lutheran Lesson on Witnessen",
     "next_url": "100. 术语/先知",
     "next_title": "先知"
   },
