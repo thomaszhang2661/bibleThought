@@ -39,6 +39,9 @@ body.font-large  { font-size: 22px; }
   body { padding: 60px 16px 20px; }
 }
 
+/* 锚点跳转时让目标落在固定顶部栏下方，不被遮住 */
+[id] { scroll-margin-top: 72px; }
+
 /* ── 固定顶部栏 ── */
 #top-bar {
   position: fixed;
