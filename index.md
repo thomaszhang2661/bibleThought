@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3501 篇文章
+共 3500 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -4488,7 +4488,6 @@ body_class: index-page
 <a class="tree-file" href="302.公众号洗稿/时代论是什么-圣经怎么说">时代论是什么-圣经怎么说</a>
 <a class="tree-file" href="302.公众号洗稿/显而未见-路德对于呼召的教义">显而未见-路德对于呼召的教义</a>
 <a class="tree-file" href="302.公众号洗稿/求神给个印证算不算试探神">求神给个印证算不算试探神</a>
-<a class="tree-file" href="302.公众号洗稿/登山宝训在讲什么—兼论磐石与沙土的比喻">登山宝训在讲什么—兼论磐石与沙土的比喻</a>
 <a class="tree-file" href="302.公众号洗稿/神爱世人中的回答-AI总结">神爱世人中的回答-AI总结</a>
 <a class="tree-file" href="302.公众号洗稿/神爱世人但不是所有人得救">神爱世人但不是所有人得救</a>
 <a class="tree-file" href="302.公众号洗稿/罪就伏在我们门前-第二版">罪就伏在我们门前-第二版</a>
