@@ -59,7 +59,11 @@
     // Uses double rAF so layout is fully updated after .open = true before scrollIntoView.
     function scrollToHash(hash) {
       if (!hash) return;
+      // location.hash is percent-encoded for non-ASCII ids (e.g. Chinese folder names); decode before lookup
       var el = document.getElementById(hash);
+      if (!el) {
+        try { el = document.getElementById(decodeURIComponent(hash)); } catch (err) {}
+      }
       if (!el) return;
       if (el.tagName === 'DETAILS') {
         el.open = true;
@@ -110,6 +114,11 @@
 
     // On page load: open and scroll to the hash target after all resources are ready
     window.addEventListener('load', function() {
+      var hash = location.hash && location.hash.slice(1);
+      if (hash) scrollToHash(hash);
+    });
+    // Also handle hash changes without reload (pasting a #link into the address bar of an open page, back/forward)
+    window.addEventListener('hashchange', function() {
       var hash = location.hash && location.hash.slice(1);
       if (hash) scrollToHash(hash);
     });
