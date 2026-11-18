@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- 不让搜索引擎收录本站（不要在 robots.txt 里屏蔽，否则爬虫看不到这个标记，已收录的页面反而删不掉） -->
+  <meta name="robots" content="noindex, nofollow">
   <title>{{ page.title | default: site.title | default: "BibleThought" }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
