@@ -2,7 +2,7 @@
 body_class: index-page
 ---
 
-共 3519 篇文章
+共 3520 篇文章
 
 <a class="tree-file" href="推荐资源">推荐资源</a>
 
@@ -429,6 +429,7 @@ body_class: index-page
 <a class="tree-file" href="19. 诗篇/诗篇2">诗篇2</a>
 <a class="tree-file" href="19. 诗篇/诗篇20&amp;21">诗篇20&amp;21</a>
 <a class="tree-file" href="19. 诗篇/诗篇23">诗篇23</a>
+<a class="tree-file" href="19. 诗篇/诗篇8">诗篇8</a>
 </details>
 
 <details class="tree-folder" id="21-传道书">
